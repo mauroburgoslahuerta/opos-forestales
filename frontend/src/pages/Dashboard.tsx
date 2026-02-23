@@ -22,7 +22,7 @@ interface RecentActivity {
 
 export const Dashboard = () => {
     const navigate = useNavigate();
-    const { user, role } = useAuth();
+    const { user, role, profile } = useAuth();
 
     const [questionCount, setQuestionCount] = useState<number | null>(null);
     const [stats, setStats] = useState<UserStats>({ totalAnswered: 0, correctAnswers: 0, accuracy: 0 });
@@ -35,11 +35,11 @@ export const Dashboard = () => {
     const [targetName, setTargetName] = useState<string>('');
 
     useEffect(() => {
-        if (user) {
+        if (user && profile) {
             setTargetUserId(user.id);
-            setTargetName('Eu (Mauro)');
+            setTargetName(profile.full_name === 'Mauro' ? 'Eu (Mauro)' : profile.full_name);
         }
-    }, [user]);
+    }, [user, profile]);
 
     useEffect(() => {
         async function fetchProfiles() {
@@ -129,7 +129,7 @@ export const Dashboard = () => {
                 <div className="space-y-4 max-w-2xl">
                     <div>
                         <h2 className="text-3xl font-bold text-forest-900 dark:text-forest-50">
-                            Benvido, {role === 'admin' && targetUserId !== user?.id ? targetName : 'Mauro'}
+                            Benvido, {role === 'admin' && targetUserId !== user?.id ? targetName : (profile?.full_name || 'Eu')}
                         </h2>
                         <p className="text-gray-500 dark:text-gray-400 mt-2">
                             {targetUserId !== user?.id ? `Vendo as estatísticas de ${targetName}` : 'O teu progreso hoxe é excelente. Segue así!'}
