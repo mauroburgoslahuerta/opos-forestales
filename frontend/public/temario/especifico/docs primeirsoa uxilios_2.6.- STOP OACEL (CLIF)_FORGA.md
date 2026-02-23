@@ -1,0 +1,267 @@
+# Extracted from 2.6.- STOP OACEL (CLIF).pdf (docs primeirsoa uxilios)
+
+ 
+¿TIENE ALGUNA IDEA? Envíe sus comentarios o nuevas propuestas a 
+seguridad_incendios@magrama.es 
+
+STOP Una parada en la seguridad  es una iniciativa del Comité de Lucha contra Incendios Forestales  
+http://www.magrama.gob.es/es/biodiversidad/temas/incendios-forestales/   
+
+ RECUERDE SIEMPRE QUE USTED  ES EL PRIMER RESPONSABLE DE SU SEGURIDAD  UNA PARADA POR LA SEGURIDAD 
+
+SEGURIDAD EN EL TRABAJO  Y LAS OP ERACIONES EN INCENDIOS FORESTALES  
+
+Unos minutos pueden durarte toda la vida…  
+
+PROTOCOLO OACEL: OBSERVACIÓN 
+
+ Objetivo del Protocolo OACEL ( Observación , Atención,  Comunicaciones , ruta de  Escape , 
+Lugar seguro ). Lograr que el combatiente evalúe y ver ifique su seguridad básica y elemental 
+de una manera rápida, fácil de recordar y fácil de comprender. 
+
+ Cumplimiento del Protocolo OACEL.  En cualquier actuación que se desarrolle en un incendio 
+forestal se debe garantizar el cumplimiento del protocolo de seguridad OACEL en todos y 
+cada uno de los estamentos implicados en la extinción. 
+
+ “OBSERVACIÓN” en el Protocolo OACEL. Es el primer punto del protocolo de seguridad OACEL. 
+Mientras no se cumpla, no podemos pasar a comprobar los siguientes.  
+
+ OBSERVACIÓN directa del incendio ¿Por qué?  Da respuesta a la necesidad de conocer en 
+todo momento el comportamiento del incendio  f o r e s t a l  c o n  r e s p e c t o  a  l a  p o s i c i ó n  q u e  
+ocupan los combatientes y sus zonas de seguridad, con vistas a garantizar la seguridad de los 
+combatientes y predecir situaciones comprometidas. 
+
+ OBSERVACIÓN delegada / OBSERVACIÓN directa.  Si durante las labores de trabajo en 
+incendios forestales se trabaja en un sitio donde no es posible la observación directa del 
+incendio, habrá que suplir dicha carencia aseg urando una comunicación directa con alguien 
+que sí tenga observación directa. 
+
+ Designación de OBSERVADORES. El mando de la brigada design ará observadores cuando no 
+sea posible la observación directa desde la zona de trabajo asignada (no delegar las labores 
+de observación exclusivamente a los medios aére os). El observador designado deberá situarse 
+en una posición segura y que le permita tener una visión de conjunto de las condiciones en 
+que se produce el incendio. Deberá tener experiencia en lucha contra incendios forestales y 
+conocimientos sobre el comporta miento del fuego. Además, dentro de su zona asignada, 
+deberá conocer la localización de los combatient es, su plan de ataque,  sus rutas de escape 
+y lugares seguros establecidos. 
+
+ Cuestiones:  
+• ¿Crees que es posible trabajar sin observación del incendio? ¿Por qué?  
+• ¿Cuáles son los aspectos del comportamiento del fuego a los que debe atender un 
+observador?  
+
+ Actividad.  Comenta con tus compañeros alguna si tuación donde tuvisteis que designar 
+observadores debido a la falta de visibilidad directa en la zona de trabajo o por otro motivo.  
+
+¿TIENE ALGUNA IDEA? Envíe sus comentarios o nuevas propuestas a 
+seguridad_incendios@magrama.es 
+
+STOP Una parada en la seguridad  es una iniciativa del Comité de Lucha contra Incendios Forestales  
+http://www.magrama.gob.es/es/biodiversidad/temas/incendios-forestales/   
+
+ RECUERDE SIEMPRE QUE USTED  ES EL PRIMER RESPONSABLE DE SU SEGURIDAD  UNA PARADA POR LA SEGURIDAD 
+
+SEGURIDAD EN EL TRABAJO  Y LAS OP ERACIONES EN INCENDIOS FORESTALES  
+
+Unos minutos pueden  durarte toda la vida…  
+
+PROTOCOLO OACEL: ATENCIÓN 
+
+ Objetivo del Protocolo OACEL ( Observación , Atención,  Comunicaciones , ruta de  Escape , 
+Lugar seguro ). Lograr que el combatiente evalúe y ver ifique su seguridad básica y elemental 
+de una manera rápida, fácil de recordar y fácil de comprender. 
+
+ Cumplimiento del Protocolo OACEL.  En cualquier actuación que se desarrolle en un incendio 
+forestal se debe garantizar el cumplimiento del protocolo de seguridad OACEL en todos y 
+cada uno de los estamentos implicados en la extinción. 
+
+ “ATENCIÓN” en el Protocolo OACEL. Es el segundo punto del protocolo de seguridad O ACEL. 
+Mientras no se cumpla, no podemos pasar a comprobar los siguientes.  
+
+ ATENCIÓN a lo que nos rodea ¿Por qué?  Mantener la Atención significa ser conscientes de los 
+acontecimientos que están ocurriendo a nuestro alrededor y que pueden tener influencia en 
+nuestro trabajo y seguridad. No basta con obse rvar lo que ocurre, hay que ponerlo además 
+en relación con el resto de factores que nos rodean y sus posibles consecuencias. Una 
+Atención continua a la evolución del fuego, debe permitir tener conciencia real de la 
+situación en la que se encuentran los combatientes. El factor Atención ha sido incluido en el 
+protocolo OACEL (antes OCEL) al identificarse como un punto necesario tras la investigación 
+de un atrapamiento con resultado de un fall ecido en el año 2011 en Molinaferrera (León). 
+
+ ¿Cómo dirigir nuestra ATENCIÓN?.  En un incendio a veces se trabaja con cierta presión, que 
+puede llevarnos a pensar únicamente en las operaciones concretas que se nos han 
+encargado y el sector donde se desarrollan. El estrés propio de estas situaciones o en otras 
+ocasiones, el exceso de confianza generado por la experiencia, nos puede llevar a no 
+conceder importancia a algunas cuestiones que podrían llegar a tener consecuencias serias. 
+Los cambios en el humo o en el viento, las acciones de otros medios de extinción, o las 
+comunicaciones escuchadas por la emisora, au nque no fueran dirigidas a nosotros, pueden 
+ser cuestiones muy valiosas para nuestra seguridad si sabemos atender a ellas. Mantener el 
+ejercicio continuo de valorar las consecuencias de todos los factores observados, relativos a 
+la meteorología, el comportamiento del fuego y las operaciones, nos permitirá mantener una 
+mayor claridad en nuestro pensamient o y una mejor toma de decisiones.  
+
+ Cuestiones:  
+• ¿Alguna vez has observado algo en un incend io a lo que no diste importancia y luego 
+supuso o pudo suponer al gún riesgo? ¿Qué hiciste?  
+
+ Actividad.  Comenta con tus compañeros aspectos que en vuestra opinión merecen 
+mantener la atención sobre ellos aunque no os afecten directamente en el momento y la 
+forma en que podéis ser conscientes de ellos.  
+
+¿TIENE ALGUNA IDEA? Envíe sus comentarios o nuevas propuestas a 
+seguridad_incendios@magrama.es 
+
+STOP Una parada en la seguridad  es una iniciativa del Comité de Lucha contra Incendios Forestales 
+http://www.magrama.gob.es/es/biodiversidad/temas/incendios-forestales/   
+
+ RECUERDE SIEMPRE QUE USTED  ES EL PRIMER RESPONSABLE DE SU SEGURIDAD  UNA PARADA POR LA SEGURIDAD 
+
+SEGURIDAD EN EL TRABAJO  Y LAS OP ERACIONES EN INCENDIOS FORESTALES  
+
+Unos minutos pueden durarte toda la vida…  
+
+PROTOCOLO OACEL: COMUNICACIÓN 
+
+ Objetivo del Protocolo OACEL ( Observación , Atención , Comunicaciones , ruta de  Escape , 
+Lugar seguro ). Lograr que el combatiente evalúe y ver ifique su seguridad básica y elemental 
+de una manera rápida, fácil de recordar y fácil de comprender. 
+
+ Cumplimiento del Protocolo OACEL.  En cualquier actuación que se desarrolle en un Incendio 
+Forestal se debe garantizar el cumplimiento del Protocolo de Seguridad OACEL en todos y 
+cada uno de los estamentos implicados en la extinción. 
+
+ “COMUNICACIÓN” en el Protocolo OACEL. Es el tercer punto del Protocolo de Seguridad 
+OACEL. Mientras no se cumpla, no pode mos pasar a comprobar los siguientes.  
+
+ “COMUNICACIÓN” ¿Por qué?  La comunicación es indispensable para garantizar la 
+coordinación de los medios que actúan, y que su s acciones sean efectivas y seguras. Si las 
+comunicaciones no están aseg uradas durante las acciones de lucha contra incendios 
+forestales se entra automáticamente en una situación de pelig ro. La transmisión de 
+instrucciones y avisos de alarma en incendios fo restales se realiza principalmente a través de 
+las radiocomunicaciones, si bien también se transmite información a través de reuniones o 
+briefing, telefonía, por escrito, de viva voz, con señales visuales, luminosas y sonoras, etc. 
+
+ Normas Básicas de la COMUNICACIÓN en Incendios Forestales.  
+- Antes de actuar recopila información sobre la situación del incendio y las labores a realizar  
+- Cuando des información asegúrate de  que el receptor se ha enterado 
+- Cuando recibas información confirma su recepción dándote por enterado 
+- Si no entiendes algo pregunta siempre a tus jefes y compañeros 
+- Comunica los peligros y riesgos que adviertas 
+- Informa a tus superiores sobre el resultado de tus acciones  
+- En el caso de radiocomunicaciones sigue la regla C.C.C. (claro, concreto, conciso) 
+
+ Cuestiones:  
+• ¿Qué tipo de información crees que debe comunicarse para mantener la seguridad en 
+un incendio?  
+• ¿Alguna vez has vivido una situación en la que te has sentido inseguro por falta de 
+comunicación? ¿Cómo se llegó a ella? ¿Cómo se solucionó?  
+
+ Actividad.  Comenta con tus compañeros los medios de radiocomunicación que dispongáis 
+habitualmente, otros medios con los que comp lementéis las comunicaciones y el uso que 
+hacéis de ellos.  
+
+¿TIENE ALGUNA IDEA? Envíe sus comentarios o nuevas propuestas a 
+seguridad_incendios@magrama.es 
+
+STOP Una parada en la seguridad  es una iniciativa del Comité de Lucha contra Incendios Forestales  
+http://www.magrama.gob.es/es/biodiversidad/temas/incendios-forestales/   
+
+ RECUERDE SIEMPRE QUE USTED  ES EL PRIMER RESPONSABLE DE SU SEGURIDAD  UNA PARADA POR LA SEGURIDAD 
+
+SEGURIDAD EN EL TRABAJO  Y LAS OP ERACIONES EN INCENDIOS FORESTALES  
+
+Unos minutos pueden durarte toda la vida…  
+
+PROTOCOLO OACEL: RUTA DE ESCAPE 
+
+ Objetivo del Protocolo OACEL ( Observación , Atención,  Comunicaciones , ruta de  Escape , 
+Lugar seguro ). Lograr que el combatiente evalúe y ver ifique su seguridad básica y elemental 
+de una manera rápida, fácil de recordar y fácil de comprender. 
+
+ Cumplimiento del Protocolo OACEL.  En cualquier actuación que se desarrolle en un incendio 
+forestal se debe garantizar el cumplimiento del protocolo de seguridad OACEL en todos y 
+cada uno de los estamentos implicados en la extinción. 
+
+ “RUTA DE ESCAPE” en el Protocolo OACEL. Es el cuarto punto del protocolo de seguridad 
+OAC EL. Mientras no se cumpla, no pode mos pasar a comprobar el siguiente.  
+
+ “RUTA DE ESCAPE” ¿Por qué?  Toda persona que trabaje en extinción de incendios forestales 
+debe mantener identificadas en todo momento sus rutas de escape, por si ha de abandonar 
+el lugar en el que está trabajando debido a cambios en el comportamiento del incendio. 
+Dichas rutas de escape deben de ll evarle a un “Lugar o zona segura”.  
+
+ Establecer “RUTAS DE ESCAPE” a lo largo de las labores de extinción. Las rutas de escape 
+definidas al comienzo de las labores de extinción suelen cambiar según evoluciona el trabajo 
+de los combatientes, a no ser que hagan un tr abajo defensivo estático (p.e. defender una 
+urbanización). Por lo tanto, a lo largo de los trabajos, los mandos de cada unidad deberán 
+revaluar la situación periódicamente y establecer nuevas rutas de escape que lleven a 
+nuevas zonas seguras, informan do de ello a los combatientes. Si en cualquier momento no 
+tienes claro cuales son las rutas de escape pregunta a tu mando.  
+
+ Características de las “RUTAS DE ESCAPE”. Recuerda que toda ruta de escape debe llevar a 
+un “Lugar o zona segura”. Una de las 18 situac iones de atención es “cuando el terreno o la 
+vegetación hacen difícil escapar a las zonas segu ras”, por ello las rutas de escape deben ser 
+fácilmente transitables y deben facilitar el acce so a las zonas seguras. En trabajos nocturnos o 
+con visibilidad reducida es acon sejable señalizar las rutas de escape y las zonas de seguridad.  
+
+ Cuestiones:  
+• ¿Conoces alguna situación en que se pueda trabajar sin ruta de escape o esta sea 
+mínima?  
+
+ Actividad.  Comenta con tus compañeros alguna situ ación donde tuvisteis que abandonar el 
+lugar en el que estabais trabajando y la/s ruta/s de escape que empleasteis.  
+
+¿TIENE ALGUNA IDEA? Envíe sus comentarios o nuevas propuestas a 
+seguridad_incendios@magrama.es 
+
+STOP Una parada en la seguridad  es una iniciativa del Comité de Lucha contra Incendios Forestales  
+http://www.magrama.gob.es/es/biodiversidad/temas/incendios-forestales/   
+
+ RECUERDE SIEMPRE QUE USTED  ES EL PRIMER RESPONSABLE DE SU SEGURIDAD  UNA PARADA POR LA SEGURIDAD 
+
+SEGURIDAD EN EL TRABAJO  Y LAS OP ERACIONES EN INCENDIOS FORESTALES  
+
+Unos minutos pueden durarte toda la vida…  
+
+PROTOCOLO OACEL: LUGAR SEGURO 
+
+ Objetivo del Protocolo OACEL ( Observación , Atención,  Comunicaciones , ruta de  Escape , 
+Lugar seguro ). Lograr que el combatiente evalúe y ver ifique su seguridad básica y elemental 
+de una manera rápida, fácil de recordar y fácil de comprender. 
+
+ Cumplimiento del Protocolo OACEL.  En cualquier actuación que se desarrolle en un incendio 
+forestal se debe garantizar el cumplimiento del protocolo de seguridad OACEL en todos y 
+cada uno de los estamentos implicados en la extinción. 
+
+ “LUGAR SEGURO” en el Protocolo OACEL. Es el quinto punto del protocolo de seguridad OACE L. 
+Sólo podemos pasar a comprobarlo cuan do se cumplan todos los anteriores.  
+
+ “LUGAR SEGURO” ¿Por qué?  Toda persona que trabaje en extinción de incendios forestales 
+debe tener identificados en todo momento sus “Lugares o zonas seguras”, por si tuviera que 
+refugiarse en dichas zonas debido a cambios en el comportamiento del incendio. Las zonas 
+seguras deben ser zonas sin combustible o muy escaso, ya que deberán permitir a un 
+combatiente soportar el paso del fuego sin más medidas de protección que su propio EPI.  
+
+ Designación de “ZONAS SEGURAS” a lo largo de las labores de extinción. Las zonas seguras 
+definidas al comienzo de las labores de extinción suelen cambiar según evoluciona el trabajo 
+de los combatientes, a no ser que hagan un tr abajo defensivo estático (p.e. defender una 
+urbanización). Por lo tanto, a lo largo de los trabajos, los mandos de cada unidad deberán 
+revaluar la situación periódicamente y design ar nuevas zonas seguras a las que acudir a 
+través de las rutas de escape, informando de  ello a los combatientes. Si en cualquier 
+momento no tienes claro cuales son las zonas seguras pregunta a tu mando.  
+
+ Localización de los “LUGARES O ZONAS SEGURAS”. La mejor zona segura es la zona quemada 
+y sin potencial de retorno, así como las zonas ab iertas que carezcan de combustible (arenales, 
+labrados, barbechos, canchales, láminas de agua , cortafuegos, etc). Si es posible aprovecha 
+aquellas zonas donde además existan barrera s naturales o artificia les que minimicen la 
+radiación (a sotavento de las montañas, pr otegido por grandes rocas o por estructuras 
+sólidas). Evita las zonas localizadas en la dirección hacia donde se propaga el viento y la 
+cabeza del incendio, así como en chimeneas,  collados y cañones estrechos. En trabajos 
+nocturnos o con visibilidad reducida es aconsejable tenerlas señalizadas.  
+
+ Cuestiones:  
+• ¿Crees que existe un tamaño mínimo de zo na segura ? ¿Cuáles son los factores que 
+habrá que tener en cuenta para decidir el tamaño?  
+
+ Actividad.  Comenta con tus compañeros alguna situ ación donde tuvisteis que abandonar el 
+lugar en el que estabais trabajando y la/s zona/s de seguridad donde os refugiasteis.  
+

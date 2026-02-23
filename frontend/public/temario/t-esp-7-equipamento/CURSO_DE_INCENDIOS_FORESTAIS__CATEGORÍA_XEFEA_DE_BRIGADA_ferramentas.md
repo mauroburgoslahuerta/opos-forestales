@@ -1,0 +1,828 @@
+# CURSO DE INCENDIOS FORESTAIS: CATEGORÍA XEFE/A DE BRIGADA
+
+## FERRAMENTAS E MAQUINARIA
+
+## FERRAMENTAS
+
+### FERRAMENTAS MANUAIS
+
+- **MOCHILA EXTINTORA**
+- **BATELUME**
+- **MCLEOD**
+- **PULASKY**
+- **HUACHA**
+- **AIXADA**
+- **PALÍN**
+- **FOUCES, PODÓNS…**
+- **GORGUI**
+- **MOTORROZADORA**
+- **MOTOSERRA**
+- **FACHO DE GOTEO OU FORESTAL**
+
+- **CARACTERÍSTICAS COMÚNS:**
+    - SIMPLES
+    - VERSÁTILES
+    - LIXEIRAS
+    - SÓLIDAS
+    - FÁCIL MANTEMENTO
+    - NORMALIZADAS
+    - ECONÓMICAS
+
+**TIPOS DE FERRAMENTA MANUAL**
+**LADOS DO TRIÁNGULO DO LUME SOBRE OS QUE ACTÚAN**
+
+CORTE
+RASPADO
+SUFOCACIÓN
+CALOR
+OSÍXENO
+COMBUSTIBLE
+
+ACTÚA SOBRE A CALOR
+
+### MOCHILA EXTINTORA
+
+- **PARTES QUE A COMPOÑEN:**
+    - DEPÓSITO
+    - ATALAXES
+    - LANZA
+        - BOQUILLA
+        - BOMBA MANUAL (ÉMBOLO)
+- **PRECAUCIONS E COIDADOS:**
+    - NON DEIXAR A LANZA NO SOLO
+    - NON GOLPEAR A LANZA
+    - NON DEIXAR CAER O EXTINTOR
+    - LIMPAR OS FILTROS DESPOIS DE USALA
+    - ENGRAXAR EMBOLO E VASTAGOS.
+    - UTILIZAR AGUA O MÁIS LIMPA POSIBLE
+    - LIMPAR OS RETARDANTES
+    - REVISAR AO FINAL DA CAMPAÑA
+
+MÉTODO COMBINADO
+MOCHILA
+BATELUME
+
+ACTÚA SOBRE O OSÍXENO
+
+### BATELUMES
+
+- **PARTES QUE O COMPOÑEN:**
+    - PA DE GOMA (caucho sintético)
+    - MANGO METÁLICO (ALEACIÓN)
+- **PRECAUCIONS E COIDADOS:**
+    - NON PISAR O MANGO
+    - NON EMPREGAR COMO CAXATO (BASTÓN)
+    - CONTROLAR APRETE DAS TUERCAS
+    - VIXIAR A UNIÓN DA GOMA CO MANGO
+
+ACTÚA SOBRE O OSÍXENO E O COMBUSTIBLE
+
+### PALÍN
+
+- **PARTES QUE O COMPOÑEN:**
+    - FOLLA DE ACEIRO CON FORMA DE OXIVA ALOMBADA E AFIADA NOS BORDES
+    - MANGO DE MADEIRA
+- **COIDADOS:**
+    - MANTER UN BON AFIADO
+    - TER O MANGO EN BON ESTADO
+    - TRANSPORTAR E DEPOSITAR ADECUADAMENTE
+
+ACTÚAN SOBRE O COMBUSTIBLE
+
+### FOUCES, FOUCIÑOS, PODÓNS
+
+- **PARTES QUE O COMPOÑEN:**
+    - FOLLA DE ACEIRO CON FORMA DE MEDIA LÚA (OU VARIADA) AFIADA NA CARA INTERNA
+    - MANGO DE MADEIRA
+- **COIDADOS:**
+    - MANTER UN BON AFIADO
+    - TER O MANGO EN BON ESTADO
+    - TRANSPORTAR E DEPOSITAR ADECUADAMENTE
+
+REQUIRE PRECAUCIÓN
+
+ACTÚA SOBRE O COMBUSTIBLE
+
+### PULASKY
+
+- **PARTES QUE O COMPOÑEN:**
+    - FOLLA DE ACEIRO CON FORMA DE MACHADO E OUTRA OPOSTA EN PLANO PERPENDICULAR CON FORMA DE AIXADA
+    - MANGO DE MADEIRA
+- **COIDADOS:**
+    - MANTER UN BON AFIADO
+    - TER O MANGO EN BON ESTADO
+    - TRANSPORTAR E DEPOSITAR ADECUADAMENTE
+
+ACTÚA SOBRE O COMBUSTIBLE E O OSÍXENO
+
+### AIXADA
+
+- **PARTES QUE O COMPOÑEN:**
+    - FOLLA DE ACEIRO CON FORMA DE AIXADA AFIADA NUN SÓ CANTO
+    - MANGO DE MADEIRA
+- **COIDADOS:**
+    - MANTER UN BON AFIADO
+    - TER O MANGO EN BON ESTADO
+    - TRANSPORTAR E DEPOSITAR ADECUADAMENTE
+
+ACTÚA SOBRE O COMBUSTIBLE
+
+### McLEOD
+
+- **PARTES QUE O COMPOÑEN:**
+    - FOLLA DE ACEIRO CON FORMA RECTANGULAR CON FÍO NUN LADO E 6 DENTES NOUTRO
+    - ANEL E CASQUETE DE ACEIRO CON 4 REMACHES
+    - MANGO DE MADEIRA
+- **COIDADOS:**
+    - MANTER UN BON AFIADO
+    - TER O MANGO EN BON ESTADO
+    - TRANSPORTAR E DEPOSITAR ADECUADAMENTE
+    - MANTER OS DENTES NUN SÓ PLANO
+
+FERRAMENTA VERSÁTIL E ROBUSTA QUE VAI BEN EN ZONAS CON MOITA FRUMA OU MATERIA ORGÁNICA ABUNDANTE EN SUPERFICIE
+
+ACTÚA SOBRE O OSÍXENO
+
+### HUACHA
+
+- **PARTES QUE O COMPOÑEN:**
+    - TIRAS DE GOMA A MODO DE ESCOBA (DIFERENTES ANCHURAS E NÚMERO DE TIRAS)
+    - MANGO DE MADEIRA
+
+ACTÚA SOBRE O OSÍXENO E O COMBUSTIBLE
+
+### GORGUI
+
+- **FUNCIÓNS QUE REALIZA:**
+    - PULASKY
+    - McLEOD
+    - PICO
+- **PARTES QUE O COMPOÑEN:**
+    - FOLLA PLANA DE FORMA IRREGULAR E DE ACEIRO
+    - MANGO DE MADEIRA
+    - UNIÓN:
+        - Anel de aceiro con forma de cunca unido á placa por uns remaches
+        - Casquete de aceiro soldado á cunca no cual se monta o mango
+
+### FACHO DE GOTEO
+
+- **PARTES QUE O COMPOÑEN:**
+    - DEPÓSITO METÁLICO DE 5 LITROS CON ASA E VÁLVULA DE AIRE
+    - TAPA OU ANEL DE PECHE
+    - APLICADOR CON BUCLE, BOQUILLA, E QUEIMADOR
+- **NO DEPÓSITO BOTAR 2/3 DE GASÓLEO E 1/3 DE GASOLINA**
+
+CONTRALUMES
+QUEIMAS DE ENSANCHE
+QUEIMAS CONTROLADAS
+
+ACTÚA SOBRE O COMBUSTIBLE
+
+### MOTOSERRA
+
+- **PARTES QUE A COMPOÑEN:**
+    - SISTEMA DE CORTE:
+        - ESPADA (30-45cm)
+        - CADEA
+        - TENSOR DE CADEA
+        - BOMBA DE ENGRAXE
+    - MOTOR (2-3,5CV)
+    - SISTEMA DE ARRANQUE
+    - EMBRAGUE
+    - CILINDRO
+    - CARBURADOR
+    - ELEMENTOS DE SEGURIDADE
+- **ELEMENTOS DE SEGURIDADE:**
+    - PIÑÓN DE REENVÍO
+    - CADEA DE SEGURIDADE
+    - FREO DE CADEA (DOBLE SISTEMA)
+    - CAPTOR DE CADEA
+    - GATILLO BLOQUEADOR
+    - PROTECTOR DE MANS
+    - SISTEMA DE ENGRAXE
+    - FUNDA DE CADEA
+- **ERGONOMÍA E SAÚDE:**
+    - 3/4 SILENT-BLOCK (REDUCTOR DE VIBRACIÓNS)
+    - UÑA (DESCARGA PESO)
+    - MANGO ERGONÓMICO
+    - TUBO DE ESCAPE CON SISTEMA ANTICHISPA E SILENCIADOR
+
+1. GATILLO BLOQUEADOR
+2. PROTECTOR DE MANS
+3. CAPTOR DE CADEA
+4. CADEA DE SEGURIDADE
+5. FREO DE CADEA
+6. MANGO ERGONÓMICO
+7. UÑA
+8. TUBO ESCAPE
+
+**STIHL MS 260**
+- 50cm3
+- 2,6-3,5CV
+- 4,8Kg
+- 40-45cm
+
+1. TAMBOR EMBRAGUE
+2. CAPTOR DE CADEA
+3. SILENT-BLOCK
+4. SILENT-BLOCK
+
+SILENT-BLOCK
+TENSOR DE CADEA
+
+- **UTILIZACIÓN EN INCENDIOS:**
+    - ATAQUE INDIRECTO: APERTURA DE LIÑAS DE DEFENSA
+    - ATAQUE DIRECTO: LIÑA A DOUS PES
+    - REMATE E LIQUIDACIÓN
+- **INCONVINTES:**
+    - FERRAMENTA DE CORTE PERIGOSA
+    - NECESIDADE DE EMPREGAR MAN DE OBRA ESPECIALIZADA, TANTO NO MANTEMENTO COMA NO SEU USO
+- **MANTEMENTO:**
+    - NIVEL DE ACEITE DE ENGRAXE
+    - ENGRAXE DA CADEA
+    - CONTROLAR A MESTURA COMBUSTIBLE-ACEITE MOTOR
+    - MANTER UNHA TENSIÓN CORRECTA DA CADEA
+    - COIDAR O AFIADO DOS DENTES DA CADEA (LIMA REDONDA) E DO LIMITADOR DE PROFUNDIDADE (LIMA PLANA)
+    - LIMPEZA DO FILTRO DE AIRE
+    - POSTA A PUNTO DO CARBURADOR
+        - Parafuso H, regulador principal
+        - Parafuso L, regulador de ralentí
+        - Parafuso LA, de tope de ralentí
+
+E.P.I.
+
+ACTÚA SOBRE O COMBUSTIBLE
+
+### MOTORROZADORA
+
+- **PARTES QUE A COMPOÑEN:**
+    - SISTEMA DE CORTE:
+        - COITELAS, DISCOS
+        - CABEZAL
+    - MOTOR (1,5-3,8CV)
+    - SISTEMA DE ARRANQUE
+    - EMBRAGUE
+    - CILINDRO
+    - CARBURADOR
+    - GUIADOR CON EMPUÑADURA E MANDO INTEGRADO
+    - EIXO TRANSMISOR
+    - ELEMENTOS DE SEGURIDADE
+- **ELEMENTOS DE SEGURIDADE:**
+    - PROTECTOR DA FERRAMENTA DE CORTEO
+    - GATILLO BLOQUEADOR (STOP)
+    - ACELERADOR CON RETROCESO AUTOMÁTICO
+    - SISTEMA DE ENGRAXE
+- **ERGONOMÍA E SAÚDE:**
+    - ARNÉS
+    - 3/4 SILENT-BLOCK (REDUCTOR DE VIBRACIÓNS)
+    - GUIADOR E MANGO ERGONÓMICO
+    - TUBO DE ESCAPE CON SISTEMA ANTICHISPA E SILENCIADOR
+
+**STIHL FS 550**
+- 56,5cm3
+- 2,8-3,8CV
+- 10Kg
+- 1,69m
+
+SILENT-BLOCK
+ARNESES
+GUIADOR E MANGO
+
+**ELEMENTOS DE CORTE**
+HERBAS E XUNCOS
+MATOS E TOROS FINOS
+HERBAS E SILVAS
+HERBAS
+MATOGUEIRA
+MATOS E TOROS FINOS
+
+- **UTILIZACIÓN EN INCENDIOS:**
+    - ATAQUE INDIRECTO: APERTURA DE LIÑAS DE DEFENSA
+    - ATAQUE DIRECTO: LIÑA A DOUS PES
+- **INCONVINTES:**
+    - FERRAMENTA DE CORTE PERIGOSA
+    - DIFICULTADE DE TRANSPORTE E MANEXO
+    - NECESIDADE DE EMPREGAR MAN DE OBRA ESPECIALIZADA, TANTO NO MANTEMENTO COMA NO SEU USO
+
+- **MANTEMENTO:**
+    - CONTROLAR A MESTURA COMBUSTIBLE-ACEITE MOTOR
+    - ENGRAXE DO CABEZAL (1 VEZ AO DÍA)
+    - AFIAR O DISCO CORTANTE (LIMA PLANA)
+    - LIMPEZA DO FILTRO DE AIRE
+    - POSTA A PUNTO DO CARBURADOR
+
+Modelo de combustible
+RENDEMENTO MEDIO POR OPERARIO E MODELO DE COMBUSTIBLE
+m/min./operario
+
+## FERRAMENTAS MANUAIS
+
+### COIDADO DAS FERRAMENTAS
+
+- LAVAR E SECAR AS FERRAMENTAS TRAS CADA USO
+- REVISAR OS FÍOS; QUE NON HAXA FENDAS
+- REVISAR OS MANGOS: NOS, LASCAS, E AXUSTES
+- MANTER OS FÍOS CON LIMAS
+- PINTAR A SECCIÓN METÁLICA DE COR VERMELLO E NON BARNIZAR OS MANGOS
+- COLOCAR PROTECTORES NOS FÍOS
+- ALMACENAR ORDENADOS E CLASIFICADOS
+
+#### AFIADO
+
+- CONSISTE NO DESBASTE SIMPLE DO BISEL DE CORTE
+- É ACONSELLABLE REALIZAR ESTA OPERACIÓN SEMPRE QUE SEXA PRECISO AO VOLTAR DUN INCENDIO Á BASE
+- PÓDESE REALIZAR TAMÉN NO MONTE
+- EMPRÉGANSE DISTINTOS TIPOS DE ÚTILES DE AFIADO: LIMAS OU PEDRAS
+
+#### ESMERILADO
+
+- MANTEMENTO MÁIS PRECISO CANDO NA FERRAMENTA O FÍO ESTÁ MOI DETERIORADO
+- IMPLICA A ELIMINACIÓN DE MÁIS ACEIRO DO BISEL DA FERRAMENTA
+- REALIZARASE NA BASE
+- NON SE DEBE FACER MOI DE SEGUIDO
+- UTENSILIOS DE AFIADO: MOAS, ESMERILADORA, AMOLADORA…
+
+### CLASIFICACIÓN DAS FERRAMENTAS
+
+EN FUNCIÓN DO LADO DO TRIANGULO DO LUME AO QUE ATACAN
+
+Colexio Oficial de Enxeñeiros Técnicos Forestais de Galicia (COETFG) en colaboración coa
+
+## III OPERACIÓNS CON AUTOBOMBA
+
+En España a diferencia de outros países, baséase a extinción no uso da auga
+
+### VANTAXES
+
+- Traballo efectivo que deixa o bordo frío e practicamente non require liquidación.
+- Permite reducir os danos do lume a un mínimo de superficie.
+- En incendios estendidos é o método máis seguro para o combatente, xa que permite romper a liña de lume e alcanzar áreas queimadas e frías.
+- Traballo con auga obtén maiores rendementos que o realizado con ferramentas manuais.
+
+### INCONVINTES
+
+- Expón aos combatentes á radiación calórica e fumes, especialmente na cabeza ou fronte de avance.
+- En topografía abrupta o desprazamento do persoal pode resultar perigoso.
+- A emisión de muxicas pode orixinar focos secundarios que encerren aos combatentes.
+- Seguir o borde irregular do incendio conleva máis traballo.
+- A auga é un ben escaso e do que non sempre podemos dispoñer.
+
+### VEHÍCULOS AUTOBOMBA
+
+- FACTORES TEÓRICOS
+- FACTORES PRÁCTICOS
+- FACTORES DE MERCADO
+
+### CARACTERÍSTICAS PRINCIPAIS DOS VEHÍCULOS TODO TERREO
+
+#### VÍA
+
+#### BATALLA
+
+#### ATAQUE
+
+#### SAÍDA
+
+#### RASANTE LONXITUDINAL
+
+#### RASANTE TRANSVERSAL
+
+#### BADEO
+
+### PARTES PRINCIPAIS DO VEHÍCULO AUTOBOMBA
+
+- CHASIS.
+- EQUIPO DE EXTINCIÓN.
+
+#### CHASIS
+
+- LIXEIROS (400-600 L)
+- MEDIOS (1.000-2.000 L)
+- PESADOS (+ 3.000)
+
+#### EQUIPO DE EXTINCIÓN
+
+- CISTERNA
+- BOMBA
+- TENDIDOS
+- ACCESORIOS
+
+##### CISTERNA
+
+- TANQUE ( 400 a 12.000 L )
+- ANCLAXES
+- ARMARIOS
+- BURACOS
+- Depósito de aceiro inoxidable con cuberta de cinc.
+- Suxeita ao chasis por 3 silentblocs.
+- Rompeolas interiores (transversais e horizontais).
+- Indicador de carga.
+- Tubo de rebose.
+- Boca de home.
+
+##### A BOMBA
+
+**CENTRÍFUGA**
+- TRANSMISIÓN DIRECTA
+- TRANSMISIÓN INDIRECTA
+
+**VOLUMÉTRICA**
+- MEMBRANA
+- PISTÓN
+
+###### VANTAXES
+
+- Conduto libre sen válvulas
+- Poucas partes móbiles
+- Poucos danos ao utilizar augas sucias
+- Fluxo continuo.
+- Non se atascan coas sobrecargas
+- Arrincan baixo cargas
+- Son compactas e lixeiras.
+
+**Fabricantes:**
+- ROSENBAUER
+- GODIVA
+- SIDES
+- RUBERG
+- ZIEGLER
+
+##### A BOMBA CENTRÍFUGA
+
+###### CIRCUITOS
+
+- ENCHIDO
+- VACIADO
+- ALTA PRESIÓN
+- BAIXA PRESIÓN
+
+###### PANEL DE MANDOS
+
+##### TENDIDOS
+
+- ASPIRACIÓN (70, 100 y 110 mm)
+- IMPULSIÓN (3 Saídas diferentes)
+  - ALTA PRESIÓN (25 mm)
+  - BAIXA PRESIÓN (25, 45 y 70 mm)
+  - BAIXA PRESIÓN CON DOSIFICADOR DE RETARDANTE (25 mm)
+
+###### MANGUEIRAS
+
+**MANGUEIRA FLEXIBLE**
+Conducto flexible colapsable, que en carga adopta sección circular.
+Entramado textil, recuberto por elastómero.
+Construída para soportar presións de 18-30 atm.
+Poden ser impermeables ou semipermeables.
+
+**MANGUEIRA IMPERMEABLE (mangueira seca)**
+Cuberta exterior vermella ou amarela.
+Moi resistente á abrasión e ás pudricións por fungos.
+Reducida perda de carga, mantendo a flexibilidade aínda que esta mollada.
+Non é moi resistente ao efecto de brasas ou pavesas que caian sobre ela.
+
+**MANGUEIRA SEMIPERMEABLE (mangueira húmida)**
+Provista unicamente de cuberta interior.
+Normalmente de cor branco.
+Pouco resistente á abrasión e ás pudricións por fungos.
+Perdas de carga superiores á anterior, volvéndose ríxida cando está mollada.
+Máis resistente que a seca ao efecto de brasas ou pavesas, posto que exuda auga.
+
+**MANGUEIRA SEMIRRÍXIDA**
+Conducto flexible impermeable, non colapsable, de sección circular, consistente nun ou varios entramados textiles embebidos nun elastómero.
+Emprégase basicamente en tendidos fixos (carretes de pronto auxilio), normalmente enrollados ou recollidos en lazo, de xeito que se podan empregar sen que sexa necesario un desenrolo total.
+
+##### ACCESORIOS
+
+- RACORES
+- LANZAS
+- ALCACHOFA
+- DOSIFICADOR DE RETARDANTE
+
+###### TIPOS DE RACORES
+
+- BARCELONA
+- STORZ
+- GUILLEMIN
+
+###### ALCACHOFA
+
+###### TIPOS DE LANZAS
+
+| Presión en lanza (atm.) | Diámetros de boquillas en mm. |
+| :---------------------- | :---------------------------- |
+| **4**                   | 33 l/m                        |
+|                         | 64 l/m                        |
+|                         | 132 l/m                       |
+| **7**                   | 43 l/m                        |
+|                         | 86 l/m                        |
+|                         | 174 l/m                       |
+| **10**                  | 52 l/m                        |
+|                         | 102 l/m                       |
+|                         | 208 l/m                       |
+
+###### DOSIFICADOR DE RETARDANTE
+
+- DOSIFICADOR
+- BOMBA
+- DEPÓSITO
+
+### OPERACIÓNS CON VEHÍCULOS AUTOBOMBA
+
+- ATAQUE DIRECTO
+- ATAQUE INDIRECTO
+
+#### CONSIDERACIÓNS:
+
+- FACTIBILIDADE DO VEHÍCULO
+  - CAPACIDADE
+  - MANIOBRAVILIDADE
+  - ESTADO OPERATIVO
+- ZONA DE TRABALLO
+- LUGAR DE UBICACIÓN (SEGURIDADE)
+
+#### SEGURIDADE
+
+- NON SUBIR Ó V.A.
+- NON SITUARSE AUGAS ABAIXO DO V.A.
+- NON TOCAR MANDOS
+- COMPROBAR A TRANSITABILIDADE DO MODELO ASIGNADO.
+- TER PREVISTA A SÚA RUTA DE ESCAPE SE ESTACIONA EN ZONA VERDE.
+- EN CONTRALUME COLOCALO EN ZONA NEGRA EN CANTO SEXA POSIBLE.
+
+### MODELOS MÁIS EMPREGADOS NA LOITA CONTRA INCENDIOS FORESTAIS EN GALICIA
+
+- IPV M 14.16
+- PEGASO 7217
+- PEGASO 6216
+- FORD RANGER PICK-UP
+- URO F3 17.14
+- IPV M 94
+- IPV M 14.16
+
+## OPERACIÓNS CON AUTOBOMBA
+### MODELOS MÁIS EMPREGADOS NA LOITA CONTRA INCENDIOS FORESTAIS EN GALICIA
+- MERCEDES
+- UNIMOG
+
+### EXTINCIÓN CON TENDIDOS DE MANGUEIRA. FASES DA EXTINCIÓN:
+- **SOFOCACIÓN**: Enfriamento inicial do perímetro consistente en eliminar as lapas e enfriar o borde o suficiente para garantir que non haberá reprodución a curto prazo. O obxectivo é avanzar rápido para minimizar o tempo de control do incendio.
+- **LIQUIDACIÓN**: Enfriamento definitivo do borde do incendio consistente en mollar abundantemente dito borde (aproximadamente no ancho de 1m repartindo 0,8 no ardido e 0,3 no verde; segundo a profundidade de penetración do lume) garantindo a extinción de lume de solo e de subsolo. O obxectivo é impedir calquera posibilidade de reprodución no perímetro do incendio.
+
+### ¿CÓMO SE EMPREGA O AUGA NA EXTINCIÓN?
+Segundo o gasto:
+- **Medio chorro**
+    - Con combustibles lixeiros baixa intensidade de lume.
+    - Pouca penetración no sustrato.
+    - Maior economía da auga.
+- **Chorro cheo**
+    - Con combustibles pesados e alta intensidade de lume.
+    - Maior capacidade de penetración no sustrato.
+    - Menor economía da auga.
+
+Segundo a presión:
+- **En baixa**
+    - Con combustibles lixeiros baixa intensidade de lume.
+    - Pouca penetración no sustrato.
+    - Maior economía da auga.
+- **En alta**
+    - Con combustibles pesados e alta intensidade de lume.
+    - Maior capacidade de penetración no sustrato.
+    - Menor economía da auga.
+
+Segundo a forma do chorro:
+- **Chorro aberto**
+    - Con combustibles lixeiros baixa intensidade de lume.
+    - Pouca penetración no sustrato.
+    - Maior economía da auga.
+- **Chorro concentrado**
+    - Con combustibles pesados e alta intensidade de lume.
+    - Maior capacidade de penetración no sustrato.
+    - Mair alcance
+    - Menor economía da auga.
+
+### TENDIDO DE MANGUEIRAS
+**¿CÓMO SE REALIZA?**
+EN EQUIPO. CADA ESPECIALISTA OCUPA UN POSTO NO TENDIDO CUNHA FUNCIÓN DETERMINADA.
+
+**¿DENDE ONDE COMEZAMOS?**
+SE EMPEZA DENDE O VCIF HACIA O LUME E SE AMPLÍA EN PUNTA DE LANZA OU NO TRAMO ANTERIOR Á PUNTA DE LANZA.
+
+**¿QUÉ FUNCIÓNS SE REALIZAN NUN TENDIDO DE MANGUEIRAS?**
+- NA PUNTA DE LANZA: EXTINCIÓN (OU REMATE E LIQUIDACIÓN) E COMUNICACIÓN.
+- EN TODO O TENDIDO: EMPALME E DESEMPALME DE TRAMOS DE MANGUEIRA, TRANSPORTE DE MANGUEIRA, ACCESORIOS E FERRAMENTAS, VIXIANCIA ACTIVA.
+
+**¿CANDO REMATA UN TENDIDO DE MANGUEIRAS?**
+REMATA CANDO SE RECOLLE E SE DEIXAN NO VCIF, BEN ENROLLADAS TODAS AS MANGUEIRAS E ACCESORIOS.
+
+**¿QUÉ TIPO DE MANGUEIRAS SE UTILIZAN NOS INCENDIOS FORESTAIS?**
+SE EMPREGAN MANGUEIRAS SEMIRÍXIDAS NON PERMEABLES DE DIÁMETRO 25 PRINCIPALMENTE E DE 45 OCASIONALMENTE.
+
+**¿POR QUÉ SE UTILIZAN PRINCIPALMENTE DE 25?**
+POR ECONOMIZAR AUGA. O AUGA É LIMITADA.
+
+**¿QUE MÁIS ACCESORIOS SE UTILIZAN?**
+- LANZA
+- REDUCCIÓN
+- BIFURCACIÓN
+
+**CONSIDERACIÓNS:**
+- CANDO SE SOLICITA AUGA EN PUNTA DE LANZA, ÉSTA SEMPRE DEBERÁ ESTAR ABERTA.
+- SEMPRE QUE SE POIDA SE UTILIZARÁ PULVERIZACIÓN E NON CHORRO CHEO.
+- NUNCA DIRIXIR O CHORRO A OUTRA PERSOA.
+- NUNCA DIRIXIR O CHORRO DE AUGA A UNHA LIÑA ELÉCTRICA.
+- EN CASO DE FUXIDA UTILIZAR O PROPIO TENDIDO COMO RUTA DE ESCAPE, TODA A BRIGADA.
+
+### TRABALLO CON MANGUEIRAS
+
+## MAQUINARIA PESADA
+- TRACTORES DE CADEAS_EIRUGAS
+- TRACTORES DE RODAS OU AGRÍCOLAS
+- MAQUINARIA DE CIRCUNSTANCIAS
+
+### TRACTORES DE CADEAS_EIRUGAS
+- A- Folla de empuxe
+- B- Cilindro do tilt
+- C- Cilindros de elevación
+- D- Motor
+- E- Cabina
+- F- Cilindros do ripper
+- G- Dente do ripper
+- H- Barra
+- I- Lanza de arrastre
+- J- Roda cabilla
+- K- Bastidor de rodillos
+- M- Rodillos inferiores
+- N- Roda guía
+- O- Brazo de empuxe
+
+#### PARTES DA FOLLA
+- CANTONEIRA
+- COITELA
+- VERTEDEIRA
+
+#### FORMAS DA FOLLA
+
+#### TIPO DE FUNCIONAMENTO DA FOLLA
+- BULLDOZER
+- **ANGLEDOZER**: XIRA CON RESPECTO Á DIRECCIÓN DE TRABALLO
+
+##### DETALLE DE ANGLEDOZER
+- A.- Largueiro ou bastidor de rodillos
+- B.- Bastidor ou arco
+- C.- Soportes do brazo de empuxe
+- D.- Cilindro de elevación
+- E.- Cilindro de tipteo hidráulico
+- F.- Brazo de empuxe.
+
+##### DETALLE DE ANGLEDOZER
+- A.- Brazo de empuxe
+- B.- Cilindro de tipteo de fusillo
+- C.- Rotula
+- D.- Bastidor ou arco
+- E.- Cilindro de elevación
+
+- **TILLDOZER**: INCLINACIÓN DA FOLLA UNS 30 cm
+- **TIPDOZER**: VARIACIÓN DO ÁNGULO DE ATAQUE
+
+#### LIMITACIÓNS DA MAQUINARIA
+- BULLDOZER
+- Consonte o medio físico:
+    - PEDREGOSIDADE
+    - PENDENTE 35%. 55% EN LMP
+    - COMBUSTIBLES
+- Consonte as características dos equipos:
+    - LENTITUDE (**RETÉNS DE MAQUINARIA**)
+
+#### RETÉN DE MAQUINARIA
+
+#### FACTORES DE QUE DEPENDE RENDEMENTOS DA MAQUINARIA
+- COMPORTAMENTO DO LUME
+- HORA DO DÍA
+- TERREO, TIPO DE SOLO E PEDREGOSIDADE
+- TIPO DE COMBUSTIBLE E DENSIDADE
+- TAMAÑO, IDADE E CUIDADO DA MAQUINA
+- OS ACCESORIOS QUE TEÑA A MAQUINA
+- A EXPERIENCIA, DESTREZA E MOTIVACIÓN DO MAQUINISTA
+
+#### RENDEMENTOS DA MAQUINARIA
+- **DOZER TIPO III**: BULLDOZER DE 65 HP
+- **DOZER TIPO II**: BULLDOZER DE 93 HP
+- **DOZER TIPO I**: BULLDOZER DE 170 HP
+
+### TRACTORES DE RODAS OU AGRÍCOLAS
+
+#### LIMITACIÓNS DA MAQUINARIA
+- **TRACTORES DE RODAS OU AGRÍCOLAS**
+- Consonte o medio físico:
+    - **PEDREGOSIDADE**: LIMITANTE
+    - **PENDENTE**: 20 %
+    - **COMBUSTIBLES**: LIMITANTE
+- Consonte as características dos equipos:
+    - PROTECCIÓN
+    - PINCHAZOS
+    - OROGRAFÍA
+
+#### TRACTORES SEMI-FORESTAIS
+
+#### RENDEMENTOS DA MAQUINARIA (TRACTORES DE RODAS OU AGRÍCOLAS)
+
+### MAQUINARIA DE CIRCUNSTANCIAS
+
+#### LIMITACIÓNS DA MAQUINARIA
+- **TRACTOR FORESTAL**
+- Consonte o medio físico:
+    - **PEDREGOSIDADE**: LIMITANTE
+    - **PENDENTE**: 20%
+    - **COMBUSTIBLES**: LIMITANTE
+- Consonte as características dos equipos:
+    - PROTECCIÓN
+    - PALA ESTREITA
+    - PINCHAZOS
+    - OROGRAFÍA
+
+## TRACTOR EIRUGA MÁIS AXEITADO PARA INCENDIOS FORESTAIS
+
+*   CABINA DE SEGURIDADE.
+*   POTENCIA ENTRE 100 E 200 CV.
+*   FOLLA DE EMPUXE ORIENTABLE (ANGLEDOZER) CON POSIBILIDADE DE TILLDOZER E UNHA ANCHURA DE 3,5 A 4,8 METROS. CON RIPPER E CABRESTANTE.
+*   BO SISTEMA DE ALUMEADO PARA O TRABALLO NOCTURNO.
+
+DEBESE EQUIPAR CON
+*   RADIO
+*   CADEAS DE ARRASTRE
+*   FERRAMENTAS
+*   ROUPA E OUTROS ACCESORIOS
+*   BRIGADA OU RETÉN DE GUIA E APOIO
+
+## MÉTODOS DE TRABALLO. FUNCIONALIDADE DO TRACTOR EIRUGA
+
+1.  **MÉTODO DIRECTO:**
+    1.1. SOFOCACIÓN DO FRENTE POR ENTERRAMENTO
+        *   TRABALLANDO PARALELOS AO PERÍMETRO
+        *   TRABALLANDO PERPENDICULARMENTE AO PERÍMETRO
+    1.2. ELIMINACIÓN DO COMBUSTIBLE
+2.  **MÉTODO INDIRECTO:**
+    2.1. ATAQUE PARALELO
+    2.2. ATAQUE FRONTAL
+3.  CONTROL DO PERIMETRO
+4.  OUTROS: APERTURA DE SENDAS/PISTAS PARA A MOBILIZACIÓN DOUTROS MEDIOS.
+
+### ATAQUE DIRECTO
+
+**UTILIZACIÓN:**
+*   FRONTES DE ELEVADA LONXITUDE
+*   MODELOS DE COMBUSTIBLE QUE NON PERMITEN O ATAQUE CON OUTROS MEDIOS
+*   INTENSIDADE DE CALOR ELEVADA PARA OS COMBATIENTES
+*   CANDO HAI RISGO DE QUEDARSE ATRAPADO POR O LUME
+*   PROTECCIÓN DE NÚCLEOS DE POBOACIÓN OU INSTALACIÓNS
+*   SIMPLEMENTE PORQUE NON HAI OUTROS MEDIOS
+
+*   **SOFOCACIÓN DA FRONTE POR ENTERRAMENTO**
+    *   TRABALLANDO PARALELOS AO PERÍMETRO
+    *   TRABALLANDO PERPENDICULARMENTE AO PERÍMETRO
+
+*   **METODO COMBINADO OU MIXTO**
+    *   TRABALLANDO PARALELO AO PERÍMETRO PARA DESPOIS PERPENDICULAR
+
+*   **ELIMINACIÓN DO COMBUSTIBLE**
+
+*   **APOIO AÉREO**
+
+### ATAQUE INDIRECTO
+
+**UTILIZACIÓN:**
+*   INTENSIDADE DO LUME EXCESIVA
+*   INCENDIOS VIRULENTOS POR FORTES VENTOS
+*   PRESENZA DE FOCOS SECUNDARIOS
+*   LUME DE COPAS EN MASAS ADULTAS
+*   PENDENTE EXCESIVA DO TERRENO
+*   PRESENZA ZONAS PEDREGOSAS OU PANTANOSAS
+
+*   **ATAQUE PARALELO**
+
+*   **ATAQUE FRONTAL:**
+    *   1 + 1 + ....LÍNEA (1 LÍNEA)
+    *   CONSTRUCCIÓN DE 2 LÍNEAS
+    *   CONSTRUCCIÓN DE 2 LÍNEAS + QUEMA
+    *   CONSTRUCCIÓN DE LÍNEAS MÚLTIPLES
+    *   CONSTRUCCIÓN DE LÍNEAS CON 2 TRACTORES
+
+### CONTROL DO PERÍMETRO
+
+**LABORES DE LIQUIDACIÓN E CONTROL DO PERÍMETRO:**
+*   GRANDES INCENDIOS (PERIMETRO EXTENSO)
+*   MODELOS DE COMBUSTIBLES QUE OBLIGAN A UN TRABALLO EXCESIVO NA LIQUIDACIÓN
+*   NON É POSIBLE LIQUIDALOS CON OUTROS MEDIOS (TODOS OS MEDIOS SON NECESARIOS NA EXTINCIÓN)
+
+“GARANTIZAR, DUNHA MANERA MÁIS SEGURA, QUE NON SE PRODUZCAN REPRODUCCIÓNS”
+
+## CONSIDERACIÓNS Á HORA DE USAR A MAQUINARIA PESADA
+
+1.  SITUACIÓN DO INCENDIO
+2.  OROGRAFÍA DO TERRENO
+3.  TIPO DE TERRENO AFECTADO
+4.  MEDIOS AÉREOS
+5.  CONDICIÓNS METEOROLÓXICAS
+6.  SITUACIÓN DE INCENDIOS NA COMARCA
+7.  TEMPO ESTIMADO DE CHEGADA AO INCENDIO
+8.  PLANIFICACIÓN DA EXTINCIÓN

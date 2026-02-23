@@ -1,0 +1,113 @@
+export interface TopicDefinition {
+    id: string; // Supabase UUID
+    slug: string; // Unique string identifier
+    title: string;
+    category: 'common' | 'specific';
+    sourceFile: string; // Path to MAIN markdown file
+    icon?: string;
+}
+
+export const TOPIC_REGISTRY: Record<string, TopicDefinition> = {
+    // --- COMMON TOPICS (Legacy/Fixed) ---
+    't-com-1-const': { id: '324a4e7a-5433-4c40-83ea-38463fe1514e', slug: 't-com-1-const', title: 'T1 Común: Constitución Española 1978', category: 'common', sourceFile: '/temario/comun/01_Constitucion_FULL.md', icon: 'Scale' },
+    't-com-2-estatuto': { id: 'af38ef8f-9251-4036-9764-67d9c224b3e7', slug: 't-com-2-estatuto', title: 'T2 Común: Estatuto de Autonomía de Galicia', category: 'common', sourceFile: '/temario/comun/02_Estatuto_Galicia_FULL.md', icon: 'Map' },
+    't-com-3-admin': { id: '2902ab2d-9d77-4348-93a1-7228a60a9223', slug: 't-com-3-admin', title: 'T3 Común: Lei 39/2015 Procedemento Administrativo', category: 'common', sourceFile: '/temario/comun/03_Ley_39_2015_Procedimiento_FULL.md', icon: 'FileText' },
+    't-com-4-transp': { id: 'db2cbf56-3240-486f-8766-b63cfb996a89', slug: 't-com-4-transp', title: 'T4 Común: Lei 1/2016 Transparencia e Bo Goberno', category: 'common', sourceFile: '/temario/comun/04_Ley_1_2016_Transparencia_Galicia_FULL.md', icon: 'Eye' },
+    't-com-5-emprego': { id: 'c7c09d15-c524-4fe2-953a-bf5dbd96b72f', slug: 't-com-5-emprego', title: 'T5 Común: Lei 2/2015 Emprego Público de Galicia', category: 'common', sourceFile: '/temario/comun/05_Ley_2_2015_Emprego_Galicia_FULL.md', icon: 'Briefcase' },
+    't-com-6-igualdade': { id: 'd4b9f6d5-dd19-4da5-b907-fd8ede3937a2', slug: 't-com-6-igualdade', title: 'T6 Común: Lei 7/2023 Igualdade Efectiva', category: 'common', sourceFile: '/temario/comun/06_Ley_7_2023_Igualdad_Galicia_FULL.md', icon: 'Users' },
+    't-com-7-discap': { id: '55abe9db-928d-4868-816d-d2b4a51da76f', slug: 't-com-7-discap', title: 'T7 Común: RD 1/2013 Dereitos Persoas con Discapacidade', category: 'common', sourceFile: '/temario/comun/07_RDL_1_2013_Discapacidad_FULL.md', icon: 'Accessibility' },
+    't-com-8-prl': { id: 'db7b32ff-3a81-48ed-8d4d-263f5a3b91cd', slug: 't-com-8-prl', title: 'T8 Común: Lei 31/1995 Prevención de Riscos Laborais', category: 'common', sourceFile: '/temario/especifico/documentación base_1.5.- Tema IX Seguridade e Saúde do Manual de Prev_FORGA.md', icon: 'Shield' },
+
+    // --- SPECIFIC TOPICS (Grouped C2) ---
+    't-esp-1-incendios': {
+        id: 'b47a9b13-430f-410d-9d03-ac5bcfd4ccb9',
+        slug: 't-esp-1-incendios',
+        title: 'T1 Específico: Lei 3/2007 Prevención e Defensa Incendios',
+        category: 'specific',
+        sourceFile: '/temario/especifico/01_Lei_3_2007_Incendios_Galicia.md',
+        icon: 'Flame'
+    },
+    't-esp-2-pladiga': {
+        id: 'f2c96f54-2e21-4883-a7ec-c36cc3549835',
+        slug: 't-esp-2-pladiga',
+        title: 'T2 Específico: Plan PLADIGA',
+        category: 'specific',
+        sourceFile: '/resumenes/t-esp-2-pladiga-final.md',
+        icon: 'Map'
+    },
+    't-esp-3-semop': {
+        id: '73e64544-4bf6-4572-be84-085de26738c1',
+        slug: 't-esp-3-semop',
+        title: 'T3 Específico: Sistema SEMOP (Mando Operativo)',
+        category: 'specific',
+        sourceFile: '/temario/especifico/03_Sistema_SEMOP.md',
+        icon: 'Radio'
+    },
+    't-esp-4-lume': {
+        id: 'a9abe9a1-c783-484b-95c7-d8417ca6fa8c',
+        slug: 't-esp-4-lume',
+        title: 'T4 Específico: Comportamento do Lume Forestal',
+        category: 'specific',
+        sourceFile: '/temario/especifico/04_Comportamento_Lume.md',
+        icon: 'Thermometer'
+    },
+    't-esp-5-extincion': {
+        id: 'ae663cb8-d9c1-43b0-9a17-bb6467bc04e6',
+        slug: 't-esp-5-extincion',
+        title: 'T5 Específico: Técnicas de Extinción',
+        category: 'specific',
+        sourceFile: '/temario/especifico/05_Extincion.md',
+        icon: 'Droplet'
+    },
+    't-esp-6-prevencion': {
+        id: '808c27d6-5fd9-4150-b11c-3916cf9cf350',
+        slug: 't-esp-6-prevencion',
+        title: 'T6 Específico: Accións de Prevención',
+        category: 'specific',
+        sourceFile: '/temario/especifico/06_Accions_Prevencion.md',
+        icon: 'Shield'
+    },
+    't-esp-7-ferramentas': {
+        id: '9eebaac2-76aa-45b5-ae73-f76c4ff7b815',
+        slug: 't-esp-7-ferramentas',
+        title: 'T7 Específico: Ferramentas e Maquinaria',
+        category: 'specific',
+        sourceFile: '/temario/especifico/07_Equipamento_Ferramentas.md',
+        icon: 'Hammer'
+    },
+    't-esp-8-conduccion': {
+        id: '430bfd25-ba3e-430b-b87a-806a2746d2b0',
+        slug: 't-esp-8-conduccion',
+        title: 'T8 Específico: Conducción de Todoterreos',
+        category: 'specific',
+        sourceFile: '/temario/especifico/08_Conduccion_Todoterreo.md',
+        icon: 'Truck'
+    },
+    't-esp-9-seguridade': {
+        id: '549e1467-8ad7-4583-83a1-b59dc3f5d291',
+        slug: 't-esp-9-seguridade',
+        title: 'T9 Específico: Seguridade e EPIs',
+        category: 'specific',
+        sourceFile: '/temario/especifico/09_Seguridade_EPIs.md',
+        icon: 'HardHat'
+    },
+    't-esp-10-accidentes': {
+        id: '38bbed41-bb96-49ed-84a9-c112f5712258',
+        slug: 't-esp-10-accidentes',
+        title: 'T10 Específico: Prevención de Accidentes e Autoprotección',
+        category: 'specific',
+        sourceFile: '/temario/especifico/10_Accidentes_Autoproteccion.md',
+        icon: 'AlertTriangle'
+    },
+    't-esp-11-comunicacions': {
+        id: 'ce74cba9-0afa-4c14-a090-9f036b72ec31',
+        slug: 't-esp-11-comunicacions',
+        title: 'T11 Específico: Comunicacións',
+        category: 'specific',
+        sourceFile: '/temario/especifico/11_Comunicacions.md',
+        icon: 'Signal'
+    }
+};
+
+export const getTopicBySlug = (slug: string) => TOPIC_REGISTRY[slug];
+export const getAllTopics = () => Object.values(TOPIC_REGISTRY);

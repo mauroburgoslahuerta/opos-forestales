@@ -1,0 +1,362 @@
+# Extracted from 8.2.- Presentación parte xeral Lei PRL.pdf (Parte xeral)
+
+ 
+CURSO PREPARACIÓN OPE SPIF – 2026
+Xabier Bruña García
+Enxeñeiro forestalCLASE Nº 1CLASE Nº 1
+PARTE XERALPARTE XERAL
+
+CURSO PREPARACIÓN OPE SPIF – 2026
+
+CURSO PREPARACIÓN OPE SPIF – 2026
+•C1 – Introdución / Lei 31/1995 PRL
+•C2 - Riscos persoal SPIF. Medidas preventivas. 
+Situacións de risco. Normas e protocolos de 
+seguridade.
+•C3 - Situación  atrapamentos – EPI´s - Manobras 
+autoprotección - Seguridade operacións 
+motobombas
+•C4 – Repaso xeral 
+
+CURSO PREPARACIÓN OPE SPIF – 2026
+QUE É UN RISCO?QUE É UN RISCO?
+“Lume sen 
+control”
+
+CURSO PREPARACIÓN OPE SPIF – 2026
+
+CURSO PREPARACIÓN OPE SPIF – 2026
+Art. 40.2. CE
+Lei con 54 artigos (48 actualmente)  en 7 capítulos ampliamente modificada lei 54/2003
+
+CURSO PREPARACIÓN OPE SPIF – 2026
+Obxectivo, principios e ámbitoObxectivo, principios e ámbito
+
+Artigo 1. Normativa sobre prevención de riscos laborais.
+Artigo 2. Obxecto e carácter da norma.
+1. Promover a seguridade e a saúde dos traballadores mediante a aplicación de medidas e o 
+desenvolvemento das actividades necesarias para a prevención de riscos derivados do traballo . 
+Principios xerais  relativos á prevención dos riscos profesionais para a protección da seguridade e da 
+saúde, a eliminación ou diminución dos riscos derivados do traballo, a información, a consulta, a 
+participación equilibrada e a formación dos traballadores en materia preventiva.
+2. As disposicións desta lei terán carácter de Dereito necesario mínimo indispoñible,  poidendo ser 
+mellorable polos convenios colectivos.
+Artigo 3. Ámbito de aplicación.
+1. Aplicación tanto no ámbito das relacións laborais reguladas no texto refundido da Lei do Estatuto 
+dos Traballadores , como no das relacións de carácter administrativo ou estatutario do persoal ao 
+servizo das Administracións públicas . Isto sen prexuízo do cumprimento das obrigas específicas 
+que se establecen para fabricantes, importadores e subministradores, e dos dereitos e obrigas que 
+poidan derivar para os traballadores autónomos. Do mesmo xeito, serán aplicables ás sociedades 
+cooperativas. 
+2. Esta Lei non será de aplicación  naquelas actividades cunhas particularidades que o impidan no 
+ámbito das funcións públicas de: Policía, seguridade e resgardo aduaneiro; Servizos operativos de 
+protección civil e peritaxe forense nos casos de grave risco; Forzas Armadas e actividades militares da 
+Garda Civil.
+3. Nos centros e establecementos militares será de aplicación o disposto nesta Lei, coas particularidades 
+previstas na súa normativa específica. Nos establecementos penitenciarios, adaptaranse a esta Lei 
+aquelas actividades que as súas características xustifiquen unha regulación especial.
+4. Suprimido RDL 16/2022CAPÍTULO I: OBXECTO, ÁMBITO DE APLICACIÓN E DEFINICIÓNSCAPÍTULO I: OBXECTO, ÁMBITO DE APLICACIÓN E DEFINICIÓNS
+
+CURSO PREPARACIÓN OPE SPIF – 2026
+(Art 4)
+
+Artigo 5. Obxectivos da política
+1. Obxecto a promoción da mellora das condicións de traballo  dirixida a elevar o nivel de 
+protección da seguridade e a saúde dos traballadores no traballo. Para tal fin:
+a) as Administracións prestarán cooperación e asistencia  para o eficaz exercicio das súas 
+respectivas competencias no ámbito do previsto neste artigo.
+b) A elaboración da política preventiva levarase a cabo coa participación dos empresarios e dos 
+traballadores a través das súas organizacións empresariais e sindicais máis representativas.
+2. As Administracións públicas promoverán a mellora da educación en materia preventiva  nos 
+diferentes niveis de ensino. 
+3. As Administracións públicas fomentarán aquelas actividades para a mellora das condicións de 
+seguridade e saúde no traballo e a redución dos riscos laborais , a investigación ou fomento de 
+novas formas de protección e a promoción de estruturas eficaces de prevención.
+4. As Administración públicas promoverán a efectividade do principio de igualdade entre homes e 
+mulleres
+5. A política en materia de prevención deberá promover a integración eficaz da prevención no 
+sistema de xestión da empresa .
+Artigo 6. Normas regulamentarias
+1. O Goberno, a través das correspondentes normas regulamentarias e previa 
+consulta ás organizacións sindicais e empresariais  máis representativas, regulará as 
+materias que a continuación se relacionan: a) Requisitos mínimos condicións de traballo  
+b) Limitacións ou prohibicións que afectarán ás operacións, aos procesos e ás exposicións 
+laborais ou axentes que entrañen riscos c) Condicións ou requisitos especiais d) 
+Procedementos de avaliación dos riscos e) Modalidades de organización, funcionamento e 
+control dos servizos de prevención f) Condicións de traballo ou medidas preventivas en 
+traballos perigosos g) Procedemento de cualificación de enfermidades profesionais.CAPÍTULO II:CAPÍTULO II:  POLÍTICA EN MATERIA DE PREVENCIÓN DE RISCOS  POLÍTICA EN MATERIA DE PREVENCIÓN DE RISCOS 
+PARA PROTEXER A SEGURIDADE E SAÚDE NO TRABALLOPARA PROTEXER A SEGURIDADE E SAÚDE NO TRABALLO
+
+Artigo 7. Actuacións das Administración públicas competentes en materia 
+laboral
+1. As Administracións públicas competentes en materia laboral desenvolverán  funcións de promoción 
+da prevención, asesoramento técnico, vixilancia e control do cumprimento  da normativa de prevención 
+de riscos laborais, e sancionarán as infraccións á dita normativa, nos seguintes termos:
+a) Promovendo a prevención e o asesoramento  a desenvolver polos órganos técnicos en materia 
+preventiva, incluídas a asistencia e cooperación técnica, a información, divulgación, formación e 
+investigación en materia preventiva, así como o seguimento das actuacións preventivas que se 
+realicen nas empresas para a consecución dos obxectivos previstos nesta Lei.
+b) Velando polo cumprimento da normativa  sobre prevención de riscos laborais mediante as 
+actuacións de vixilancia e control . Para estes efectos, prestarán o asesoramento e a asistencia 
+técnica necesarios para o mellor cumprimento da devandita normativa e desenvolverán programas 
+específicos dirixidos a acadar unha maior eficacia no control.
+c) Sancionando o incumprimento  da normativa de prevención de riscos laborais polos suxeitos 
+comprendidos no ámbito de aplicación desta Lei, de conformidade co previsto no capítulo VII desta.
+Artigo 8. Instituto Nacional de Seguridade e Hixiene no Traballo
+1. É o órgano científico técnico especializado da Administración Xeral do Estado  que 
+ten como misión a análise e estudio das condicións de seguridade e saúde no 
+traballo, así como a promoción e apoio á mellora destas. Para isto establecerá a 
+cooperación necesaria cos órganos das Comunidades Autónomas con competencias 
+nesta materia. Ten as seguintes funcións: a) Asesoramento técnico b) Promoción e 
+formación, información, investigación, estudo e divulgación c) Apoio técnico e 
+colaboración coa ITSS c) colaboración cos organismos internacionais e desenvolvemento 
+de programas de cooperación internacionalCAPÍTULO II:CAPÍTULO II:  POLÍTICA EN MATERIA DE PREVENCIÓN DE RISCOS  POLÍTICA EN MATERIA DE PREVENCIÓN DE RISCOS 
+PARA PROTEXER A SEGURIDADE E SAÚDE NO TRABALLOPARA PROTEXER A SEGURIDADE E SAÚDE NO TRABALLO
+
+CURSO PREPARACIÓN OPE SPIF – 2026
+
+CURSO PREPARACIÓN OPE SPIF – 2026
+
+Artigo 9. Inspección de Traballo e Seguridade Social
+1. Correspóndelle á Inspección de Traballo e Seguridade Social a función da vixilancia e control da 
+normativa sobre prevención de riscos laborais. terá as seguintes funcións:
+a) Vixiar o cumprimento da normativa  sobre prevención de riscos laborais, propoñendo á autoridade 
+laboral competente a sanción correspondente, cando comprobase unha infracción á normativa sobre 
+prevención de riscos laborais, de acordo co previsto no capítulo VII desta Lei.
+b) Asesorar e informar ás empresas e aos traballadores  sobre a maneira máis efectiva de cumprir as 
+disposicións, en que teña a vixilancia encomendada.
+c) Elaborar os informes solicitados polos Xulgados do Social  nas demandas deducidas perante estes 
+nos procedementos de accidentes de traballo e enfermidades profesionais.
+d) Informar á autoridade laboral  sobre os accidentes de traballo mortais, moi graves ou graves, así 
+como sobre as enfermidades profesionais nas que concorran as ditas cualificacións 
+e) Comprobar e favorecer o cumprimento das obrigas  asumidas polos servizos de prevención  
+f) Ordenar a paralización inmediata de traballos  cando, a xuízo do inspector, se advirta a existencia 
+de risco grave e inminente  para a seguridade ou saúde dos traballadores.
+Artigo 10. Actuacións das Administración públicas competentes en materia 
+sanitaria
+Artigo 11. Coordinación administrativa
+necesidade de coordinar as actuacións das Administracións competentes en materia 
+laboral, sanitaria e de industria para unha máis eficaz protección da seguridade e a saúde 
+dos traballadoresCAPÍTULO II:CAPÍTULO II:  POLÍTICA EN MATERIA DE PREVENCIÓN DE RISCOS  POLÍTICA EN MATERIA DE PREVENCIÓN DE RISCOS 
+PARA PROTEXER A SEGURIDADE E SAÚDE NO TRABALLOPARA PROTEXER A SEGURIDADE E SAÚDE NO TRABALLO
+
+Artigo 12. Participación de empresarios e traballadores
+A participación de empresarios e traballadores , a través das organizacións 
+empresariais e sindicais máis representativas , na planificación, programación, 
+organización e control da xestión  relacionada coa mellora das condicións de traballo e a 
+protección da seguridade e saúde dos traballadores no traballo é principio básico  da 
+política de prevención de riscos laborais, a desenvolver polas Administracións públicas 
+competentes nos distintos niveis territoriais.
+Artigo 13. Comisión Nacional de Seguridade e Saúde no Traballo
+1. Órgano colexiado asesor  das Administracións públicas na formulación das políticas 
+de prevención  e órgano de participación institucional  en materia de seguridade e 
+saúde no traballo.
+2. A Comisión estará integrada por un representante de cada unha das Comunidades 
+Autónomas e por igual número de membros da Administración Xeral do Estado e, 
+paritariamente con todos os anteriores, por representantes das organizacións 
+empresariais e sindicais máis representativas .
+3. A Comisión coñecerá as actuacións que desenvolvan as Administracións públicas 
+competentes en materia de promoción da prevención de riscos laborais, de asesoramento 
+técnico e de vixilancia e control.
+4. A Comisión adoptará os seus acordos por maioría. 
+5. A Comisión contará cun Presidente e catro Vicepresidentes, un por cada un dos grupos 
+que a integran. 
+6. A Secretaría da Comisión, como órgano de apoio técnico e administrativo, recaerá na 
+Dirección do Instituto Nacional de Seguridade e Hixiene no Traballo.
+7. Funcionará en Pleno, en Comisión Permanente ou en Grupos de Traballo.CAPÍTULO II:CAPÍTULO II:  POLÍTICA EN MATERIA DE PREVENCIÓN DE RISCOS  POLÍTICA EN MATERIA DE PREVENCIÓN DE RISCOS 
+PARA PROTEXER A SEGURIDADE E SAÚDE NO TRABALLOPARA PROTEXER A SEGURIDADE E SAÚDE NO TRABALLO
+
+Artigo 14. Dereito á protección fronte aos riscos laborais
+1.Os traballadores teñen dereito a unha protección eficaz en materia de seguridade e 
+saúde no traballo. Supón a existencia dun deber do empresario  de protección dos 
+traballadores fronte aos riscos laborais e das Administracións públicas respecto do 
+persoal ao seu servizo. Os dereitos de información, consulta e participación, 
+formación en materia preventiva, paralización da actividade en caso de risco 
+grave e inminente e vixilancia do seu estado de saúde , forman parte do dereito dos 
+traballadores a unha protección eficaz en materia de seguridade e saúde no traballo.
+2. O empresario deberá garantir a seguridade e a saúde dos traballadores ao seu 
+servizo en todos os aspectos relacionados co traballo . Realizará a prevención dos 
+riscos laborais mediante a integración da actividade preventiva na empresa e a 
+adopción de cantas medidas sexan necesarias: plano de prevención de riscos 
+laborais, avaliación de riscos, información, consulta e participación e formación 
+dos traballadores, actuación en casos de emerxencia e de risco grave e 
+inminente, vixilancia da saúde, e mediante a constitución dunha organización e 
+dos medios necesarios.  O empresario desenvolverá unha acción permanente de 
+seguimento da actividade preventiva e disporá o necesario para a adaptación das 
+medidas de prevención ás modificacións que podan experimentar as circunstancias 
+que incidan na realización do traballo.
+3. O empresario deberá cumprir as obrigas establecidas na normativa  sobre prevención 
+de riscos laborais.
+5. O custo das medidas  relativas á seguridade e a saúde no traballo non deberá recaer  
+de ningún xeito sobre os traballadores.CAPÍTULO III:CAPÍTULO III:  DEREITOS E OBRIGAS DEREITOS E OBRIGAS
+
+CURSO PREPARACIÓN OPE SPIF – 2026
+Art. 14.2.
+
+CURSO PREPARACIÓN OPE SPIF – 2026
+Principios da acción preventiva Principios da acción preventiva 
+(art. 15.1.)(art. 15.1.)
+
+Artigo 16. Plan de prevención de riscos laborais, avaliación dos riscos e 
+planificación da actividade preventiva
+1. A prevención de riscos laborais deberá integrarse no sistema xeral de xestión  da 
+empresa, a través da implantación e aplicación dun plano de prevención de riscos 
+laborais Este plano deberá incluír a estrutura organizativa, as responsabilidades, as 
+funcións, as prácticas, os procedementos, os procesos e os recursos necesarios para 
+realizar a acción de prevención de riscos na empresa.
+2. Os instrumentos esenciais para a xestión e aplicación do plano de prevención son a 
+avaliación de riscos laborais e a planificación da actividade preventiva  :
+a) O empresario deberá realizar unha avaliación inicial dos riscos  tendo en conta, a 
+natureza da actividade, as características dos postos de traballo existentes e dos 
+traballadores que deban desempeñalos. Igual avaliación deberá facerse con ocasión da 
+elección dos equipos de traballo, das sustancias ou preparados químicos e do 
+acondicionamento dos lugares de traballo. A avaliación será actualizada  cando 
+cambien as condicións de traballo..
+b) Se os resultados da avaliación  prevista puxeran de manifesto situacións de risco , o 
+empresario realizará  aquelas actividades preventivas necesarias para eliminar ou 
+reducir e controlar tales riscos . Ditas actividades serán obxecto de planificación polo 
+empresario, incluíndo para cada actividade preventiva o prazo para levala a cabo , a 
+designación de responsables e os recursos humanos e materiais necesarios  para 
+a súa execución.
+3. Cando se producise un dano para a saúde dos traballadores  ou cando, aparezan 
+indicios de que as medidas de prevención resultan insuficientes, o empresario levará 
+a cabo unha investigación ao respecto , a fin de detectar as causas destes feitos.CAPÍTULO III:CAPÍTULO III:  DEREITOS E OBRIGAS DEREITOS E OBRIGAS
+
+CURSO PREPARACIÓN OPE SPIF – 2026
+Planificación preventivaPlanificación preventiva
+
+Artigo 17. Equipos de traballo e medios de protección
+1. O empresario adoptará as medidas necesarias co fin de que os equipos de 
+traballo sexan axeitados para o traballo que se deba realizar  e 
+convenientemente adaptados  para tal efecto, de xeito que garantan a 
+seguridade e a saúde dos traballadores ao empregalos. Cando o emprego 
+dun equipo de traballo poida presentar un risco específico para a seguridade 
+e a saúde dos traballadores, o empresario adoptará as medidas necesarias 
+co fin de que:
+a) A utilización do equipo de traballo quede reservada aos encargados da 
+devandita utilización.
+b) Os traballos de reparación, transformación, mantemento ou conservación 
+sexan realizados polos traballadores especificamente capacitados para iso.
+2. O empresario deberá proporcionar aos seus traballadores equipos de 
+protección individual axeitados para o desempeño das súas funcións e 
+velar polo uso efectivo destes  cando, pola natureza dos traballos 
+realizados, sexan necesarios. Os equipos de protección individual deberán 
+empregarse cando os riscos non se poidan evitar ou non se poidan limitar 
+suficientemente por medios técnicos de protección colectiva ou mediante 
+medidas, métodos ou procedementos de organización do traballo.CAPÍTULO III:CAPÍTULO III:  DEREITOS E OBRIGAS DEREITOS E OBRIGAS
+
+CURSO PREPARACIÓN OPE SPIF – 2026
+Información aso traballadores Información aso traballadores 
+(art. 18)(art. 18)
+
+CURSO PREPARACIÓN OPE SPIF – 2026
+Art. 19
+
+Artigo 20. Medidas de emerxencia
+O empresario, deberá analizar as posibles situacións de emerxencia  e adoptar as medidas 
+necesarias en materia de primeiros auxilios , loita contra incendios e evacuación dos 
+traballadores, designando para isto ao persoal encargado de poñer en práctica estas medidas e 
+comprobando periodicamente, o seu correcto funcionamento (este persoal debera posuír a 
+formación necesaria, ser suficiente en número e dispoñer do material axeitado).
+O empresario deberá organizar as relacións que sexan necesarias con servizos externos á 
+empresa, en particular en materia de primeiros auxilios, asistencia médica de urxencia, salvamento 
+e loita contra incendios .
+Artigo 21. Risco grave e inminente
+1. Cando os traballadores estean ou poidan estar expostos a un risco grave e inminente con ocasión do 
+seu traballo, o empresario estará na obriga  de:
+a) Informar o antes posible  a todos os traballadores afectados en canto á existencia do devandito 
+risco e das medidas adoptadas ou que se deban adoptar 
+b) Adoptar as medidas e dar as instrucións necesarias  para que, no caso de perigo grave, inminente 
+e inevitable, os traballadores poidan interromper a súa actividade e, se fose necesario, abandonar 
+de inmediato o lugar de traballo. 
+c) Dispoñer o necesario  para que o traballador que non se puidese poñer en contacto co seu superior 
+xerárquico, adopte as medidas necesarias para evitar as consecuencias 
+2. O traballador terá dereito a interromper a súa actividade e abandonar o lugar de traballo , cando 
+considere que a dita actividade entraña un risco grave e inminente para a súa vida ou a súa saúde.
+3. Os representantes legais destes poderán acordar, por maioría dos seus membros, a 
+paralización da actividade dos traballadores  afectados polo devandito risco. Tal acordo será 
+comunicado de inmediato á empresa e á autoridade laboral, a cal, no prazo de vinte e catro horas, 
+anulará ou ratificará a paralización acordada.CAPÍTULO III:CAPÍTULO III:  DEREITOS E OBRIGAS DEREITOS E OBRIGAS
+
+CURSO PREPARACIÓN OPE SPIF – 2026
+Art. 22
+
+Artigo 23. Documentación
+1.O empresario deberá elaborar e conservar á disposición da autoridade laboral a seguinte 
+documentación:
+a) Plano de prevención  de riscos laborais, 
+b) Avaliación dos riscos  para a seguridade e a saúde no traballo, 
+c) Planificación da actividade preventiva , incluídas as medidas de protección e de prevención a 
+adoptar e, no seu caso, material de protección que deba utilizarse
+d) Práctica dos controis do estado de saúde  dos traballadores 
+e) Relación de accidentes de traballo e enfermidades profesionais  cunha incapacidade laboral 
+superior a un día de traballo. 
+2. No momento de cesamento da súa actividade, as empresas deberán achegar á autoridade laboral a 
+documentación anterior.
+3. O empresario estará na obriga de notificar por escrito á autoridade laboral os danos para a saúde 
+dos traballadores ao seu servizo  que se produciran por mor do desenvolvemento do seu traballo, 
+Artigo 24. Coordinación de actividades empresariais
+1.Cando nun mesmo centro de traballo desenvolvan actividades traballadores de dúas ou máis 
+empresas, estas deberán cooperar na aplicación da normativa sobre prevención de riscos laborais. 
+2. O empresario titular do centro de traballo adoptará as medidas necesarias  para que aqueloutros 
+empresarios que desenvolvan actividades no seu centro de traballo reciban a información e as 
+instrucións en relación cos riscos existentes no centro de traballo
+3. As empresas que contraten ou subcontraten  con outras a realización de obras ou servizos e que se 
+desenvolvan nos seus propios centros de traballo deberán vixiar o cumprimento da normativa .
+5. Os deberes de cooperación e de información e instrución aplicaranse respecto dos traballadores 
+autónomos que desenvolvan actividades nos devanditos centros de traballo.CAPÍTULO III:CAPÍTULO III:  DEREITOS E OBRIGAS DEREITOS E OBRIGAS
+
+Artigo 25. Protección de traballadores especialmente sensibles a 
+determinados riscos
+1. O empresario garantirá de maneira específica a protección dos traballadores  que, 
+polas súas propias características persoais ou estado biolóxico coñecido, incluídos 
+aqueles que teñan recoñecida a situación de discapacidade física, psíquica ou 
+sensorial, sexan especialmente sensibles  aos riscos derivados do traballo. Deberá 
+ter en conta os ditos aspectos nas avaliacións dos riscos e, adoptará as medidas 
+preventivas e de protección necesarias. Os traballadores non serán empregados 
+naqueles postos de traballo nos que, poidan poñerse en situación de perigo.
+2. O empresario deberá ter en conta nas avaliacións os factores de risco que poidan 
+incidir na función de procreación dos traballadores , en particular pola exposición a 
+axentes físicos, químicos e biolóxicos que poidan exercer efectos mutaxénicos ou de 
+toxicidade para a procreación.
+Artigo 27. Protección dos menores
+Afecta a traballadores menores de 18 anos
+Artigo 28. Relacións de traballo temporais, de duración determinada e en 
+empresas de traballo temporal
+Os traballadores con relación de traballo temporal deberán desfrutar do mesmo nivel de 
+protección en materia de seguridade e saúde que o resto de traballadores.CAPÍTULO III:CAPÍTULO III:  DEREITOS E OBRIGAS DEREITOS E OBRIGAS
+
+Artigo 26. Protección da maternidade
+1. A avaliación dos riscos deberá abranguer a determinación da natureza, o grao e a duración da 
+exposición das traballadoras en situación de embarazo ou parto recente  a axentes, 
+procedementos ou condicións de traballo que poidan influír negativamente na saúde  das 
+traballadoras. Se os resultados da avaliación revelasen un risco para a seguridade e a saúde ou 
+unha posible repercusión sobre o embarazo ou a lactación das devanditas traballadoras, o 
+empresario adoptará as medidas necesarias para evitar a exposición ao dito risco , a través 
+dunha adaptación das condicións ou do tempo de traballo da traballadora afectada. As devanditas 
+medidas incluirán, a non realización de traballo nocturno ou de traballo a quendas.
+2. Cando a adaptación  das condicións ou do tempo de traballo non resultase posible  ou, a pesar de 
+tal adaptación, as condicións dun posto de traballo puidesen influír negativamente na saúde da 
+traballadora embarazada ou do feto, e así o certifiquen os Servizos Médicos, esta deberá 
+desempeñar un posto de traballo ou función diferente e compatible co seu estado . O 
+empresario deberá determinar, previa consulta cos representantes dos traballadores, a relación dos 
+postos de traballo exentos de riscos para estes efectos. No suposto de que, non existise posto de 
+traballo ou función compatible, a traballadora poderá ser destinada a un posto non correspondente 
+ao seu grupo ou a categoría equivalente, aínda que conservará o dereito ao conxunto de 
+retribucións do seu posto de orixe. 
+3. Se o antedito cambio de posto non resultara  técnica ou obxectivamente posible, ou no poida 
+razoablemente exixirse por motivos xustificados, poderá declararse o paso da traballadora 
+afectada á situación de suspensión do contrato por risco durante o embarazo .
+4. O disposto con anterioridade será tamén de aplicación durante o período de lactación , se as 
+condicións de traballo puidesen influír negativamente na saúde da muller ou do fillo e así o 
+certificase o médico 
+5. As traballadoras embarazadas terán dereito a ausentarse do traballo, con dereito a remuneración, 
+para a realización de exames prenatais e técnicas de preparación ao parto , previo aviso ao 
+empresario e xustificación da necesidade da súa realización dentro da xeira.CAPÍTULO III:CAPÍTULO III:  DEREITOS E OBRIGAS DEREITOS E OBRIGAS
+
+CURSO PREPARACIÓN OPE SPIF – 2026
+Art. 29
+
+CURSO PREPARACIÓN OPE SPIF – 2026
+CONTACTO: ringoj@gmail.com
+

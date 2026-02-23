@@ -1,0 +1,13 @@
+--- REPORTE FINAL ---
+ 287 -> [t-esp-6-prevencion] T6 Específico: A Prevención de Incendios (808c27d6-5fd9-4150-b11c-3916cf9cf350)
+ 139 -> [t-esp-1-lei] T1 Específico: Lei 3/2007 Prevención e Defensa contra Incendios (7a363adf-8368-4b14-af09-9f9c50052631)
+ 118 -> [t-esp-5-extincion] T5 Específico: Extinción de Incendios Forestais (ae663cb8-d9c1-43b0-9a17-bb6467bc04e6)
+  89 -> [t-com-1-const] T1 Común: Constitución Española 1978 (324a4e7a-5433-4c40-83ea-38463fe1514e)
+  84 -> [t-com-2-estatuto] T2 Común: Estatuto de Autonomía de Galicia (af38ef8f-9251-4036-9764-67d9c224b3e7)
+  70 -> [t-com-3-admin] T3 Común: Lei 39/2015 Procedemento Administrativo (2902ab2d-9d77-4348-93a1-7228a60a9223)
+  65 -> [t-com-4-transp] T4 Común: Lei 1/2016 Transparencia e Bo Goberno (db2cbf56-3240-486f-8766-b63cfb996a89)
+  41 -> [t-esp-8-conduccion] T8 Específico: A Condución Todoterreo (430bfd25-ba3e-430b-b87a-806a2746d2b0)
+  38 -> [t-esp-7-equipamento] T7 Específico: O Equipamento na Loita contra Incendios (ae7330d6-cb21-41a0-895a-b6bf696452d3)
+  36 -> [t-esp-4-lume] T4 Específico: O Lume Forestal e Características (a9abe9a1-c783-484b-95c7-d8417ca6fa8c)
+  25 -> [t-esp-3-semop] T3 Específico: SEMOP - Sistema Estrutural de Mando Operativo (73e64544-4bf6-4572-be84-085de26738c1)
+   8 -> [t-esp-9-seguridade] T9 Específico: A Seguridade do Persoal (549e1467-8ad7-4583-83a1-b59dc3f5d291)
