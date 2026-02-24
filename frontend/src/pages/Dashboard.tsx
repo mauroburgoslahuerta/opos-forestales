@@ -180,9 +180,11 @@ export const Dashboard = () => {
                         <h2 className="text-3xl font-bold text-forest-900 dark:text-forest-50">
                             Benvido, {role === 'admin' && targetUserId !== user?.id ? targetName : (profile?.full_name || 'Eu')}
                         </h2>
-                        <p className="text-gray-500 dark:text-gray-400 mt-2">
-                            {targetUserId !== user?.id ? `Vendo as estatísticas de ${targetName}` : 'O teu progreso hoxe é excelente. Segue así!'}
-                        </p>
+                        {targetUserId !== user?.id && (
+                            <p className="text-gray-500 dark:text-gray-400 mt-2">
+                                Vendo as estatísticas de {targetName}
+                            </p>
+                        )}
                     </div>
                 </div>
 
