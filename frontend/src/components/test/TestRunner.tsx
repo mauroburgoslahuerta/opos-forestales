@@ -3,6 +3,7 @@ import type { TopicDefinition } from '../../constants/topicRegistry';
 import { supabase } from '../../lib/supabase';
 import { Card, CardContent } from '../ui/Card';
 import { Loader2, CheckCircle, XCircle, ArrowRight, Clock, Play, RotateCcw, AlertTriangle, BookOpen } from 'lucide-react';
+import { useAuth } from '../../context/AuthContext';
 
 interface Scenario {
     id: string;
@@ -49,6 +50,7 @@ export const TestRunner: React.FC<TestRunnerProps> = ({
     onReviewTopic,
     onComplete
 }) => {
+    const { user } = useAuth();
     // State
     const [currentState, setCurrentState] = useState<TestState>('config');
     const [allQuestions, setAllQuestions] = useState<Question[]>([]); // Pool of all questions
@@ -192,6 +194,18 @@ export const TestRunner: React.FC<TestRunnerProps> = ({
 
         if (option === currentQ.correct_option) {
             setScore(prev => prev + 1);
+        }
+
+        // Save progress to Supabase
+        if (user) {
+            supabase.from('user_progress').insert({
+                user_id: user.id,
+                question_id: currentQ.id,
+                is_correct: option === currentQ.correct_option,
+                answered_at: new Date().toISOString()
+            }).then(({ error }) => {
+                if (error) console.error("Error saving progress:", error);
+            });
         }
     };
 
