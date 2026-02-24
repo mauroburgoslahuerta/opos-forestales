@@ -5,7 +5,7 @@ import { useNavigate } from 'react-router-dom';
 import { Trees, User, GraduationCap, Lock, ArrowRight, Loader } from 'lucide-react';
 
 export default function Login() {
-    const [selectedUser, setSelectedUser] = useState<'mauro' | 'dario' | null>(null);
+    const [selectedUser, setSelectedUser] = useState<'mauro' | 'dario' | 'hugo' | null>(null);
     const [password, setPassword] = useState('');
     const [loading, setLoading] = useState(false);
     const [error, setError] = useState<string | null>(null);
@@ -20,7 +20,9 @@ export default function Login() {
 
         const email = selectedUser === 'mauro'
             ? 'mauro@oposforestales.gal'
-            : 'dario@oposforestales.gal';
+            : selectedUser === 'dario'
+                ? 'dario@oposforestales.gal'
+                : 'hugo@oposforestales.gal';
 
         const { error } = await supabase.auth.signInWithPassword({
             email,
@@ -53,6 +55,13 @@ export default function Login() {
             icon: GraduationCap,
             color: 'bg-earth-600',
             description: 'Acceso a tests, temario e simulacros.'
+        },
+        hugo: {
+            name: 'Hugo',
+            role: 'Opositor',
+            icon: GraduationCap,
+            color: 'bg-orange-600',
+            description: 'Acceso a tests, temario e simulacros.'
         }
     };
 
@@ -71,7 +80,7 @@ export default function Login() {
                     <>
                         <h2 className="text-center text-xl font-semibold text-gray-800 mb-6">Quen es ti?</h2>
                         <div className="grid gap-4">
-                            {(['mauro', 'dario'] as const).map((key) => {
+                            {(['mauro', 'dario', 'hugo'] as const).map((key) => {
                                 const u = userConfig[key];
                                 return (
                                     <button
