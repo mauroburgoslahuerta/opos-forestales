@@ -11,6 +11,7 @@ import { OfficialExamPage } from './pages/OfficialExamPage';
 import { TestPage } from './pages/TestPage';
 import { Settings } from './pages/Settings';
 import ClinicPage from './pages/ClinicPage';
+import { StatsPage } from './pages/StatsPage';
 import PremiumPreview from './pages/PremiumPreview';
 
 function App() {
@@ -31,6 +32,7 @@ function App() {
               <Route path="/caso-practico" element={<PracticalCasePage />} />
               <Route path="/exame-oficial" element={<OfficialExamPage />} />
               <Route path="/clinica" element={<ClinicPage />} />
+              <Route path="/stats" element={<StatsPage />} />
               <Route path="/settings" element={<Settings />} />
               <Route path="/premium-preview" element={<PremiumPreview />} />
             </Route>

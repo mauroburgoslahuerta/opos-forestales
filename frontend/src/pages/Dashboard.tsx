@@ -207,7 +207,11 @@ export const Dashboard = () => {
 
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
                 {/* Opciones de Examen - Destacadas */}
-                <Card hover className="bg-gradient-to-br from-forest-600 to-forest-800 border-none text-white lg:col-span-2 group" onClick={() => navigate('/exame-oficial')}>
+                <Card
+                    hover={targetUserId === user?.id}
+                    className={`bg-gradient-to-br from-forest-600 to-forest-800 border-none text-white lg:col-span-2 group ${targetUserId !== user?.id ? 'opacity-75 cursor-default' : 'cursor-pointer'}`}
+                    onClick={() => targetUserId === user?.id ? navigate('/exame-oficial') : null}
+                >
                     <CardHeader>
                         <CardTitle className="text-white flex items-center gap-3 text-2xl">
                             <FileText className="h-8 w-8 text-forest-200 group-hover:scale-110 transition-transform" />
@@ -223,7 +227,11 @@ export const Dashboard = () => {
                     </CardContent>
                 </Card>
 
-                <Card hover className="bg-gradient-to-br from-earth-600 to-earth-800 border-none text-white group" onClick={() => navigate('/caso-practico')}>
+                <Card
+                    hover={targetUserId === user?.id}
+                    className={`bg-gradient-to-br from-earth-600 to-earth-800 border-none text-white group ${targetUserId !== user?.id ? 'opacity-75 cursor-default' : 'cursor-pointer'}`}
+                    onClick={() => targetUserId === user?.id ? navigate('/caso-practico') : null}
+                >
                     <CardHeader>
                         <CardTitle className="text-white flex items-center gap-3 text-2xl">
                             <Briefcase className="h-8 w-8 text-earth-200 group-hover:scale-110 transition-transform" />
@@ -239,7 +247,11 @@ export const Dashboard = () => {
                 </Card>
 
                 {/* Modo Estudo - Agora Destacado */}
-                <Card hover onClick={() => navigate('/study')} className="bg-gradient-to-br from-blue-600 to-indigo-800 border-none text-white lg:col-span-2 group">
+                <Card
+                    hover={targetUserId === user?.id}
+                    onClick={() => targetUserId === user?.id ? navigate('/study') : null}
+                    className={`bg-gradient-to-br from-blue-600 to-indigo-800 border-none text-white lg:col-span-2 group ${targetUserId !== user?.id ? 'opacity-75 cursor-default' : 'cursor-pointer'}`}
+                >
                     <CardHeader>
                         <CardTitle className="text-white flex items-center gap-3 text-2xl">
                             <BookOpen className="h-8 w-8 text-blue-200 group-hover:scale-110 transition-transform" />
