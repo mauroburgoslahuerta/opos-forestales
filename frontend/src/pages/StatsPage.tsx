@@ -22,6 +22,7 @@ export const StatsPage = () => {
     const [topicStats, setTopicStats] = useState<TopicStats[]>([]);
     const [searchTerm, setSearchTerm] = useState('');
     const [sortConfig, setSortConfig] = useState<{ key: keyof TopicStats; direction: 'asc' | 'desc' } | null>(null);
+    const [timeRange, setTimeRange] = useState<'total' | 'last7'>('total');
 
     // Initial setup
     useEffect(() => {
@@ -51,10 +52,18 @@ export const StatsPage = () => {
                 const topics = getAllTopics();
 
                 // Fetch progress
-                const { data: progress } = await supabase
+                let query = supabase
                     .from('user_progress')
-                    .select('question_id, is_correct')
+                    .select('question_id, is_correct, answered_at')
                     .eq('user_id', selectedUserId);
+
+                if (timeRange === 'last7') {
+                    const sevenDaysAgo = new Date();
+                    sevenDaysAgo.setDate(sevenDaysAgo.getDate() - 7);
+                    query = query.gte('answered_at', sevenDaysAgo.toISOString());
+                }
+
+                const { data: progress } = await query;
 
                 if (progress) {
                     // Fetch topic associations for these questions
@@ -112,7 +121,7 @@ export const StatsPage = () => {
         }
 
         fetchDetailedStats();
-    }, [selectedUserId]);
+    }, [selectedUserId, timeRange]);
 
     const handleSort = (key: keyof TopicStats) => {
         let direction: 'asc' | 'desc' = 'asc';
@@ -169,19 +178,61 @@ export const StatsPage = () => {
                 </div>
 
                 {role === 'admin' && (
-                    <div className="flex items-center gap-3 bg-white dark:bg-gray-800 px-4 py-2 rounded-xl border border-gray-200 dark:border-gray-700 shadow-sm">
-                        <span className="text-xs font-bold text-gray-400 uppercase tracking-wider">Ver Progreso de:</span>
-                        <select
-                            className="bg-transparent border-none text-sm font-bold focus:ring-0 cursor-pointer min-w-[150px]"
-                            value={selectedUserId || ''}
-                            onChange={(e) => {
-                                setSelectedUserId(e.target.value);
-                            }}
+                    <div className="flex flex-wrap items-center gap-3">
+                        <div className="flex bg-gray-100 dark:bg-gray-800 p-1 rounded-xl border border-gray-200 dark:border-gray-700">
+                            <button
+                                onClick={() => setTimeRange('total')}
+                                className={`px-4 py-1.5 rounded-lg text-xs font-bold transition-all ${timeRange === 'total'
+                                    ? 'bg-white dark:bg-gray-700 text-forest-600 shadow-sm'
+                                    : 'text-gray-500 hover:text-gray-700 dark:hover:text-gray-300'}`}
+                            >
+                                Total
+                            </button>
+                            <button
+                                onClick={() => setTimeRange('last7')}
+                                className={`px-4 py-1.5 rounded-lg text-xs font-bold transition-all ${timeRange === 'last7'
+                                    ? 'bg-white dark:bg-gray-700 text-forest-600 shadow-sm'
+                                    : 'text-gray-500 hover:text-gray-700 dark:hover:text-gray-300'}`}
+                            >
+                                Última Semana
+                            </button>
+                        </div>
+
+                        <div className="flex items-center gap-3 bg-white dark:bg-gray-800 px-4 py-2 rounded-xl border border-gray-200 dark:border-gray-700 shadow-sm">
+                            <span className="text-xs font-bold text-gray-400 uppercase tracking-wider">Ver de:</span>
+                            <select
+                                className="bg-transparent border-none text-sm font-bold focus:ring-0 cursor-pointer min-w-[150px]"
+                                value={selectedUserId || ''}
+                                onChange={(e) => {
+                                    setSelectedUserId(e.target.value);
+                                }}
+                            >
+                                {profiles.map(p => (
+                                    <option key={p.id} value={p.id}>{p.full_name === 'Mauro' ? 'Mauro (Admin)' : p.full_name}</option>
+                                ))}
+                            </select>
+                        </div>
+                    </div>
+                )}
+
+                {role !== 'admin' && (
+                    <div className="flex bg-gray-100 dark:bg-gray-800 p-1 rounded-xl border border-gray-200 dark:border-gray-700">
+                        <button
+                            onClick={() => setTimeRange('total')}
+                            className={`px-4 py-1.5 rounded-lg text-xs font-bold transition-all ${timeRange === 'total'
+                                ? 'bg-white dark:bg-gray-700 text-forest-600 shadow-sm'
+                                : 'text-gray-500 hover:text-gray-700 dark:hover:text-gray-300'}`}
                         >
-                            {profiles.map(p => (
-                                <option key={p.id} value={p.id}>{p.full_name === 'Mauro' ? 'Mauro (Admin)' : p.full_name}</option>
-                            ))}
-                        </select>
+                            Total
+                        </button>
+                        <button
+                            onClick={() => setTimeRange('last7')}
+                            className={`px-4 py-1.5 rounded-lg text-xs font-bold transition-all ${timeRange === 'last7'
+                                ? 'bg-white dark:bg-gray-700 text-forest-600 shadow-sm'
+                                : 'text-gray-500 hover:text-gray-700 dark:hover:text-gray-300'}`}
+                        >
+                            Última Semana
+                        </button>
                     </div>
                 )}
             </div>
