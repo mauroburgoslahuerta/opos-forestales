@@ -7,22 +7,23 @@ import { AlertCircle, Loader2 } from 'lucide-react';
 interface TopicSelectorProps {
     onStudy: (topic: TopicDefinition) => void;
     onTest: (topic: TopicDefinition) => void;
+    onClinic: (topic: TopicDefinition) => void;
     onSummary: (topic: TopicDefinition) => void;
 }
 
-export const TopicSelector: React.FC<TopicSelectorProps> = ({ onStudy, onTest, onSummary }) => {
+export const TopicSelector: React.FC<TopicSelectorProps> = ({ onStudy, onTest, onClinic, onSummary }) => {
     const topics = getAllTopics();
     const [counts, setCounts] = useState<Record<string, number>>({});
+    const [failedCounts, setFailedCounts] = useState<Record<string, number>>({});
     const [loading, setLoading] = useState(true);
     const [searchTerm, setSearchTerm] = useState('');
 
     useEffect(() => {
-        const fetchCounts = async () => {
+        const fetchAllCounts = async () => {
             try {
+                // 1. Fetch total question counts per topic
                 const newCounts: Record<string, number> = {};
-
-                // Fetch counts for all topics in parallel
-                const promises = topics.map(async (topic) => {
+                const qPromises = topics.map(async (topic) => {
                     const { count, error } = await supabase
                         .from('questions')
                         .select('*', { count: 'exact', head: true })
@@ -33,8 +34,47 @@ export const TopicSelector: React.FC<TopicSelectorProps> = ({ onStudy, onTest, o
                     }
                 });
 
-                await Promise.all(promises);
+                // 2. Fetch failed counts for current user
+                const { data: { user } } = await supabase.auth.getUser();
+                const newFailedCounts: Record<string, number> = {};
+
+                if (user) {
+                    const { data: allProgress } = await supabase
+                        .from('user_progress')
+                        .select('question_id, is_correct, answered_at')
+                        .eq('user_id', user.id)
+                        .order('answered_at', { ascending: false });
+
+                    if (allProgress) {
+                        const latestByQuestion: Record<string, boolean> = {};
+                        allProgress.forEach(p => {
+                            if (latestByQuestion[p.question_id] === undefined) {
+                                latestByQuestion[p.question_id] = p.is_correct;
+                            }
+                        });
+
+                        const failedQuestionIds = Object.entries(latestByQuestion)
+                            .filter(([_, isCorrect]) => !isCorrect)
+                            .map(([id, _]) => id);
+
+                        if (failedQuestionIds.length > 0) {
+                            const { data: qTopics } = await supabase
+                                .from('questions')
+                                .select('id, topic_id')
+                                .in('id', failedQuestionIds);
+
+                            if (qTopics) {
+                                qTopics.forEach(qt => {
+                                    newFailedCounts[qt.topic_id] = (newFailedCounts[qt.topic_id] || 0) + 1;
+                                });
+                            }
+                        }
+                    }
+                }
+
+                await Promise.all(qPromises);
                 setCounts(newCounts);
+                setFailedCounts(newFailedCounts);
             } catch (err) {
                 console.error("Error fetching topic counts:", err);
             } finally {
@@ -42,7 +82,7 @@ export const TopicSelector: React.FC<TopicSelectorProps> = ({ onStudy, onTest, o
             }
         };
 
-        fetchCounts();
+        fetchAllCounts();
     }, []);
 
     const filteredTopics = topics.filter(topic =>
@@ -110,8 +150,10 @@ export const TopicSelector: React.FC<TopicSelectorProps> = ({ onStudy, onTest, o
                                         key={topic.slug}
                                         topic={topic}
                                         questionCount={counts[topic.id] || 0}
+                                        failedCount={failedCounts[topic.id] || 0}
                                         onStudy={onStudy}
                                         onTest={onTest}
+                                        onClinic={onClinic}
                                         onSummary={onSummary}
                                     />
                                 ))}
@@ -136,8 +178,10 @@ export const TopicSelector: React.FC<TopicSelectorProps> = ({ onStudy, onTest, o
                                         key={topic.slug}
                                         topic={topic}
                                         questionCount={counts[topic.id] || 0}
+                                        failedCount={failedCounts[topic.id] || 0}
                                         onStudy={onStudy}
                                         onTest={onTest}
+                                        onClinic={onClinic}
                                         onSummary={onSummary}
                                     />
                                 ))}

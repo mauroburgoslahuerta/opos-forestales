@@ -11,6 +11,14 @@ interface UserStats {
     accuracy: number;
 }
 
+interface TopicPerformance {
+    topicId: string;
+    title: string;
+    total: number;
+    correct: number;
+    accuracy: number;
+}
+
 interface RecentActivity {
     id: string;
     type: 'exam' | 'test';
@@ -28,6 +36,7 @@ export const Dashboard = () => {
     const [stats, setStats] = useState<UserStats>({ totalAnswered: 0, correctAnswers: 0, accuracy: 0 });
     const [recentActivity, setRecentActivity] = useState<RecentActivity[]>([]);
     const [failedCount, setFailedCount] = useState<number>(0);
+    const [criticalTopics, setCriticalTopics] = useState<TopicPerformance[]>([]);
 
     // Admin features
     const [profiles, setProfiles] = useState<any[]>([]);
@@ -93,6 +102,46 @@ export const Dashboard = () => {
                     });
                     const failed = Object.values(latestByQuestion).filter(isCorrect => !isCorrect).length;
                     setFailedCount(failed);
+
+                    // 2.2 Calculate Critical Topics (lowest accuracy per topic)
+                    const topicMap: Record<string, { total: number; correct: number }> = {};
+
+                    // To be efficient, let's fetch topic associations for these questions
+                    const questionIds = allProgress.map(p => p.question_id);
+                    const { data: qTopics } = await supabase
+                        .from('questions')
+                        .select('id, topic_id, topics(title)')
+                        .in('id', questionIds);
+
+                    if (qTopics) {
+                        const qToTopic = new Map(qTopics.map(q => {
+                            const topicData = Array.isArray(q.topics) ? q.topics[0] : q.topics;
+                            return [q.id, { id: q.topic_id, title: topicData?.title || 'Tema' }];
+                        }));
+
+                        allProgress.forEach(p => {
+                            const t = qToTopic.get(p.question_id);
+                            if (t) {
+                                if (!topicMap[t.id]) topicMap[t.id] = { total: 0, correct: 0 };
+                                topicMap[t.id].total++;
+                                if (p.is_correct) topicMap[t.id].correct++;
+                            }
+                        });
+
+                        const calculated = Object.entries(topicMap)
+                            .map(([id, data]) => ({
+                                topicId: id,
+                                title: qToTopic.get(qTopics.find(qt => qt.topic_id === id)?.id || '')?.title || 'Tema',
+                                total: data.total,
+                                correct: data.correct,
+                                accuracy: Math.round((data.correct / data.total) * 100)
+                            }))
+                            .filter(t => t.total >= 3) // Only topics with at least 3 answers
+                            .sort((a, b) => a.accuracy - b.accuracy)
+                            .slice(0, 3);
+
+                        setCriticalTopics(calculated);
+                    }
                 }
             }
 
@@ -248,6 +297,40 @@ export const Dashboard = () => {
                     </CardContent>
                 </Card>
             </div>
+
+            {criticalTopics.length > 0 && (
+                <div className="animate-in fade-in slide-in-from-bottom-4 duration-700 delay-200">
+                    <h3 className="text-xl font-bold text-gray-900 dark:text-white mb-4 flex items-center gap-2">
+                        <AlertTriangle className="text-orange-500" size={20} />
+                        Temas Críticos (Peor precisión)
+                    </h3>
+                    <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+                        {criticalTopics.map((topic) => (
+                            <Card key={topic.topicId} className="border-l-4 border-l-red-500">
+                                <CardContent className="pt-6">
+                                    <h4 className="font-bold text-sm text-gray-800 dark:text-gray-200 mb-2 line-clamp-1">
+                                        {topic.title}
+                                    </h4>
+                                    <div className="flex items-end justify-between">
+                                        <div className="text-3xl font-black text-red-600">
+                                            {topic.accuracy}%
+                                        </div>
+                                        <div className="text-xs text-gray-500 text-right">
+                                            {topic.correct} acertos de {topic.total}<br />intentos
+                                        </div>
+                                    </div>
+                                    <div className="mt-3 h-1.5 w-full bg-gray-100 dark:bg-gray-800 rounded-full overflow-hidden">
+                                        <div
+                                            className="h-full bg-red-500"
+                                            style={{ width: `${topic.accuracy}%` }}
+                                        />
+                                    </div>
+                                </CardContent>
+                            </Card>
+                        ))}
+                    </div>
+                </div>
+            )}
 
             <div>
                 <h3 className="text-xl font-bold text-gray-900 dark:text-white mb-4">Actividade Recente</h3>

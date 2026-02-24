@@ -1,16 +1,19 @@
 import { useState } from 'react';
+import { supabase } from '../lib/supabase';
 import { TopicSelector } from '../components/study/TopicSelector';
 import { SlideViewer } from '../components/study/SlideViewer';
 import { SummaryViewer } from '../components/study/SummaryViewer';
 import { TestRunner } from '../components/test/TestRunner';
 import type { TopicDefinition } from '../constants/topicRegistry';
-import { ArrowLeft, X, FileText } from 'lucide-react';
+import { ArrowLeft, X, FileText, Loader2 } from 'lucide-react';
 
-type StudyMode = 'list' | 'study' | 'test' | 'summary';
+type StudyMode = 'list' | 'study' | 'test' | 'clinic' | 'summary';
 
 export const StudyPage = () => {
     const [mode, setMode] = useState<StudyMode>('list');
     const [selectedTopic, setSelectedTopic] = useState<TopicDefinition | null>(null);
+    const [clinicQuestions, setClinicQuestions] = useState<any[]>([]);
+    const [loadingClinic, setLoadingClinic] = useState(false);
     const [selectedDocIndex, setSelectedDocIndex] = useState<number>(0);
     const [showDocSelector, setShowDocSelector] = useState(false);
     const [topicToSelectDoc, setTopicToSelectDoc] = useState<TopicDefinition | null>(null);
@@ -42,9 +45,64 @@ export const StudyPage = () => {
         setMode('summary');
     };
 
+    const handleClinic = async (topic: TopicDefinition) => {
+        setLoadingClinic(true);
+        setSelectedTopic(topic);
+
+        try {
+            // Fetch failed questions for this topic
+            const { data: { user } } = await supabase.auth.getUser();
+            if (!user) return;
+
+            const { data: allProgress } = await supabase
+                .from('user_progress')
+                .select('question_id, is_correct, answered_at')
+                .eq('user_id', user.id)
+                .order('answered_at', { ascending: false });
+
+            if (allProgress) {
+                const latestByQuestion: Record<string, boolean> = {};
+                allProgress.forEach((p: any) => {
+                    if (latestByQuestion[p.question_id] === undefined) {
+                        latestByQuestion[p.question_id] = p.is_correct;
+                    }
+                });
+
+                const failedIds = Object.entries(latestByQuestion)
+                    .filter(([_, isCorrect]) => !isCorrect)
+                    .map(([id, _]) => id);
+
+                if (failedIds.length > 0) {
+                    const { data: questionData } = await supabase
+                        .from('questions')
+                        .select('*, topics(name)')
+                        .eq('topic_id', topic.id)
+                        .in('id', failedIds);
+
+                    if (questionData) {
+                        const mappedQuestions = questionData.map((q: any) => ({
+                            ...q,
+                            topic_name: q.topics?.name || topic.title
+                        }));
+                        setClinicQuestions(mappedQuestions);
+                        setMode('clinic');
+                    } else {
+                        // Topic has no failures to show (already cured in other session)
+                        alert("Non tes fallos neste tema!");
+                    }
+                }
+            }
+        } catch (err) {
+            console.error('Error fetching topic clinic:', err);
+        } finally {
+            setLoadingClinic(false);
+        }
+    };
+
     const handleBackToList = () => {
         setMode('list');
         setSelectedTopic(null);
+        setClinicQuestions([]);
     };
 
     return (
@@ -73,10 +131,19 @@ export const StudyPage = () => {
             </header>
 
             <div className="mt-8">
+                {loadingClinic && (
+                    <div className="fixed inset-0 z-50 flex items-center justify-center bg-black/20 backdrop-blur-[2px]">
+                        <div className="bg-white p-6 rounded-2xl shadow-xl flex flex-col items-center gap-4">
+                            <Loader2 className="animate-spin text-forest-600" size={32} />
+                            <p className="font-bold text-forest-800">Cargando a túa clínica...</p>
+                        </div>
+                    </div>
+                )}
                 {mode === 'list' && (
                     <TopicSelector
                         onStudy={handleStudy}
                         onTest={handleTest}
+                        onClinic={handleClinic}
                         onSummary={handleSummary}
                     />
                 )}
@@ -94,6 +161,15 @@ export const StudyPage = () => {
                         topic={selectedTopic}
                         onExit={handleBackToList}
                         onReviewTopic={() => handleStudy(selectedTopic)}
+                    />
+                )}
+
+                {mode === 'clinic' && selectedTopic && (
+                    <TestRunner
+                        questions={clinicQuestions}
+                        mode="clinic"
+                        onExit={handleBackToList}
+                        onComplete={handleBackToList}
                     />
                 )}
 
@@ -130,7 +206,7 @@ export const StudyPage = () => {
                                     {topicToSelectDoc.documents?.some(d => d.isPrincipal) && (
                                         <>
                                             <p className="text-xs font-bold uppercase tracking-widest text-forest-600 dark:text-forest-400 px-1 mb-1">★ Temario Oficial</p>
-                                            {topicToSelectDoc.documents?.map((doc, idx) => doc.isPrincipal && (
+                                            {topicToSelectDoc.documents?.map((doc: any, idx: number) => doc.isPrincipal && (
                                                 <button
                                                     key={idx}
                                                     onClick={() => handleStartStudy(topicToSelectDoc, idx)}
@@ -149,7 +225,7 @@ export const StudyPage = () => {
                                                     <div className="flex-1 h-px bg-gray-200 dark:bg-gray-700" />
                                                 </div>
                                             )}
-                                            {topicToSelectDoc.documents?.map((doc, idx) => !doc.isPrincipal && (
+                                            {topicToSelectDoc.documents?.map((doc: any, idx: number) => !doc.isPrincipal && (
                                                 <button
                                                     key={idx}
                                                     onClick={() => handleStartStudy(topicToSelectDoc, idx)}
@@ -164,7 +240,7 @@ export const StudyPage = () => {
                                         </>
                                     )}
                                     {/* Fallback: no isPrincipal flags — flat list */}
-                                    {!topicToSelectDoc.documents?.some(d => d.isPrincipal) && topicToSelectDoc.documents?.map((doc, idx) => (
+                                    {!topicToSelectDoc.documents?.some(d => d.isPrincipal) && topicToSelectDoc.documents?.map((doc: any, idx: number) => (
                                         <button
                                             key={idx}
                                             onClick={() => handleStartStudy(topicToSelectDoc, idx)}
