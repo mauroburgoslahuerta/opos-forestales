@@ -1,110 +1,103 @@
-# Ley 3/2007, de 9 de abril, de prevención y defensa contra los incendios forestales de Galicia - Manual de Combate DEFINITIVO (V4) 🚀
+# Tema 1 Específico: Prevención e Defensa Contra os Incendios Forestais de Galicia (V8 ACADÉMICA) 🛡️
 
-_Análisis técnico de la ley autonómica y documentos complementarios (PLADIGA 2025, Manual Laranxa, Plan de Quemas) corregido y completado para éxito total en tests de oposición Grupo C2 Galicia._
-
----
-
-## 🛡️ PARTE I: MARCO LEGAL Y CONCEPTOS (LEY 3/2007)
-
-### TÍTULO I. Disposiciones generales
-
-> [!NOTE]
-> Este título establece el objeto de la ley, define los términos clave y distribuye las competencias entre los diferentes órganos de las administraciones públicas gallegas.
-
-#### Artículo 2. Definiciones Fundamentales
-
-| Término | Definición Crítica |
-| :--- | :--- |
-| **Monte/Terreno Forestal** | Todo terreno con especies forestales (incluye Art. 5 Ley 43/2003). Excluye terrenos agrícolas y suelo urbano/núcleo rural. |
-| **Incendio Forestal** | Fuego sin control sobre combustibles forestales en el monte. |
-| **Quema** | Fuego sin control sobre el **monte raso**. |
-| **Zona Influencia Forestal** | Franja de **400 metros** circundante al monte (excluyendo suelo urbano/núcleo rural). |
-| **Gestión Biomasa** | Discontinuidad horizontal/vertical de carga de combustible. |
-| **Persona Dir. Extinción** | Autoridad pública responsable (Agente de la Autoridad). Moviliza medios públicos y privados. |
+*Manual de Combate definitivo recuperado e refinado para o estándar 2025. Galego técnico 100%.*
 
 ---
 
-## 🚒 PARTE II: OPERACIONES Y ESTADOS DEL INCENDIO (MANUAL LARANXA / PLADIGA)
+## 🛡️ PARTE I: MARCO LEGAL E CONCEPTOS (LEI 3/2007)
 
+### Definicións Críticas (Art. 2)
 > [!IMPORTANT]
-> Esta sección completa las lagunas técnicas del resumen V3 necesarias para responder tests específicos sobre la dinámica del fuego y el plan de emergencias.
+> Non confundir os termos nun test. É fundamental dominar o matiz técnico.
 
-### 📊 Estados de un Incendio Forestal
-| Estado | Definición Técnica |
+| Termo | Definición Técnica |
 | :--- | :--- |
-| **Activo** | El fuego se propaga libremente y su frente de llama avanza. |
-| **Estabilizado** | Sin estar controlado, evoluciona dentro de las líneas de control establecidas según el plan de extinción. No hay frentes libres. |
-| **Controlado** | Se ha logrado aislar y detener el avance del fuego dentro de un perímetro. Solo quedan puntos calientes en el interior. |
-| **Extinguido** | No existen materiales en ignición ni posibilidad de reactivación tras revisión. |
-
-### 🚨 Situaciones de Emergencia (PLADIGA / INFOGA)
-| Situación | Escenario de Gravedad |
-| :--- | :--- |
-| **Situación 0** | Incendio que puede ser controlado con medios previstos. No hay peligro para personas/bienes. |
-| **Situación 1** | Afecta a bienes de naturaleza no forestal o requiere medios adicionales. |
-| **Situación 2** | **Amenaza real para la integridad de las personas** o bienes de naturaleza no forestal. Es declarada formalmente por el órgano competente de la Xunta (Jefatura Territorial) a propuesta del Director de Extinción. |
-| **Situación 3** | Emergencia de interés nacional. |
+| **Monte/Terreo Forestal** | Todo terreo con especies forestais. **Exclúe**: Terrenos agrícolas, solo urbano e núcleo rural. |
+| **Incendio Forestal** | Lume sen control sobre combustibles forestais no monte. |
+| **Queima** | Lume sen control limitado ao **monte raso**. |
+| **Zona de Influencia Forestal (ZIF)** | Franxa de **400 metros** arredor do monte (exclúe solo urbano/núcleo rural). |
+| **Xestión Biomasa** | Descontinuidade horizontal e vertical da carga de combustible. |
+| **Director/a Técnico/a de Extinción (DTE)** | Autoridade pública (Axente da Autoridade). Mando único e mobilización de medios. En emerxencia, ten podería para **dispoñer de augas privadas e abrir brechas en muros** sen permiso previo (Art. 9). |
 
 ---
 
-## 🔥 PARTE III: USO DEL FUEGO Y QUEMAS (PLAN QUEMAS 2025)
+## 🚒 PARTE II: OPERACIÓNS E ESTADOS DO INCENDIO
 
-### Distancias y Plazos Críticos
+### 📊 Estados dun Incendio (Manual Laranxa / PLADIGA)
+O Plan de Prevención e Defensa contra os Incendios Forestais de Galicia (PLADIGA) define catro estados para a xestión operativa:
+1. **Activo:** O lume propágase libremente.
+2. **Estabilizado:** Evoluciona dentro das liñas de control, sen frentes libres, pero sen estar controlado aínda.
+3. **Controlado:** Avance detido e perímetro illado. Quedan puntos quentes no interior.
+4. **Extinguido:** Sen materiais en ignición nin risco de reactivación.
+
+### 🚨 Situacións de Emerxencia (PLADIGA / INFOGA)
+O Plan de Incendios Forestais de Galicia (INFOGA) categoriza as emerxencias en catro situacións:
+| Situación | Escenario de Gravidade |
+| :--- | :--- |
+| **Situación 0** | Controlable con medios previstos. Sen perigo para persoas/bienes. |
+| **Situación 1** | Afecta a bens non forestais ou require medios adicionais. |
+| **Situación 2** | **Ameaza real para as persoas** ou bens non forestais; require protección civil. |
+| **Situación 3** | Emerxencia de interese nacional. |
+
+---
+
+## 🔥 PARTE III: USO DO LUME E QUEIMAS (PLAN QUEIMAS / PLATAFORMA "QUEIMAS")
+
+### ⏱️ Xestión de Tempos e Comunicacións
+*   **Queima Restos Forestais:** Antelación mínima **7 días**. Requiere **Autorización**. Validez: **15 días**.
+*   **Queima Restos Agrícolas:** Antelación mínima **2 días**. Requiere **Comunicación**. Validez: **15 días**.
+*   **Horarios:** Deben estar totalmente extinguidas **2 horas antes do ocaso** (posta do sol). Esta é a norma técnica estable para evitar reactivacións sen vixilancia.
+*   **Suspensión:** Prohibido queimar con niveis **3, 4 e 5** (Alto, Moi Alto, Extremo) do Índice de Risco Diario de Incendio (IRDI). Nestes niveis, a identificación é obrigatoria en **Zonas de Alto Risco (ZAR)**.
+
+### 📏 Medidas de Seguridade Técnicas
+> [!WARNING]
+> Incumprir o ancho da devasa invalida a cobertura legal da queima.
+- **Devasa de Solo Mineral:** Franxa perimetral limpa ata a terra de **2 metros de ancho mínimo** (Art. 30 e Plan Quemas).
+- **Distancias:** Separación entre moreas de **2 metros** se hai vento.
+- **Vixilancia Post-Queima:** Non se pode abandonar o lugar ata que non se observen llamas ou brasas durante ao menos **2 horas** (mínimo técnico de seguridade).
+
+---
+
+## ⚡ PARTE IV: FAIXAS DE XESTIÓN DE BIOMASA (Art. 20-21)
+
+### Redes de Faixas e Prazos
+1. **Rede Primaria (Infraestruturas):**
+   - Estradas/Ferrocarril: Dominio público.
+   - Liñas Eléctricas: **5 metros** desde condutores externos.
+2. **Rede Secundaria (Poboación):**
+   - **50 metros** arredor de núcleos, vivendas, industrias e campings.
+   - Prazo límite anual: **31 de maio**.
+   - **Excepción Propietarios (Art. 22):** O prazo límite é o **1 de abril** para aqueles que incumpriron a obriga nalgún dos 4 anos anteriores.
+3. **Rede Terciaria:** Pistas forestais (**2 metros** a cada lado de rozado arbustivo).
+4. **Xestión de Gas:** Faixa de **2 metros** (1 metro a cada lado do eixe para conducións de transporte de gas natural, Art. 20 bis).
 
 > [!CAUTION]
-> El incumplimiento de estos parámetros técnicos convierte una quema autorizada en "Incendio Intencionado" a efectos legales.
-
-#### ⏱️ Gestión de Tiempos y Comunicaciones
-*   **Solicitud Quema Restos Forestales:** Mínimo **7 días de antelación**. (Autorización necesaria).
-*   **Comunicación Quema Restos Agrícolas:** Mínimo **2 días de antelación**. (Solo requiere comunicación).
-*   **Horario de Quemas:** Solo se permiten desde el **orto (salida del sol)** hasta las **14:00 horas**. (Salvo autorizaciones especiales).
-*   **Condiciones IRDI:** Solo permitidas con Riesgo **Bajo o Moderado**. Se suspenden automáticamente si el riesgo sube a Alto/Muy Alto/Extremo.
-
-#### 📏 Medidas de Seguridad en Quemas
-*   **Devasa Perimetral:** Debe limpiarse una franja de suelo mineral (ancho mínimo recomendado de **3-5 metros** según carga).
-*   **Vigilancia Post-Quema:** Presencia obligatoria hasta que no existan humos y mínimo **2 horas** después de la extinción aparente.
-*   **Agua:** Disponibilidad obligatoria de reserva de agua o medios de extinción en el punto de quema.
+> Nas faixas de 50m está **PROHIBIDA** a plantación de especies da Disposición Adicional 3ª (DA 3ª): **Eucaliptos**, **Piñeiros**, **Acacias**, **Toxos**, **Xestas** e **Fentos**.
 
 ---
 
-## ⚡ PARTE IV: FAJAS DE GESTIÓN DE BIOMASA (LEY 3/2007)
+## ⚖️ PARTE V: RÉXIME SANCIONADOR E COMPETENCIAS
 
-### Redes de Fajas
-
-1.  **Red Primaria (Infraestructuras):**
-    *   Carreteras/Ferrocarril: Dominio público.
-    *   Líneas Eléctricas: **5 metros** desde conductores externos.
-    *   Gasoductos: **1,5 metros** a cada lado del eje.
-2.  **Red Secundaria (Protección de Población):**
-    *   Franja de **50 metros** alrededor de núcleos, viviendas, industrias y campings.
-    *   Plazo máximo de limpieza: **31 de mayo** (cada año).
-3.  **Red Terciaria:** Pistas forestales (franja de **2 metros** a cada lado de la rodadura).
-
----
-
-## ⚖️ PARTE V: RÉXIME SANCIONADOR Y COMPETENCIAS
-
-### Clasificación de Infracciones (Art. 74)
-| Gravedad | Daño / Plazo de Restauración | Multa |
+| Gravidade | Dano / Restauración | Multa |
 | :--- | :--- | :--- |
-| **Leve** | Sin daño o restauración < 6 meses. | 100€ a 1.000€ |
-| **Grave** | Restauración entre 6 meses y 10 años. | 1.001€ a 100.000€ |
-| **Muy Grave** | Restauración > 10 años. | 100.001€ a 1.000.000€ |
+| **Leve** | Sen dano ou < 6 meses. | 100€ a 1.000€ |
+| **Grave** | Entre 6 meses e 10 anos. | 1.001€ a 100.000€ |
+| **Moi Grave** | > 10 anos. | 100.001€ a 1.000.000€ |
 
-### 👮 Autoridad Competente para Sancionar
-*   **Incoación (Inicio):** Persona titular de la **Jefatura Territorial** (Delegado Provincial).
-*   **Resolución Leves:** Persona titular de la **Jefatura Territorial**.
-*   **Resolución Graves:** Persona titular de la **Dirección General** competente (Defensa do Monte).
-*   **Resolución Muy Graves:** Persona titular de la **Consellería** (Conselleiro/a).
+### 👮 Responsables de Sanción e Procedemento (Art. 54.1)
+- **Incoación:** Persoa titular da **Xefatura Territorial**.
+- **Resolución Leves:** Persoa titular da **Xefatura Territorial**.
+- **Resolución Graves:** Persoa titular da **Dirección Xeral competente en materia forestal** (Defensa do Monte).
+- **Resolución Moi Graves:** Persoa titular da **Consellería competente en materia forestal** (Medio Rural).
 
 ---
 
-## 🎯 MATRIZ DE SEGURIDAD (PREGUNTAS TEST CLAVE)
+## 🎯 MATRIX DE SEGURIDADE (REPASO FINAL)
 
-1.  **¿Quién es el Director de Extinción?** Es un Agente de la Autoridad (Escala Técnica/Agente Forestal).
-2.  **¿Qué pasa si quemo sin el técnico presente en una quema controlada?** Se considera **Incendio Intencionado**.
-3.  **¿Plazo de respuesta para limpieza subsidiaria?** **15 días naturales** tras comunicación del Ayuntamiento/Xunta (o 3 meses para vías).
-4.  **¿Multa coercitiva mínima por biomasa?** **100€** (mínima) o **900€/hectárea**.
-5.  **¿Situación 2 del PLADIGA?** Amenaza real para personas o bienes no forestales (requiere protección civil).
-
-render_diffs(file:///f:/Proyectos Antigravity/Opos forestales/docs/outputs/summaries/t-esp-1-defensa_generador_v3.md)
+1. **¿Plazo autorización restos forestais e agrícolas?** 15 días naturais en ambos.
+2. **¿Ancho devasa de seguridade en queimas?** 2 metros (solo mineral).
+3. **¿Quén resolve infraccións GRAVES?** O Director/a Xeral.
+4. **¿Quén resolve infraccións MOI GRAVES?** O Conselleiro/a (Titular da Consellería).
+5. **¿Prazos limpeza se es reincidente (Art. 22)?** Antes do **1 de abril**.
+6. **¿Vixilancia post-queima?** Ata que non haxa fume e mínimo **2 horas**.
+7. **¿Faixa de xestión en Gas?** 2 metros (1m por cada lado).

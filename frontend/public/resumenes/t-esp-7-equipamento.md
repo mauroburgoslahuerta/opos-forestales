@@ -1,7 +1,7 @@
 # TEMA 7: MAQUINARIA, MOTOBOMBAS E FERRAMENTAS (SPIF GALICIA) 🚜🔥🚒
 
 > [!NOTE]
-> Este documento integra a "Fuente Única" de coñecemento para o Tema 7, cubrindo os tres piares técnicos: Maquinaria Pesada (Bulldozers), Vehículos Autobomba/Motobombas e Ferramentas (Manuais e Mecánicas). Baséase nos manuais oficiais da Xunta de Galicia e contratos de retén 2025.
+> Este documento integra a **"Fonte Única"** de coñecemento para o Tema 7, cubrindo os tres piares técnicos: Maquinaria Pesada (Bulldozers), Vehículos Autobomba/Motobombas e Ferramentas (Manuais e Mecánicas). Baséase nos manuais oficiais do **Servizo de Prevención de Incendios Forestais (SPIF)** de Galicia e nos contratos de retén 2025.
 
 ---
 
@@ -16,13 +16,23 @@
 *   **Tractores de Cadenas (Eirugas/Bulldozers):**
     *   Versatilidade, tracción e gran capacidade en pendentes. Recurso clave en extinción.
 
-### 1.2 Clasificación de Bulldozers (Potencia)
+| Tipo | Potencia (CV) | Peso (toneladas) | Características | Uso en Extinción |
+| :--- | :--- | :--- | :--- | :--- |
+| **Pesados (T1)** | >220 | 20-30 | Gran capacidade, pouca maniobrabilidade, difícil transporte. | Limitado. |
+| **Medios (T2)** | 150-220 | 18-22 | Equilibrados, moi empregados, maniobrables en pendentes. | **O máis común.** |
+| **Lixeiros (T3)**| 100-150 | 9-18 | Fácil transporte, idóneos para accesos limitados. | Pouco empregados. |
 
-| Tipo        | Potencia (CV) | Peso (toneladas) | Características                                                                        | Uso en Extinción                                                                    |
-| ----------- | ------------- | --------------- | ------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| Tipo 1 (Pesados) | >220          | 20-30           | Gran capacidade, pouca maniobrabilidade, difícil transporte.                             | Limitado.                                                                         |
-| Tipo 2 (Medios)  | 150-220       | 18-22           | Equilibrados, moi empregados, maniobrables en pendentes moderadas.               | **O máis común.**                                                                    |
-| Tipo 3 (Ligeros) | 100-150       | 9-18            | Fácil transporte, idóneos para accesos limitados e combustibles lixeiros.              | Pouco empregados.                                      |
+### 1.3 Seguridade e Estruturas de Protección
+As máquinas deben contar obrigatoriamente con estruturas certificadas de protección:
+- 🏗️ **ROPS (Roll-Over Protective Structure):** Estrutura de protección contra o envorcado.
+- 🏗️ **FOPS (Falling Object Protective Structure):** Estrutura de protección contra a caída de obxectos (crítico en traballos forestais).
+
+### 1.4 Métricas do Prego de Contrato 2025 (Puntos Clave)
+| Requisito | Valor / Norma |
+| :--- | :--- |
+| **Tempo de Resposta** | ⏱️ Máximo **30 minutos** dende a comunicación do aviso. |
+| **Xestión e Seguimento**| 🛰️ **GPS obrigatorio** para o seguimento en tempo real polo SPDCIF. |
+| **Pago Mínimo** | 💰 Garantido un pago mínimo de **2 horas** por cada saída de extinción. |
 
 ### 1.3 Follas de Empurre (Apeiros)
 
@@ -67,11 +77,10 @@
     - **Autorización Xenérica:** Para máquinas lixeiras.
     - **Autorización Específica:** Para maquinaria de tipo medio coa **folla de empuxe montada (ancho > 3 metros)**.
 - **Restriccións:** En períodos restrinxidos pódese circular previa comunicación ao Organismo de Xestión de Tráfico, indicando vehículo, características do transporte e itinerario (orixe a destino).
-- **Pistas para Góndola:** Deben estar acondicionadas con:
-    - **Pendente:** < 15%.
-    - **Radio de curvas:** > 30 metros.
-    - **Anchura de plataforma:** > 6 metros.
-- **Velocidade máxima:** 70 km/h (xenéricas), 60 km/h (específicas).
+- **Transporte Acompañado (Vehículo Piloto):**
+    - 🛣️ **En Estrada:** O vehículo piloto debe situarse **diante** do conxunto do transporte.
+    - 🏎️ **En Autovía/Autoestrada:** O vehículo piloto situarase **detrás** para protexer o transporte do tráfico de alta velocidade.
+- **Velocidade máxima:** 70 km/h (autorizacións xenéricas), 60 km/h (autorizacións específicas).
 
 > [!IMPORTANT]
 > **Contrato de Retén (Galicia 2025):** 18 lotes, 50 días de dispoñibilidade, potencia mínima 160 CV, peso 15-23 Toneladas, ancho de pa 3.4-3.8 m.
@@ -81,11 +90,12 @@
 ## CAPÍTULO 2: MOTOBOMBAS E VEHÍCULOS AUTOBOMBA 🚒
 
 ### 2.1 Clasificación segundo a Masa Total Cargada (MTC)
-| Clase | Abreviatura | MTC (Toneladas) |
+A **Masa Total Cargada (MTC)** determina a categoría do vehículo autobomba:
+| Clase | Abreviatura | Masa Total Cargada (MTC) |
 | :--- | :--- | :--- |
-| Lixeiros | L | 2 < MTC <= 7.5 |
-| Medios | M | 7.5 < MTC <= 14 |
-| Pesados | P | MTC > 14 |
+| 🟢 **Lixeiros** | L | Entre 2 e 7,5 Toneladas. |
+| 🟠 **Medios** | M | Entre 7,5 e 14 Toneladas. |
+| 🔴 **Pesados** | P | Superior a 14 Toneladas. |
 
 ### 2.1 Presións e Especificacións por Marca (3.500 RPM estándar)
 As bombas centrífugas de presión combinada (**Bc**) son as máis comúns. A identificación segue o patrón Bc (Caudal Baixa/10 - Presión Baixa/10 - Caudal Alta/10 - Presión Alta/10).
@@ -173,9 +183,16 @@ A maioría dos vehículos montan **bombas centrífugas** de presión combinada (
 - **Afiado:** Ángulo de 30-35º para o dente e 0.65mm para o limitador de profundidade.
 - **Carburación:** Parafusos H (principal), L (ralentí), LA (tope ralentí).
 
-#### 3.3.2 Desbrozadora
-- Elementos de corte: Fío (herba), Disco 2-3 puntas (mato <2.5cm), Disco de serra (pequenas árbores).
-- **Distancia de seguridade entre operarios:** 15 metros.
+#### 3.3.2 Desbrozadora (Motorrozadora)
+- **Elementos de corte:** Fío (herba), Disco 2-3 puntas (mato <2.5cm), Disco de serra (pequenas árbores).
+- **Distancia de seguridade entre operarios:** Mínimo **15 metros**.
+
+> [!CAUTION]
+> **O ESQUEMA DE PERIGO DO DISCO (KICKBACK):**
+> - **Zona A (12h a 3h):** Zona de corte seguro e máximo rendemento.
+> - **Zona B (9h a 12h):** **Zona de Perigo (Kickback)**. Ao tocar obxectos ríxidos, a máquina rexeita e produce o rebote cara ao operario.
+> - **Zona C (6h a 9h):** Zona perigosa por proxección de materiais cara ao operario.
+> - **Zona D (3h a 6h):** Zona de corte aceptable pero con menos control.
 
 ### 3.2 Maquinaria Mecánica Lixeira (Motoserra e Roza)
 *   **Motoserra Mediana:** Cilindrada de **40-65 cm³** e potencia entre 2,6 e 6,7 CV.
@@ -204,45 +221,34 @@ A maioría dos vehículos montan **bombas centrífugas** de presión combinada (
 
 ### Puntos de Fricción → Resposta Blindada
 
-| Punto de Fricción | Resposta Blindada |
+| Punto de Fricción | Resposta Blindada (Literalidade Exame) |
 | :--- | :--- |
-| **Pendente máxima bulldozer (curva nivel)** | 35% (Límite por envorcado lateral). |
-| **Distancia seguridade operando maquinaria** | > 15 metros (ampliar en zona arbolada). |
-| **Altura máxima aspiración motobomba** | < 6 metros. |
-| **Ratio mestura facho de goteo** | 2/3 Gasóleo, 1/3 Gasolina. |
-| **Afiado McLeod** | Só polo lado exterior (para rascar, non cravar). |
-| **Capacidade mochila extinción Xunta** | 17 litros habitualmente. |
-| **Uso de bloqueos nos vehículos** | Só con perda de tracción, parado e en curtas. Máximo 30 km/h. |
-| **Autorización para ancho > 3 metros** | **Autorización Específica**. |
-| **Requisitos de pista para góndola** | Pendente < 15%, Radio > 30m, Ancho > 6m. |
-| **Onde consultar en caso de accidente?** | No **Manual do Fabricante**. |
-| **Que facer ante un problema grave?** | Seguir o **protocolo establecido**. |
-| **Uso do Ripper en extinción** | Arrincar **raíces ou tocóns** e fixar a máquina en pendentes. |
-| **Definición Ataque Alterno** | Tractores traballando de forma **desacoplada**. |
-| **Anchura máxima da faixa** | Máximo **unha ou dúas pasadas** de máquina. |
-| **Maior rendemento de bulldozer** | Liña de máxima pendente **descendendo**. |
-| **Proba manovacuómetro (frecuencia)** | **Trimestral** (comprobación de baleiro). |
+| **Pendente bulldozer (nivel)** | 35% (Límite por envorcado lateral). |
+| **Estruturas de Protección** | Debe contar con **ROPS (envorcado)** e **FOPS (obxectos)**. |
+| **Tempo Resposta (Prego)** | Máximo **30 minutos** dende o aviso. |
+| **Pago Mínimo (Prego)** | Garantido un mínimo de **2 horas**. |
+| **Vehículo Piloto (Estrada)** | Debe situarse **diante** do transporte. |
+| **Vehículo Piloto (Autovía)**| Debe situarse **detrás** do transporte. |
+| **Kickback (Zona B)** | **9h a 12h**: Perigo de rebote cara ao operario. |
+| **Kickback (Zona C)** | **6h a 9h**: Perigo por proxección de materiais. |
+| **Altura máx. aspiración** | < 6 metros. |
+| **MTC Clase M (Autobombas)** | Entre 7,5 e 14 Toneladas. |
 | **Cor puntos de engraxe** | **Amarelo vivo**. |
 
 ### Flash-Métricas (Datos de Exame)
 
 | Métrica | Valor Clave |
 | :--- | :--- |
-| **Días dispoñibilidade retén maquinaria** | 50 días. |
+| **Días dispoñibilidade retén** | 50 días. |
+| **GPS en Maquinaria (Prego)** | **Obrigatorio** para seguimento polo SPDCIF. |
+| **Peso Gorgui / McLeod** | 2,5 kg / 2,2 kg. |
 | **Lonxitude total batelumes** | 2 metros. |
 | **Presión mínima na lanza** | 2 Atmosferas. |
-| **MTC Clase M (Autobombas)** | Entre 7.5 e 14 Toneladas. |
-| **Peso do Pulaski / McLeod** | 2.0 kg / 2.2 kg. |
-| **Capacidade vadeo autobombas** | 0.8 a 1.0 m. |
-| **Presión para subir 100 metros desnivel** | 10 Atm (1 atm por cada 10m). |
+| **Capacidade vadeo autom.** | 0.8 a 1.0 m. |
 | **Cambio bujía motoserra** | Cada 100 horas. |
-| **Antigüidade máxima maquinaria** | 20 anos (o adaptada a normativa). |
+| **Antigüidade máxima maq.** | 20 anos. |
 | **RPM estándar bombas Bc** | 3.500 rpm. |
-| **Cilindrada motoserra media** | 40-65 cm³. |
-| **Peso Gorgui / McLeod** | 2,5 kg / 2,2 kg. |
-| **Rendemento Modelo 4 (curva nivel)** | 0,5 - 1,0 km/h. |
-| **Engraxamento bomba (tempo)** | Cada 50 horas de uso. |
-| **Altura aspiración mangotes** | < 6 metros. |
+| **MTC Clase P (Pesados)** | > 14 Toneladas. |
 
 ---
 *Fin da "Fuente Única" - Tema 7*

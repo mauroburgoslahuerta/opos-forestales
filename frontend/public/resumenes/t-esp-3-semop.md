@@ -1,84 +1,76 @@
-# TEMA 3: SISTEMA ESTRUTURAL DE MANDO OPERATIVO (SEMOP) - V7 (SST BLINDADA)
+# Tema 3 Específico: Sistema Estrutural de Mando Operativo (SEMOP) 🛡️
+
+*Versión V8 ACADÉMICA. Manual técnico baseado no Incident Command System (ICS), optimizado para os protocolos de seguridade e o Plan de Extinción 2025.*
+
+---
+
+## 🔍 PASO 1: FILOSOFÍA E NOMENCLATURA DO LUME
+
+O **SEMOP** é un modelo modular de dirección de incendios que se adapta á evolución da emerxencia. A súa linguaxe é universal para garantir que tódolos medios intervinientes operen baixo un mando coordinado e seguro.
+
+### 📐 A Xeometría do Mando e a Nomenclatura
+Os sectores noméanse seguindo o avance do lume. Situándose na cola do incendio e mirando cara a cabeza:
+- **Flanco Esquerdo (Letras):** Empréganse letras (SA, SB, SC...). Existe un punto crítico: o **Sector P (Papa)**, que se sitúa sempre na **cabeza do flanco esquerdo**.
+- **Flanco Dereito (Números):** Empréganse números (S1, S2, S3...). O sector S1 adoita ser o máis próximo á cola ou punto de inicio.
+- **A Cabeza (SZ):** Se a cabeza do incendio se sectoriza de xeito independente para concentrar o ataque, a súa denominación obrigatoria é **SZ**.
+
+---
+
+## 👮 PASO 2: OS ROLES E A SÚA MISIÓN TÉCNICA
+
+### A. Director/a Técnico/a de Extinción (DTE)
+O Director Técnico de Extinción (DTE) é a máxima autoridade legal e técnica fóra das situacións de interese nacional. Ten a condición de Axente da Autoridade.
+- **Observadores:** É o **único responsable de definir os observadores** do incendio, garantindo a vixilancia dos frentes e a seguridade do persoal, incluso en niveis complexos de mando.
+- **Control e Reporte:** Debe informar aos Centros de Coordinación de Distrito (CCD) ou Provinciais (CCP) cada **30 minutos** durante as tarefas de extinción.
+
+### B. Mando Estratéxico: Planificación e Operacións
+- **Xefe/a de Planificación:** Encárgase de realizar a análise técnica e anticipar a evolución do lume. Deseña a estratexia no **Nivel C**.
+    - **Ubicación do PMA:** O Xefe de Planificación é o responsable de situar o **Posto de Mando Avanzado (PMA)** lonxe de repetidores, liñas de alta tensión e fóra de núcleos de poboación.
+- **Xefe/a de Operacións:** Responsable da execución táctica do plan deseñado polo DTE. Actúa nos niveis B e C coordinando os sectores.
+    - **XOA e CMA (Control Aéreo):** No solo opera o Xefe de Operacións Aéreas (XOA), mentres que dende o aire coordina o **Coordinador de Medios Aéreos (CMA)**. Tecnicamente, o CMA é a persoa embarcada nunha aeronave de coordinación e encargada, por delegación do DTE, do desenvolvemento das funcións de coordinación. Ten prohibido abandonar o incendio sen previo aviso.
+    - **O Punto de Recepción de Medios (PRM):** Faise obrigatorio ao pasar a Ataque Ampliado ou se existe interface urbana. Conta co **Auxiliar de PRM**, cuxas funcións inclúen a petición ao CCD sobre a xestión do avituallamento e a colaboración na planificación de relevos. *Excepción:* As brigadas helitransportadas poden eximirse se a súa operativa non o permite.
+
+---
+
+## 📊 PASO 3: NIVEIS OPERATIVOS E SATURACIÓN
+
+O SEMOP evoluciona segundo a complexidade e o número de medios:
+
+| Nivel | Sectores | Gatillo Técnico | Lóxica de Mando |
+| :--- | :--- | :--- | :--- |
+| **Nivel A** | Sen sectores | Ataque Inicial (< 5-7 equipos). | Dirección directa polo DTE. |
+| **Nivel B** | **Ata 3 sectores** | Ataque Ampliado (Interface ou > 7 equipos). | DTE asistido por Xefe de Operacións. |
+| **Nivel C** | **Máis de 3 sectores** | Previsión > 12h. UTA necesaria. | Xerarquía SEMOP completa (Planificación, Loxística). |
 
 > [!IMPORTANT]
-> **O Manto Dixital:** En todos os niveis e roles, o uso de **XeoCode Lite** é o fío condutor. Todos os mandos (DTE, Operacións, Planificación, Sectores) deben alimentar e consultar esta App para que a información flúa en tempo real [EXAMEN].
+> **Mobilización da Unidade Técnica de Apoio (UTA):** Aínda que a UTA é propia do Nivel C, pode ser despachada polo Centro de Coordinación Central (CCC) desde o inicio se as previsións son graves. Dato de integración: Os medios do Estado para o apoio ás Comunidades Autónomas non se considerarán medios alleos aos efectos de cambios de situación operativa.
 
 ---
 
-## 1. CONCEPTOS BÁSICOS E FILOSOFÍA [EXAMEN]
+## 📡 PASO 4: COMUNICACIÓNS E EQUIPOS ESPECIAIS
 
-O **SEMOP** é un modelo modular baseado no **ICS (Incident Command System)**. Permite que o mando se adapte á evolución do incendio.
+### O Cálculo de Canles TETRA (TMO) e Saturación
+A planificación de canles de radio debe seguir un esquema estrito para evitar a saturación: **1 canle de Mando + 1 canle de Aire + 1 canle por cada Sector activo**.
+- **Protocolo de Saturación:** Ante a saturación das comunicacións, o DTE ten a competencia de dar instrucións para a implantación dun **Gateway** ou repetidor que estenda a cobertura e capacidade.
 
-*   **Nomenclatura Correlativa:** Os sectores noméanse seguindo o avance do lume [EXAMEN].
-    *   **Flanco Esquerdo (Letras):** SA, SB... O **Sector P (Papa)** está na cabeza deste flanco [EXAMEN].
-    *   **Flanco Dereito (Números):** S1, S2... S1 adoita ser a cola.
-    *   **Cabeza (Sector SZ):** Se a cabeza se representa como sector, denomínase obrigatoriamente **SZ** [EXAMEN].
-
----
-
-## 2. OS ROLES E A SÚA XERARQUÍA [EXAMEN CRÍTICO]
-
-### A. Director/a Técnico/a de Extinción (DTE) - "O Responsable Legal"
-É un **Axente da Autoridade**. Nada se fai sen o seu permiso.
-*   **Observadores [DATO CLAVE]:** O/A DTE é o **responsable de definir os/as observadores/as** no plan de extinción, incluso en incendios de **Nivel B** [EXAMEN].
-*   **Reportes:** Cada **30 min** en incendio / cada **1 h** en queimas ao **CCD/CCP**.
-*   **Ferramentas:** Uso obrigatorio de **XeoCode Lite**.
-
-### B. Xefe/a de Planificación - "O Cerebro Estratéxico"
-Mira o futuro do incendio. Traballa principalmente en **Nivel C**.
-*   **Seguridade do PMA [EXAMEN]:** Debe estar lonxe de repetidores de telecomunicacións, liñas de alta tensión e fóra de núcleos de poboación.
-*   **Análise:** Realiza o análise técnico do incendio.
-
-### C. Xefe/a de Operacións - "O Coordinador Táctico"
-Aparece en **Nivel B/C**. Executa o plan do DTE a través dos sectores.
-*   **Xerarquía:** O XOA (Xefe de Op. Aéreas) depende del nesta fase.
-*   **Xestión:** Aínda que xestiona os recursos, a definición dos observadores segue sendo competencia do DTE [EXAMEN].
-*   **PRM en Nivel B:** O **Punto de Recepción de Medios** faise obrigatorio ao pasar de Ataque Inicial a Ampliado. O gatillo clave é a evolución cara **incendio de interface** [EXAMEN].
-*   **Excepción PRM [DATO SST]:** As brigadas helitransportadas poden ser eximidas se non resulta operativo [EXAMEN].
-
-### D. XOA e CMA - "O Control Aéreo"
-*   **XOA (Xefe de Op. Aéreas):** No solo. Só fai o **esbozo técnico de zonas** se existe unha aeronave de coordinación (**CMA**) [EXAMEN].
-*   **CMA (Coordinación de Medios Aéreos):** No aire. Ten prohibido abandonar o incendio sen avisar ao DTE ou XOA.
+### Equipos Estratéxicos e Medios
+- **UDEX:** A Unidade de Directores de Extinción (UDEX) é un equipo de elite con **dependencia funcional da Dirección Xeral de Defensa do Monte**. Poden asumir calquera rol dentro do SEMOP.
+- **Vehículo Motobomba:** Capacidade estrita de entre **2.500 e 4.500 litros**. As Nodrizas superan os **10.000 litros**.
+- **O Batracio:** Equipo multifunción para traballos de forza, composto por un **Tractor forestal cunha cisterna, un apeiro triturador e unha lámina frontal**.
+- **Xefe de Loxística:** Indispensable vehículo todo terreo rotulado, equipado con **rotativo luminoso de emerxencia fixo** e mobilófono Tetra.
 
 ---
 
-## 3. NIVEIS OPERATIVOS: A REGRA DO 3 [EXAMEN]
+## 🎯 MATRIX DE SEGURIDADE (DATOS TÉCNICOS DE REPASO)
 
-| Nivel | Sectores de Traballo | Lóxica de Mando |
-| :--- | :--- | :--- |
-| **Nivel A** | Ataque Inicial | O DTE xestiona ata 5-7 equipos directamente. |
-| **Nivel B** | **Ata 3 sectores** | Nivel determinado por **CCD**. Gatillo: Interface ou >7 equipos. |
-| **Nivel C** | **Máis de 3 sectores** | Previsto > 12h. UTA despachada polo **CCC** (Ataque Inicial) [EXAMEN]. |
-
----
-
-## 4. COMUNICACIÓNS E MATERIAIS [EXAMEN]
-
-*   **O Cálculo das canles TMO (Tetra):** 1 canle de Comando + 1 canle de Aire (XOA/CMA) + **1 canle por cada sector**.
-    *   *Exemplo:* 2 sectores e un XOA = **4 canles TMO** (Mando + Aire + S1 + S2).
-*   **Loxística e UDEX:**
-    *   **UDEX (Unidade de Directores de Extinción):** Equipo cualificado con **dependencia funcional da Dirección Xeral de Defensa do Monte** [EXAMEN]. Pode asumir a DTE ou **calquera outra figura do SEMOP (incluída a UTA)** en lumes complexos [EXAMEN].
-    *   **Xefe de Loxística:** Vehículo 4x4 rotulado, rotativo e emisora Tetra [EXAMEN].
-    *   **Auxiliar de PRM:** Precisa emisora Tetra, móbil, acceso a XeoCode Lite e uso do **Anexo 12** [EXAMEN].
-*   **Equipos Especiais - Batracio [SST]:** Composto por tractor forestal, cisterna, apeiro triturador e lámina frontal multifunción [EXAMEN].
-*   **Medios:** Motobomba (2.500-4.500 l) / Nodriza (> 10.000 l).
-
----
-
-## 5. MATRIZ DE SEGURIDADE FINAL (SINGLE SOURCE OF TRUTH)
-
-| Punto de Fricción Nico | Resposta Blindada Exame |
-| :--- | :--- |
-| **¿Quen define observadores en B?** | O **DTE** (Director Técnico de Extinción). |
-| **¿Quen move o PMA?** | O **Xefe de Planificación**. |
-| **¿Dependencia UDEX?** | **Dirección Xeral de Defensa do Monte**. |
-| **¿App de cabeceira?** | **XeoCode Lite** (para todos os mandos). |
-| **¿Cando é Nivel C?** | Cando hai **máis de 3 sectores**. |
-| **¿Reporte en queimas?** | Cada **1 hora**. |
-| **¿Ubicación Sector P?** | Cabeza do **flanco esquerdo**. |
-| **¿Aviso PRM?** | **30 minutos** antes de chegar. |
-| **¿Despacho UTA en Inicial?** | O **CCC** (Centro de Coordinación Central). |
-| **¿Composición Batracio?** | Tractor + Cisterna + Triturador + Lámina frontal. |
-| **¿Prohibición PMA?** | Liñas alta tensión / Repetidores / Núcleos poboación. |
-| **¿Excepción PRM?** | Brigadas helitransportadas. |
-| **¿Xestión Xefe Sector?** | Entre **3 e 5 equipos** (máximo puntual 7). |
+1. **¿Quen define observadores?** O Director Técnico de Extinción (DTE).
+2. **¿Ubicación do Sector P?** Na cabeza do **flanco esquerdo**.
+3. **¿Cando é obrigatorio o Punto de Recepción de Medios (PRM)?** Ao inicio do **Nivel B**.
+4. **¿Quén decide a ubicación do PMA?** O Xefe de **Planificación**.
+5. **¿Cantas canles para 4 sectores e mando aéreo?** **6 canles** (1 Mando + 1 Aire + 4 Sectores).
+6. **¿Dependencia da Unidade de Directores de Extinción (UDEX)?** Dirección Xeral de Defensa do Monte.
+7. **¿Capacidade dunha Vehículo Motobomba?** Entre **2.500 e 4.500 litros**.
+8. **¿Detalle do Xefe de Loxística?** Vehículo con rotativo luminoso de emerxencia **fixo** (non de quita e pon).
+9. **¿Quen solicita o avituallamento ao CCD?** O **Auxiliar de PRM**.
+10. **¿Definición de CMA?** Persoa embarcada encargada da coordinación por delegación do DTE.
+11. **¿Prazos de reportes?** Cada **30 minutos** ao CCD/CCP.

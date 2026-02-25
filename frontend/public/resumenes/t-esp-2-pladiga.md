@@ -1,93 +1,90 @@
-# TEMA 2 (ESPECÍFICO): PLADIGA 2025 (PREVENCIÓN E DEFENSA CONTRA IF)
-_Versión 6: Blindaje Total "Fuente Única 100%" (CIG-FORGA 2025)_
+# Tema 2 Específico: O PLADIGA 2025 (Manual de Combate V8 ACADÉMICA) 🛡️
+
+*Versión consolidada "Fonte Única". Integra o Plan de Prevención e Defensa contra os Incendios Forestais de Galicia (PLADIGA) para o exercicio 2025. Estilo redactado para facilitar a comprensión técnica.*
 
 ---
 
-## 1. MARCO NORMATIVO E ESTRUTURACIÓN
-O **PLADIGA** (Plan de Prevención e Defensa contra os Incendios Forestais de Galicia) é o documento marco anual de loita contra o lume.
+## 🔍 PASO 1: O MARCO DO PLADIGA E A REALIDADE FORESTAL
 
-### 1.1. Competencia e Datos de Uso
-- **Elaboración:** Consellería do Medio Rural (**Art. 13 Lei 3/2007**). Aprobación polo Consello da Xunta.
-- **Uso Forestal Galicia (Metadatos):**
-    - **69%** do territorio galego é monte.
-    - Dese monte, o **70% é arbolado** (Superficie: **1.424.094 ha**).
+O PLADIGA non é só un manual operativo, é a ferramenta estratéxica anual que a Consellería do Medio Rural debe elaborar obrigatoriamente por lei (**Art. 13 Lei 3/2007**). A súa aprobación definitiva recae no Consello da Xunta e debe reflectir a complexidade do territorio galego: un **69% de superficie de monte**, onde o **70% está arborizado**.
 
-### 1.2. Centros de Coordinación e Gabinetes
-1.  **CCC (Central):** Ámbito autonómico. Declara a **Situación 1** (vía Director Xeral).
-2.  **CCP (Provincial):** Xestiona medios aéreos e maquinaria pesada provincial.
-3.  **CCD (Distrito):** **Coordina tódolos medios terrestres** na súa zona (sexan do SPIF, locais ou outros).
--   🚨 **Gabinete Crise Provincial:** Xefe Dep. Territorial, Xefe Provincial PIF, Técnico de Garda e asesores. (**O Xefe de Distrito NON forma parte**).
+Para dominar a súa estrutura é vital non confundir os niveis de mando:
+- **CCC (Central):** Centro de Coordinación Central, con visión autonómica e competencia para declarar grandes situacións de emerxencia.
+- **CCP (Provincial):** Centro de Coordinación Provincial, que actúa como xestor dos recursos pesados, como medios aéreos e maquinaria de movemento de terras.
+- **CCD (Distrito):** Centro de Coordinación de Distrito, o auténtico núcleo operativo sobre o terreo que coordina tódolos medios terrestres dunha zona.
+- **UIFO:** Unidade de Investigación de Incendios Forestais, nacida en 2021, que opera baixo as ordes directas da Dirección Xeral de Defensa do Monte.
 
----
-
-## 2. PROCEDEMENTO OPERATIVO E DETECCIÓN
-
-### 2.1. Detección (Métricas RVENG 2024)
--  **Rede de Vixilancia (RVENG):** Conta con **148 cámaras** en **74 localizacións** (Datos 2024).
--  **Teléfono:** 085 / 112 (Gratuíto).
-
-### 2.2. Zonas e Parroquias Protexidas (Datos 2025)
-- **ZAR (Zonas Alto Risco):** **194 concellos** (Dato oficial 2025 tras fusións como Cerdedo-Cotobade).
-- **PAAI (Parroquias de Alta Actividade Incendiaria):** Total **26 parroquias**.
-    - **18** polo Criterio 1 (Nº lumes/superficie).
-    - **4** polo Criterio 2 (Grande incendio/reitencia).
-    - **4** por ambos criterios.
-
-### 2.3. Comunicaciones e Solicitudes (Puntos PRO)
-- **Reporte DTE:** É obrigatorio informar ao CCD cada **30 minutos**.
-- **Metadatos Solicitude:**
-    - **Maquinaria Pesada:** Localización, nome DTE e **Teléfono de contacto**.
-    - **Medios Aéreos:** Folla, cuadrícula, canle e nome DTE.
-- **CMA (Coordinación Medios Aéreos):** Mobilízase cando coinciden **3 ou máis medios de distinta clase** ou **6 da mesma**.
+### 🎯 Obxectivos Estratéxicos de Extinción
+O Plan de Extinción de 2025 establece prioridades claras e medibles:
+- **Defensa das persoas:** Prioridade absoluta e innegociable sobre calquera masa forestal.
+- **Redución de incerteza:** Minimizar o número de incendios de causa descoñecida e os reproducidos.
+- **Protección de espazos de alto valor:** Defensa especial dos espazos naturais protexidos e masas arboradas singulares.
+- **Métrica de Eficiencia:** Reducir o tempo de reacción por debaixo da media histórica de **22 minutos**.
 
 ---
 
-## 3. SEMOP (SISTEMA ESTRUTURAL DE MANDO OPERATIVO)
+## 🔥 PASO 2: DETECCIÓN E PROTOCOLO DE ALARMA
 
-### 3.1. Niveis Operativos (Saturación)
-- **Nivel A (Ataque Inicial):** Sen sectorización. < 5-7 equipos de intervención.
-- **Nivel B (Ataque Ampliado):** Necesidade de sectorización. Capacidade ata 3 sectores. Traballo **< 12 horas**.
-- **Nivel C (Ataque Avanzado):** > 3 sectores. Traballo **> 12 horas**. Incorpora UTA, Loxística e Planificación.
+A loita contra o lume comeza cunha detección eficaz. A **Rede de Vixilancia (RVENG)** conta con 148 cámaras distribuídas en 74 localizacións estratéxicas para cubrir o territorio.
 
-### 3.2. Constitución do PMA (Posto de Mando Avanzado)
-En Situación 0 e 1, o PMA está composto fisicamente por:
-1. **DTE** (Director Técnico de Extinción).
-2. **Responsable de Intervención**.
-3. (Opcional): Persoal de Loxística, Seguridade e Sanitario.
+> [!IMPORTANT]
+> **Protocolo de Comunicación Técnico:** Ao detectar un foco, un posto fixo debe transmitir as coordenadas UTM vía sistema TETRA ou telefónico ao CCD correspondente. Se unha patrulla móbil descobre o lume, debe facer unha valoración e iniciar a extinción inmediata salvo que reciba unha Orde de Operacións en contra.
 
----
-
-## 4. DIRECCIÓN TÉCNICA E INVESTIGACIÓN
-
-### 4.1. Designación DTE
-- Polo **CCD**. Orde: Técnico Distrito > Axente > Xefe Brigada.
-- Desempate: **Experiencia + Coñecemento do terreo**.
-- **Interfaz:** Mando dual (Bombeiros urbanos no núcleo + DTE no forestal).
-
-### 4.2. Unidades de Investigación (BIIF / UIFO)
-- **UIFO (Unidade de Investigación):** Creada en **2021**. Depende directamente da **Dirección Xeral** (nivel autonómico). Composta por **15 axentes**.
-- **BIIF (Brigadas de Investigación):** Dependen funcionalmente da UIFO.
-    - 🚨 **Obrigación BIIF:** Os axentes deben inspeccionar **de oficio** os predios se as condicións dificultaron a extinción ou hai indicios de delito.
+### 🛡️ Parroquias de Alta Actividade Incendiaria (PAAI 2025)
+Este ano o Plan identifica **26 parroquias PAAI**. Esta clasificación responde a dous criterios técnicos:
+1. **Criterio 1:** Elevado número de focos ou gran superficie queimada en termos históricos (18 parroquias).
+2. **Criterio 2:** Ter padecido un Grande Incendio Forestal (GIF) ou mostrar reiteración recente (4 parroquias).
+*As remaining 4 parroquias cumpren ambos requisitos simultaneamente.*
 
 ---
 
-## 5. SEGURIDADE E MÉTRICAS EXAME
+## 🚒 PASO 3: O MANDO E O SISTEMA SEMOP
 
-### 5.1. Protocolo OACEL (5 Fases)
-1.  **O (Observación):** Lume e meteo.
-2.  **A (Atención):** Instrucións e alertas.
-3.  **C (Comunicación):** Contacto constante.
-4.  **E (Escape):** Rutas de saída.
-5.  **L (Lugar Seguro):** Zonas de refuxio.
+O Sistema Estrutural de Mando Operativo (SEMOP) organiza a resposta segundo a gravidade e saturación de medios:
+- **Nivel A:** Ataque inicial con ata 7 equipos sen necesidade de sectores.
+- **Nivel B:** Ataque ampliado con ata 3 sectores e traballo previsto de menos de 12 horas.
+- **Nivel C:** Ataque avanzado con máis de 3 sectores e traballo prolongado (> 12h).
 
-### 5.2. Flash-Métricas (Obxectivos 100%)
-| Métrica | Valor |
-| :--- | :--- |
-| **Tempo de Reacción** | **22 minutos** (Media 10 anos) |
-| **Tempo de Control** | **2h 44min** |
-| **Duración Media** | **5h 18min** |
-| **Lumes > 25 ha** | < 2% obxectivo |
-| **PMA Situación 2** | Designado polo Director do Plan (Técnico SPIF). |
+### 🚨 O Posto de Mando Avanzado (PMA)
+O PMA sitúase na proximidade do incendio para facilitar a dirección técnica. A súa composición varía segundo a situación:
+- **Situación 0 e 1:** Dirixido polo **Director Técnico de Extinción (DTE)**, co apoio do Responsable de Intervención.
+- **Situación 2:** O mando é asumido por un técnico designado pola **Persoa Titular da Delegación Territorial** da Xunta.
+
+> [!WARNING]
+> **Xestión por XEOCODE:** O CCP supervisa tódolos movementos no sistema Xeocode. É un dato fundamental que o **CCP debe introducir a hora de aviso de mobilización da maquinaria pesada**.
 
 ---
-_Resumen Final V6 Definitiva - Tema 2 PLADIGA. Fuente Única Blindada._
+
+## 📏 PASO 4: PROCEDEMENTOS OPERATIVOS E ESTRATEXIA
+
+### 🚁 Xestión de Medios Aéreos
+Toda solicitude de medios debe incluír a folla e cuadrícula do mapa, a canle de radio e o nome do DTE.
+- **Protocolo de Autorización:** Os movementos de medios aéreos dentro da mesma provincia **só se comunican ao CCC**, non requiren a súa autorización previa se son intraprovinciais.
+- **Cartografía:** Se se solicitan avións anfibios, o CCD debe informar do núcleo de poboación máis próximo mediante o plano **1:250.000 do Instituto Xeográfico Nacional (IGN)**.
+
+### 💼 Responsabilidades do Mando
+O DTE ten a condición de **Axente da Autoridade**. Ten mando único e pode decidir o uso de técnicas complexas como o **contralume**. Ten a obriga de informar ao CCD cada **30 minutos** sobre a evolución do incendio.
+
+---
+
+## 🛡️ PASO 5: SEGURIDADE E PROTOCOLO OACEL
+
+A seguridade é o piar de calquera intervención forestal. O protocolo **OACEL** é a norma de ouro sobre o terreo:
+1.  **O (Observación):** Mirar o lume e a meteoroloxía de xeito constante.
+2.  **A (Atención):** Estar pendente das instrucións e alertas de seguridade.
+3.  **C (Comunicación):** Manter contacto por radio continuo con mando e compañeiros.
+4.  **E (Escape):** Ter localizadas e despexadas en todo momento as rutas de saída.
+5.  **L (Lugar Seguro):** Identificar as zonas de refuxio fronte a un cambio de comportamento do lume.
+
+---
+
+## 🎯 MATRIX DE SEGURIDADE (REPASO DE DATOS CLAVE)
+
+1. **¿Tempo medio de reacción (obxectivo)?** Por debaixo dos **22 minutos**.
+2. **¿Quén nomea ao DTE en caso de igual categoría?** O CCD baseándose en Experiencia e Coñecemento territoral.
+3. **¿Cando se mobiliza a Coordinación de Medios Aéreos (CMA)?** 3 ou máis medios de distinta clase ou 6 da mesma.
+4. **¿Quén declara a Situación 1?** O CCC a través do Director Xeral.
+5. **¿O Xefe de Distrito forma parte do Gabinete de Crise Provincial?** **NON**.
+6. **¿Prazos do SEMOP Nivel B?** Traballo < 12 horas e ata 3 sectores.
+7. **¿Movementos aéreos intraprovinciais?** Só comunicación ao CCC, sen autorización previa.
+8. **¿Concellos ZAR 2025?** Un total de **194 concellos** de Alto Risco.

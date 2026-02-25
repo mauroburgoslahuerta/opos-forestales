@@ -3,7 +3,7 @@
 ## TEMA: CONDUCCIÓN TODOTERREO, ESTIBA DE FERRAMENTAS, APROXIMACIÓN E ESTACIONAMENTO (SPIF)
 
 > [!NOTE]
-> Este tema abarca desde as normas e condutas básicas para a condución todoterreo ata a estiba de ferramentas e os protocolos de aproximación e estacionamento en incendios forestais. O coñecemento detallado destas áreas é crucial para o desenvolvemento seguro e eficaz das operacións do SPIF.
+> Este tema abarca dende as normas e condutas básicas para a condución todoterreo ata a estiba de ferramentas e os protocolos de aproximación e estacionamento en incendios forestais. O coñecemento detallado destas áreas é crucial para o desenvolvemento seguro e eficaz das operacións do **Servizo de Prevención de Incendios Forestais (SPIF)**.
 
 ### 1. POSICIÓN DE CONDUCCIÓN
 
@@ -37,6 +37,14 @@ A correcta posición de condución é fundamental para a seguridade e o confort.
 
 *   **CENTRO DE GRAVIDADE:** Punto imaxinario onde se concentran todas as forzas que recibe un corpo. A súa altura inflúe na estabilidade.
 *   **ALTURA LIBRE AO CHAN:** Distancia mínima entre o punto máis baixo do vehículo e o chan. Recomendable: 190mm (200mm no último prego de condicións) nos vehículos TT. **[PREGUNTA TEST]** A **carcasa do diferencial** considérase a parte máis baixa do vehículo.
+
+```mermaid
+graph LR
+    A["Ángulo de Ataque (Frontal)"] --- B["Ángulo Ventral (Centro)"]
+    B --- C["Ángulo de Saída (Traseiro)"]
+    D["Distancia entre eixes (Batalla)"] -.->|Afecta| B
+```
+
 *   **ÁNGULO VENTRAL:** Posibilidade de roce nas baixadas ou ao superar un cambio de rasante brusco. Adoita oscilar entre os 135º e 150º (Ángulo ventral: 21º, como mínimo según último prego de condicións). **[DATO TÉCNICO]** O ángulo ventral depende directamente da **distancia entre eixes (batalla)**: a maior batalla, menor ángulo ventral e máis risco de "pancear".
 *   **ÁNGULO DE ATAQUE:** Ángulo entre a superficie frontal da roda dianteira e a parte máis saínte do parachoques. Inflúe na capacidade de abordar desniveis. O valor do ángulo de ataque nos vehículos TT situase entre os 32º e 49º por termo medio (25º, como mínimo según último prego de condicións).
 *   **ÁNGULO DE SAÍDA:** Similar ao ángulo de ataque, pero para as rodas traseiras. Soe ser menor que o de entrada soe estar entre os 25º e 45º, (20º, como mínimo como mínimo según último prego de condicións).
@@ -62,7 +70,7 @@ A correcta posición de condución é fundamental para a seguridade e o confort.
     *   Tipos de bloqueos: Dianteiros, traseiros, central ou lonxitudinal.
 
 > [!WARNING]
-> Nunca conectar os bloqueos dos diferenciais co vehículo en marcha nin superar os 30 km/h. Desconectalos ao saír da situación de falta de tracción.
+> Nunca conectar os bloqueos dos diferenciais co vehículo en marcha nin superar os 30 km/h. Desconectalos ao saír da situación de falta de tracción. TRAS PASAR DE 4X4 (4H/4L) A 2H, É NECESARIO **CIRCULAR EN MARCHA ATRÁS EN LIÑA RECTA ENTRE 2 E 4 METROS** PARA DESBLOQUEAR OS CUBOS DIANTEIROS. **[PROTOCOL MECÁNICO CRÍTICO]**
 
 *   **NEUMÁTICOS:** Elemento clave para a tracción fóra da estrada.
     *   Tipos: H/T (Highway Terrain), A/T (All Terrain), M/T (Mud Terrain).
@@ -115,11 +123,10 @@ A correcta posición de condución é fundamental para a seguridade e o confort.
 *   Baixar a presión dos pneumáticos para maior agarre.
 *   En caso de quedar atrapados, alixeirar o peso, limpar o barro e colocar pranchas.
 
-#### 3.5 ZONAS DE XEO OU NEVE
-
-*   Condución suave e exacta, sen frenazos nin aceleróns.
-*   Usar cadeas sempre que sexa posible.
-*   Manterse dentro da pista, ser suaves na condución sen frenazos nin aceleróns, manter unha velocidade constante en marchas longas e a poucas revolucións do motor e velocidade baixa, mover o menos posible o volante, nunca baixar a presión dos neumáticos, (canto máis anchos sexan os pneumáticos menor agarre), se hai pouca neve circular polas rodadas no caso de habelas, se hai moita neve ir fora das rodadas, ir pola neve sen pisar.
+*   **XEO / NEVE:**
+    > [!IMPORTANT]
+    > **Presión en Xeo/Neve:** Ao contrario que na area, en superficies de **xeo ou neve dura**, a presión do pneumático debe ser **ALTA** (non baixar nunca a presión). Isto faise para que o pneumático teña menos superficie de contacto e poida **"cravar"** mellor no firme.
+    
 *   Ascenso: Realizar xiros a ambos lados co volante (eses).
 *   Descenso: Ir en liña recta, corrixindo suavemente os desprazamentos laterais.
 *   Actuar con rapidez e serenidade, sen frear bruscamente nin dar volantazos.
@@ -131,6 +138,18 @@ A correcta posición de condución é fundamental para a seguridade e o confort.
     *   Conectar a redutora e seleccionar 1ª ou 2ª velocidade, motor a altas revolucións, velocidade constante.
     *   Ir en liña recta, sen soltar o acelerador nin frear ata coroar a pendente.
     *   En caso de patinar, frear e provocar que se cale. Para descender con tracción, usar a técnica de freada de emerxencia co motor de arranque.
+
+#### 3.6.1 Manobra de Emerxencia en Pendentes (O Calado)
+
+```mermaid
+graph TD
+    A[Vehículo detense ou patina] --> B[FREAR A FONDO e calar motor]
+    B --> C[Engranar MARCHA ATRÁS]
+    C --> D[ACCIONAR ARRANQUE sen pisar embrague]
+    D --> E[Soltar freo suavemente]
+    E --> F[Descenso controlado co FREO MOTOR]
+```
+
 *   **Manobra de Emerxencia en Pendentes (O Calado):** Se o vehículo non coroa e se detén, **frear a fondo, calar o motor e poñer a marcha atrás**. Co motor parado, **conectar o motor de arranque coa chave ao tempo que se solta o freo** suavemente para descender co freo motor desde o primeiro milímetro.
 *   **Descenso:**
     *   Proceder do mesmo xeito que nos ascensos, sen acelerar, frear nin cambiar de velocidade.
@@ -175,7 +194,9 @@ A correcta posición de condución é fundamental para a seguridade e o confort.
 
 *   Analizar o terreo e decidir a mellor forma de abordalos.
 *   Optar por unha inclinación lateral se o ancho o permíte.
-*   Se o ángulo o permíte, e o terreo é consistente podémolas conducir de forma que cada costado vaia por cada un dos planos que forma a V. Esta posibilidade depende tamén do consistente do terreo, e de que sexa máis ou menos irregular, evitando que as rodas “caian ao centro”
+*   Se o ángulo o permíte, e o terreo é consistente podémolas conducir de forma que cada costado vaia por cada un dos planos que forma a V. 
+> [!CAUTION]
+> **Risco en Pasos en V:** O perigo principal non é tanto o envorco, senón **apoiar un costado contra o noiro** e causar graves danos estruturais ao vehículo.
 
 ### 4. A ESTIBA DAS FERRAMENTAS
 
@@ -230,9 +251,20 @@ A correcta posición de condución é fundamental para a seguridade e o confort.
 #### 5.3 PROTOCOLO LACES (SEGURIDADE OPERACIONAL) [EXAMEN]
 
 O acrónimo **LACES** é a base da seguridade en incendios:
+
+```mermaid
+mindmap
+  root((LACES))
+    L[Lookouts - Vixilancia]
+    A[Anchors - Anclaxes]
+    C[Communications - Comunicacións]
+    E[Escape zones - Roteiros de Escape]
+    S[Safety zones - Lugares Seguros]
+```
+
 *   **L (Lookouts / Vixilancia):** Vixiantes situados con visión clara do lume e do persoal.
 *   **A (Anchors / Anclaxes):** Iniciar o traballo desde un punto seguro (anclado).
-*   **C (Communications / Comunicacións):** Enlace radio constante entre brigada e CCD.
+*   **C (Communications / Comunicacións):** Enlace radio constante entre brigada e o **Centro de Coordinación de Distrito (CCD)**.
 *   **E (Escape zones / Escapes):** Vías de saída libres de obstáculos cara a zonas seguras.
 *   **S (Safety zones / Zonas de Seguridade):** Lugares onde o persoal pode refuxiarse sen EPIs ignífugos se o lume desborda.
 
@@ -378,17 +410,17 @@ O acrónimo **LACES** é a base da seguridade en incendios:
 *   Neumático tipo: Mixto (AT), con debuxo especial todoterreo, llanta de 16 a 18 pulgadas.
 *   Recambios: 4x4 All Terrain con debuxo 50% campo 50% carretera.
 
-#### 7.8 DIMENSIÓNS, ÁNGULOS E COTAS
+#### 7.8 DIMENSIÓNS, ÁNGULOS E COTAS (MÍNIMOS ADMISIBLES)
 
-| Parámetro               | Valor Mínimo |
-| :----------------------- | :----------- |
-| Longitude              | 5.200 mm     |
-| Anchura                | 1.800 mm     |
-| Altura                 | 1.750 mm     |
-| Ángulo de entrada        | 25º          |
-| Ángulo de saída         | 20º          |
-| Ángulo ventral          | 21º          |
-| Altura libre ao chan     | 200 mm       |
+| Parámetro | Valor Mínimo | Impacto na Condución |
+| :--- | :--- | :--- |
+| **📏 Longitude** | 5.200 mm | Maniobrabilidade e radio de xiro. |
+| **↔️ Anchura** | 1.800 mm | Estabilidade e acceso a pistas estreitas. |
+| **↕️ Altura** | 1.750 mm | Centro de gravidade e gálibos. |
+| **📐 Ángulo de entrada** | **25º** | Capacidade para abordar obstáculos frontais. |
+| **📐 Ángulo de saída** | **20º** | Evitar golpes no portón ao saír de fochancas. |
+| **📐 Ángulo ventral** | **21º** | Evitar o panceo (depende da **batalla**). |
+| **🚜 Altura libre** | **200 mm** | Ponto crítico: **carcasa do diferencial**. |
 
 #### 7.9 KIT DE EXTINCIÓN
 
@@ -404,7 +436,8 @@ O acrónimo **LACES** é a base da seguridade en incendios:
 #### 7.10 HARD TOP (CAPOTA RÍXIDA)
 
 *   Construído a medida en aceiro inoxidable ou galvanizado (1,6 mm mínimo).
-*   **Dimensións [EXAMEN]:** Os portóns laterais deben ter un mínimo de **40 x 85 cm**. O portón traseiro debe cubrir polo menos o **80% do paramento**. Dous portóns laterais e un traseiro con peche de seguridade e amortecedores.
+*   **Dimensións [EXAMEN]:** Os portóns laterais deben ter un mínimo de **40 x 85 cm**. O portón traseiro debe cubrir polo menos o **80% do paramento**. 
+*   **Capacidade de Carga:** Debe incorporar unha balda intermedia que suporte como mínimo **20 kg**. **[PREGO 2023]**
 *   Pintado na cor da carrocería.
 *   Interior dividido en 3 ocos independentes con iluminación LED. Espazos separados para EPIs, ferramentas, motosierras e combustible. Reixa de ventilación para combustibles e bomba. Anillas de suxeición. Anclaxe para 3 garrafas de combustible de 10L.
 
@@ -443,18 +476,38 @@ O acrónimo **LACES** é a base da seguridade en incendios:
 *   Lanza de 25 TB PN-40 con capacidade de regulación do caudal e con función autolimpieza (25, 50, 75 y 150l/min). Adaptador para linternas e cartuchera.
 *   Expansor de espuma acoplable á lanza e cartuchera.
 *   Lanza acortinadora forestal (25mm) en inox AISI-316L. Consumo máximo de 100 l/min a 16 bar.
-*   Reducións de 45
+*   **Reducións [EXAMEN]:** O vehículo debe portar **unha (1) redución de 45 TB / 25 TB** e **unha (1) redución de 70 TB / 45 TB**. **[TEST 34]**
 
 ---
 
-### 🚀 TIPS DE EXAME (ESCUDO DE SEGURIDADE V3)
+### 🚀 TIPS DE EXAME (ESCUDO DE SEGURIDADE V10 GOLD) 🛡️
 
-**TRAMPAS CRÍTICAS IDENTIFICADAS:**
-*   **Protocolo LACES:** L (Vixilancia), A (Anclaxe), C (Comunicacións), E (Escapes), S (Seguridade).
-*   **Polea de Reenvío:** Permite **dobrar a capacidade** (ex: 7.000 kg) pero a **metade de velocidade**.
-*   **Battenburg Nivel 3:** O chevron traseiro debe ser **Nivel 3** (CEN 1789:2007).
-*   **Pneumáticos M+S:** Obrigatoria a marcaxe **M+S (Mud + Snow)** en pneumáticos A/T.
-*   **O Winch Detalle:** Cable de **28-30 metros** e **9,5 mm** de diámetro. Perda do **10%** por capa.
-*   **Prioridade Legal:** Só o sinal **V-1 (Azul)** outorga prioridade.
-*   **Ángulo Ventral:** Diminúe se aumenta a **batalla** (distancia entre eixes).
-*   **O "Punto Máis Baixo":** Resposta de exame: **carcasa do diferencial**.
+> [!WARNING]
+> **TRAMPAS CRÍTICAS IDENTIFICADAS:**
+> - **Protocolo LACES:** L (Vixilancia), A (Anclaxe), C (Comunicacións), E (Escapes), S (Seguridade). É a base da seguridade operativa.
+> - **Polea de Reenvío (Snatch Block):** Permite **dobrar a capacidade** (ex: de 3.500 kg a 7.000 kg) pero a **metade de velocidade**.
+> - **Battenburg Nivel 3:** O chevron traseiro must ser **Nivel 3** (máxima reflectancia) segundo a norma **CEN 1789:2007**.
+> - **Pneumáticos M+S:** Non abonda con ser A/T (All Terrain). No SPIF é obrigatorio o marcaxe **M+S (Mud + Snow)**.
+> - **O Winch (Cabestrante):** Cable de **28-30 metros** e **9,5 mm** de diámetro. Perda do **10% de potencia** por cada capa enrolada.
+> - **Prioridade Legal:** Só o sinal **V-1 (Azul)** outorga prioridade. O **V-2 (Ambar)** é para obstáculos.
+> - **Ángulo Ventral:** Diminúe se aumenta a **batalla** (distancia entre eixes).
+> - **O Ponto Máis Baixo:** Resposta oficial de exame: **carcasa do diferencial**.
+
+#### Matrix de Seguridade e Métricas Flash
+
+| Punto de Fricción | Resposta Blindada |
+| :--- | :--- |
+| **Altura libre (Prego 2023)** | **200 mm** (Ponto baixo: Diferencial). |
+| **Desbloqueo de Cubos (Distancia)** | **2 a 4 metros** en liña recta marcha atrás. |
+| **Presión en Xeo/Neve** | **ALTA** (para cravar). Nunca baixar presión. |
+| **Reducións de Fontanería** | Unha de **45/25** e unha de **70/45**. |
+| **Carga Balda Hard Top** | Mínimo **20 kg**. |
+| **Profundidade Vadeo (TT / Bomba)**| 50 cm / 80-100 cm. |
+| **Inclinación Lateral (TT / Bomba)**| 40º / 30º. |
+| **Pendentes Lonxitudinais** | Ata o **100% (45º)** en condicións óptimas. |
+| **Bloqueo Diferenciais** | Máximo **30 km/h** e nunca en marcha (en seco). |
+| **Presión Area / Barro** | Baixar ata **1.5 Kg** (inflar tras pasar). |
+| **Métrica do Cabestrante** | 10% perda por capa / 30m cable / 9.5mm diámetro. |
+| **Distancia Seguridade Emerxencia**| Engadir **25 metros adicionais** se hai fume/faba. |
+| **Potencia Bomba Kit Extinción** | 11,7 CV a 3.600 rpm. |
+| **Capacidade Depósito Kit T** | Mínimo **400 litros** (Vasos comunicantes). |
