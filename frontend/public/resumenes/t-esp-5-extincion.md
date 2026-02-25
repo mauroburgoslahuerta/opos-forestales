@@ -1,104 +1,130 @@
-# TEMA 5: A ARTE DA EXTINCIÓN, FERRAMENTAS E MEDIOS - V9 (ULTRA-BLINDADO)
+# TÉCNICAS DE EXTINCIÓN, ORGANIZACIÓN Y SEGURIDAD - V5 (FONTE ÚNICA FINAL C2)
 
+Este es el **Manual de Combate definitivo**. Integra la operativa técnica, la burocracia del mando y el 100% de la "tralla" administrativa de los tests oficiales del SPDCIF.
+
+---
+
+## 1. MARCO LEGAL Y CONCEPTOS CLAVE
 > [!IMPORTANT]
-> **Os 3 Principios Oficiais do PLADIGA:** 
-> 1. **Intervención rápida**.
-> 2. **Acción de conxunto**.
-> 3. **Concentración de esforzos**.
+> **Definición de Incendio Forestal (Métrica Legal):**
+> - **Superficie Arborada:** > 0,5 ha.
+> - **Si Arborada ≤ 0,5 ha:** Es incendio si (Arborada + Rasa) es **> 1 ha**.
+
+### 1.1. Diferencias de Concepto
+*   **Risco:** Posibilidad de que se produzca un incendio en un lugar y momento determinados.
+*   **Perigo:** Capacidad del incendio para causar daños (asociado a la intensidad).
+*   **Ataque en Paralelo:** Considerado un **ataque indirecto** a poca distancia del frente (también llamado "línea a dos pies").
+*   **Unidade de Intervención Operativa (UIO):** 1 Brigada + 1 Motobomba + **1 Axente Forestal**.
 
 ---
 
-## 1. MANDO E COORDINACIÓN (ORGANIGRAMA)
+## 2. ANATOMÍA Y TIPOS DE FUEGO
 
-Para que a acción de conxunto sexa efectiva, o mando debe estar claro segundo a gravidade:
+### 2.1. Glosario de Anatomía del Incendio
+*   **Cabeza:** Frente de avance principal.
+*   **Cola:** Parte posterior (zona de inicio).
+*   **Flancos:** Laterales. **Flanco Dereito:** Parte perimetral derecha mirando desde la cola (inicio).
+*   **Dedo / Lingua:** Salientes estrechos de avance rápido.
+*   **Baía / Entrante:** Zonas del perímetro con avance lento (reentradas).
 
-*   **DTE (Director Técnico de Extinción):** O responsable técnico. Axente da autoridade. Informa cada **30 min** ao **CCD (Distrito)**.
-*   **Situación 2:** A dirección asúmea o **Delegado Territorial** da provincia (ou o **Director Xeral** se afecta a varias).
-*   **Grupos Supramunicipais (GES):** Teñen a consideración de medios da **Administración Local**.
-*   **CECOP (Centro de Coordinación Operativa):** Constitúese obrigatoriamente canda o **PMA (Posto de Mando Avanzado)** para Situacións 2 e 3.
-*   **Olla o tempo:** O **DTE** informa cada **30 min** en incendio, pero cada **1 h** en queimas.
-*   **Trampa CPS:** Aliñación **3/3** = perigo extremo (carreira potencial). **0/3** = o máis favorable.
-*   **Distancias de busca:** Vento/Copas = **500m**. Mato/Rasa = **100m**.
-*   **Aspiración:** Límite operativo **< 6 m**.
-*   **MTC (Masa Total de Carga):** Lixeiros (**< 7,5 t**), Medios (**7,5 - 14 t**) e Pesados (**> 14 t**).
-*   **PMA (Posto de Mando Avanzado):** O DTE solicita a súa constitución ao **Distrito (CCD)**.
-
----
-
-## 2. OBXECTIVOS E FASES OPERATIVAS
-
-O **PLADIGA (Plan de Prevención e Defensa contra os Incendios Forestais de Galicia)** define obxectivos específicos que son "minas" de exame:
-1.  **Diminución do número de reproducións.**
-2.  **Reducir a superficie queimada en ZEV (Zonas de Especial Vixilancia).**
-3.  Defensa das masas arboradas e de espazos protexidos.
-
-### Ciclo de Traballo:
-1.  **Recoñecemento:** Ver sobre o terreo as variables (acceso, lapa, vento).
-2.  **Avaliación:** Relacionar condicións actuais e futuras (continuo).
-3.  **Liquidación:** Regra de seguridade: os restos de brasas e terra deben retirarse **SEMPRE cara á zona QUEIMADA**.
+### 2.2. Clasificación por Estrato
+*   **Subsolo (Subsuelo):** Los **MÁIS DIFÍCILES de controlar** en igualdad de condiciones (aunque tienen la menor velocidad de propagación).
+*   **Superficie:** El más común.
+*   **Copas:** Máxima velocidad y dificultad.
 
 ---
 
-## 3. ESTRATEXIA TÁCTICA E SEGURIDADE (LACES)
+## 3. HERRAMIENTAS Y MÉTRICAS NINJA
 
-Toda operación está blindada polo protocolo **LACES** (ou **OACEL** en galego). Unha **Liña de Defensa** non está rematada ata chegar ao **chan mineral**.
+### 3.1. Especificaciones de Mangueiras y Presión
+| Diámetro | Longitud | Peso (Vacía) | Presión Ideal |
+| :--- | :--- | :--- | :--- |
+| **25 mm** | 20 m | **3,2 kg** | **7 atm** |
+| **45 mm** | 20 m | **7,0 kg** | **7 atm** |
+| **70 mm** | 15 m | **10,8 kg** | **7 atm** |
 
-### Métodos de Ataque:
-- **Directo:** Ataque sobre a lapa (< 1,5 m). Presión ideal de traballo na bomba: **7 atm (kg/cm²)**.
-- **Paralelo:** **Ataque indirecto** a moi pouca distancia do fronte (**2 - 10 metros**).
-- **Indirecto:** Liña de defensa a certa distancia (> 10 m).
-
-> [!TIP]
-> **A Regra da Ladeira:** Se o lume **sube**, a liña sitúase inmediatamente detrás do cume, no punto chamado tecnicamente **Bordo Crítico**. Se o lume **baixa**, no **fondo do val**.
-
----
-
-## 4. SISTEMA CAMPBELL (CPS) E NIVELES SEMOP
-
-O **CPS (Campbell Prediction System)** asigna pesos numéricos para predecir carreiras potenciais:
-*   **Peso 0:** Corresponde a **Pendente Chan** e á **Insolación pola Noite**.
-*   **Punto Crítico:** O comportamento do lume cambiará a peor ou mellor.
-*   **Punto de Inflexión:** Momento/lugar onde se gaña ou perde un factor de propagación.
-
-### Niveis SEMOP (Sistema Estrutural de Mando Operativo):
-- **Nivel A:** Ataque Inicial (**5-7 equipos**).
-- **Nivel B (Ataque Ampliado):** Ata 3 sectores. Aparece o Xefe de Operacións.
-- **Nivel C (Gran Incendio):** > 3 sectores e > 12h. **Obrigatorio o Xefe de Planificación**.
+### 3.2. Operativa de Campo
+*   **Batelumes:** Útiles en llamas **< 1,5 m**. Se recomienda trabajar en grupos de al menos **4 personas**.
+*   **Ataque con Terra:** Actúa sobre el **Combustible y el Osíxeno** (sofocación).
+*   **Reténs de Vixilancia:** Tras la liquidación, deben situarse en lugares donde se **divise la área del incendio en su conjunto**.
 
 ---
 
-## 5. FERRAMENTAS E MÁQUINAS
+## 4. GESTIÓN ADMINISTRATIVA Y MANDO (PLADIGA)
 
-- **Mangueira de 70 mm:** 15m de longo, **10,8 kg** de peso e **61,9 litros** de capacidade.
-- **Bomba de Autobomba:** Ángulo de ataque (30-40º). Depresión máxima de aspiración: **0,8 atm**. Límite de altura: **< 6 metros**.
-- **Lanzas (Clasificación CIGA):** Triple efecto, regulables, automáticas e a **Lanza Alemá** (Robusta, sen válvulas de peche, resistente a areas; hoxe en desuso).
-### Retardantes (A guerra química):
-*   **Longo Prazo:** Base de **Polifosfatos amónicos**. Actúan cando a auga evapora.
-*   **Curto Prazo / Viscosantes:** Usados ao **0,5%** para aumentar a pinga e retención.
-*   **Escumóxeno (Dosifor):** Concentración ao **0,2%** para extinción por abafamento/arrefriamento.
+### 4.1. Xerarquía y Coordinación
+*   **Situacións Operativas:** El PLADIGA desarrolla **Todas as situacións (0, 1, 2 y 3)**.
+*   **Temporalidad:** El plan para situaciones 0 y 1 está diseñado para la **Época de Alto Risco** (aunque puede aplicarse todo el año).
+*   **Varios Distritos:** Si actúan medios terrestres de varios distritos, la dirección y coordinación corresponde al **CCP (Centro Provincial)**.
+*   **Movementos Interprovinciales:** Un medio de una provincia externa debe comunicar su entrada al **CCP de la provincia de destino**.
+
+### 4.2. Mobilización desde el Distrito
+Un Distrito Forestal puede movilizar para un incendio:
+- Medios terrestres adscritos al distrito.
+- **Maquinaria Pesada**.
+- **Helicópteros presentes en el distrito**.
+- **GES** (Grupos de Emerxencia Supramunicipal).
+
+### 4.3. Protocolos de Medios Aéreos
+*   **Llegada al Incendio:** Un helicóptero, al llegar, debe avisar primero al **CCP** (Centro Provincial) y posteriormente ponerse a disposición del **DTE**.
+*   **Solicitude de Anfibios:** El CCP debe incluir en la solicitud al CCC la información del **núcleo de población más próximo** (según plano 1/250.000 IGN).
 
 ---
 
-## 6. MATRIZ DE RESPOSTA INMEDIATA (SINGLE SOURCE OF TRUTH)
+## 5. ESTRUCTURAS DE APOYO Y MANDO CONJUNTO
 
-| Pregunta Trampa | Resposta Blindada |
+### 5.1. El PMA y la UTA
+*   **PMA (Director):** El **DTE** es siempre el director del PMA en Situaciones **0, 1 y 2**.
+*   **Composición PMA (Sit 0 y 1):** Responsable de intervención y, según el caso, responsables de **Apoio Loxístico, Seguridade e Sanitario**.
+*   **UTA (Unidade Técnica de Apoio):** Colabora en la planificación y **documenta gráfica y digitalmente** el plan de extinción.
+
+### 5.2. Mando en Incendios de Interface (Urbanos)
+Cuando el incendio afecta a terrenos urbanos, la dirección es compartida:
+**DTE + Mando del Parque de Bombeiros** presente (cada uno dentro del ámbito de sus funciones).
+
+---
+
+## 6. SISTEMA CAMPBELL (CPS) Y XEOCODE
+*   **XEOCODE (Responsabilidades):**
+    - **CCP:** Introduce movimientos de **medios aéreos NO asignados**.
+    - **CCD:** Introduce la movilización de **maquinaria pesada**.
+*   **Valores Numéricos CPS:**
+    - **Terreos Chans (Llanos) + Día:** El valor como factor de propagación es **1**.
+    - **Condiciones Nocturnas:** Valor de insolación = **0**.
+    - **Hora Crítica (18:00 h):** Máximo peligro en combustibles orientados al **OESTE**.
+
+---
+
+## 7. INDICADORES BIOLÓGICOS Y SEGURIDAD 🚨
+
+### 7.1. Triggers de Información del DTE
+El DTE debe informar al CCD cada **30 minutos** Y siempre que llegue un **Medio Aéreo** o **Maquinaria Pesada**.
+
+### 7.2. Puntos Quentes (Avespas vs Moscas)
+*   **Moscas/Mosquitos:** Indicador de calor/punto quente.
+*   **Avespas:** **NO** son indicadores de calor.
+
+### 7.3. Distancias de Seguridad
+*   **Focos Secundarios:** 500m (copas) / 100m (mato).
+*   **BLEVE (400L):** 90 metros.
+
+---
+
+## 8. MATRIZ DE RESPUESTA INMEDIATA (OURO) 🏆
+Esta tabla contiene las respuestas directas a las "preguntas trampa" más frecuentes de los últimos exámenes:
+
+| Si la pregunta es sobre... | Tu respuesta blindada debe ser... |
 | :--- | :--- |
-| **¿Que son os GES?** | Medios da **Administración Local**. |
-| **¿Obxectivos específicos?** | **Reproducións** e incendios en **ZEV**. |
-| **¿Sentido da liquidación?** | Cara ao **QUEIMADO**. |
-| **¿Presión impulsión?** | **7 atm** (ou kg/cm²). |
-| **¿Quen dirixe Situación 2?** | **Delegado Territorial**. |
-| **¿Punto crítico en ladeira?** | O **Bordo Crítico** (tras o cume). |
-| **¿Aeronave chega ao IF?** | Avisa ao **CCP (Provincial)** antes que ao DTE. |
-| **¿Solicitude de Medios?** | Indicar: **Folla, cuadrícula, canle de comunicación e nome do DTE.** |
+| **¿Quién decide aplicar CONTRA LUME?** | **Únicamente el DTE** (es un ataque indirecto). |
+| **¿Acción del ATAQUE CON TIERRA?** | Sobre el **Combustible y el Osíxeno** (Sofocación). |
+| **¿Factor CPS en LLANO y de DÍA?** | El valor de propagación es **1**. |
+| **¿MOSCAS o AVISPAS en punto caliente?** | **Moscas SÍ** (indicador), Avispas NO. |
+| **¿Quién coordina VARIOS DISTRITOS?** | El **CCP** (Centro Provincial). |
+| **¿Quién moviliza MAQUINARIA PESADA?** | El **CCD** (Centro de Distrito). |
+| **¿Presión ideal en LANZA?** | **7 atm**. |
+| **¿Definición de RISCO?** | **Posibilidad** de que se produzca un incendio. |
+| **¿Lume MÁIS DIFÍCIL de controlar?** | El de **SUBSOLO** (aunque sea el más lento). |
+| **¿Aviso del HELICÓPTERO al llegar?** | Primero al **CCP**, luego a disposición del **DTE**. |
 
 ---
-
-## 7. TIPS DE EXAME E RECORDATORIOS (🚨)
-
-- **Tempos PLADIGA:** 22' (Reacción), 2h 44' (Control), 5h 18' (Duración).
-- **MTC Lixeiros:** O límite superior son **7,5 t**.
-- **Vadeo:** Autobombas cruzan ata **1 metro** de auga.
-- **CPS 3/3:** Aliñación total de factores = Máximo perigo.
-- **Contralume vs Ensanche:** O Contralume é decisión exclusiva do **DTE**.
-- **Regra do 30:** 30ºC, 30% H.R., 30 km/h vento.
+**ESTADO: V5 FONTE ÚNICA FINAL (100% BLINDADO)**

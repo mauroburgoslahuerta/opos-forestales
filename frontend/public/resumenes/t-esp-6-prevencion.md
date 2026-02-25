@@ -20,10 +20,9 @@ Son condicións intrínsecas do territorio, permanentes ou de difícil modificac
 *   **Condicións climáticas:** Sequías, temperaturas extremas, ventos.
 *   **Abandono do medio rural:** Gran acumulación de combustible (mato e restos) preto de zonas habitadas.
 *   **Alta inflamabilidade:** Galiza conta con especies de rápida propagación.
-*   **Dispersión territorial:** Dificultade de aplicar medidas debido á enorme extensión de monte.
 
 ### 2.2. Causas Inmediatas [EXAMEN]
-Derivan de axentes naturais ou comportamentos humanos. Existen 5 tipos: **Raios, Neglixencias, Accidentes, Intencionados e Reproducións.** Se non se clasifica en ningún destes, é **causa descoñecida**.
+Existen 5 tipos: **Raios, Neglixencias, Accidentes, Intencionados e Reproducións.** Se non se clasifica en ningún destes, é **causa descoñecida**.
 
 ---
 
@@ -34,137 +33,146 @@ Formado por medidas de sensibilización, planificación, vixilancia, detección,
 
 ### 3.2. Competencias: ¿Quén manda aquí? [EXAMEN]
 *   **Xunta de Galicia (Consellería / Consello):**
-    *   Política xeral e plans de distrito.
-    *   Declaración de Zonas de Alto Risco (ZAR) e épocas de perigo.
     *   Xestión de redes **Primarias e Terciarias**.
+    *   Declaración de Zonas de Alto Risco (ZAR) e épocas de perigo.
     *   Regular o uso do lume e divulgar o IRDI.
 *   **Entidades Locais (Concellos):**
     *   Aprobar Plans Municipais (integrados no PEMU).
     *   Xestionar redes **Secundarias** e faixas de estradas municipais. **[EXAMEN]**
-    *   Ordenar a execución subsidiaria e mantemento de biomasa en solos urbanos/núcleos a menos de 400m do monte.
+    *   Autorización de **Cohetes e fogos artificiais** (informando ao distrito con 48h de antelación).
+    *   Autorización de lume en **Festas Locais** ou tradición popular.
 
 ### 3.3. Xerarquía do Planeamento (Art. 13-17)
-1.  **Nivel Galego (PLADIGA):** Define eixos estratéxicos e orzamento. Desenvolve o **Nivel 0 de emerxencia**. **[EXAMEN]**
-2.  **Nivel Distrito:** Plans de prevención de distrito (Desenvolven a escala 1:D). Elaborados pola **Dirección Xeral** e aprobados polo **Conselleiro**.
-3.  **Nivel Municipal:** Plans municipais. Informe preceptivo e **vinculante** da Dirección Xeral antes de aprobarse. **[EXAMEN]**
-4.  **Nivel Inframunicipal/Particular:** Instrumentos de xestión forestal. Presentación ante a Consellaría en **3 meses** dende a súa redacción.
+1.  **Nivel Galego (PLADIGA):** Define eixos estratéxicos e orzamento.
+2.  **Nivel Distrito:** Plans de prevención de distrito. Aprobados polo **Conselleiro**.
+3.  **Nivel Municipal:** Plans municipais. Informe preceptivo e **vinculante** da Dirección Xeral.
 
 ---
 
 ## 4. Índices e Zonas de Risco [EXAMEN]
 
-### 4.1. Épocas de Perigo (Art. 9)
-*   A Consellaría **define** as épocas (Alto, Medio, Baixo) segundo antecedentes e datos meteorolóxicos.
-*   A Consellaría **establece** as datas concretas da época de perigo alto.
+### 2.2. Motoserra e Motorrozadora (Seguridade C2)
+| Máquina | Elemento | Métrica / Función |
+| :--- | :--- | :--- |
+| **Motoserra** | Afilado | Ángulo de **30º - 35º** (fío de cadea). |
+| **Motoserra** | Seguridade | Freo de cadea, Captor de cadea, Bloqueo de gatillo, Protexe-mans. |
+| **Motorrozadora**| Distancia | **15 metros** de separación entre operarios. |
+| **Motorrozadora**| Disco (Zonas) | **Zona A (12h-3h):** Corte seguro. **Zona D (9h-12h):** Rebote (Kickback). |
+| **Motorrozadora**| Mantemento | **Engraxar cabezal** (1 vez ao día). |
+| **Motorrozadora**| Seguridade | Protector de corte, Gatillo stop, Arnés con desprendemento rápido. |
+| **Motoserra** | Mantemento | **Limpar filtro de aire** (cada xornada) e **Xiro da espada**. |
 
-### 4.2. Limitacións de Acceso (Art. 31) [EXAMEN]
-Na época de **perigo alto**, queda condicionado o acceso a:
-*   Zonas de Alto Risco (ZAR).
-*   Áreas baixo xestión da Xunta sinalizadas.
-*   Áreas con sinalización específica de limitación de actividades.
-> [!WARNING]
-> A Rede Natura 2000 **non** implica por si mesma a restrición se non hai sinalización de risco (Pregunta trampa común).
+> [!CAUTION]
+> **O Disparo da Coitela (Kickback):** Evitar a **Zona D (9h a 12h)** do disco de serra circular, xa que produce o rebote ou "patada" lateral ao tocar obxectos ríxidos. A **Zona C (6h a 9h)** considérase a máis perigosa por proximidade ao corpo do operario.
 
-### 4.3. IRDI (Índice de Risco Diario de Incendio)
-*   Define o risco en 5 niveis: Baixo(1), Moderado(2), Alto(3), Moi Alto(4), Extremo(5).
-*   Variables: Temperatura seco, Humidade relativa, Velocidade vento e Precipitación acumulada.
-*   Resolución: Interpolación espacial a **200 metros**. Percentil **50** por concello. **[EXAMEN]**
+### 2.3. Métrica IRDI (Prognóstico Diario)
+*   **Resolución Espacial:** Malla de **200 metros**.
+*   **Cálculo Local:** Cando un concello ten varias mallas, úsase o valor do **Percentil 50** (valor mediano) para determinar o nivel oficial do concello.
+*   **Horizonte:** Prognóstico a **10 días**.
 
-### 4.4. Zonas e Perímetros (ZAR vs PAR)
-*   **ZAR (Zonas de Alto Risco):** Áreas prioritarias pola súa frecuencia ou virulencia. Declaradas por **Orde da Consellaría**. (Existen 194 concellos ZAR).
-*   **PAR (Perímetros de Alto Risco):** Carácter **non permanente**, baseados no abandono que signifique risco. Declarados pola **Dirección Xeral**.
+### 2.4. Roles na Queima Prescrita (J.A. Vega)
+*   **Xefe de Queima:** Único que ordena iniciar ou suspender a manobra. Dirección facultativa.
+*   **Responsable de Ignición:** Dirixe aos operarios dos fachos.
+*   **Responsable de Control:** Asegura o perímetro e coordina os medios de extinción.
 
 ---
 
-## 5. Xestión da Biomais: Redes de Faixas [CRÍTICO EXAMEN]
+## 5. Xestión da Biomasa: Redes de Faixas [CRÍTICO EXAMEN]
 
-### 5.1. Clasificación Técnico-Operativa
+### 5.1. Distancias Regradas por Tipoloxía de Rede
 | Rede | Ámbito / Obxectivo | Distancia Regrada |
 | :--- | :--- | :--- |
-| **Primaria** | Autoestradas, ferrocarril, liñas eléctricas/gas. | **1.5m** dende eixe (Gas) / **5m** dende proxección (Electricidade) / **5m** dende aresta (Eólica). |
-| **Secundaria** | Protección de núcleos, urbanizacións, cámpings, industrias, gasolineiras. | **50 metros** arredor do perímetro ou edificación. |
-| **Terciaria** | Areas recreativas, camiños forestais, devasas, áreas cortalumes. | **50m** perímetro (Áreas recreativas) / **2m** dende aresta (Camiños forestais). |
+| **Primaria (Gas)** | Liñas de transporte/distribución. | **1.5m** a cada lado do eixe. |
+| **Primaria (Elec)** | Proxección condutores externos. | **5m** dende a proxección. |
+| **Primaria (Eólica)** | Aeroxeneradores e pistas eólicas. | **5m** aresta (Pistas) / Área ao redor da torre. |
+| **Secundaria** | Protección de núcleos e edificacións. | **50 metros** arredor do perímetro. |
+| **Terciaria** | Áreas recreativas e camiños forestais. | **50m** (Áreas recr.) / **2m** dende aresta (Camiños). |
 
-### 5.2. Especies Prohibidas (Disposición Adicional 3ª) [EXAMEN]
-Nas redes **Primarias e Secundarias (50m)** está prohibida a presenza de:
-1.  *Eucalyptus* (todas as especies).
-2.  *Pinus pinaster* (Pino bravo).
-3.  *Pinus radiata* (Pino insigne).
-4.  *Pinus sylvestris* (Pino silvestre).
-5.  *Acacia* (especialmente *A. dealbata* e *A. melanoxylon*).
-6.  Tamén: *Pteridium aquilinum* (fento), *Calluna vulgaris* (queiroga) e *Chamaespartium tridentatum* (careserón) baixo certos criterios de xestión arbustiva.
-> [!NOTE]
-> Especies como *Pinus nigra* ou *Pseudotsuga* **pódense** dar se non están na lista, pero o *Pinus pinea* (Piñón) **está permitido** como ornamental ou illado.
+### 5.2. Refuerzo Legal: Art. 10 e 24 bis
+*   **Art. 10 (ZAR):** Declaradas pola Consellería (Pladiga) baseándose en **Reiteración de lumes** e **Virulencia/Especial Perigo**.
+*   **Art. 24 bis (Amoreamentos):** Durante Xullo-Setembro, restos de corta en cargadoiro (biomasa/estelas) requiren área limpa de **5 metros** ao redor.
+*   **Xestión de Especies:** Nas faixas de 50m é obrigatorio o **clareo de copas (7m de separación)** en pinos/eucaliptos e a eliminación de **especies prohibidas** (Mimosas/Acacias).
+*   **Art. 16/22 (Subsidiariedade):** Concellos poden actuar se o titular non limpa. Prazos: **31 de maio** (Xeral) / **1 de abril** (Reincidentes).
 
 ### 5.3. Prazos e Multas Coercitivas [EXAMEN]
-*   **Data límite:** **31 de maio**. (Pero ollo: 1 de abril se houbo incumprimento anterior).
-*   **Prazos de limpeza:** **15 días naturais** tras notificación (3 meses en vías).
+*   **Data límite ordinaria:** **31 de maio**.
+*   **Prazos de limpeza:** **15 días naturais** tras notificación.
 *   **Multas:** **900€ por hectárea** (mínimo 100€). Reiterables cada **3 meses**.
-*   **Execución subsidiaria:** A administración pode intervir e repercutir custos se o propietario non cumpre.
 
 ---
 
 ## 6. Queimas Controladas e Prescritas [EXAMEN]
 
-### 6.1. Marco Normativo das Queimas
-*   **Queima:** Amoreamento de restos. Require comunicación/autorización.
-*   **Queima Controlada:** Uso do lume sobre mato/combustible en pé, baixo autorización e supervisión técnica. Prohibida en época de perigo alto ou IRDI > Moderado. **[EXAMEN]**
-*   **Queima Prescrita:** Uso do lume baixo "prescrición" (condicións meteorolóxicas exactas) para un obxectivo silvícola ou preventivo.
+### 6.1. Marco Normativo e Prazos do Decreto 105/2006
+*   **Comunicación Queima (Restos Agrícolas):** Só válida en **Época de Perigo Baixo**. Mínimo **2 días** de antelación.
+*   **Autorización Queima (Restos Forestais):** Mínimo **7 días** de antelación. En perigo medio/alto, os restos agrícolas tamén adoitan requirir autorización ou estar prohibidos.
+*   **Extinción:** A queima non se iniciará antes de saír o sol e estará extinguida **2 horas antes** da posta do sol. É obrigatoria unha devasa de **5 metros** rodeando o perímetro.
 
-### 6.2. Roles e Procedemento (Anexo 10 PLADIGA 2025)
-*   **Xefe de Queima:** Responsable do **Plan de Queima**. Designado entre Técnicos ou Axentes facultativos. **[EXAMEN]**
-*   **Xefe de Ignición:** Dirixe a ignición segundo o plan.
-*   **Ventá de Prescrición (José Antonio Vega):**
-    *   **Vento (2m):** 2 - 12 km/h.
-    *   **Temperatura:** 0 - 15 ºC.
-    *   **Humidade:** 30% - 60%.
-    *   **Días sen choiva:** Mínimo 1, óptimo entre 3 e 7. (Segundo Fernandes: óptimo 14 días).
-*   **Facho de Goteo:** Depósito cun **25-30% gasolina** e **70-75% gasóleo**.
-*   **Test de Queima:** Proba de ignición previa para verificar o comportamento real.
+### 1.2. Métrica do Facho de Goteo
+*   **Mestura:** 2/3 Gasóleo (base térmica) e 1/3 Gasolina (ignición).
+*   **Capacidade:** Generalmente de 3,8 a 5 litros.
+*   **Compoñentes Clave:**
+    *   **Ignitor (Serpentín/Estopín):** Prende a mestura antes de que caia ao chan.
+    *   **Respiradeiro:** Permite entrada de aire para compensar a saída de combustible.
+    *   **Válvula de seguridade:** Evita fugas ou retornos de chama perigosos.
+*   **Configuracións de Traballo:**
+    *   **1-2-3 (Habitual):** Facho 1 máis avanzado (preto da liña de control), seguido polo 2 e o 3.
+    *   **3-2-1 (Menos común):** O facho 3 vai por diante (uso en lume de flanco).
+    *   **Orde "50-5":** Separación de 50m entre operarios e ancho de franxa de 5m.
 
-### 6.3. Tipos de Lume e Severidade [EXAMEN]
-| Clasificación | Efectos no solo / Vantaxes |
+### 1.3. Técnicas de Ignición (V3 Blindado)
+| Técnica | Descrición / Uso |
 | :--- | :--- |
-| **A Favor** | Avanza co vento/pendente. Alta intensidade, rápida, require pouca man de obra. |
-| **En Contra** | Contra vento/pendente. Baixa intensidade, lenta, máis segura. |
-| **Lixeira/Suave** | O solo baixo o humus non muda cor. Temp: 100-200ºC. |
-| **Moderada** | Humus parcialmente consumido. Temp: 200-400ºC. |
-| **Severa** | Humus consumido totalmente, cinza sobre solo mineral. Temp: 400-500ºC. |
+| **Circular (Anel)** | Aplicación perimetral cara ao centro. Crea un "efecto de succión" que atrae o lume ao medio. |
+| **Central (Convección)** | Ignición forte no centro da parcela. Xera unha columna térmica (convección) que detén o avance exterior. |
+| **En Cuña (Chevron)** | Ignición en forma de "V" ladeira abaixo. Ideal para outeiros ou zonas sen vento. |
+| **Por Faixas (Tiras)** | A técnica máis usada. Ignicións en liñas paralelas ao cortalumes (a favor ou en contra). |
+| **Por Puntos** | Aplicación de puntos de lume illados en zonas de mato ralo ou difícil acceso. |
+
+### 6.3. Ventá de Prescrición (José Antonio Vega)
+*   **Vento (2m):** 2 - 12 km/h.
+*   **Temperatura:** 0 - 15 ºC.
+*   **Humidade:** 30% - 60%.
+*   **Días sen choiva:** Mínimo 1 (Fernandes estima óptimo 14 días).
 
 ---
 
-## 7. Interface Urbano-Forestal (IUF)
-*   **Definición:** Punto de contacto entre o combustible forestal e os bens antropizados.
+## 7. Ferramentas Manuais de Prevención e Extinción [BLINDADO]
+
+| Ferramenta | Peso | Lonxitude | Ángulo Afilado / Notas |
+| :--- | :--- | :--- | :--- |
+| **Mochila Extintora** | < 20kg (chega) | 17 L (habitual) | Aplicación chorro/pulverización. Max 1.5m altura chama. |
+| **Batelumes** | < 2.5 kg | 2.0 m total | Pala 25x50cm. Sufocación. Max 1.5m altura chama. |
+| **Pá Forestal** | 2.0 kg | 1.25 - 1.30 m | Afilado **45º** na parte cóncava. |
+| **Pulaski** | 2.0 kg | 90 cm (max) | Afilado: **30º** (machada) / **45º** (aixada). |
+| **McLeod** | 2.2 kg | 124 cm | Afilado **45º** no lado **exterior** (impide penetrar moito). |
+| **Gorgui** | 2.5 kg | 1.2 m | Cabezal intercambiable (Pulaski/McLeod/Pico/Batelumes). |
+
+---
+
+## 8. Interface Urbano-Forestal (IUF)
 *   **Plan de Autoprotección:** Obrigatorio para núcleos a menos de 400m do monte.
-*   **QUECO:** Aplicación para xestión de queimas. **XeoCode:** Para operativo e distritos.
+*   **Aldeas Modelo:** Proxecto para reducir risco mediante produción agraria (acordo 70% propietarios, banco terras 10 anos).
+*   **Convenio Xunta-Fegamp-Seaga:** Xestión de faixas secundarias. Concellos poden solicitar execución subsidiaria de ata **10 ha/ano** e limpeza de **12 km/ano** de vías municipais.
 
 ---
 
-## 8. Matriz de Datos Críticos (Resumo Flash)
+## 9. Matriz de Datos Críticos (Resumo Flash)
 
-### Subsección A: Táboa de Valores Numéricos
-| Concepto | Valor | Contexto |
+| Concepto | Valor Crítico | Aviso de Auditoría |
 | :--- | :--- | :--- |
-| **Faixa Secundaria** | 50m | Distancia obrigatoria arredor de núcleos/edificios. |
-| **Faixa Primaria (Electricidade)** | 5m | Dende a proxección dos condutores externos. |
-| **Faixa Primaria (Gas)** | 1.5m | A cada lado do eixe. |
-| **Faixa Terciaria (Camiños)** | 2m | Dende a aresta exterior. |
-| **Vento Queima (2m)** | 2-12 km/h | Rango seguro segundo o Plan de Queima. |
-| **Mes Límite Limpeza** | Maio | Mes obrigatorio para ter a biomasa xestionada. |
-| **Poder de Perímetro (Dirección Xeral)** | Non permanente | Perímetros de Alto Risco (PAR). |
-| **Resolución IRDI** | 200m | Precisión do mapa de risco diario. |
-| **Devasa Queima (D105/2006)** | 5 metros | Franxa rodeando o perímetro a queimar. |
-
-### Subsección B: Alertas de Auditoría (Zonas de Confusión)
-*   **¡OLLO!** O Concello xestiona as **Faixas Secundarias**, pero a Xunta as **Zonas de Alto Risco (ZAR)**.
-*   **O "Define" vs "Establece":** A Consellaría *define* as épocas pero *establece* as datas da época de perigo alto (Art. 9).
-*   **Rede Natura:** Entrar na Rede Natura pola miña conta nunha época de perigo alto **pode estar prohibido** se hai sinalización, pero non é unha zona automática de perigo alto *per se* como as ZAR.
+| **Gasolina Facho** | 25 - 30% | Nunca 100% gasolina (perigo explosión). |
+| **Altura Chama Manual** | 1.5 metros | Límite para uso de batelumes e mochila. |
+| **Maio 31** | Data Límite | Toque de queda para limpeza de biomasa. |
+| **900 € / Ha** | Multa | Mínimo 100€. Reiterable cada 3 meses. |
+| **2 Horas** | Extinción | Tempo antes da posta do sol para apagar queimas. |
+| **48 Horas** | Aviso Cohetes | O Concello debe avisar ao Distrito forestal. |
 
 ---
 
-## 9. Tips de Exame (🚨)
-1.  **A Especie Permanece:** Nas faixas pódese deixar un *Pinus pinaster* se é árbore singular ou ornamental illada sen risco.
-2.  **Multas Coercitivas:** Son independentes da sanción administrativa. Pódense poñer cada **3 meses**.
-3.  **Xefe de Queima:** Sempre debe ser un Técnico ou Axente. O Bombeiro Xefe de Brigada **non** aparece como responsable do *Plan de Queima* (aínda que si pode intervir na execución).
-4.  **FWI:** O manual avisa que o cálculo do FWI (Fire Weather Index) cambiou respecto a anos anteriores; cíñete aos novos valores de IRDI (1 a 5).
-5.  **Días sen choiva:** Paulo Fernandes di que o óptimo son 14 días (Pregunta de Test xa aparecida).
+## 10. Tips de Exame (🚨)
+1.  **Afilado McLeod/Motoserra:** O McLeod afíase pola **exterior**. Na motoserra, o valor SPIF de referencia é **35º**.
+2.  **Peso Mochila:** O peso máximo cargado **non superará os 20 kg**.
+3.  **Configuración 3-2-1:** Menos habitual, específica para lume de flanco ou tácticas defensivas de flanqueo. 
+4.  **Kickback:** O rebote lateral prodúcese por tocar a **Zona D (9h-12h)** do disco.
+5.  **Clareo:** Separación de **7m** entre copas en pinos/eucaliptos nas faixas de 50m.
