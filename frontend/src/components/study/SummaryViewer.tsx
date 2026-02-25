@@ -27,71 +27,73 @@ export const SummaryViewer: React.FC<SummaryViewerProps> = ({ topic, onClose }) 
 
     // Process markdown into slides (Optimized to merge headers with content)
     const processContent = useCallback((text: string) => {
-        const lines = text.split('\n');
+        // Normalize line endings and trim trailing whitespace
+        const normalizedText = text.replace(/\r\n/g, '\n').split('\n').map(l => l.trimEnd()).join('\n');
+        const lines = normalizedText.split('\n');
         const newSlides: SlideData[] = [];
         let currentBuffer: string[] = [];
         let currentType: SlideType = 'content';
-        let currentTitle = '';
+        let currentTitle = topic.title; // Start with topic title as default
 
         const pushSlide = (type: SlideType, contentLines: string[], title?: string) => {
             const contentJoined = contentLines.join('\n').trim();
             if (contentJoined.length === 0 && type === 'content' && !title) return;
+
             newSlides.push({
                 id: newSlides.length,
                 type,
-                title,
+                title: title || currentTitle,
                 content: contentJoined
             });
         };
 
         lines.forEach((line) => {
+            const trimmedLine = line.trim();
+
             // Document Title (Cover)
-            if (line.startsWith('# ')) {
+            if (trimmedLine.startsWith('# ')) {
                 pushSlide(currentType, currentBuffer, currentTitle);
                 currentBuffer = [];
-                pushSlide('cover', [], line.replace('# ', ''));
-                currentType = 'content';
-                currentTitle = '';
+                pushSlide('cover', [], trimmedLine.replace('# ', ''));
+                currentTitle = topic.title;
                 return;
             }
 
-            // Section Headers (## and ###) - Now merged into content slides
-            if (line.startsWith('## ') || line.startsWith('### ')) {
+            // Segment Headers (##, ###, ####) - Trigger new slide
+            if (trimmedLine.startsWith('## ') || trimmedLine.startsWith('### ') || trimmedLine.startsWith('#### ')) {
                 pushSlide(currentType, currentBuffer, currentTitle);
                 currentBuffer = [];
-                currentTitle = line.replace(/^##+\s/, '');
+                currentTitle = trimmedLine.replace(/^#+\s/, '');
                 currentType = 'content';
                 return;
             }
 
-            // Sub-headers (####) - Keep as internal markdown headers
-            if (line.startsWith('#### ')) {
-                currentBuffer.push(`**${line.replace('#### ', '')}**`);
-                return;
+            // List handling - Ensure newline before lists for better parser detection
+            if (trimmedLine.startsWith('- ') || trimmedLine.startsWith('* ') || /^\d+\.\s/.test(trimmedLine)) {
+                if (currentBuffer.length > 0 && currentBuffer[currentBuffer.length - 1].trim() !== '' && !currentBuffer[currentBuffer.length - 1].startsWith('-')) {
+                    currentBuffer.push('');
+                }
             }
 
             currentBuffer.push(line);
 
             // Chunking for readability (If slide gets too long)
             const currentText = currentBuffer.join('\n');
-            const isInTable = line.trim().startsWith('|');
+            const isInTable = trimmedLine.startsWith('|');
             const isInCode = currentText.split('```').length % 2 === 0;
 
-            if (currentText.length > 800 && !isInTable && !isInCode && (line.trim() === '' || line.endsWith('.') || line.endsWith(':'))) {
+            if (currentText.length > 900 && !isInTable && !isInCode && (trimmedLine === '' || trimmedLine.endsWith('.') || trimmedLine.endsWith(':'))) {
                 if (currentText.trim().length > 100) {
                     pushSlide(currentType, currentBuffer, currentTitle);
                     currentBuffer = [];
-                    // Keep the title for the "Continued" slide
-                    if (currentTitle) {
-                        currentTitle = currentTitle.includes('(Cont.)') ? currentTitle : `${currentTitle} (Cont.)`;
-                    }
+                    // Title stays the same for continuation
                 }
             }
         });
 
         pushSlide(currentType, currentBuffer, currentTitle);
         setSlides(newSlides.filter(s => s.content.length > 0 || s.type === 'cover'));
-    }, []);
+    }, [topic.title]);
 
     useEffect(() => {
         const fetchSummary = async () => {
@@ -152,7 +154,7 @@ export const SummaryViewer: React.FC<SummaryViewerProps> = ({ topic, onClose }) 
     const progress = ((currentSlideIndex + 1) / slides.length) * 100;
 
     return (
-        <div className="flex flex-col h-[85vh] w-full max-w-5xl mx-auto bg-white dark:bg-gray-900 rounded-3xl overflow-hidden relative shadow-2xl border border-forest-100 dark:border-forest-900/30 animate-in fade-in zoom-in duration-300">
+        <div className="flex flex-col h-[85vh] w-full max-w-7xl mx-auto bg-white dark:bg-gray-900 rounded-3xl overflow-hidden relative shadow-2xl border border-forest-100 dark:border-forest-900/30 animate-in fade-in zoom-in duration-300">
 
             {/* Top Bar */}
             <div className="absolute top-0 left-0 right-0 z-20 p-4 flex items-center gap-4 bg-gradient-to-b from-black/20 to-transparent">
@@ -199,19 +201,24 @@ export const SummaryViewer: React.FC<SummaryViewerProps> = ({ topic, onClose }) 
 
                             {/* Centered Content Area */}
                             <div className="flex-1 flex flex-col justify-center">
-                                <article className="prose prose-2xl md:prose-3xl lg:prose-4xl dark:prose-invert max-w-none w-full
+                                <article className="prose prose-xl dark:prose-invert max-w-none w-full
                                              prose-headings:text-forest-600 dark:prose-headings:text-forest-300 
                                              prose-headings:font-bold
+                                             prose-p:text-lg md:prose-p:text-xl
                                              prose-p:text-gray-900 dark:prose-p:text-gray-100
-                                             prose-p:leading-snug
+                                             prose-p:leading-relaxed
                                              prose-p:text-justify
+                                             prose-li:text-base md:prose-li:text-lg
+                                             prose-li:text-gray-900 dark:prose-li:text-gray-100
+                                             prose-li:leading-relaxed
                                              prose-li:text-justify
+                                             prose-ul:list-disc prose-ul:pl-8
+                                             prose-ol:list-decimal prose-ol:pl-8
                                              prose-strong:text-forest-700 dark:prose-strong:text-forest-400
                                              prose-strong:font-black
-                                             prose-li:text-gray-900 dark:prose-li:text-gray-100
                                              prose-table:block prose-table:overflow-x-auto prose-table:w-full prose-table:text-xl prose-table:my-8
-                                             prose-th:bg-forest-50 dark:prose-th:bg-forest-900/40 prose-th:p-6 prose-th:text-forest-800 dark:prose-th:text-forest-100 prose-th:font-black prose-th:min-w-[300px]
-                                             prose-td:p-6 prose-td:border-b prose-td:border-forest-100 dark:prose-td:border-forest-900/30 prose-td:min-w-[300px]
+                                             prose-th:bg-forest-50 dark:prose-th:bg-forest-900/40 prose-th:p-4 prose-th:text-forest-800 dark:prose-th:text-forest-100 prose-th:font-black prose-th:min-w-[200px]
+                                             prose-td:p-4 prose-td:border-b prose-td:border-forest-100 dark:prose-td:border-forest-900/30 prose-td:min-w-[200px]
                                              ">
                                     <ReactMarkdown
                                         remarkPlugins={[remarkGfm]}

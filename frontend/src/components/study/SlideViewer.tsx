@@ -173,7 +173,7 @@ export const SlideViewer: React.FC<SlideViewerProps> = ({ topic, initialDocIndex
     const progress = ((currentSlideIndex + 1) / slides.length) * 100;
 
     return (
-        <div className="flex flex-col h-[calc(100vh-120px)] max-h-[900px] w-full max-w-5xl mx-auto bg-gray-50 dark:bg-gray-900/50 rounded-2xl overflow-hidden relative shadow-xl border border-gray-200 dark:border-gray-800">
+        <div className="flex flex-col h-[calc(100vh-120px)] max-h-[900px] w-full max-w-7xl mx-auto bg-gray-50 dark:bg-gray-900/50 rounded-2xl overflow-hidden relative shadow-xl border border-gray-200 dark:border-gray-800">
 
             {/* Top Bar: Progress & Close */}
             <div className="absolute top-0 left-0 right-0 z-20 p-4 flex items-center gap-4 bg-gradient-to-b from-black/50 to-black/10">
@@ -273,10 +273,12 @@ export const SlideViewer: React.FC<SlideViewerProps> = ({ topic, initialDocIndex
 
                             {/* Centered Content Area */}
                             <div className="flex-1 flex flex-col justify-center">
-                                <article className="prose prose-lg md:prose-xl dark:prose-invert max-w-4xl mx-auto w-full
+                                <article className="prose prose-lg md:prose-xl dark:prose-invert max-w-none w-full
                                                  prose-headings:text-forest-800 dark:prose-headings:text-forest-100 
                                                  prose-headings:font-bold prose-headings:tracking-tight
+                                                 prose-p:text-lg md:prose-p:text-xl
                                                  prose-p:text-gray-600 dark:prose-p:text-gray-300 prose-p:leading-relaxed
+                                                 prose-li:text-base md:prose-li:text-lg
                                                  prose-li:text-gray-600 dark:prose-li:text-gray-300
                                                  prose-strong:text-forest-700 dark:prose-strong:text-forest-300">
                                     <ReactMarkdown
