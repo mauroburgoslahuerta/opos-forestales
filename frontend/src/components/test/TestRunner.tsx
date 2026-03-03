@@ -77,7 +77,7 @@ export const TestRunner: React.FC<TestRunnerProps> = ({
             setAllQuestions(normalized);
 
             if (mode === 'clinic') {
-                setActiveQuestions(normalized);
+                setActiveQuestions(normalized.sort(() => 0.5 - Math.random()));
                 setCurrentState('playing'); // Skip config for clinic
             }
             return;

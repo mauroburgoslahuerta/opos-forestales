@@ -4,6 +4,7 @@ import { BookOpen, Database, Briefcase, FileText, User as UserIcon, Clock, Alert
 import { useNavigate } from 'react-router-dom';
 import { supabase } from '../lib/supabase';
 import { useAuth } from '../context/AuthContext';
+import { Announcements } from '../components/dashboard/Announcements';
 
 interface UserStats {
     totalAnswered: number;
@@ -378,6 +379,8 @@ export const Dashboard = () => {
                     </CardContent>
                 </Card>
             </div>
+
+            <Announcements />
         </div>
     );
 };

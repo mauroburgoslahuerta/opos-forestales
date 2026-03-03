@@ -7,6 +7,7 @@ export interface Announcement {
 }
 
 export const ANNOUNCEMENTS: Announcement[] = [
+    /*
     {
         id: '20260225-especificos',
         title: 'Resumes dispoñibles',
@@ -14,4 +15,5 @@ export const ANNOUNCEMENTS: Announcement[] = [
         type: 'new_content',
         date: '25 FEB'
     }
+    */
 ];
