@@ -140,7 +140,6 @@ export const TOPIC_REGISTRY: Record<string, TopicDefinition> = {
         slug: 't-esp-8-conduccion',
         title: 'T8 Específico: Condución e Estiba',
         category: 'specific',
-        sourceFile: '/resumenes/t-esp-8-conduccion.md',
         documents: [{ "title": "A Condución Todoterreo 2025", "file": "/temario/t-esp-8-conduccion/A_CONDUCIÓN_TODOTERREO_2025.md", "isPrincipal": true }, { "title": "Circular 2021 Circulacion V1 Agasp", "file": "/temario/t-esp-8-conduccion/CIRCULAR_2021_CIRCULACION_V1_AGASP.md" }],
         icon: 'Truck'
     },

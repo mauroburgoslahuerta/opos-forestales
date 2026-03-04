@@ -82,7 +82,7 @@ export const SummaryViewer: React.FC<SummaryViewerProps> = ({ topic, onClose }) 
             const isInTable = trimmedLine.startsWith('|');
             const isInCode = currentText.split('```').length % 2 === 0;
 
-            if (currentText.length > 1800 && !isInTable && !isInCode && (trimmedLine === '' || trimmedLine.endsWith('.') || trimmedLine.endsWith(':'))) {
+            if (currentText.length > 900 && !isInTable && !isInCode && (trimmedLine === '' || trimmedLine.endsWith('.') || trimmedLine.endsWith(':'))) {
                 if (currentText.trim().length > 100) {
                     pushSlide(currentType, currentBuffer, currentTitle);
                     currentBuffer = [];
@@ -207,10 +207,11 @@ export const SummaryViewer: React.FC<SummaryViewerProps> = ({ topic, onClose }) 
                                              prose-p:text-lg md:prose-p:text-xl
                                              prose-p:text-gray-900 dark:prose-p:text-gray-100
                                              prose-p:leading-relaxed
+                                             prose-p:text-justify
                                              prose-li:text-base md:prose-li:text-lg
                                              prose-li:text-gray-900 dark:prose-li:text-gray-100
                                              prose-li:leading-relaxed
-                                             prose-li:leading-relaxed
+                                             prose-li:text-justify
                                              prose-ul:list-disc prose-ul:pl-8
                                              prose-ol:list-decimal prose-ol:pl-8
                                              prose-strong:text-forest-700 dark:prose-strong:text-forest-400
