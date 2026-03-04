@@ -11,7 +11,6 @@ mermaid.initialize({
     theme: 'forest', // Using 'forest' theme to match the project aesthetics
     securityLevel: 'loose',
     fontFamily: 'Inter, sans-serif',
-    fontSize: 12,
 });
 
 const Mermaid: React.FC<MermaidProps> = ({ chart }) => {
@@ -29,7 +28,7 @@ const Mermaid: React.FC<MermaidProps> = ({ chart }) => {
                         theme: 'forest',
                         securityLevel: 'loose',
                         fontFamily: 'Inter, sans-serif',
-                        fontSize: isBig ? 16 : 12, // Scale font for zoomed view
+                        fontSize: isBig ? 24 : 16, // Scale font for zoomed view
                     });
 
                     const id = `mermaid-${idSuffix}-${Math.random().toString(36).substr(2, 9)}`;

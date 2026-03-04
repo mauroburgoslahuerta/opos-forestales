@@ -142,11 +142,11 @@ Protocolo a iniciar cando unha persoa está inconsciente e non respira. Antes de
 > **Métricas e Protocolo de RCP (ADULTOS)**
 > | Parámetro | Valor Técnico (Mauro V8) | Notas Operativas |
 > | :--- | :--- | :--- |
-> | **Ratio Compresións:Insuflacións** | **30 : 2** | Válido para 1 ou 2 reanimadores. Ratios antiguos (15:2, 5:1) están obsoletos. |
-> | **Frecuencia de Compresións** | **100 - 120 por minuto** | Ritmo similar á canción "Stayin' Alive". |
-> | **Profundidade de Compresións** | **5 - 6 cm** | Comprimir o esternón con decisión. |
-> | **Posición do Reanimador** | Brazos rectos e **bloqueados polos cóbados**. | O peso debe caer dende os ombros sobre o esternón da vítima. |
-> | **Manobra de Apertura Vía Aérea** | Hiperextensión do pescozo (manobra fronte-queixo). | |
+| **Ratio Compresións:Insuflacións** | **30 : 2** | Válido para 1 ou 2 reanimadores. Ratios antiguos (15:2, 5:1) están obsoletos. |
+| **Frecuencia de Compresións** | **100 - 120 por minuto** | Ritmo similar á canción "Stayin' Alive". |
+| **Profundidade de Compresións** | **5 - 6 cm** | Comprimir o esternón con decisión. |
+| **Posición do Reanimador** | Brazos rectos e **bloqueados polos cóbados**. | O peso debe caer dende os ombros sobre o esternón da vítima. |
+| **Manobra de Apertura Vía Aérea** | Hiperextensión do pescozo (manobra fronte-queixo). | |
 
 ```mermaid
 graph TD
@@ -164,9 +164,9 @@ graph TD
 > **Identificación Visual de Hemorraxias (Mauro V8)**
 > | Tipo | Cor do Sangue | Tipo de Saída |
 > | :--- | :--- | :--- |
-> | **Arterial** | Vermella rutilante (viva) | A cachón, intermitente (sincronizada co pulso) |
-> | **Venosa** | Vermella escura | Continua, uniforme |
-> | **Capilar** | Vermella | En sábana, puntos sangrantes |
+| **Arterial** | Vermella rutilante (viva) | A cachón, intermitente (sincronizada co pulso) |
+| **Venosa** | Vermella escura | Continua, uniforme |
+| **Capilar** | Vermella | En sábana, puntos sangrantes |
 
 **Clasificación Técnica de Feridas:**
 - **Incisa:** Producida por obxectos con fío. Predomina a lonxitude sobre a profundidade. Corte limpo.
@@ -242,8 +242,8 @@ En situacións especiais de rescate, deben seguirse estes procedementos literais
 > **Identificación da Mordedura (Mauro V8)**
 > | Especie | Marca da Mordedura | Sintomatoloxía Inicial |
 > | :--- | :--- | :--- |
-> | **Víbora (Velenosa)** | **Dous puntos sangrantes** (cairos). | Dor intensa e **inflamación rápida** da zona. |
-> | **Cobra (Non velenosa)** | **Ringleira de puntiños sangrantes.** | Xeralmente sen dor nin inflamación inmediata. |
+| **Víbora (Velenosa)** | **Dous puntos sangrantes** (cairos). | Dor intensa e **inflamación rápida** da zona. |
+| **Cobra (Non velenosa)** | **Ringleira de puntiños sangrantes.** | Xeralmente sen dor nin inflamación inmediata. |
 
 > [!WARNING]
 > **PROTOCOLO OBSOLETO E PERIGOSO (Libro Laranxa 2007)**
