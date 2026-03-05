@@ -1,0 +1,427 @@
+{
+  "verificacion": [
+    {
+      "id": "adace58a-2075-473d-98e7-f81af0251b80",
+      "n": 8,
+      "actual": "a",
+      "correcta": "c",
+      "ok": false,
+      "conf": "alta",
+      "fonte": "temario",
+      "exp": "Erro no gabarito. Segundo o temario, os valores mínimos do prego son: Saída 20º, Ventral 21º, Ataque 25º. O menor é o de saída."
+    },
+    {
+      "id": "f606e888-c315-4cdd-ad99-f23e9ca2e791",
+      "n": 1,
+      "actual": "c",
+      "correcta": "c",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "pdf_marcado",
+      "exp": "A altura mínima é a distancia entre o punto máis baixo do vehículo e o chan, como se define no temario."
+    },
+    {
+      "id": "f8420eb1-eb56-475c-8a16-edf44be0595c",
+      "n": 2,
+      "actual": "d",
+      "correcta": "d",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "pdf_marcado",
+      "exp": "Unha altura libre alta é desexable en terreos difíciles (A) pero aumenta o centro de gravidade e a inestabilidade (B, C)."
+    },
+    {
+      "id": "e6f74919-0ad6-4e98-b46d-1149ccccdb22",
+      "n": 3,
+      "actual": "a",
+      "correcta": "a",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "pdf_marcado",
+      "exp": "O temario indica unha altura libre mínima de 200mm (20 cm) segundo o último prego de condicións."
+    },
+    {
+      "id": "c67e3bd2-007f-4cb0-b40d-e3cc3d1b8c5f",
+      "n": 4,
+      "actual": "a",
+      "correcta": "a",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "pdf_marcado",
+      "exp": "A capacidade de vadeo é a profundidade máxima de auga que un vehículo pode atravesar con seguridade."
+    },
+    {
+      "id": "67be666a-b672-4ea0-a7a4-b897437f6856",
+      "n": 5,
+      "actual": "c",
+      "correcta": "c",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "pdf_marcado",
+      "exp": "O temario especifica 50 cm para todoterreos e de 0,8 a 1 m para motobombas, coincidindo coa opción C."
+    },
+    {
+      "id": "6027711b-2c92-416e-961e-ee0f3203c2da",
+      "n": 6,
+      "actual": "c",
+      "correcta": "c",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "pdf_marcado",
+      "exp": "O temario define vehículo prioritario como o que presta servizo urxente de extinción de incendios e usa o sinal V-1."
+    },
+    {
+      "id": "a0deb78d-0904-495a-acf8-b840592216b9",
+      "n": 7,
+      "actual": "b",
+      "correcta": "b",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "pdf_marcado",
+      "exp": "O temario indica que o sinal V-1 se instala na parte dianteira do plano superior, por encima da luz máis alta."
+    },
+    {
+      "id": "62132fa7-197a-4153-9961-bb92e03d0f13",
+      "n": 9,
+      "actual": "d",
+      "correcta": "d",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "pdf_marcado",
+      "exp": "O temario indica que os vehículos TT poden superar pendentes do 100%, que equivale a 45º. Ambas A e B son correctas."
+    },
+    {
+      "id": "46632295-63f6-49ff-b45c-b549114c09a9",
+      "n": 10,
+      "actual": "c",
+      "correcta": "c",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "pdf_marcado",
+      "exp": "A pregunta describe textualmente a definición de ángulo de ataque que se atopa no temario."
+    },
+    {
+      "id": "19a73c52-9951-4da8-b0ad-a7af71811f12",
+      "n": 11,
+      "actual": "a",
+      "correcta": "a",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "pdf_marcado",
+      "exp": "O temario indica que os polgares non deben rodear o volante na condución todoterreo para evitar lesións."
+    },
+    {
+      "id": "c75bee4d-2f74-48da-a626-b50524ed8470",
+      "n": 12,
+      "actual": "d",
+      "correcta": "d",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "pdf_marcado",
+      "exp": "As opcións A, B e C son afirmacións correctas sobre o centro de gravidade segundo o temario."
+    },
+    {
+      "id": "e0ea0ded-9e3c-40dd-a300-0d9c40bc6981",
+      "n": 13,
+      "actual": "c",
+      "correcta": "c",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "pdf_marcado",
+      "exp": "A carcasa do diferencial adoita ser o punto máis baixo nun vehículo todoterreo con eixos ríxidos."
+    },
+    {
+      "id": "db592fb6-b0a5-49e7-a69b-cbb598c731cf",
+      "n": 14,
+      "actual": "c",
+      "correcta": "c",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "pdf_marcado",
+      "exp": "O condutor é o responsable último da seguridade do vehículo e non debe acatar ordes que o poñan en perigo."
+    },
+    {
+      "id": "4c5c6c25-5454-4607-a2bd-6dfb99f4fba9",
+      "n": 15,
+      "actual": "b",
+      "correcta": "b",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "pdf_marcado",
+      "exp": "Cun diferencial aberto, se as rodas dun lado perden tracción, o vehículo non avanzará."
+    },
+    {
+      "id": "a4e1ed87-c35e-4032-b351-7b8d59359a69",
+      "n": 16,
+      "actual": "b",
+      "correcta": "b",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "pdf_marcado",
+      "exp": "A reductora acurta o desenvolvemento das marchas, non o alonga. Polo tanto, a opción B é a incorrecta."
+    },
+    {
+      "id": "b0154783-4eb9-4929-85f7-4b53623c2aca",
+      "n": 17,
+      "actual": "a",
+      "correcta": "a",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "pdf_marcado",
+      "exp": "O bloqueo de diferenciais úsase a baixa velocidade e debe desconectarse ao recuperar tracción."
+    },
+    {
+      "id": "6615d9c4-5f5c-4a3b-ab7b-a4c4e5d426f4",
+      "n": 18,
+      "actual": "b",
+      "correcta": "b",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "pdf_marcado",
+      "exp": "O factor principal a considerar nun vadeo é a profundidade da auga para non superar a capacidade do vehículo."
+    },
+    {
+      "id": "3886f5dc-c298-4f89-8c72-3537ade943ee",
+      "n": 19,
+      "actual": "b",
+      "correcta": "b",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "pdf_marcado",
+      "exp": "Os vehículos prioritarios en servizo de urxencia deben usar o sinal V-1 de cor azul, non laranxa."
+    },
+    {
+      "id": "c5db175e-f5a3-4635-94b1-0a461d1fbfb0",
+      "n": 20,
+      "actual": "b",
+      "correcta": "b",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "pdf_marcado",
+      "exp": "O bloqueo do diferencial forza a repartición de potencia por igual ás rodas dun eixe, axudando en perdas de adherencia."
+    },
+    {
+      "id": "1a18917e-5444-4052-a78f-8c996b80ce64",
+      "n": 21,
+      "actual": "c",
+      "correcta": "c",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "pdf_marcado",
+      "exp": "Os pneumáticos M/T (Mud Terrain) son específicos para terreos difíciles, cunha orientación do 80% off-road."
+    },
+    {
+      "id": "a5e31dfd-9f53-45a4-a0a6-56f7ceb96e25",
+      "n": 22,
+      "actual": "b",
+      "correcta": "b",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "pdf_marcado",
+      "exp": "É incorrecto deixar as portas pechadas con chave; deben quedar accesibles para mover o vehículo se é necesario."
+    },
+    {
+      "id": "ffb469c8-4985-4c67-aa33-d19b7dfb7724",
+      "n": 23,
+      "actual": "a",
+      "correcta": "a",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "pdf_marcado",
+      "exp": "A estiba do material debe seguir os principios de seguridade, ergonomía e practicidade."
+    },
+    {
+      "id": "a23cea7e-082a-4b42-abdb-b212a68b43bf",
+      "n": 24,
+      "actual": "d",
+      "correcta": "d",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "pdf_marcado",
+      "exp": "A definición e características da vía coinciden co temario. Pregunta mal formulada, as opcións C e D son idénticas."
+    },
+    {
+      "id": "370593b4-1e53-4870-8af9-c12cda35e2fa",
+      "n": 25,
+      "actual": "d",
+      "correcta": "d",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "pdf_marcado",
+      "exp": "A, B e C son vantaxes de baixar a presión. D é unha desvantaxe (risco de cortes), polo que é a resposta incorrecta."
+    },
+    {
+      "id": "e9ffb19b-3797-4d09-ae3f-30718401ba43",
+      "n": 26,
+      "actual": "c",
+      "correcta": "c",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "pdf_marcado",
+      "exp": "O temario especifica que a visibilidade mínima do sinal V-1 debe ser de 50 metros."
+    },
+    {
+      "id": "422cb298-0abd-4d0f-b2f6-f055843e1c18",
+      "n": 27,
+      "actual": "c",
+      "correcta": "c",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "pdf_marcado",
+      "exp": "Os sinais dos axentes de tráfico son sempre de obrigado cumprimento, polo que a afirmación C é incorrecta."
+    },
+    {
+      "id": "7cdd254b-3d13-4efa-90bb-b74124a920cf",
+      "n": 28,
+      "actual": "d",
+      "correcta": "d",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "pdf_marcado",
+      "exp": "A pregunta contén un erro ('non nos despracemos'). Se non é un servizo de urxencia, nunca se usan os sinais."
+    },
+    {
+      "id": "a60c8a34-46f6-497a-afb2-fc545a5c793f",
+      "n": 29,
+      "actual": "c",
+      "correcta": "c",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "pdf_marcado",
+      "exp": "Nun ascenso técnico débese manter unha velocidade constante e controlada, non iniciar a manobra a velocidade moi alta."
+    },
+    {
+      "id": "bc25a633-e89a-40cb-abf1-630f57adb0ea",
+      "n": 30,
+      "actual": "c",
+      "correcta": "c",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "pdf_marcado",
+      "exp": "Se o vehículo derrapa nunha pendente, débese xirar cara abaixo para recuperar tracción, non cara arriba."
+    },
+    {
+      "id": "9e84f4dd-61ef-4e8c-833e-d96cf98bfc64",
+      "n": 31,
+      "actual": "c",
+      "correcta": "c",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "pdf_marcado",
+      "exp": "O temario indica que a inclinación lateral máxima é de arredor de 40º para todoterreos e 30º para motobombas."
+    },
+    {
+      "id": "0b725283-e216-41bd-97c1-1ca1386100b2",
+      "n": 32,
+      "actual": "b",
+      "correcta": "b",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "pdf_marcado",
+      "exp": "O patrón de alta visibilidade para vehículos de emerxencia con chevrons vermello-amarelo é o Battenburg amarelo e vermello."
+    },
+    {
+      "id": "cd8a9edf-eb77-4820-9314-4581092903e6",
+      "n": 33,
+      "actual": "c",
+      "correcta": "c",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "pdf_marcado",
+      "exp": "Os sinais luminosos V1 deben ser visibles en todas as direccións, o que require unha cobertura de 360º."
+    },
+    {
+      "id": "69075bec-b782-46f9-bab3-c6c4d9b3fc8f",
+      "n": 34,
+      "actual": "d",
+      "correcta": "d",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "pdf_marcado",
+      "exp": "A resposta correcta depende do prego de condicións específico. O gabarito oficial indica a opción D."
+    },
+    {
+      "id": "92e1a283-c06e-4a53-9986-6e330828b606",
+      "n": 35,
+      "actual": "a",
+      "correcta": "a",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "pdf_marcado",
+      "exp": "A dosificación do retardante é un dato técnico específico. O gabarito oficial indica un rango de 0,15% a 1,1%."
+    },
+    {
+      "id": "59e2c3bd-c649-4b1b-92d5-982d42ec99fe",
+      "n": 36,
+      "actual": "d",
+      "correcta": "d",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "pdf_marcado",
+      "exp": "As descricións do depósito nas opcións A, B e C conteñen incorreccións, polo que ningunha é correcta."
+    },
+    {
+      "id": "846df09b-5d9f-404e-907f-815f6ce0c261",
+      "n": 37,
+      "actual": "d",
+      "correcta": "d",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "pdf_marcado",
+      "exp": "Pregunta mal formulada. As opcións B e C son idénticas e o caudal de 2481 l/min parece erróneo."
+    },
+    {
+      "id": "aaf35fce-121d-4c98-8f58-bf51d3c0a01d",
+      "n": 38,
+      "actual": "b",
+      "correcta": "b",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "pdf_marcado",
+      "exp": "Segundo o gabarito, o prego de condicións especifica unha potencia mínima de 150 cv para os vehículos todoterreo."
+    },
+    {
+      "id": "91235820-8a69-4011-8f1b-dedd6e6c4fce",
+      "n": 39,
+      "actual": "d",
+      "correcta": "d",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "pdf_marcado",
+      "exp": "A potencia da sirena non corresponde a ningunha das opcións A, B ou C, segundo o gabarito oficial."
+    },
+    {
+      "id": "e9bcb32d-9028-4f8f-ac1d-ccc6b0edf6b2",
+      "n": 40,
+      "actual": "b",
+      "correcta": "b",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "pdf_marcado",
+      "exp": "O prego especifica pneumáticos A/T (All-Terrain) cunha capacidade off-road aproximada do 50%."
+    },
+    {
+      "id": "a8cd17e3-2f08-475c-92f4-535ba24a4d69",
+      "n": 41,
+      "actual": "d",
+      "correcta": "d",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "pdf_marcado",
+      "exp": "O temario especifica un ángulo de saída MÍNIMO de 20º, mentres a pregunta pide un MÁXIMO. Ningunha opción é correcta."
+    }
+  ],
+  "resumo": {
+    "total": 41,
+    "ok": 40,
+    "erros": 1,
+    "para_eliminar": [
+      "adace58a-2075-473d-98e7-f81af0251b80",
+      "a23cea7e-082a-4b42-abdb-b212a68b43bf",
+      "7cdd254b-3d13-4efa-90bb-b74124a920cf",
+      "846df09b-5d9f-404e-907f-815f6ce0c261",
+      "a8cd17e3-2f08-475c-92f4-535ba24a4d69"
+    ],
+    "nota": "A verificación mostra un erro claro no gabarito oficial (pregunta 8) e varias preguntas (24, 28, 37, 41) con formulacións defectuosas (opcións idénticas, premisas incorrectas) que deberían ser anuladas."
+  }
+}

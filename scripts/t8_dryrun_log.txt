@@ -1,0 +1,44 @@
+[PDF] TEST TODOTERREO 1.pdf -> t8_test_todoterreo1.pdf
+[AVISO] Non atopado: f:\Proyectos Antigravity\Opos forestales\docs\PARA CURADOR\especificos\t-esp-8-conducion\A CONDUCCION TODOTERREO 2025.pdf
+[PDF] CIRCULAR 2021 CIRCULACION V1 AGASP.pdf -> t8_circular_circulacion.pdf
+
+=== T8 DRY-RUN (SEN APLICAR CAMBIOS) ===
+  -> 41 preguntas (topic: e8880000...)
+  Subindo: t8_test_todoterreo1.pdf (display: t8_test_todoterreo1.pdf)...
+  Subindo: t8_circular_circulacion.pdf (display: t8_circular_circulacion.pdf)...
+  -> Temario: 36,492 chars
+
+[3] Enviando a Gemini (41 preguntas + 2 PDFs)...
+  -> 13,479 chars recibidos
+
+[4] Parseando...
+
+====================================================================
+INFORME VERIFICACIÓN: T-ESP-8-CONDUCCION
+====================================================================
+  Total:     41
+  OK:        40
+  Erros:     1
+
+  → A verificación mostra un erro claro no gabarito oficial (pregunta 8) e varias preguntas (24, 28, 37, 41) con formulacións defectuosas (opcións idénticas, premisas incorrectas) que deberían ser anuladas.
+====================================================================
+
+🔍 DISCREPANCIAS:
+
+  ✓ P8: [a]→[c] CORREXIR (temario)
+     Erro no gabarito. Segundo o temario, os valores mínimos do prego son: Saída 20º, Ventral 21º, Ataque 25º. O menor é o de
+
+
+[!] DRY-RUN: 1 erros detectados. NON se aplicaron cambios.
+[!] Revisar manualmente: f:\Proyectos Antigravity\Opos forestales\scripts\t-esp-8-conduccion_report.json
+
+=== DETALLE PARA REVISION MANUAL ===
+
+--- P8 (conf=alta) ---
+  Pregunta: Cal dos seguintes ángulos é o de menor valor según o ultimo prego de prescripcións técnicas para a adquisición de vehículos
+  A) Ángulo ventral
+  B) Ángulo de ataque
+  C) Ángulo de saída
+  D) Ángulo de inclinación lateral
+  Actual: [a] | Proposta: [c]
+  Xustificacion: Erro no gabarito. Segundo o temario, os valores mínimos do prego son: Saída 20º, Ventral 21º, Ataque 25º. O menor é o de saída.

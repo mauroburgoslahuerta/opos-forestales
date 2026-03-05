@@ -18,12 +18,20 @@ O banco de preguntas de opos forestais (Supabase) tiña **respostas correctas ma
 | T5 (`t-esp-5-extincion`) | 101 | 3 | 3% | 0 | 3 |
 | T6 (`t-esp-6-prevencion`) | 124 | 0 | 0% | 0 | 0 |
 | T7 (`t-esp-7-equipamento`) | 38 | 2 | 5% | 1 | 1 |
+| T8 (`t-esp-8-conduccion`)  | 41 | 1 | 2.5%| 1 | 0 |
 
 **Tamén correxido:** O resumo `t-esp-4-lume.md` tiña a velocidade crítica en 60 m/min (erro). Correxido a **50 m/min** segundo o PDF FORGA 18/11/2025.
 
 **Validación Retroactiva (Sesión 12):** Tras detectar os falsos positivos en T6, executouse un script ad-hoc de comprobación retroactiva para cruzar os identificadores (UUIDs) e os textos (A,B,C,D) das 53 preguntas modificadas historicamente en T1, T2, T3 e T4 na base de datos.
 - Constatouse que **todas as correccións foron certeras**: a inmensa maioría derivaban de erros severos nas prantillas de solucións orixinais de FORGA/Xunta (ej: preguntas da Lei 3/2007 desactualizadas ou triángulos de comportamento errados no pdf). As asuncións foron correctas e T1-T4 quedan blindados.
 
+### T8: Conducción Todoterreo (05/03/2026)
+- **Total preguntas:** 41
+- **Verificación:** Executado script Dry-Run + Revisión Manual.
+- **Resultados:**
+  - **P8:** Corrixiuse a resposta (orixinal 'a' -> corrixida 'c' Ángulo de saída). Xustificación: O prego técnico de adquisición de vehículos TT especifica explicitamente 20º como mínimo para o de saída, sendo numericamente o menor dos tres mencionados no temario.
+  - **P37:** Eliminada a opción C (deixada en branco) porque era exactamente idéntica á B ("E unha bomba de baixa presión de como mínimo 40 bar de presión e un caudal de 2481/min").
+  - **P24, P28, P41 (Trampas de formulación):** Revisadas manualmente. Posúen redaccións complexas/tramposas (xogos de palabras ou esixencias contrarias ao temario) pero nas que "Ningunha é correcta" (`d`) ou o xogo lóxico aplican perfectamente, polo que se mantiveron inalteradas con ok:true en Gemini e verificación manual do humano.
 ---
 
 ## 2. METODOLOXÍA DE VERIFICACIÓN
