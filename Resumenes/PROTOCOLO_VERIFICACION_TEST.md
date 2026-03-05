@@ -21,6 +21,9 @@ O banco de preguntas de opos forestais (Supabase) tiña **respostas correctas ma
 
 **Tamén correxido:** O resumo `t-esp-4-lume.md` tiña a velocidade crítica en 60 m/min (erro). Correxido a **50 m/min** segundo o PDF FORGA 18/11/2025.
 
+**Validación Retroactiva (Sesión 12):** Tras detectar os falsos positivos en T6, executouse un script ad-hoc de comprobación retroactiva para cruzar os identificadores (UUIDs) e os textos (A,B,C,D) das 53 preguntas modificadas historicamente en T1, T2, T3 e T4 na base de datos.
+- Constatouse que **todas as correccións foron certeras**: a inmensa maioría derivaban de erros severos nas prantillas de solucións orixinais de FORGA/Xunta (ej: preguntas da Lei 3/2007 desactualizadas ou triángulos de comportamento errados no pdf). As asuncións foron correctas e T1-T4 quedan blindados.
+
 ---
 
 ## 2. METODOLOXÍA DE VERIFICACIÓN
