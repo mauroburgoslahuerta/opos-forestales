@@ -1,0 +1,911 @@
+[
+  {
+    "id": "13f5c97b-8461-40b4-ad23-3dde1654d5da",
+    "question_text": "18.-Podemos aforrar auga :",
+    "option_a": "Deixando zonas sen regar que pensemos que están seguras",
+    "option_b": "Mesturando retardantes coa auga",
+    "option_c": "Usando presións baixas de bomba",
+    "option_d": "Empregando mangueiras delgadas",
+    "correct_answer": "b"
+  },
+  {
+    "id": "c2e03f00-6c53-475f-a328-fcd8610a40b5",
+    "question_text": "19.-¿0 ataque con terra actúa sobre o?",
+    "option_a": "Combustible",
+    "option_b": "Osixeno",
+    "option_c": "Calor",
+    "option_d": "A e b son correctas",
+    "correct_answer": "d"
+  },
+  {
+    "id": "56099903-0507-4cb4-a4ea-bdf8bcf3e1af",
+    "question_text": "20.-¿A maquinaria pesada nun incendio forestal se emprega en?",
+    "option_a": "Ataque directo",
+    "option_b": "Ataque indirecto",
+    "option_c": "Na apertura de liñas de defensa para executar o contralumes",
+    "option_d": "Todas son correctas",
+    "correct_answer": "d"
+  },
+  {
+    "id": "8bb2d89c-1c4e-45f2-8d59-2680baf9431e",
+    "question_text": "21.-Anchura da liña de defensa irá en función de:",
+    "option_a": "A densidade e altura do combustible.",
+    "option_b": "Velocidade do vento.",
+    "option_c": "Tipo de lume (copas, superficie e subsolo).",
+    "option_d": "Todas son correctas",
+    "correct_answer": "d"
+  },
+  {
+    "id": "88ef3b5b-6874-4d88-ae9e-8e7ee95fc789",
+    "question_text": "30.- Cal dos seguintes ataques non é propio do ataque directo?:",
+    "option_a": "Ataque con bombas de explosión",
+    "option_b": "Ataque con maquinaria pesada",
+    "option_c": "Ataque con medios aéreos",
+    "option_d": "Ataque con queimas de ensanche",
+    "correct_answer": "d"
+  },
+  {
+    "id": "491effce-89af-46ec-93a6-a738f7ccd259",
+    "question_text": "29.- No caso de pasar da fase de primeiro ataque a ataque ampliado o DTE deberá",
+    "option_a": "solicitar reforzos,",
+    "option_b": "apartarse da liña de lume",
+    "option_c": "preparar a incorporación dos novos medios",
+    "option_d": "todas respostas anteriores son correctas",
+    "correct_answer": "d"
+  },
+  {
+    "id": "93b6d661-3461-426f-8836-3a005285c377",
+    "question_text": "16.- Se aplica auga en chorro sobre a base de lapa nun incendio forestal:",
+    "option_a": "En solos con moita materia orgánica",
+    "option_b": "En lume de copas",
+    "option_c": "Cando se pretenda que a auga chegue lonxe e non nos poidamos acercar mais ao fronte",
+    "option_d": "A e c son correctas",
+    "correct_answer": "d"
+  },
+  {
+    "id": "1a6492ed-2a13-4221-bc38-63811da266c6",
+    "question_text": "17.-¿0 tipo de sistema presenta maior rendemento permitindo aforrar auga é?",
+    "option_a": "Auga en chorro",
+    "option_b": "Auga en pulverización",
+    "option_c": "Método mixto ou alternando varios sistemas",
+    "option_d": "Os dous sistemas (a e b) por igual debido a que pola lanza sae sempre o mesmo caudal independentemente do sistema",
+    "correct_answer": "b"
+  },
+  {
+    "id": "421ec117-67ad-4242-9354-b374862c1b8c",
+    "question_text": "1.-¿Que incendio presenta unha menor velocidade de propagación segundo a clasificación que se fai en base ao estrato afectado?",
+    "option_a": "Subsolo",
+    "option_b": "Copas",
+    "option_c": "Superficie",
+    "option_d": "De pasto",
+    "correct_answer": "a"
+  },
+  {
+    "id": "116ef596-67b3-462c-93ae-5355d89492ec",
+    "question_text": "2.-0 tipo de incendio que é mais difícil de controlar en igualdade de condicións é",
+    "option_a": "De subsolo",
+    "option_b": "De Copas",
+    "option_c": "De mato",
+    "option_d": "De superficie",
+    "correct_answer": "b"
+  },
+  {
+    "id": "5992b7c4-f717-43fd-bab4-21057c50fe59",
+    "question_text": "3.-0 lume que presenta maior velocidade de propagación en igualdade de condicións é",
+    "option_a": "De copas",
+    "option_b": "De mato",
+    "option_c": "De pastos",
+    "option_d": "De subsolo",
+    "correct_answer": "c"
+  },
+  {
+    "id": "6280b5ac-4b20-488f-9655-3a74972a2d82",
+    "question_text": "4.-¿Que parte do incendio forestal presenta maior velocidade de propagación?:",
+    "option_a": "Bordo",
+    "option_b": "Flanco",
+    "option_c": "Dedo o lingua",
+    "option_d": "Cola",
+    "correct_answer": "c"
+  },
+  {
+    "id": "73ca4109-9209-4072-9d88-12a4c38b851d",
+    "question_text": "5.-¿Que parte do incendio forestal presenta menor velocidade de propagación?:",
+    "option_a": "Bahía",
+    "option_b": "Flanco",
+    "option_c": "Dedo ou lingua",
+    "option_d": "Cabeza",
+    "correct_answer": "a"
+  },
+  {
+    "id": "a927eb2f-8b2e-4261-8f89-31e24aebefc0",
+    "question_text": "6.-¿Como se identifica o flanco dereito dun incendio forestal?:",
+    "option_a": "O situado na parte inferior do perímetro",
+    "option_b": "A parte do incendio mais afastada do punto de inicio",
+    "option_c": "A parte perimetral dereita mirando dende a zona de inicio",
+    "option_d": "A parte perimetral esquerda mirando dende a zona de inicio",
+    "correct_answer": "c"
+  },
+  {
+    "id": "1fe56a7c-33db-46ef-89c9-df46c14431dc",
+    "question_text": "7.-Son fases na extinción dun incendio forestal",
+    "option_a": "Ataque, control e liquidación",
+    "option_b": "Activo, controlado e extinguido",
+    "option_c": "Ataque directo e ataque indirecto",
+    "option_d": "Ataque directo, ataque indirecto e ataque ampliado",
+    "correct_answer": "a"
+  },
+  {
+    "id": "d661bf37-4d68-4d10-bd43-4b5efca6c11d",
+    "question_text": "8.-¿Que método de ataque aplicarías na cola na maioría dos incendios?",
+    "option_a": "Directo",
+    "option_b": "Indirecto",
+    "option_c": "Ampliado",
+    "option_d": "Combinado",
+    "correct_answer": "a"
+  },
+  {
+    "id": "fc7964ed-1053-421c-b45b-a61310ae7d54",
+    "question_text": "9.-0 ataque directo:",
+    "option_a": "Permítenos reducir os danos do lume ao mínimo da superficie.",
+    "option_b": "É un traballo que realizamos moi eficaz, xa que deixa un bordo frío que, practicamente, non require liquidación.",
+    "option_c": "En lumes grandes é, ás veces, máis seguro para os combatentes, xa que podemos achegarnos axiña ás áreas queimadas e frías en caso de producirse unha propagación rápida que nos sorprenda.",
+    "option_d": "Todas son correctas",
+    "correct_answer": "d"
+  },
+  {
+    "id": "562e94b9-b943-4dcb-a07e-f8df2b034ddd",
+    "question_text": "10.- ¿0 método de ataque que consiste en establecer a liña de control a certa distancia do bordo do incendio é?.",
+    "option_a": "Directo",
+    "option_b": "Indirecto",
+    "option_c": "Ampliado",
+    "option_d": "Contralume",
+    "correct_answer": "b"
+  },
+  {
+    "id": "10e1042f-c4d9-4da3-857a-064dfd1b4744",
+    "question_text": "11.-Aplicamos o método de ataque indirecto:",
+    "option_a": "Cando a calor e o fume impiden o traballo do persoal próximo ao bordo.",
+    "option_b": "Cando a topografía é abrupta ou a vexetación é densa ou unha combinación de ambas as dúas.",
+    "option_c": "Cando o bordo é tan irregular que require excesivo traballo e a vexetación que arde é de escaso valor",
+    "option_d": "Todas son correctas.",
+    "correct_answer": "d"
+  },
+  {
+    "id": "93d4e281-03cf-4b6e-8b91-c924ffe3120f",
+    "question_text": "12.-¿0 contralume se aplica mediante o desenvolvemento da técnica de?:",
+    "option_a": "Ataque directo",
+    "option_b": "Ataque indirecto",
+    "option_c": "Ataque paralelo",
+    "option_d": "B e c son correctas",
+    "correct_answer": "b"
+  },
+  {
+    "id": "ea80c26f-4527-45f3-a2fe-40c6bba2d964",
+    "question_text": "13.-¿Que tipo de ataque expón mais aos combatentes á radiación calórica e ao fume, especialmente na cabeza do incendio?",
+    "option_a": "Directo",
+    "option_b": "Indirecto",
+    "option_c": "Ampliado",
+    "option_d": "Combinado",
+    "correct_answer": "a"
+  },
+  {
+    "id": "99d5b0cf-9b9a-483c-97eb-873ec63c2583",
+    "question_text": "14.-Son desvantaxes do ataque indirecto:",
+    "option_a": "Ao separarse da fronte do incendio terase que sacrificar a vexetación intermedia que poida ser valiosa.",
+    "option_b": "Da lugar a un maior perímetro da liña de control, aumentando deste xeito os labores de control e se é o caso de liquidación.",
+    "option_c": "Cando estamos traballando nun lugar coa topografía accidentada, o desprazamento do persoal é perigoso.",
+    "option_d": "A e b son correctas",
+    "correct_answer": "d"
+  },
+  {
+    "id": "b2ce3bdd-c68b-42e4-8d83-4748be387827",
+    "question_text": "15.-¿Que decide nun incendio o método de ataque a realizar?",
+    "option_a": "xefe de distrito",
+    "option_b": "xefe de servizo",
+    "option_c": "director técnico de extinción",
+    "option_d": "xefe de brigada",
+    "correct_answer": "c"
+  },
+  {
+    "id": "7ec050cf-d676-4d7e-bb43-9e1f8876a71f",
+    "question_text": "22.-Factores que deben caracterizar a liña de defensa:",
+    "option_a": "A liña rematarase antes de que o lume chegue a ela",
+    "option_b": "Se o lume sobe por unha ladeira, debe localizarse inmediatamente antes do do cumio",
+    "option_c": "Se o lume baixa por unha ladeira debe localizarse no outro lado do val ou lixeiramente na ladeira oposta",
+    "option_d": "Todas as respostas anteriores son correctas",
+    "correct_answer": "a"
+  },
+  {
+    "id": "04e0623a-9a44-489d-a985-f59a0407e28d",
+    "question_text": "23.-Factores que deben caracterizar a liña de defensa:",
+    "option_a": "A liña debe apoiarse nas barreiras naturais, tales como ríos ou encoros, masas de frondosas, rochas, etc., ou ben en barreiras artificiais como camiños, estradas, devasas, etc.",
+    "option_b": "A liña non debe ter entrantes nin saíntes pronunciados",
+    "option_c": "A liña debe ser o máis curta posible e seguindo a ruta máis fácil, esquivando na medida do posible os tramos difíciles",
+    "option_d": "Todas as respostas anteriores son correctas",
+    "correct_answer": "d"
+  },
+  {
+    "id": "894e77d3-ef4f-412e-bfca-2c34ed8772bb",
+    "question_text": "24.- ¿A queima de ensanche é?:",
+    "option_a": "Actuación coa que xeralmente se conclúe a construción da liña de defensa e que ten como finalidade ampliar a zona desprovista de combustible.",
+    "option_b": "É o mesmo que un contralume",
+    "option_c": "E una queima de restos que quedaron sen arder no bordo perimetral e sempre dentro da liña de control unha vez controlado o incendio",
+    "option_d": "E a queima de combustibles que non arderon ben dentro do perímetro da zona queimada",
+    "correct_answer": "a"
+  },
+  {
+    "id": "cf3e8cde-e411-40b7-8202-564a48556db7",
+    "question_text": "25.-¿A fase pola que se consigue extinguir un incendio forestal se denomina?",
+    "option_a": "Ataque",
+    "option_b": "Control",
+    "option_c": "Liquidación",
+    "option_d": "Sufocación",
+    "correct_answer": "c"
+  },
+  {
+    "id": "b1de6229-6f47-4c78-927e-bbb992ac28da",
+    "question_text": "26.-¿Se deben buscar posibles focos secundarios a una distancia de?",
+    "option_a": "Se foi un lume de copas ou fixo moito vento, deberemos buscar a unha distancia de polo menos 500 m. Se o lume só foi de mato, con buscar até 100 m pode ser suficiente",
+    "option_b": "Se foi un lume de copas ou fixo moito vento, deberemos buscar a unha distancia de polo menos 1000 m. Se o lume só foi de mato, con buscar até 200 m pode ser suficiente",
+    "option_c": "Se foi un lume de copas ou fixo moito vento, deberemos buscar a unha distancia de polo menos 50 m. Se o lume só foi de mato, con buscar até 10 m pode ser suficiente",
+    "option_d": "Se foi un lume de copas ou fixo moito vento, deberemos buscar a unha distancia de polo menos 100 m. Se o lume só foi de mato, con buscar até 25 m pode ser suficiente",
+    "correct_answer": "a"
+  },
+  {
+    "id": "8f14dd0b-dc33-40c5-b126-b634aa3d9bf7",
+    "question_text": "27.-¿Son indicadores de puntos quentes nun incendio forestal?",
+    "option_a": "A presenza de cinsas brancas e/ou o voo de moscas ou mosquitos sobre unha zona",
+    "option_b": "Zonas de vexetación sen arder rodeado de zonas queimadas",
+    "option_c": "A presenza ou o voo de avespas sobre a zona",
+    "option_d": "A presenza de formigas sobre unha zona non ardida no perímetro do incendio.",
+    "correct_answer": "a"
+  },
+  {
+    "id": "bd0fd296-42cf-49a2-b456-3b159107e70a",
+    "question_text": "28.-¿Un incendio que presenta un bordo irregular corresponde a?",
+    "option_a": "Vento forte con dirección fixa e terreo homoxéneo",
+    "option_b": "Vento en calma e terreo chan",
+    "option_c": "Vento en calma e terreo en pendente",
+    "option_d": "Vento variable e combustible heteroxéneo",
+    "correct_answer": "d"
+  },
+  {
+    "id": "16de5e78-97fb-438e-9eb8-1720018ba9d7",
+    "question_text": "29.-0 incendio dirixido por un vento e/ou pendente forte, se caracteriza porque:",
+    "option_a": "O espazo que recorre o incendio, desde o punto de inicio, é similar en tódalas direccións.",
+    "option_b": "A velocidade de propagación é similar en tódalas direccións.",
+    "option_c": "Ten un eixe moi ben definido con cabeza, flancos e cola.",
+    "option_d": "As lonxitudes de llama, se o combustible é uniforme, son similares en todo o perímetro do incendio.",
+    "correct_answer": "c"
+  },
+  {
+    "id": "5cc6ddf0-3c64-4425-b6b8-821b216f3275",
+    "question_text": "30.-¿Nun IIFF, a aplicación da queima de ensanche sempre debe ser ordenada por?:",
+    "option_a": "O xefe de brigada que o aplica",
+    "option_b": "O Axente de Medio Rural.",
+    "option_c": "O Coordinador de Zona.",
+    "option_d": "O DTE.",
+    "correct_answer": "d"
+  },
+  {
+    "id": "28ffe9d1-b98b-4793-85c3-c020bb59d1a4",
+    "question_text": "31.- Cal dos seguintes ataques non é propio do ataque indirecto?:",
+    "option_a": "Queima de ensanche.",
+    "option_b": "Contralume.",
+    "option_c": "Construción dunha liña de defensa.",
+    "option_d": "Ataque con auga.",
+    "correct_answer": "d"
+  },
+  {
+    "id": "17ae17c2-e2a6-472b-a54f-463ac7f4c927",
+    "question_text": "32.- Non é unha característica do uso do ataque directo:",
+    "option_a": "Expón aos combatentes á radiación calórica e ao fume.",
+    "option_b": "Dará lugar a un maior perímetro da liña de control, aumentando os labores de control e liquidación.",
+    "option_c": "A emisión de muxicas pode orixinar focos secundarios que poden pechar o combatente.",
+    "option_d": "O desprazamento do persoal é perigoso cando se traballa nun lugar con topografía accidentada.",
+    "correct_answer": "b"
+  },
+  {
+    "id": "87daded5-ecc6-4fd2-9723-1c44a26935d7",
+    "question_text": "33- Cal das seguintes non é unha característica do contralume?:",
+    "option_a": "Camiña en dirección contraria ao avance natural do incendio.",
+    "option_b": "Pode orixinar un segundo incendio e complicar todo o combate.",
+    "option_c": "Ten como finalidade ampliar a zona desprovista de combustible.",
+    "option_d": "A decisión de aplicar esta técnica só pode tomala o director de extinción.",
+    "correct_answer": "c"
+  },
+  {
+    "id": "97fa88d2-f647-4b76-9d2a-bd1b0e09be58",
+    "question_text": "34.- En relación co ataque con terra, sinale a opción incorrecta:",
+    "option_a": "A terra que se lance debe ser mineral, con pouco ou sen contido de materia orgánica.",
+    "option_b": "Pódense empregar ferramentas manuais ou maquinaria pesada.",
+    "option_c": "Separa o combustible do osíxeno",
+    "option_d": "É unha forma de ataque indirecto",
+    "correct_answer": "d"
+  },
+  {
+    "id": "4372d9a9-636e-43e4-8df3-4ea62253bd74",
+    "question_text": "35.- Cando se pretenda que a auga penetre no solo profundo, empregarase:",
+    "option_a": "Auga en chorro.",
+    "option_b": "Auga en pulverización.",
+    "option_c": "Extintores de mochila.",
+    "option_d": "Ningunha das anteriores.",
+    "correct_answer": "a"
+  },
+  {
+    "id": "df850f80-4b3e-4fae-9bb2-2ef576d30764",
+    "question_text": "36.- En canto á superficie queimada, cando estaremos falando de incendio forestal?:",
+    "option_a": "Cando a superficie arborada queimada sexa maior de 1 ha ou, no caso de que a superficie arborada sexa inferior a 1 ha, cando a súa suma coa superficie rasa sexa superior a 2 ha.",
+    "option_b": "Cando a superficie arborada queimada sexa maior de 0,5 ha ou, no caso de que a superficie arborada sexa inferior ou igual a 0,5 ha, cando a súa suma coa superficie rasa sexa superior a 1 ha.",
+    "option_c": "Cando a superficie arborada queimada sexa maior de 0,5 ha ou, no caso de que a superficie arborada sexa inferior a 0,5 ha, cando a súa suma coa superficie rasa sexa superior a 2 ha.",
+    "option_d": "Cando a superficie arborada queimada sexa maior de 1 ha ou, no caso de que a superficie arborada sexa inferior a 0,5 ha, cando a súa suma coa superficie rasa sexa superior a 2 ha.",
+    "correct_answer": "b"
+  },
+  {
+    "id": "094fa371-0b2f-46bb-8475-235489b340bb",
+    "question_text": "37.- No ataque indirecto, que procedemento non é recomendable para cortar a continuidade do combustible?:",
+    "option_a": "Apertura de faixas manuais ou mecanizadamente.",
+    "option_b": "Contralume.",
+    "option_c": "Devasa química (medios aéreos).",
+    "option_d": "Cubrir con batelumes.",
+    "correct_answer": "d"
+  },
+  {
+    "id": "1f382128-9a57-47be-ae84-8e5ac149841f",
+    "question_text": "38.- Non é unha característica do ataque con auga:",
+    "option_a": "Son ferramentas para a aplicación da auga: extintor de mochila, vehículo motobomba e medios aéreos.",
+    "option_b": "As accións da auga vénse potenciadas cando vai acompañada por algún retardante.",
+    "option_c": "Arrefría o contorno.",
+    "option_d": "Diminúe a humidade do combustible",
+    "correct_answer": "d"
+  },
+  {
+    "id": "2e57ebce-e012-442c-a4c1-817ad8fb20a4",
+    "question_text": "6.- O establecemento da Estratexia, Táctica e Programación Horaria forma parte de:",
+    "option_a": "A avaliación da situación do incendio.",
+    "option_b": "O recoñecemento do incendio e da zona.",
+    "option_c": "A planificación da extinción.",
+    "option_d": "Ningunha resposta é correcta.",
+    "correct_answer": "c"
+  },
+  {
+    "id": "6c258ff4-3bc7-4845-8bac-8e00eb93bb21",
+    "question_text": "39.- Cal das seguintes afirmacións, en relación coa liquidación dos lumes, é incorrecta?:",
+    "option_a": "A liquidación debe irse producindo segundo vaian quedando zonas sufocadas.",
+    "option_b": "En ningún caso se retirarán os restos de brasas cara á zona queimada.",
+    "option_c": "Removerase a terra e retirarase cara á zona queimada ata chegar ao solo mineral frío.",
+    "option_d": "De ser posible, pulverizarase de auga a franxa de seguridade ata que desapareza calquera vestixio de posible reprodución.",
+    "correct_answer": "b"
+  },
+  {
+    "id": "598595ff-fea6-410e-8d32-d58968a2023c",
+    "question_text": "40.- Cal das seguintes afirmacións non se corresponden coas precaucións á hora de realizar un contralumes?:",
+    "option_a": "O contralumes pode ser ordenado por calquera persoa da extinción.",
+    "option_b": "Estar moi atento ás proxeccións de pequenas partículas incandescentes que poidan provocar que o lume se espalle.",
+    "option_c": "Se se usan fachos de goteo, debe levarse ben pechado o depósito.",
+    "option_d": "Non debemos realizar contralumes cando non se reúnan as condicións de seguridade.",
+    "correct_answer": "a"
+  },
+  {
+    "id": "159f15e0-8499-4e73-a025-96cb7f073ae9",
+    "question_text": "41 Cuando se ha conseguido aislar un incendio forestal y detener su avance y propagación dentro de líneas de control decimos que está:",
+    "option_a": "Controlado",
+    "option_b": "Estabilizado",
+    "option_c": "Sofocado",
+    "option_d": "Extinguido",
+    "correct_answer": "a"
+  },
+  {
+    "id": "a04b15fe-ca08-44d2-b1aa-d0e239dfb6cb",
+    "question_text": "42. Cuando un incendio forestal que no está controlado evoluciona dentro de las líneas de control establecidas según las previsiones y labores de extinción conducentes a su control decimos que está:",
+    "option_a": "Perimetrado",
+    "option_b": "Estabilizado",
+    "option_c": "Sofocado",
+    "option_d": "En vías de control.",
+    "correct_answer": "b"
+  },
+  {
+    "id": "c765e120-fc41-4fe0-8dfb-0b3d7750984f",
+    "question_text": "43. Si ya no existen materiales en ignición en o dentro del perímetro de un incendio forestal ni es posible su reproducción el incendio está:",
+    "option_a": "Controlado",
+    "option_b": "Estabilizado",
+    "option_c": "Sofocado",
+    "option_d": "Extinguido",
+    "correct_answer": "d"
+  },
+  {
+    "id": "776108cd-ca3c-4adc-982d-f015ff3e5729",
+    "question_text": "44. ¿Qué es una quema de ensanche?",
+    "option_a": "Una quema con objeto de ampliar una línea de defensa con el fin de evitar que el fuego, cuando llegue, pueda atravesar la línea.",
+    "option_b": "Es siempre una quema de seguridad, para reforzar una zona segura para el personal",
+    "option_c": "Es una quema prescrita.",
+    "option_d": "Es una técnica que se aplica en la fase de liquidación.",
+    "correct_answer": "a"
+  },
+  {
+    "id": "2469f863-a459-4671-b4c5-54cf2a7bf28f",
+    "question_text": "45.La posibilidad de que se produzca un incendio forestal en un lugar y un momento determinados se denomina:",
+    "option_a": "Peligro de incendio",
+    "option_b": "Riesgo de incendio",
+    "option_c": "Vulnerabilidad",
+    "option_d": "Índice de gravedad potencial",
+    "correct_answer": "b"
+  },
+  {
+    "id": "c0f2e386-d19c-46ad-85fd-4bfac0dc8e72",
+    "question_text": "46.¿Quién establece el plan de extinción de un incendio forestal en una situación operativa 2?",
+    "option_a": "Lo establece el CCD y lo ejecuta el DTE",
+    "option_b": "Lo establece el director del PLAN y lo ejecuta el DTE",
+    "option_c": "Lo establece y lo ejecuta el DTE",
+    "option_d": "Lo establece el jefe de planificación.",
+    "correct_answer": "c"
+  },
+  {
+    "id": "da44a047-67aa-431b-8d05-070b4d798ab1",
+    "question_text": "47.¿Qué es una línea de defensa?",
+    "option_a": "Son las líneas que se establecen en el plan de extinción para el control del fuego.",
+    "option_b": "Es una línea que se construye de forma mecánica o manual para romper la continuidad del combustible y posibilitar un ataque indirecto cuando no es posible el ataque directo a las llamas.",
+    "option_c": "Son las barreras naturales que podemos utilizar para las tareas de control.",
+    "option_d": "Son las líneas que definen las zonas de seguridad.",
+    "correct_answer": "b"
+  },
+  {
+    "id": "10dc21ba-6530-4eb5-b914-b899b2a2ba30",
+    "question_text": "48.¿Qué se entiende por puntos críticos de un incendio a la hora de planificar un ataque?",
+    "option_a": "Aquellos lugares en los que si llega el fuego los factores que afectan a su comportamiento cambian a peor, por lo que hay que evitar, si es posible que llegue hasta ellos.",
+    "option_b": "Aquellos lugares en los que si llega el fuego los factores que afectan a su comportamiento cambian a mejor, por lo que hay que aprovecharlos como oportunidades para controlar el incendio.",
+    "option_c": "Los de más valor económico.",
+    "option_d": "Las poblaciones y bienes no forestales.",
+    "correct_answer": "a"
+  },
+  {
+    "id": "2042578f-bac5-46ae-b271-73d97df0e361",
+    "question_text": "49.¿Qué es el ataque en paralelo?",
+    "option_a": "Un ataque indirecto a poca distancia del frente.",
+    "option_b": "Una modalidad de descarga de aeronaves por fuera del frente.",
+    "option_c": "Una modalidad de ataque directo con tendidos de manguera.",
+    "option_d": "Es el ataque por los flancos a cierta distancia del frente",
+    "correct_answer": "d"
+  },
+  {
+    "id": "5bf135cc-aebc-4cfa-86db-244b99beb4e9",
+    "question_text": "50.En un fuego ascendente la línea de defensa debe situarse:",
+    "option_a": "A media ladera",
+    "option_b": "A más de 10 veces la longitud de llama",
+    "option_c": "En la cumbre",
+    "option_d": "Inmediatamente después de la cumbre",
+    "correct_answer": "d"
+  },
+  {
+    "id": "8032884f-d778-450d-b60f-ded8d586ec75",
+    "question_text": "51.¿Qué es un contrafuego?",
+    "option_a": "Cualquier fuego técnico para eliminar el combustible entre la línea de defensa y el frente de llama del incendio.",
+    "option_b": "Es un fuego de gran magnitud creado desde una barrera existente o línea de defensa con el objetivo de que se dirija hacia el incendio principal arrastrado por las corrientes de succión.",
+    "option_c": "Es un término sinónimo de quema de ensanche.",
+    "option_d": "Cualquier modalidad de ataque directo o indirecto sobre un frente de llama.",
+    "correct_answer": "b"
+  },
+  {
+    "id": "39f7841a-dbc4-4e5b-aca1-67f63c236627",
+    "question_text": "1.- A fase que consiste en ver sobre o terreo que é o que esta a pasar e dicir, coñecer por parte do DTE as variables que inciden no incendio en cada momento se realiza na fase de?:",
+    "option_a": "Avaliación da situación.",
+    "option_b": "Plan de ataque.",
+    "option_c": "Recoñecemento.",
+    "option_d": "En ningunha das anteriores",
+    "correct_answer": "c"
+  },
+  {
+    "id": "84cf6ac1-3677-471f-8ac0-e1113a06873f",
+    "question_text": "2- Segundo o PLADIGA, non é unha función do/a Director/a Técnico/a de Extinción:",
+    "option_a": "Realizará unha proposta do índice de gravidade potencial do lume e dos medios que se han de empregar ou as accións que se executarán para a extinción do incendio.",
+    "option_b": "Establecerá e executará o plan de extinción.",
+    "option_c": "Cando as circunstancias o requiran solicitará ao Centro de Coordinación de Distrito a constitución do posto de mando avanzado (PMA).",
+    "option_d": "Aprobará a Situación operativa a desenvolver no incendio.",
+    "correct_answer": "d"
+  },
+  {
+    "id": "6ded0470-93cb-4d80-89e2-9477a9adf8f2",
+    "question_text": "3.- Cal das seguintes afirmacións, en relación coa liquidación dos lumes, é incorrecta?:",
+    "option_a": "A liquidación debe irse producindo segundo vaian quedando zonas sufocadas.",
+    "option_b": "Se retirarán os restos de brasas cara á zona non queimada",
+    "option_c": "Na liña de control removerase a terra e retirarase cara á zona queimada ata chegar ao solo mineral frío.",
+    "option_d": "De ser posible, pulverizarase de auga a franxa de seguridade ata que desapareza calquera vestixio de posible reprodución.",
+    "correct_answer": "b"
+  },
+  {
+    "id": "a9df0bc0-0616-4021-b6f5-e423407742c6",
+    "question_text": "4.- A construción dunha liña de defensa:",
+    "option_a": "É un lume promovido voluntariamente e que camiña en dirección contraria ao avance natural do incendio.",
+    "option_b": "Pode orixinar un segundo incendio e complicar todo o combate.",
+    "option_c": "Constrúese cortando a vexetación e cavando e rozando até o solo mineral.",
+    "option_d": "É unha das fases que menos esforzo esixe",
+    "correct_answer": "c"
+  },
+  {
+    "id": "3eb326ce-7f66-42b2-b4f6-9a3a3bc014e1",
+    "question_text": "5.- Cal das seguintes opcións non é unha parte do plan de ataque elaborado polo director da extinción?:",
+    "option_a": "Estratexia.",
+    "option_b": "Técnica.",
+    "option_c": "Táctica.",
+    "option_d": "Horario.",
+    "correct_answer": "b"
+  },
+  {
+    "id": "8a193378-6eed-4bdf-a00f-5cfe6c375be3",
+    "question_text": "28.- Se considera que un incendio forestal presenta unha velocidade de propagación alta cando avanza a:",
+    "option_a": "02-20 m/min.",
+    "option_b": "5-10 m/min.",
+    "option_c": "10-70 m/min.",
+    "option_d": ">70 m/min.",
+    "correct_answer": "c"
+  },
+  {
+    "id": "6c8d2470-c65c-4e0d-bc8e-d869255a70ca",
+    "question_text": "7.- Cal dos seguintes elementos non garda relación cun ataque ampliado?:",
+    "option_a": "Establecemento dun posto de mando.",
+    "option_b": "Axudante de loxística.",
+    "option_c": "Sectorización do incendio.",
+    "option_d": "Todos os elementos anteriores gardan relación cun ataque ampliado.",
+    "correct_answer": "d"
+  },
+  {
+    "id": "efb4e912-c89a-4c9b-a8f1-bd7ec48ea979",
+    "question_text": "8.- Sinala a resposta incorrecta:",
+    "option_a": "Cando a topografía é abrupta ou a vexetación é moi densa, débese empregar o ataque indirecto.",
+    "option_b": "O ataque indirecto soe dar lugar a un maior perímetro da liña de control.",
+    "option_c": "O ataque indirecto permítenos reducir os danos do lume ao mínimo de superficie.",
+    "option_d": "O ataque directo emprégase principalmente en incendios incipientes, superficies pequenas ou partes dun incendio maior, nas que non exista demasiado fume e con pouca altura de chama",
+    "correct_answer": "c"
+  },
+  {
+    "id": "1f945ce8-54dc-4432-a292-3b90b8792939",
+    "question_text": "9.- Se o lume sube con rapidez e intensidade por unha ladelra, o mellor sitio para iniciar un contralume é:",
+    "option_a": "Xusto antes de chegar a cima.",
+    "option_b": "Xusto ao outro lado da cima.",
+    "option_c": "O máis próximo posible ao lume, independentemente da situación na ladeira",
+    "option_d": "Ningunha das respostas é correcta.",
+    "correct_answer": "b"
+  },
+  {
+    "id": "3fa9baa5-ddb5-43bf-ba57-625fb9a51367",
+    "question_text": "10.- Cal das seguintes é unha prescrición errónea para a construción dunha liña de defensa?:",
+    "option_a": "A liña debe de empezar e acabar en puntos seguros (puntos de ancoraxe)",
+    "option_b": "A anchura determinarase en función da densidade e altura do combustible, da intensidade do incendio, do vento, da pendente e do tipo de lume (superficie, copas ou subsolo).",
+    "option_c": "A liña de defensa debe someterse a un control horario",
+    "option_d": "A liña de defensa deberá ter o mesmo ancho en todo o seu trazado.",
+    "correct_answer": "d"
+  },
+  {
+    "id": "407a819b-860f-4736-a1fa-18801c853743",
+    "question_text": "11.- Cunha lonxitude de chama de 1 (1,5) a 2,5 m:",
+    "option_a": "O ataque directo con ferramentas manuais no fronte ou nos flancos resultará efectivo.",
+    "option_b": "Unha liña de defensa feita a man será suficiente para conter o incendio.",
+    "option_c": "O ataque directo só con ferramentas manuais non é factible debido a intensidade do calor desprendido.",
+    "option_d": "Se recomenda empregar o Ataque indirecto.",
+    "correct_answer": "c"
+  },
+  {
+    "id": "2fee300e-b43c-43c1-b7b2-5f0946622f86",
+    "question_text": "12.- A faixa que se constrúe a unha distancia calculada do fronte do incendio se denomina:",
+    "option_a": "Liña de contralume.",
+    "option_b": "Liña de defensa.",
+    "option_c": "Liña de control.",
+    "option_d": "Perímetro de sufocación.",
+    "correct_answer": "b"
+  },
+  {
+    "id": "f6ae6956-4844-4ba5-8d70-78e75572a2d5",
+    "question_text": "13.- Un cortalumes é :",
+    "option_a": "Unha fase do ataque indirecto",
+    "option_b": "Unha barreira natural sobre a nos apoiamos para fixar a liña de control",
+    "option_c": "Unha infraestrutura construída sobre a que se fixa a liña de control no seu caso.",
+    "option_d": "Unha liña de defensa construída en liña de máxima pendente.",
+    "correct_answer": "c"
+  },
+  {
+    "id": "10e7f7dd-3034-4d2a-8b1e-0c4e268356a8",
+    "question_text": "14.- Os restos de combustible verde xerados na construción dunha liña de defensa:",
+    "option_a": "Deben depositarse entre a liña de defensa e o borde do incendio.",
+    "option_b": "Deben depositarse na parte contraria ao avance do lume.",
+    "option_c": "Deben depositarse no centro da liña de defensa.",
+    "option_d": "Da igual onde se depositen.",
+    "correct_answer": "b"
+  },
+  {
+    "id": "3d8d21a0-8c76-4839-9153-c6b7d3aa98fa",
+    "question_text": "15.- Un plan de extinción componse basicamente de:",
+    "option_a": "Estratexia, táctica e horario.",
+    "option_b": "Programas, proxectos e accións.",
+    "option_c": "Persoal e medios materiais.",
+    "option_d": "Medios aéreos, maquinaria pesada e medios de primeiro ataque.",
+    "correct_answer": "a"
+  },
+  {
+    "id": "57235f32-d369-450f-a4ae-29170a783b09",
+    "question_text": "16.- Cal das seguintes é unha norma xeral a hora de realizar unha queima de ensanche?",
+    "option_a": "Sempre que se poida queimarase pendente arriba, comezando o antes posible desde que se teña construída a liña de defensa.",
+    "option_b": "Sempre que se se poida queimarase pendente abaixo, comezando a ignición cando a fronte do incendio se encontre o máis próximo posible a liña de defensa.",
+    "option_c": "Sempre que se poida queimarase pendente arriba, comezando a ignición cando a fronte do incendio se encontre o máis próximo posible a liña de defensa.",
+    "option_d": "Sempre que se se poida queimarase pendente abaixo, comezando o antes posible desde que se teña construída a liña de defensa ou a medida que se vai construíndo.",
+    "correct_answer": "d"
+  },
+  {
+    "id": "de7ee420-ff45-4818-848c-9fa7d371c5e7",
+    "question_text": "17.- Unha liña de control:",
+    "option_a": "Se establece.",
+    "option_b": "Se localiza.",
+    "option_c": "Se constrúe.",
+    "option_d": "Se estende.",
+    "correct_answer": "a"
+  },
+  {
+    "id": "4d737516-49d6-472c-aa4a-ab3f2a2ca6ac",
+    "question_text": "18.- Unha liña de defensa:",
+    "option_a": "Se establece.",
+    "option_b": "Se localiza.",
+    "option_c": "Se constrúe.",
+    "option_d": "Se estende.",
+    "correct_answer": "c"
+  },
+  {
+    "id": "0194be5e-8f32-4e01-bd85-dc94ecb9dc04",
+    "question_text": "19.- Na liquidación dun incendio, a que distancia do bordo do incendio se deben buscar posibles focos secundarios, se o lume foi de copas ou fixo moito vento?:",
+    "option_a": "A unha distancia de polo menos 200 metros.",
+    "option_b": "Ata 300 metros pode ser suficiente.",
+    "option_c": "Ata 100 metros pode ser suficiente.",
+    "option_d": "A unha distancia de polo menos 500 metros.",
+    "correct_answer": "d"
+  },
+  {
+    "id": "10be657d-607c-44bc-8a6b-681f4f3098fc",
+    "question_text": "20.-Cal das seguintes non é unha característica do contralume?:",
+    "option_a": "Camiña en dirección contraria ao avance natural do incendio.",
+    "option_b": "Forma parte do ataque indirecto",
+    "option_c": "Ten como finalidade ampliar a zona desprovista de combustible.",
+    "option_d": "Debe apoiarse nunha liña de defensa ou barreira natural ou artificial",
+    "correct_answer": "c"
+  },
+  {
+    "id": "430112d8-ad56-4675-b965-5a2c35bf2c24",
+    "question_text": "21.- En relación co ataque con terra, sinale a opción incorrecta:",
+    "option_a": "A terra que se lance debe ser mineral, con pouco ou sen contido de materia orgánica.",
+    "option_b": "Pódense empregar ferramentas manuais ou maquinaria pesada.",
+    "option_c": "Illa o combustible do osíxeno.",
+    "option_d": "É unha forma de ataque indirecto",
+    "correct_answer": "d"
+  },
+  {
+    "id": "cb2c9362-c715-4a7d-b569-65238beb9e68",
+    "question_text": "22.- Cal das seguintes accións básicas se pode empregar tanto no ataque directo como no indirecto?:",
+    "option_a": "Reducir a velocidade de propagación.",
+    "option_b": "Sufocar as lapas.",
+    "option_c": "Desprazar violentamente o aire.",
+    "option_d": "Diminuír a proporción de osíxeno aumentando o contido de vapor de auga.",
+    "correct_answer": "d"
+  },
+  {
+    "id": "9e31e825-8dac-4d02-be77-6ff6f70a3008",
+    "question_text": "23.- Cando se pretenda reducir o consumo de auga nun incendio forestal, empregarase:",
+    "option_a": "Auga en chorro.",
+    "option_b": "Auga en pulverización.",
+    "option_c": "Auga mesturada con retardantes",
+    "option_d": "b e c son correctas,",
+    "correct_answer": "d"
+  },
+  {
+    "id": "5f8b4094-5a35-4fdd-908b-9b9c37f163d2",
+    "question_text": "24.- Quen asigna os canles de extinción e canles directos nun incendio forestal unha vez sectorizado un gran incendio forestal",
+    "option_a": "DTE",
+    "option_b": "CCD",
+    "option_c": "axudante de loxística",
+    "option_d": "axudante de planificación",
+    "correct_answer": "a"
+  },
+  {
+    "id": "5d7a13d9-f004-4b6c-8a9a-07ec2e9b5372",
+    "question_text": "25.- Cal dos seguintes ataques non é propio do ataque directo?:",
+    "option_a": "Ataque con auga.",
+    "option_b": "Ataque con batelumes.",
+    "option_c": "Contralume.",
+    "option_d": "Ataque con terra.",
+    "correct_answer": "c"
+  },
+  {
+    "id": "79c8241d-df80-49a8-b849-9ac386bea4c7",
+    "question_text": "26.- Quen decide a ubicación dun PRM:",
+    "option_a": "DTE",
+    "option_b": "CCD",
+    "option_c": "PMA",
+    "option_d": "DTE en coordinación co CCD",
+    "correct_answer": "d"
+  },
+  {
+    "id": "8775746e-b59a-4c5b-921b-def262efc26c",
+    "question_text": "27.- Son indicadores dos puntos quentes nun incendio forestal:",
+    "option_a": "A presenza de cinsas brancas indican a posible existencia de brasas baixo a superficie do terreo.",
+    "option_b": "O voo de moscas ou mosquitos sobre unha zona determinada tamén pode indicalo.",
+    "option_c": "A saída de pequenos fumes ou emisión de calor, que haberá que buscar moi especialmente na base de troncos e tocos, tamén delata a existencia de zonas quentes.",
+    "option_d": "Todas as respostas anteriores son correctas.",
+    "correct_answer": "d"
+  },
+  {
+    "id": "73cab1be-6c4b-4153-9a51-664da22ab80b",
+    "question_text": "31.- O sistema Campbell para predicir o comportamento de incendios forestais analiza principalmente os seguintes factores",
+    "option_a": "Combustible e velocidade de propagación",
+    "option_b": "Convección, temperatura e humidade",
+    "option_c": "Combustible, temperatura e velocidade de propagación",
+    "option_d": "Exposición do combustible, vento e pendente",
+    "correct_answer": "d"
+  },
+  {
+    "id": "5e26049c-9d3a-4061-bdad-c3d5ec6f4af2",
+    "question_text": "32.-Segundo Campbell si temos unha aliñación de forzas 1/3",
+    "option_a": "O incendio está fora das capacidades de extinción",
+    "option_b": "O incendio se pode mediante ataque directo",
+    "option_c": "O Incendio se pode atacar mediante ataque indirecto",
+    "option_d": "O incendio tende a evolucionar hacia unha situación mais favorable",
+    "correct_answer": "b"
+  },
+  {
+    "id": "3e519ca4-09d3-4c66-8d28-81874bfd1fed",
+    "question_text": "33.- Segundo Campbell os puntos de inflexión son",
+    "option_a": "Sempre puntos críticos",
+    "option_b": "Sempre oportunidades que debemos aproveitar para extinguir o incendio",
+    "option_c": "Cambios no comportamento do incendio onde se producen variacións na aliñación de forzas",
+    "option_d": "Partes do incendio onde a propagación pasa de lume de superficie a lume de copas",
+    "correct_answer": "d"
+  },
+  {
+    "id": "26f41015-8645-42a0-8066-2a4d822d003d",
+    "question_text": "34.- Segundo Campbell sos carreiras potenciais",
+    "option_a": "Partes do incendio onde a aliñación de forzas é máxima",
+    "option_b": "Sempre oportunidades que debemos aproveitar para extinguir o incendio",
+    "option_c": "Partes do incendio con aliñación de 2/3",
+    "option_d": "Partes do incendio onde a aliñación decrece",
+    "correct_answer": "a"
+  },
+  {
+    "id": "1316e786-fb3d-451d-9357-18a1340e1222",
+    "question_text": "35 O método Campbell ou CPS sirve para:",
+    "option_a": "Identificar o incendio mediante a observación dos factores que inflúen no seu comportamento",
+    "option_b": "Definir o umbral de control e identificar os puntos críticos e puntos de inflexión",
+    "option_c": "Interpretar a previsión de cambios de evolución do lume e dentro de estas as carreiras no incendio",
+    "option_d": "Todas as repostas anteriores son correctas",
+    "correct_answer": "d"
+  },
+  {
+    "id": "6df82254-4550-45a7-8c97-f879e1167908",
+    "question_text": "36.- Dentro da fase de extinción existen dous tipos de necesidades de comunicación unha vertical e outra horizontal. Unha comunicación vertical é aquela que se produce entre: (pag142 libro laranxa)",
+    "option_a": "Unha cuadrilla e unha motobomba",
+    "option_b": "Entre diferentes cuadrillas",
+    "option_c": "Entre diferentes directores de sectores",
+    "option_d": "Entre o DTE e os directores de sector",
+    "correct_answer": "d"
+  },
+  {
+    "id": "9084e472-b188-4ad8-8937-d498e53a3754",
+    "question_text": "37.- Os requisitos que debe cumprir una comunicación na fase de mobilización de medios cara un incendio son: (pag142 libro laranxa)",
+    "option_a": "Claridade no que se comunica",
+    "option_b": "Seguridade de que a información chega ao receptor",
+    "option_c": "Garantía do enlace",
+    "option_d": "Todos son requisitos que se deben cumprir na fase de mobilización",
+    "correct_answer": "d"
+  },
+  {
+    "id": "603cdb60-ac19-405b-9144-e6e7d58bc418",
+    "question_text": "38.- A fase de avaliación da situación na que se encontra un incendio forestal por parte do DTE",
+    "option_a": "Se realiza unha vez rematada a fase de recoñecemento que sirve para que o DTE defina o plan de ataque",
+    "option_b": "É un proceso continuo no que se estudan e relacionan as condicións actuais do incendio e as posibles do futuro",
+    "option_c": "E un proceso simultáneo a fase do recoñecemento",
+    "option_d": "As respostas B e C son correctas",
+    "correct_answer": "d"
+  },
+  {
+    "id": "74dd7028-6214-4f5a-80cd-50846b5ee957",
+    "question_text": "39.-¿En que fase se propón o índice de gravidade potencial do IF por parte do DTE?",
+    "option_a": "Fase de recoñecemento",
+    "option_b": "Fase de avaliación da situación",
+    "option_c": "Fase de planificación",
+    "option_d": "Fase de análise previo",
+    "correct_answer": "c"
+  },
+  {
+    "id": "7455d6be-3810-416e-b88d-d1e02fb61690",
+    "question_text": "40.- Durante a fase do plan de ataque (planificación)",
+    "option_a": "Se decide onde se atacará o lume",
+    "option_b": "Se decide como se atacará o lume (ataque directo ou indirecto)",
+    "option_c": "Se decide os medios precisos para atacar o incendio",
+    "option_d": "Se estrutura a secuencia ordenada de accións a desenvolver para intentar controlar o incendio nun tempo determinado",
+    "correct_answer": "d"
+  },
+  {
+    "id": "1bee6db1-6d00-4e99-a3b3-b17f90612a18",
+    "question_text": "41.- O plan de ataque se compón de tres partes: estratexia, táctica e horario. Definir claramente os obxectivos desexados corresponde a fase de:",
+    "option_a": "Estratexia",
+    "option_b": "Táctica",
+    "option_c": "Horario",
+    "option_d": "Táctica e horario",
+    "correct_answer": "a"
+  },
+  {
+    "id": "b011a5de-9fe5-45de-b132-1f4cf7d61880",
+    "question_text": "42.- O plan de ataque se compón de tres partes: estratexia, táctica e horario. Podemos definir a táctica como:",
+    "option_a": "A definición clara dos obxectivos desexados",
+    "option_b": "A ferramenta da que nos valemos para conseguir a extinción do incendio",
+    "option_c": "A determinación do tempo necesario para acometer as diferentes operacións",
+    "option_d": "A toma de decisións necesarias para controlar e despois extinguir o incendio",
+    "correct_answer": "b"
+  },
+  {
+    "id": "5af5847a-a64d-4a47-b1a1-93cc40574af5",
+    "question_text": "43.- O paso do primeiro ataque ao ataque ampliado",
+    "option_a": "O solicita o CCD ao CCP e este ao CCC que é quen o autoriza.",
+    "option_b": "O decide o DTE e o comunica ao CCD tendo en conta o comportamento actual e previsible do lume así como a efectividade dos traballos que están a realizar os medios dos que dispón",
+    "option_c": "O DTE debe solicitar medios de reforzo e continuará a pé de incendio dirixindo o mesmo.",
+    "option_d": "Se debe de cambiar o DTE debido ao fracaso do plan de ataque do primeiro ataque",
+    "correct_answer": "b"
+  },
+  {
+    "id": "9baca26b-57b9-426b-b139-bbba30d751e0",
+    "question_text": "44.- Na transición do primeiro ataque ao ataque ampliado se deberán realizar as seguintes actuacións",
+    "option_a": "O DTE se deberá afastar da liña do lume para preparar a incorporación dos medios de reforzo",
+    "option_b": "O DTE en coordinación co CCD establecerá un PRM",
+    "option_c": "O DTE establecerá un posto de mando onde se deberán presentar os directores de sector para darlles instrucións",
+    "option_d": "Todas as respostas anteriores son correctas",
+    "correct_answer": "d"
+  },
+  {
+    "id": "c2fd39f1-260c-48fe-862d-dc82aa7d825a",
+    "question_text": "45.- Cando un xefe de brigada se encarga dun sector do incendio co fin de desenvolver o plan de ataque definido",
+    "option_a": "Debe informar ao persoal a cargo do sector do método a seguir e que ferramentas hai que empregar",
+    "option_b": "Pode variar o plan de ataque dentro do sector sempre que non afecte as outras partes do incendio por consideralo mais efectivo",
+    "option_c": "Deberá afastarse da liña do lume para dirixir as operacións dende un punto de vixía e así ter unha visión panorámica que le vai servir para observar a evolución do lume no seu conxunto",
+    "option_d": "Baixo a súa responsabilidade poderá ordenar actuacións dos vehículos motobombas nas que o condutor se negue por razóns de seguridade",
+    "correct_answer": "a"
+  },
+  {
+    "id": "b2e34dbb-4e3e-459b-a1d0-909df06b90ff",
+    "question_text": "46.- Na fase de liquidación de incendios forestais sempre se debe empezar polas zonas que presentan maior risco de activarse como por exemplo",
+    "option_a": "Zonas nas que o vento sopra en contra do avance do incendio",
+    "option_b": "Zonas do bordo onde están os combustibles pesados",
+    "option_c": "Zonas onde se realizaron cortes con maquinaria pesada",
+    "option_d": "Zonas onde se controlou o incendio mediante ataque indirecto",
+    "correct_answer": "b"
+  },
+  {
+    "id": "45515894-e767-4e9a-b933-865153ed7764",
+    "question_text": "47.- Os maiores rendementos na liquidación de incendios se dan cando empregamos",
+    "option_a": "Binomio brigada- motobomba",
+    "option_b": "Ferramentas manuais e medios aéreos",
+    "option_c": "Maquinaria pesada e ferramentas manuais",
+    "option_d": "Maquinaria pesada e medios aéreos",
+    "correct_answer": "c"
+  },
+  {
+    "id": "0eb9fb62-0cd0-498e-9d74-b5b9ffd1dd54",
+    "question_text": "48.- Unha vez rematada a liquidación do incendio e dado este por extinguido, os reténs de vixilancia",
+    "option_a": "Deberán repartirse polo perímetro do incendio para detectar posibles reproducións",
+    "option_b": "Deberán percorrer todos xuntos a liña de control en busca de posibles puntos quentes",
+    "option_c": "Deberán situarse nun lugar onde se divise a área de incendio no seu conxunto",
+    "option_d": "Deberán situarse preto do incendio nun lugar fresco e con sombra a descansar",
+    "correct_answer": "c"
+  },
+  {
+    "id": "cc2a77cc-28b3-4c73-9401-b0e1582516e7",
+    "question_text": "49.- O uso do batelumes (pag 149)",
+    "option_a": "Resulta moi útil en lumes incipientes con lonxitudes de lapa inferiores a 1.5 metros e sobre combustibles lixeiros",
+    "option_b": "Se recomenda traballar con eles en grupos de polo menos 4 persoas para que os intervalos entre golpe e golpe sexas o mais curtos posibles",
+    "option_c": "E unha ferramenta que actúa por sufocación e polo tanto sobre o calor",
+    "option_d": "Actualmente está en desuso desprazado pola huacha",
+    "correct_answer": "a"
+  },
+  {
+    "id": "f08bdc18-5670-4dd4-a4ea-2ae09ac66c03",
+    "question_text": "50.-Si a altura da chama nun incendio forestal é superior a 3.5 metros realizaremos un ataque",
+    "option_a": "Directo",
+    "option_b": "Directo con motobomba e apoio de medios aéreos",
+    "option_c": "Indirecto",
+    "option_d": "Ampliado",
+    "correct_answer": "c"
+  }
+]

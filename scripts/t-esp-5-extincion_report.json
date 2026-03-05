@@ -1,0 +1,1025 @@
+{
+  "verificacion": [
+    {
+      "id": "13f5c97b-8461-40b4-ad23-3dde1654d5da",
+      "n": 18,
+      "actual": "b",
+      "correcta": "b",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "pdf_marcado",
+      "exp": "A resposta coincide coa táboa de solucións do PDF (18.B)."
+    },
+    {
+      "id": "c2e03f00-6c53-475f-a328-fcd8610a40b5",
+      "n": 19,
+      "actual": "d",
+      "correcta": "d",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "pdf_marcado",
+      "exp": "A resposta coincide coa táboa de solucións do PDF (19.D). O ataque con terra actúa por sufocación (osíxeno) e arrefriamento."
+    },
+    {
+      "id": "56099903-0507-4cb4-a4ea-bdf8bcf3e1af",
+      "n": 20,
+      "actual": "d",
+      "correcta": "d",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "pdf_marcado",
+      "exp": "A resposta coincide coa táboa de solucións do PDF (20.D). A maquinaria pesada úsase en ataque directo, indirecto e contralumes."
+    },
+    {
+      "id": "8bb2d89c-1c4e-45f2-8d59-2680baf9431e",
+      "n": 21,
+      "actual": "d",
+      "correcta": "d",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "pdf_marcado",
+      "exp": "A resposta coincide coa táboa de solucións do PDF (21.D). Todos os factores mencionados inflúen na anchura necesaria."
+    },
+    {
+      "id": "88ef3b5b-6874-4d88-ae9e-8e7ee95fc789",
+      "n": 30,
+      "actual": "d",
+      "correcta": "d",
+      "ok": true,
+      "conf": "media",
+      "fonte": "temario",
+      "exp": "A queima de ensanche é unha técnica asociada á liña de defensa, propia do ataque indirecto (Temario, páx. 23)."
+    },
+    {
+      "id": "491effce-89af-46ec-93a6-a738f7ccd259",
+      "n": 29,
+      "actual": "d",
+      "correcta": "d",
+      "ok": true,
+      "conf": "media",
+      "fonte": "temario",
+      "exp": "O DTE debe solicitar reforzos, apartarse da liña e preparar a incorporación dos novos medios (Temario, páx. 31)."
+    },
+    {
+      "id": "93b6d661-3461-426f-8836-3a005285c377",
+      "n": 16,
+      "actual": "d",
+      "correcta": "d",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "pdf_marcado",
+      "exp": "A resposta coincide coa táboa de solucións do PDF (16.D)."
+    },
+    {
+      "id": "1a6492ed-2a13-4221-bc38-63811da266c6",
+      "n": 17,
+      "actual": "b",
+      "correcta": "b",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "pdf_marcado",
+      "exp": "A resposta coincide coa táboa de solucións do PDF (17.B). A pulverización ten maior rendemento e menor gasto (Temario, páx. 12)."
+    },
+    {
+      "id": "421ec117-67ad-4242-9354-b374862c1b8c",
+      "n": 1,
+      "actual": "a",
+      "correcta": "a",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "pdf_marcado",
+      "exp": "A resposta coincide coa táboa de solucións do PDF (1.A). Os lumes de subsolo son os máis lentos."
+    },
+    {
+      "id": "116ef596-67b3-462c-93ae-5355d89492ec",
+      "n": 2,
+      "actual": "b",
+      "correcta": "b",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "pdf_marcado",
+      "exp": "A resposta coincide coa táboa de solucións do PDF (2.B). Os lumes de copas son os máis virulentos e difíciles de controlar."
+    },
+    {
+      "id": "5992b7c4-f717-43fd-bab4-21057c50fe59",
+      "n": 3,
+      "actual": "c",
+      "correcta": "c",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "pdf_marcado",
+      "exp": "A resposta coincide coa táboa de solucións do PDF (3.C). Os combustibles lixeiros como o pasto arden con gran velocidade."
+    },
+    {
+      "id": "6280b5ac-4b20-488f-9655-3a74972a2d82",
+      "n": 4,
+      "actual": "c",
+      "correcta": "c",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "pdf_marcado",
+      "exp": "A resposta coincide coa táboa de solucións do PDF (4.C). Os dedos son avances máis rápidos do perímetro (Temario, páx. 26)."
+    },
+    {
+      "id": "73ca4109-9209-4072-9d88-12a4c38b851d",
+      "n": 5,
+      "actual": "a",
+      "correcta": "a",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "pdf_marcado",
+      "exp": "A resposta coincide coa táboa de solucións do PDF (5.A). As baías ou entrantes son as partes máis atrasadas (Temario, páx. 26)."
+    },
+    {
+      "id": "a927eb2f-8b2e-4261-8f89-31e24aebefc0",
+      "n": 6,
+      "actual": "c",
+      "correcta": "c",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "pdf_marcado",
+      "exp": "A resposta coincide coa táboa de solucións do PDF (6.C)."
+    },
+    {
+      "id": "1fe56a7c-33db-46ef-89c9-df46c14431dc",
+      "n": 7,
+      "actual": "a",
+      "correcta": "a",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "pdf_marcado",
+      "exp": "A resposta coincide coa táboa de solucións do PDF (7.A). As fases son análise, recoñecemento, avaliación, planificación e execución."
+    },
+    {
+      "id": "d661bf37-4d68-4d10-bd43-4b5efca6c11d",
+      "n": 8,
+      "actual": "a",
+      "correcta": "a",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "pdf_marcado",
+      "exp": "A resposta coincide coa táboa de solucións do PDF (8.A). A cola é a zona de menor intensidade, ideal para ataque directo."
+    },
+    {
+      "id": "fc7964ed-1053-421c-b45b-a61310ae7d54",
+      "n": 9,
+      "actual": "d",
+      "correcta": "d",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "pdf_marcado",
+      "exp": "A resposta coincide coa táboa de solucións do PDF (9.D). Todas as afirmacións son vantaxes do ataque directo (Temario, páx. 9)."
+    },
+    {
+      "id": "562e94b9-b943-4dcb-a07e-f8df2b034ddd",
+      "n": 10,
+      "actual": "b",
+      "correcta": "b",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "pdf_marcado",
+      "exp": "A resposta coincide coa táboa de solucións do PDF (10.B). É a definición de ataque indirecto (Temario, páx. 13)."
+    },
+    {
+      "id": "10e1042f-c4d9-4da3-857a-064dfd1b4744",
+      "n": 11,
+      "actual": "d",
+      "correcta": "d",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "pdf_marcado",
+      "exp": "A resposta coincide coa táboa de solucións do PDF (11.D). Todas son condicións para usar o ataque indirecto (Temario, páx. 14)."
+    },
+    {
+      "id": "93d4e281-03cf-4b6e-8b91-c924ffe3120f",
+      "n": 12,
+      "actual": "b",
+      "correcta": "b",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "pdf_marcado",
+      "exp": "A resposta coincide coa táboa de solucións do PDF (12.B). O contralume é unha técnica de ataque indirecto (Temario, páx. 20)."
+    },
+    {
+      "id": "ea80c26f-4527-45f3-a2fe-40c6bba2d964",
+      "n": 13,
+      "actual": "a",
+      "correcta": "a",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "pdf_marcado",
+      "exp": "A resposta coincide coa táboa de solucións do PDF (13.A). O ataque directo expón aos combatentes á radiación e fume."
+    },
+    {
+      "id": "99d5b0cf-9b9a-483c-97eb-873ec63c2583",
+      "n": 14,
+      "actual": "d",
+      "correcta": "d",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "pdf_marcado",
+      "exp": "A resposta coincide coa táboa de solucións do PDF (14.D). A opción C é unha desvantaxe do ataque directo, non indirecto."
+    },
+    {
+      "id": "b2ce3bdd-c68b-42e4-8d83-4748be387827",
+      "n": 15,
+      "actual": "c",
+      "correcta": "c",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "pdf_marcado",
+      "exp": "A resposta coincide coa táboa de solucións do PDF (15.C). O Director Técnico de Extinción (DTE) toma a decisión."
+    },
+    {
+      "id": "7ec050cf-d676-4d7e-bb43-9e1f8876a71f",
+      "n": 22,
+      "actual": "a",
+      "correcta": "a",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "pdf_marcado",
+      "exp": "A resposta coincide coa táboa de solucións do PDF (22.A)."
+    },
+    {
+      "id": "04e0623a-9a44-489d-a985-f59a0407e28d",
+      "n": 23,
+      "actual": "d",
+      "correcta": "d",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "pdf_marcado",
+      "exp": "A resposta coincide coa táboa de solucións do PDF (23.D). Todas son características desexables dunha liña de defensa."
+    },
+    {
+      "id": "894e77d3-ef4f-412e-bfca-2c34ed8772bb",
+      "n": 24,
+      "actual": "a",
+      "correcta": "a",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "pdf_marcado",
+      "exp": "A resposta coincide coa táboa de solucións do PDF (24.A). É a definición de queima de ensanche (Temario, páx. 23)."
+    },
+    {
+      "id": "cf3e8cde-e411-40b7-8202-564a48556db7",
+      "n": 25,
+      "actual": "c",
+      "correcta": "c",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "pdf_marcado",
+      "exp": "A resposta coincide coa táboa de solucións do PDF (25.C). A liquidación é o remate do lume (Temario, páx. 34)."
+    },
+    {
+      "id": "b1de6229-6f47-4c78-927e-bbb992ac28da",
+      "n": 26,
+      "actual": "a",
+      "correcta": "a",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "pdf_marcado",
+      "exp": "A resposta coincide coa táboa de solucións do PDF (26.A). En lume de copas, buscar focos a polo menos 500m (Temario, páx. 35)."
+    },
+    {
+      "id": "8f14dd0b-dc33-40c5-b126-b634aa3d9bf7",
+      "n": 27,
+      "actual": "a",
+      "correcta": "a",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "pdf_marcado",
+      "exp": "A resposta coincide coa táboa de solucións do PDF (27.A). Cinsas brancas e voo de moscas son indicadores (Temario, páx. 35)."
+    },
+    {
+      "id": "bd0fd296-42cf-49a2-b456-3b159107e70a",
+      "n": 28,
+      "actual": "d",
+      "correcta": "d",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "pdf_marcado",
+      "exp": "A resposta coincide coa táboa de solucións do PDF (28.D). A irregularidade débese a cambios no vento e combustible."
+    },
+    {
+      "id": "16de5e78-97fb-438e-9eb8-1720018ba9d7",
+      "n": 29,
+      "actual": "c",
+      "correcta": "c",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "pdf_marcado",
+      "exp": "A resposta coincide coa táboa de solucións do PDF (29.C). O lume adquire unha forma elíptica con partes definidas."
+    },
+    {
+      "id": "5cc6ddf0-3c64-4425-b6b8-821b216f3275",
+      "n": 30,
+      "actual": "d",
+      "correcta": "d",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "pdf_marcado",
+      "exp": "A resposta coincide coa táboa de solucións do PDF (30.D). A queima de ensanche, como o contralume, é ordenada polo DTE."
+    },
+    {
+      "id": "28ffe9d1-b98b-4793-85c3-c020bb59d1a4",
+      "n": 31,
+      "actual": "d",
+      "correcta": "d",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "pdf_marcado",
+      "exp": "A resposta coincide coa táboa de solucións do PDF (31.D). O ataque con auga é propio do ataque directo."
+    },
+    {
+      "id": "17ae17c2-e2a6-472b-a54f-463ac7f4c927",
+      "n": 32,
+      "actual": "b",
+      "correcta": "b",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "pdf_marcado",
+      "exp": "A resposta coincide coa táboa de solucións do PDF (32.B). O ataque directo, ao seguir o bordo, ten un perímetro menor."
+    },
+    {
+      "id": "87daded5-ecc6-4fd2-9723-1c44a26935d7",
+      "n": 33,
+      "actual": "c",
+      "correcta": "c",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "pdf_marcado",
+      "exp": "A resposta coincide coa táboa de solucións do PDF (33.C). Ampliar a zona é a finalidade da queima de ensanche, non do contralume."
+    },
+    {
+      "id": "97fa88d2-f647-4b76-9d2a-bd1b0e09be58",
+      "n": 34,
+      "actual": "d",
+      "correcta": "d",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "pdf_marcado",
+      "exp": "A resposta coincide coa táboa de solucións do PDF (34.D). O ataque con terra é unha forma de ataque directo."
+    },
+    {
+      "id": "4372d9a9-636e-43e4-8df3-4ea62253bd74",
+      "n": 35,
+      "actual": "a",
+      "correcta": "a",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "pdf_marcado",
+      "exp": "A resposta coincide coa táboa de solucións do PDF (35.A). O chorro ten maior poder de penetración (Temario, páx. 12)."
+    },
+    {
+      "id": "df850f80-4b3e-4fae-9bb2-2ef576d30764",
+      "n": 36,
+      "actual": "b",
+      "correcta": "b",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "pdf_marcado",
+      "exp": "A resposta coincide coa táboa de solucións do PDF (36.B)."
+    },
+    {
+      "id": "094fa371-0b2f-46bb-8475-235489b340bb",
+      "n": 37,
+      "actual": "d",
+      "correcta": "d",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "pdf_marcado",
+      "exp": "A resposta coincide coa táboa de solucións do PDF (37.D). Cubrir con batelumes é unha técnica de ataque directo (sufocación)."
+    },
+    {
+      "id": "1f382128-9a57-47be-ae84-8e5ac149841f",
+      "n": 38,
+      "actual": "d",
+      "correcta": "d",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "pdf_marcado",
+      "exp": "A resposta coincide coa táboa de solucións do PDF (38.D). A auga aumenta a humidade do combustible, non a diminúe."
+    },
+    {
+      "id": "2e57ebce-e012-442c-a4c1-817ad8fb20a4",
+      "n": 6,
+      "actual": "c",
+      "correcta": "c",
+      "ok": true,
+      "conf": "media",
+      "fonte": "temario",
+      "exp": "A Estratexia, Táctica e Programación Horaria son as partes da Planificación do Plan de Extinción (Temario, páx. 29)."
+    },
+    {
+      "id": "6c258ff4-3bc7-4845-8bac-8e00eb93bb21",
+      "n": 39,
+      "actual": "b",
+      "correcta": "b",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "pdf_marcado",
+      "exp": "A resposta coincide coa táboa de solucións do PDF (39.B). Os restos de brasas retíranse cara á zona queimada (Temario, páx. 34)."
+    },
+    {
+      "id": "598595ff-fea6-410e-8d32-d58968a2023c",
+      "n": 40,
+      "actual": "a",
+      "correcta": "a",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "pdf_marcado",
+      "exp": "A resposta coincide coa táboa de solucións do PDF (40.A). A decisión de aplicar un contralume só pode tomala o DTE."
+    },
+    {
+      "id": "159f15e0-8499-4e73-a025-96cb7f073ae9",
+      "n": 41,
+      "actual": "a",
+      "correcta": "a",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "pdf_marcado",
+      "exp": "A resposta coincide coa táboa de solucións do PDF (41.A). É a definición de lume controlado (Temario, páx. 26)."
+    },
+    {
+      "id": "a04b15fe-ca08-44d2-b1aa-d0e239dfb6cb",
+      "n": 42,
+      "actual": "b",
+      "correcta": "b",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "pdf_marcado",
+      "exp": "A resposta coincide coa táboa de solucións do PDF (42.B). É a definición de lume estabilizado (Temario, páx. 26)."
+    },
+    {
+      "id": "c765e120-fc41-4fe0-8dfb-0b3d7750984f",
+      "n": 43,
+      "actual": "d",
+      "correcta": "d",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "pdf_marcado",
+      "exp": "A resposta coincide coa táboa de solucións do PDF (43.D). É a definición de lume extinguido (Temario, páx. 26)."
+    },
+    {
+      "id": "776108cd-ca3c-4adc-982d-f015ff3e5729",
+      "n": 44,
+      "actual": "a",
+      "correcta": "a",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "pdf_marcado",
+      "exp": "A resposta coincide coa táboa de solucións do PDF (44.A). A súa finalidade é ampliar a liña de defensa (Temario, páx. 23)."
+    },
+    {
+      "id": "2469f863-a459-4671-b4c5-54cf2a7bf28f",
+      "n": 45,
+      "actual": "b",
+      "correcta": "b",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "pdf_marcado",
+      "exp": "A resposta coincide coa táboa de solucións do PDF (45.B). Esta é a definición de Risco de incendio."
+    },
+    {
+      "id": "c0f2e386-d19c-46ad-85fd-4bfac0dc8e72",
+      "n": 46,
+      "actual": "c",
+      "correcta": "c",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "pdf_marcado",
+      "exp": "A resposta coincide coa táboa de solucións do PDF (46.C). O DTE establece e executa o plan de extinción."
+    },
+    {
+      "id": "da44a047-67aa-431b-8d05-070b4d798ab1",
+      "n": 47,
+      "actual": "b",
+      "correcta": "b",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "pdf_marcado",
+      "exp": "A resposta coincide coa táboa de solucións do PDF (47.B). É a definición de liña de defensa (Temario, páx. 5)."
+    },
+    {
+      "id": "10dc21ba-6530-4eb5-b914-b899b2a2ba30",
+      "n": 48,
+      "actual": "a",
+      "correcta": "a",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "pdf_marcado",
+      "exp": "A resposta coincide coa táboa de solucións do PDF (48.A). Son puntos onde o lume gaña aliñación e empeora (Temario, páx. 45)."
+    },
+    {
+      "id": "2042578f-bac5-46ae-b271-73d97df0e361",
+      "n": 49,
+      "actual": "d",
+      "correcta": "d",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "pdf_marcado",
+      "exp": "A resposta coincide coa táboa de solucións do PDF (49.D). O ataque paralelo consiste en traballar nos flancos."
+    },
+    {
+      "id": "5bf135cc-aebc-4cfa-86db-244b99beb4e9",
+      "n": 50,
+      "actual": "d",
+      "correcta": "d",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "pdf_marcado",
+      "exp": "A resposta coincide coa táboa de solucións do PDF (50.D). A liña debe localizarse inmediatamente detrás do cume (Temario, páx. 18)."
+    },
+    {
+      "id": "8032884f-d778-450d-b60f-ded8d586ec75",
+      "n": 51,
+      "actual": "b",
+      "correcta": "b",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "pdf_marcado",
+      "exp": "A resposta coincide coa táboa de solucións do PDF (51.B). É a definición de contralume ou 'lume ás costas' (Temario, páx. 20)."
+    },
+    {
+      "id": "39f7841a-dbc4-4e5b-aca1-67f63c236627",
+      "n": 1,
+      "actual": "c",
+      "correcta": "c",
+      "ok": true,
+      "conf": "media",
+      "fonte": "temario",
+      "exp": "A fase de Recoñecemento implica observar directamente no lugar o que está a suceder (Temario, páx. 27)."
+    },
+    {
+      "id": "84cf6ac1-3677-471f-8ac0-e1113a06873f",
+      "n": 2,
+      "actual": "d",
+      "correcta": "d",
+      "ok": true,
+      "conf": "media",
+      "fonte": "coñecemento",
+      "exp": "A aprobación da Situación Operativa corresponde a un nivel superior na cadea de mando, non ao DTE no campo."
+    },
+    {
+      "id": "6ded0470-93cb-4d80-89e2-9477a9adf8f2",
+      "n": 3,
+      "actual": "b",
+      "correcta": "b",
+      "ok": true,
+      "conf": "media",
+      "fonte": "temario",
+      "exp": "É incorrecto. Os restos de brasas deben retirarse cara á zona xa queimada para evitar reproducións (Temario, páx. 34)."
+    },
+    {
+      "id": "a9df0bc0-0616-4021-b6f5-e423407742c6",
+      "n": 4,
+      "actual": "c",
+      "correcta": "c",
+      "ok": true,
+      "conf": "media",
+      "fonte": "temario",
+      "exp": "A liña de defensa constrúese eliminando o combustible ata chegar ao chan mineral (Temario, páx. 5)."
+    },
+    {
+      "id": "3eb326ce-7f66-42b2-b4f6-9a3a3bc014e1",
+      "n": 5,
+      "actual": "b",
+      "correcta": "b",
+      "ok": true,
+      "conf": "media",
+      "fonte": "temario",
+      "exp": "O plan de extinción componse de Estratexia, Tácticas e Programación horaria. 'Técnica' non é unha das partes (Temario, páx. 29)."
+    },
+    {
+      "id": "8a193378-6eed-4bdf-a00f-5cfe6c375be3",
+      "n": 28,
+      "actual": "c",
+      "correcta": "c",
+      "ok": true,
+      "conf": "media",
+      "fonte": "temario",
+      "exp": "A velocidade de propagación alta sitúase entre 10-70 m/min segundo o temario (Temario, páx. 27)."
+    },
+    {
+      "id": "6c8d2470-c65c-4e0d-bc8e-d869255a70ca",
+      "n": 7,
+      "actual": "d",
+      "correcta": "b",
+      "ok": false,
+      "conf": "media",
+      "fonte": "temario",
+      "exp": "O axudante de loxística é propio do Nivel C (avanzado), non do B (ampliado). Polo tanto, non garda relación (Temario, páx. 33)."
+    },
+    {
+      "id": "efb4e912-c89a-4c9b-a8f1-bd7ec48ea979",
+      "n": 8,
+      "actual": "c",
+      "correcta": "c",
+      "ok": true,
+      "conf": "media",
+      "fonte": "temario",
+      "exp": "A afirmación é incorrecta. No ataque indirecto a superficie ardida pode ser maior, non se reducen os danos (Temario, páx. 15)."
+    },
+    {
+      "id": "1f945ce8-54dc-4432-a292-3b90b8792939",
+      "n": 9,
+      "actual": "b",
+      "correcta": "b",
+      "ok": true,
+      "conf": "media",
+      "fonte": "temario",
+      "exp": "O mellor sitio para situar o contralume é xusto ao outro lado da cima (Temario, páx. 21)."
+    },
+    {
+      "id": "3fa9baa5-ddb5-43bf-ba57-625fb9a51367",
+      "n": 10,
+      "actual": "d",
+      "correcta": "d",
+      "ok": true,
+      "conf": "media",
+      "fonte": "temario",
+      "exp": "A afirmación é errónea. A anchura da liña debe ampliarse en puntos de maior intensidade (Temario, páx. 17)."
+    },
+    {
+      "id": "407a819b-860f-4736-a1fa-18801c853743",
+      "n": 11,
+      "actual": "c",
+      "correcta": "c",
+      "ok": true,
+      "conf": "media",
+      "fonte": "temario",
+      "exp": "Con chamas de 1,5 a 2,5 m, o ataque directo con ferramentas manuais non é factible pola intensidade da calor (Temario, páx. 7)."
+    },
+    {
+      "id": "2fee300e-b43c-43c1-b7b2-5f0946622f86",
+      "n": 12,
+      "actual": "b",
+      "correcta": "b",
+      "ok": true,
+      "conf": "media",
+      "fonte": "temario",
+      "exp": "A faixa construída para cortar a continuidade do combustible é a liña de defensa (Temario, páx. 5)."
+    },
+    {
+      "id": "f6ae6956-4844-4ba5-8d70-78e75572a2d5",
+      "n": 13,
+      "actual": "c",
+      "correcta": "c",
+      "ok": true,
+      "conf": "media",
+      "fonte": "temario",
+      "exp": "Un cortalumes é unha barreira artificial construída que forma parte da liña de control (Temario, páx. 5)."
+    },
+    {
+      "id": "10e7f7dd-3034-4d2a-8b1e-0c4e268356a8",
+      "n": 14,
+      "actual": "b",
+      "correcta": "b",
+      "ok": true,
+      "conf": "media",
+      "fonte": "temario",
+      "exp": "O combustible retirado deposítase no lado exterior, o oposto ao avance do lume (Temario, páx. 5)."
+    },
+    {
+      "id": "3d8d21a0-8c76-4839-9153-c6b7d3aa98fa",
+      "n": 15,
+      "actual": "a",
+      "correcta": "a",
+      "ok": true,
+      "conf": "media",
+      "fonte": "temario",
+      "exp": "O plan de extinción componse de Estratexia, Táctica e Programación horaria (Temario, páx. 29)."
+    },
+    {
+      "id": "57235f32-d369-450f-a4ae-29170a783b09",
+      "n": 16,
+      "actual": "d",
+      "correcta": "d",
+      "ok": true,
+      "conf": "media",
+      "fonte": "temario",
+      "exp": "A queima de ensanche en ladeira faise de arriba a abaixo e convén realizala a medida que se constrúe a liña (Temario, páx. 23-24)."
+    },
+    {
+      "id": "de7ee420-ff45-4818-848c-9fa7d371c5e7",
+      "n": 17,
+      "actual": "a",
+      "correcta": "a",
+      "ok": true,
+      "conf": "media",
+      "fonte": "temario",
+      "exp": "Segundo o temario, a liña de control 'establécese' (Temario, páx. 5)."
+    },
+    {
+      "id": "4d737516-49d6-472c-aa4a-ab3f2a2ca6ac",
+      "n": 18,
+      "actual": "c",
+      "correcta": "c",
+      "ok": true,
+      "conf": "media",
+      "fonte": "temario",
+      "exp": "Segundo o temario, a liña de defensa 'constrúese' (Temario, páx. 5)."
+    },
+    {
+      "id": "0194be5e-8f32-4e01-bd85-dc94ecb9dc04",
+      "n": 19,
+      "actual": "d",
+      "correcta": "d",
+      "ok": true,
+      "conf": "media",
+      "fonte": "temario",
+      "exp": "En lumes de copas ou con moito vento, débese buscar focos secundarios a polo menos 500 m (Temario, páx. 35)."
+    },
+    {
+      "id": "10be657d-607c-44bc-8a6b-681f4f3098fc",
+      "n": 20,
+      "actual": "c",
+      "correcta": "c",
+      "ok": true,
+      "conf": "media",
+      "fonte": "temario",
+      "exp": "A finalidade de ampliar a zona desprovista de combustible corresponde á queima de ensanche, non ao contralume (Temario, páx. 23)."
+    },
+    {
+      "id": "430112d8-ad56-4675-b965-5a2c35bf2c24",
+      "n": 21,
+      "actual": "d",
+      "correcta": "d",
+      "ok": true,
+      "conf": "media",
+      "fonte": "temario",
+      "exp": "A afirmación é incorrecta. O ataque con terra é unha técnica de ataque directo (Temario, páx. 12-13)."
+    },
+    {
+      "id": "cb2c9362-c715-4a7d-b569-65238beb9e68",
+      "n": 22,
+      "actual": "d",
+      "correcta": "d",
+      "ok": true,
+      "conf": "baixa",
+      "fonte": "temario",
+      "exp": "Aínda que a auga pulverizada é de ataque directo, humedecer o combustible no indirecto tamén aumenta o vapor de auga."
+    },
+    {
+      "id": "9e31e825-8dac-4d02-be77-6ff6f70a3008",
+      "n": 23,
+      "actual": "d",
+      "correcta": "d",
+      "ok": true,
+      "conf": "media",
+      "fonte": "temario",
+      "exp": "A pulverización e o uso de retardantes aumentan a eficiencia e rendemento da auga, permitindo aforrar (Temario, páx. 11-12)."
+    },
+    {
+      "id": "5f8b4094-5a35-4fdd-908b-9b9c37f163d2",
+      "n": 24,
+      "actual": "a",
+      "correcta": "a",
+      "ok": true,
+      "conf": "media",
+      "fonte": "coñecemento",
+      "exp": "O DTE, como máximo responsable operativo no incendio, é quen organiza e asigna os recursos de comunicacións."
+    },
+    {
+      "id": "5d7a13d9-f004-4b6c-8a9a-07ec2e9b5372",
+      "n": 25,
+      "actual": "c",
+      "correcta": "c",
+      "ok": true,
+      "conf": "media",
+      "fonte": "temario",
+      "exp": "O contralume é unha técnica característica do ataque indirecto (Temario, páx. 20)."
+    },
+    {
+      "id": "79c8241d-df80-49a8-b849-9ac386bea4c7",
+      "n": 26,
+      "actual": "d",
+      "correcta": "d",
+      "ok": true,
+      "conf": "media",
+      "fonte": "temario",
+      "exp": "O DTE establece o Punto de Recepción de Medios (PRM) en coordinación co CCD (Temario, páx. 32)."
+    },
+    {
+      "id": "8775746e-b59a-4c5b-921b-def262efc26c",
+      "n": 27,
+      "actual": "d",
+      "correcta": "d",
+      "ok": true,
+      "conf": "media",
+      "fonte": "temario",
+      "exp": "Todos os fenómenos descritos son indicadores de puntos quentes segundo o temario (Temario, páx. 35)."
+    },
+    {
+      "id": "73cab1be-6c4b-4153-9a51-664da22ab80b",
+      "n": 31,
+      "actual": "d",
+      "correcta": "d",
+      "ok": true,
+      "conf": "media",
+      "fonte": "temario",
+      "exp": "O sistema Campbell analiza a aliñación de Vento, Pendente e Exposición (Dispoñibilidade) do combustible (Temario, páx. 38-39)."
+    },
+    {
+      "id": "5e26049c-9d3a-4061-bdad-c3d5ec6f4af2",
+      "n": 32,
+      "actual": "b",
+      "correcta": "b",
+      "ok": true,
+      "conf": "media",
+      "fonte": "temario",
+      "exp": "Unha aliñación baixa (1/3) indica un lume de menor intensidade, en condicións favorables para o control con ataque directo."
+    },
+    {
+      "id": "3e519ca4-09d3-4c66-8d28-81874bfd1fed",
+      "n": 33,
+      "actual": "d",
+      "correcta": "c",
+      "ok": false,
+      "conf": "media",
+      "fonte": "temario",
+      "exp": "A resposta correcta é a C. Os puntos de inflexión son lugares onde cambia a aliñación das forzas (Temario, páx. 45)."
+    },
+    {
+      "id": "26f41015-8645-42a0-8066-2a4d822d003d",
+      "n": 34,
+      "actual": "a",
+      "correcta": "a",
+      "ok": true,
+      "conf": "media",
+      "fonte": "temario",
+      "exp": "As carreiras potenciais son zonas onde a fronte ten plena aliñación (3/3) e alcanza o seu máximo potencial (Temario, páx. 45)."
+    },
+    {
+      "id": "1316e786-fb3d-451d-9357-18a1340e1222",
+      "n": 35,
+      "actual": "d",
+      "correcta": "d",
+      "ok": true,
+      "conf": "media",
+      "fonte": "temario",
+      "exp": "O método Campbell é un protocolo de actuación que inclúe todos os puntos mencionados (Temario, páx. 46)."
+    },
+    {
+      "id": "6df82254-4550-45a7-8c97-f879e1167908",
+      "n": 36,
+      "actual": "d",
+      "correcta": "d",
+      "ok": true,
+      "conf": "media",
+      "fonte": "coñecemento",
+      "exp": "A comunicación vertical prodúcese entre distintos niveis xerárquicos, como entre o DTE e os xefes de sector."
+    },
+    {
+      "id": "9084e472-b188-4ad8-8937-d498e53a3754",
+      "n": 37,
+      "actual": "d",
+      "correcta": "d",
+      "ok": true,
+      "conf": "media",
+      "fonte": "coñecemento",
+      "exp": "Claridade, seguridade de recepción e garantía de enlace son principios básicos da comunicación en emerxencias."
+    },
+    {
+      "id": "603cdb60-ac19-405b-9144-e6e7d58bc418",
+      "n": 38,
+      "actual": "d",
+      "correcta": "d",
+      "ok": true,
+      "conf": "media",
+      "fonte": "temario",
+      "exp": "A avaliación é un proceso continuo e simultáneo ao recoñecemento, non unha fase estanca (Temario, páx. 28)."
+    },
+    {
+      "id": "74dd7028-6214-4f5a-80cd-50846b5ee957",
+      "n": 39,
+      "actual": "c",
+      "correcta": "b",
+      "ok": false,
+      "conf": "media",
+      "fonte": "temario",
+      "exp": "O índice de gravidade determínase como consecuencia da fase de Avaliación (Temario, páx. 28)."
+    },
+    {
+      "id": "7455d6be-3810-416e-b88d-d1e02fb61690",
+      "n": 40,
+      "actual": "d",
+      "correcta": "d",
+      "ok": true,
+      "conf": "media",
+      "fonte": "temario",
+      "exp": "A planificación consiste en elaborar o Plan de Extinción, que é unha secuencia ordenada de accións (Temario, páx. 29)."
+    },
+    {
+      "id": "1bee6db1-6d00-4e99-a3b3-b17f90612a18",
+      "n": 41,
+      "actual": "a",
+      "correcta": "a",
+      "ok": true,
+      "conf": "media",
+      "fonte": "temario",
+      "exp": "A Estratexia establece os obxectivos desexados, o que se quere conseguir (Temario, páx. 29)."
+    },
+    {
+      "id": "b011a5de-9fe5-45de-b132-1f4cf7d61880",
+      "n": 42,
+      "actual": "b",
+      "correcta": "b",
+      "ok": true,
+      "conf": "media",
+      "fonte": "temario",
+      "exp": "A Táctica consiste en levar a cabo a execución da estratexia, é o 'como' se van a lograr os obxectivos (Temario, páx. 29)."
+    },
+    {
+      "id": "5af5847a-a64d-4a47-b1a1-93cc40574af5",
+      "n": 43,
+      "actual": "b",
+      "correcta": "b",
+      "ok": true,
+      "conf": "media",
+      "fonte": "temario",
+      "exp": "O paso a ataque ampliado prodúcese por solicitude do DTE en base á evolución do lume e a efectividade dos medios (Temario, páx. 31)."
+    },
+    {
+      "id": "9baca26b-57b9-426b-b139-bbba30d751e0",
+      "n": 44,
+      "actual": "d",
+      "correcta": "d",
+      "ok": true,
+      "conf": "media",
+      "fonte": "temario",
+      "exp": "Todas as actuacións son correctas e necesarias na transición a un ataque ampliado (Temario, páx. 31-32)."
+    },
+    {
+      "id": "c2fd39f1-260c-48fe-862d-dc82aa7d825a",
+      "n": 45,
+      "actual": "a",
+      "correcta": "a",
+      "ok": true,
+      "conf": "media",
+      "fonte": "coñecemento",
+      "exp": "A principal responsabilidade do xefe de brigada/sector é comunicar e executar o plan de ataque co seu persoal."
+    },
+    {
+      "id": "b2e34dbb-4e3e-459b-a1d0-909df06b90ff",
+      "n": 46,
+      "actual": "b",
+      "correcta": "b",
+      "ok": true,
+      "conf": "media",
+      "fonte": "temario",
+      "exp": "A liquidación debe concentrarse nas zonas máis perigosas, como a localización de combustibles pesados (Temario, páx. 34)."
+    },
+    {
+      "id": "45515894-e767-4e9a-b933-865153ed7764",
+      "n": 47,
+      "actual": "c",
+      "correcta": "c",
+      "ok": true,
+      "conf": "media",
+      "fonte": "temario",
+      "exp": "A maquinaria pesada é moi útil na liquidación, e o seu traballo complétase eficazmente con ferramentas manuais."
+    },
+    {
+      "id": "0eb9fb62-0cd0-498e-9d74-b5b9ffd1dd54",
+      "n": 48,
+      "actual": "c",
+      "correcta": "c",
+      "ok": true,
+      "conf": "media",
+      "fonte": "temario",
+      "exp": "Tras a liquidación, o persoal debe situarse nun lugar con visibilidade sobre a área para detectar focos (Temario, páx. 35)."
+    },
+    {
+      "id": "cc2a77cc-28b3-4c73-9401-b0e1582516e7",
+      "n": 49,
+      "actual": "a",
+      "correcta": "a",
+      "ok": true,
+      "conf": "media",
+      "fonte": "temario",
+      "exp": "O batelumes é efectivo en lumes incipientes con pouca altura de chama e sobre combustibles lixeiros (Temario, páx. 9)."
+    },
+    {
+      "id": "f08bdc18-5670-4dd4-a4ea-2ae09ac66c03",
+      "n": 50,
+      "actual": "c",
+      "correcta": "c",
+      "ok": true,
+      "conf": "media",
+      "fonte": "temario",
+      "exp": "Con altura de chama superior a 3,5 m, o ataque debe ser indirecto (Temario, páx. 7)."
+    }
+  ],
+  "resumo": {
+    "total": 101,
+    "ok": 98,
+    "erros": 3,
+    "para_eliminar": [
+      "6c8d2470-c65c-4e0d-bc8e-d869255a70ca",
+      "3e519ca4-09d3-4c66-8d28-81874bfd1fed",
+      "74dd7028-6214-4f5a-80cd-50846b5ee957"
+    ],
+    "nota": "A verificación foi maioritariamente exitosa. A maioría das respostas coinciden coa folla de solucións. Identificáronse 3 erros en preguntas non pertencentes ao test principal, baseándose no temario proporcionado. A confianza é alta para as preguntas do test e media para as externas."
+  }
+}
