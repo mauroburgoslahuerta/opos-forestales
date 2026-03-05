@@ -34,7 +34,34 @@ O banco de preguntas de opos forestais (Supabase) tiña **respostas correctas ma
   - **P24, P28, P41 (Trampas de formulación):** Revisadas manualmente. Posúen redaccións complexas/tramposas (xogos de palabras ou esixencias contrarias ao temario) pero nas que "Ningunha é correcta" (`d`) ou o xogo lóxico aplican perfectamente, polo que se mantiveron inalteradas con ok:true en Gemini e verificación manual do humano.
 ---
 
-## 2. METODOLOXÍA DE VERIFICACIÓN
+## 2. REGLA DE JERARQUÍA DOCUMENTAL 2026 E ESTRATEXIA DE IMPUGNACIÓN
+
+Nos casos onde os documentos oficiais do temario se contradigan entre si (ex: recomendacións operativas de PRL vs. Protocolo OACEL), aplícase estritamente a seguinte **xerarquía documental** para elixir a resposta a memorizar:
+
+🥇 **NIVEL 1 (Máxima Autoridade - Vixente):**
+- Anexo VI PLADIGA 2025.
+- Protocolo OACEL da AGASP.
+- Módulo Atrapamentos AGASP.
+- Fichas MUGATRA.
+
+🥈 **NIVEL 2 (Doutrina Base - Válida se non contradí ao Nivel 1):**
+- Manual de prevención de riscos laborais.
+
+🥉 **NIVEL 3 (Histórico/Secundario - Só en caso de baleiro legal):**
+- Tema IX Manual 2007.
+- Catálogo EPIs CLIF.
+
+**ESTRATEXIA DE IMPUGNACIÓN ("Filtro 2026"):**
+A resposta correcta a memorizar SEMPRE é a máis moderna e apoiada na maior autoridade (Nivel 1).
+- **Escenario A (Tribunal actualizado):** Preguntan e avalían coa norma vixente (Nivel 1). Acertas.
+- **Escenario B (Tribunal vago con prantilla obsoleta):** Preguntan e a máquina suspende a túa resposta porque usan o Nivel 3. Ao día seguinte tes o punto asegurado mediante impugnación vinculando o documento de Nivel 1 (inexpugnable).
+- **O Risco Mortal:** Se estudas a resposta obsoleta por medo á prantilla vella, e o tribunal actualizou a súa resposta ao Nivel 1, suspendes a pregunta e non tes base legal para impugnar. A lei actual está da súa parte.
+
+*Acción para a App:* Ante preguntas dudosas, apartalas, pasalas por este filtro e parchear a base de datos SEMPRE coa resposta defendida polo Nivel 1. A app debe ser un escudo antibalas legal.
+
+---
+
+## 3. METODOLOXÍA DE VERIFICACIÓN
 
 ### Ferramenta
 - **Modelo:** `gemini-2.5-pro` vía API (`google-genai` library)
@@ -60,7 +87,7 @@ SUPABASE_SERVICE_ROLE_KEY = sb_secret_g1l1qc_FSid8PCSy67egHA_jsiP5Wcz
 
 ---
 
-## 3. COMO EXECUTAR (INSTRUCIONS CRÍTICAS)
+## 4. COMO EXECUTAR (INSTRUCIONS CRÍTICAS)
 
 ### ⚠️ Problema de encoding en Windows
 O entorno Windows ten problemas de encoding UTF-8 con caracteres especiais (galego). Para evitar erros:

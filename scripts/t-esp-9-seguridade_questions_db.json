@@ -1,0 +1,1541 @@
+[
+  {
+    "id": "63f3088e-8504-4300-9587-87a40cd1ae5c",
+    "question_text": "Que pautas debemos seguir nas feridas leves?:",
+    "option_a": "Evitar a contaminación e desinfectar a ferida.",
+    "option_b": "Vendar a ferida e previr a infección",
+    "option_c": "As respostas A e B son correctas.",
+    "option_d": "Ningunha das respostas anteriores é correcta.",
+    "correct_answer": "c"
+  },
+  {
+    "id": "506c0737-2224-4589-8afc-0bf1d5c65dc2",
+    "question_text": "Cal é a norma xeral na extinción de incendios forestais?:",
+    "option_a": "Manterse sempre informado do comportamento do incendio.",
+    "option_b": "Combater o incendio con determinación, pero mantendo a seguridade como primeira condición.",
+    "option_c": "Manterse alerta, calmado, pensando claramente e actuar con decisión.",
+    "option_d": "Todas as respostas anteriores son correctas.",
+    "correct_answer": "d"
+  },
+  {
+    "id": "d18bd2a1-deb6-4a98-903e-2ddd0e424b74",
+    "question_text": "Como se valora a importancia dunha queimadura?:",
+    "option_a": "Pola súa profundidade.",
+    "option_b": "Pola súa localización.",
+    "option_c": "Pola súa extensión.",
+    "option_d": "Todas as respostas anteriores son correctas.",
+    "correct_answer": "d"
+  },
+  {
+    "id": "4edcefb9-dcd0-46ef-9c62-8e43b4efdf8f",
+    "question_text": "As normas básicas de seguridade na extinción de incendios son:",
+    "option_a": "Manter rutas de escape e dalas a coñecer ao persoal.",
+    "option_b": "Manter un posto de observación cando as condición de traballo sexan perigosas.",
+    "option_c": "Manter a comunicación co persoal (xefes, compañeiros, etc.).",
+    "option_d": "As respostas A e B son correctas.",
+    "correct_answer": "d"
+  },
+  {
+    "id": "4232dea0-ae4a-434b-bdfd-56bc091c0f0a",
+    "question_text": "Que pautas debemos seguir nas feridas graves?:",
+    "option_a": "Controlar os signos vitais e explorar a ferida.",
+    "option_b": "Cubrir a ferida con material estéril e evacuar urgentemente ao ferido.",
+    "option_c": "As respostas A e B son correctas.",
+    "option_d": "Ningunha das anteriores é correcta.",
+    "correct_answer": "c"
+  },
+  {
+    "id": "bae0d412-7e75-4b44-9e32-0386dfac70ca",
+    "question_text": "Que pautas debemos empregar na masaxe cardíaca (RCP)?",
+    "option_a": "15 compresións x 15 insuflacións.",
+    "option_b": "30 compresións x 2 insuflacións.",
+    "option_c": "2 compresións x 30 insuflacións.",
+    "option_d": "Ningunha das respostas anteriores é correcta.",
+    "correct_answer": "b"
+  },
+  {
+    "id": "a0a65d78-8e94-4a31-a7b1-df8c855efd40",
+    "question_text": "O Comité de Loita contra Incendios Forestais (CLIF) ten publicadas as 18 situacións de atención en incendios forestais, que son aquelas nas que se non se toma unha acción correcta inmediatamente, os combatentes poden estar en perigo. Sinale cal das seguintes é unha situación de atención:",
+    "option_a": "Estar pola noite nun terreo que só se recoñeceu durante o día.",
+    "option_b": "Construír unha liña de defensa costa arriba cara ao incendio.",
+    "option_c": "Construír unha liña de defensa costa abaixo cara ao incendio.",
+    "option_d": "Construír unha liña cun punto de ancoraxe seguro.",
+    "correct_answer": "a"
+  },
+  {
+    "id": "7ec2409c-6013-470e-8216-fada6cab4182",
+    "question_text": "Que implica a Observación no protocolo OACEL?:",
+    "option_a": "Observar de forma continua o comportamento do incendio.",
+    "option_b": "Ver o estado meteorolóxico do clima.",
+    "option_c": "Situar a un ou varios observadores nun lugar seguro con boas visión.",
+    "option_d": "Ningunha das anteriores é correcta.",
+    "correct_answer": "a"
+  },
+  {
+    "id": "5c99d202-089d-4b1f-8ee2-f2769c25dc01",
+    "question_text": "Cal das seguintes afirmacións sobre o protocolo OACEL é FALSA?",
+    "option_a": "É un protocolo básico para a seguridade do persoal na extinción.",
+    "option_b": "Débese aplicar en orde secuencial O-A-C-E-L.",
+    "option_c": "É un sistema proactivo e pode ser modi icado cando sexa preciso.",
+    "option_d": "As siglas significan: Observación, Atención, Comportamento do lume, Escape e Lugar seguro.",
+    "correct_answer": "d"
+  },
+  {
+    "id": "13376ac8-e5b9-4e97-a285-62a6eae98495",
+    "question_text": "Un EPI de categoría II é aquel destinado a:",
+    "option_a": "Protexer contra riscos mínimos.",
+    "option_b": "Protexer contra riscos graves.",
+    "option_c": "Protexer contra riscos moi graves ou mortais.",
+    "option_d": "Ningunha das anteriores é correcta.",
+    "correct_answer": "b"
+  },
+  {
+    "id": "d1eda63c-1084-4555-b0d3-8f484d6554b5",
+    "question_text": "Que elementos básicos compoñen o protocolo OACEL?:",
+    "option_a": "Observación, Alerta, Comunicación, Escape e Lugar seguro.",
+    "option_b": "Observación, Alerta, Comunicación, Ruta de escape e Lugar seguro.",
+    "option_c": "Observación, Alerta, Comunicación, Ruta de escape e Lugar de encontro.",
+    "option_d": "Ningunha das respostas anteriores é correcta.",
+    "correct_answer": "b"
+  },
+  {
+    "id": "746a9f2a-f008-4ee6-9605-36c4ef0f9d7b",
+    "question_text": "Onde está recollido o protocolo OACEL?:",
+    "option_a": "No manual de prevención de riscos",
+    "option_b": "Anexo 9 do PLADIGA 2025.",
+    "option_c": "Anexo 6 do PLADIGA 2025.",
+    "option_d": "Ningunha das anteriores é correcta.",
+    "correct_answer": "c"
+  },
+  {
+    "id": "f08ab327-690f-432d-baa3-73e42c308518",
+    "question_text": "Cal é o obxectivo do protocolo OACEL?:",
+    "option_a": "Dotar dos elementos básicos de seguridade que permitan minimizar o risco de atrapamento.",
+    "option_b": "Ter unha ferramenta que permita ter escrito os protocolos de seguridade.",
+    "option_c": "Previr os accidentes na prevención de incendios forestais.",
+    "option_d": "Todas as anteriores son incorrectas.",
+    "correct_answer": "a"
+  },
+  {
+    "id": "89e2232f-5576-40f7-b68d-53807360a73e",
+    "question_text": "Para valorar o alcance dunha ferida temos que ter en conta:",
+    "option_a": "Extensión e profundidade.",
+    "option_b": "Localización.",
+    "option_c": "Suciedade.",
+    "option_d": "Todas as respostas anteriores son correctas.",
+    "correct_answer": "d"
+  },
+  {
+    "id": "ba71a985-40bc-41c4-a813-86ebddd23abe",
+    "question_text": "Os piares básicos da seguridade na extinción de incendios son:",
+    "option_a": "Ter en conta de forma xeral as 10 normas de seguridade e as 18 situacións de risco no incendio.",
+    "option_b": "Coñecemento do comportamento do lume.",
+    "option_c": "Uso do equipo de protección individual (EPI).",
+    "option_d": "Todas as respostas anteriores son correctas.",
+    "correct_answer": "d"
+  },
+  {
+    "id": "654282ef-9df0-4192-a907-1d246ccd5266",
+    "question_text": "Que contempla de forma xeral o protocolo OACEL?:",
+    "option_a": "A seguridade de todo o operativo na extinción de incendios.",
+    "option_b": "18 situacións de loita contra os incendios forestais.",
+    "option_c": "10 normas básicas de combate",
+    "option_d": "B e C son correctas.",
+    "correct_answer": "a"
+  },
+  {
+    "id": "0c0abfc8-8f39-4aaf-9c47-dea05b0d3e51",
+    "question_text": "Un xefe de brigada recibe a orde de traballar coa cuadrilla nun ataque directo á fronte do lume. Segundo as 18 situacións de atención en incendios forestais publicadas polo Comité de Loita contra Incendios Forestais (CLIF), cal das seguintes decisións debería tomar o dito xefe de brigada?: (sinale a CORRECTA)",
+    "option_a": "Buscar como ruta de escape unha que conduza cara a unha zona sen queimar a onde se dirixa o lume.",
+    "option_b": "Se non ve a totalidade do incendio, debe buscar un punto desde onde velo e deixar ao resto da cuadrilla traballando aínda que saiba que perderán o enlace.",
+    "option_c": "Non comezar a traballar ata ter información sobre o comportamento esperable do lume nesa zona, cando non a coñeza.",
+    "option_d": "Ante o esgotamento do persoal ao seu cargo, debe dicirlles que tomen un descanso nunha pista forestal situada preto do lugar de traballo.",
+    "correct_answer": "c"
+  },
+  {
+    "id": "60ed2a17-9d48-471f-94a6-efcbf92a08b8",
+    "question_text": "Das seguintes situacións, cal constitúe unha situación de perigo na extinción de incendios?:",
+    "option_a": "Cando se constrúe unha liña costa abaixo, cara ao incendio.",
+    "option_b": "Cando o vento empeza a soprar, ao aumentar a velocidade ou cambiar de dirección.",
+    "option_c": "Ao atoparse nunha liña de defensa con moito combustible seco e sen queimar entre o persoal e o incendio.",
+    "option_d": "Todas as respostas anteriores son correctas.",
+    "correct_answer": "d"
+  },
+  {
+    "id": "2a034476-28ee-4aec-973b-a826ecb6185d",
+    "question_text": "Das seguintes situacións, cal non constitúe unha situación de perigo na extinción de incendios?:",
+    "option_a": "Ao atoparse nun incendio en chaira e sen vento.",
+    "option_b": "Ao intentar un ataque con motobomba fronte do incendio.",
+    "option_c": "Se se ten cansanzo ou sono preto da liña de lume.",
+    "option_d": "Todas as respostas anteriores son correctas.",
+    "correct_answer": "a"
+  },
+  {
+    "id": "a0f4c615-0930-4d1c-aa3a-a83c15d8e94d",
+    "question_text": "Se non se explora nin se dimensiona o incendio previamente:",
+    "option_a": "Gáñase tempo de extinción.",
+    "option_b": "Asegúrase unha resposta rápida.",
+    "option_c": "Redúcese o risco.",
+    "option_d": "Comprométese a seguridade do persoal.",
+    "correct_answer": "d"
+  },
+  {
+    "id": "98515c9b-d5d5-4181-959d-c39dffec180c",
+    "question_text": "Un punto de anclaxe dunha liña de defensa nunca debe estar:",
+    "option_a": "Nun camiño.",
+    "option_b": "Nunha zona negra quente.",
+    "option_c": "Nunha pista forestal.",
+    "option_d": "Nunha zona sen pendente.",
+    "correct_answer": "b"
+  },
+  {
+    "id": "4c233cbe-410d-4404-8dfc-f69b5e3bc758",
+    "question_text": "O ataque á cabeza do incendio é especialmente perigoso por:",
+    "option_a": "Falta de medios.",
+    "option_b": "Ter pouca visibilidade.",
+    "option_c": "Alta intensidade e risco de atrapamento.",
+    "option_d": "Baixa intensidade das chamas.",
+    "correct_answer": "c"
+  },
+  {
+    "id": "236cc1da-feab-4bf2-8e81-dd2190b365f9",
+    "question_text": "Se non hai visión do incendio nin comunicación con quen o ve:",
+    "option_a": "Debemos continuar o traballo.",
+    "option_b": "Pódese facer contrafogo sen problema.",
+    "option_c": "É unha situación de risco grave.",
+    "option_d": "Non hai risco se hai emisora.",
+    "correct_answer": "c"
+  },
+  {
+    "id": "47ed4202-3970-46a3-9be5-b544e94b7db0",
+    "question_text": "O material rodante en pendente pode provocar:",
+    "option_a": "Aumento da humidade.",
+    "option_b": "Redución da intensidade do lume.",
+    "option_c": "Focos secundarios.",
+    "option_d": "Diminución do risco.",
+    "correct_answer": "c"
+  },
+  {
+    "id": "bf1dcab3-3820-4243-b644-182297327586",
+    "question_text": "Que condición meteorolóxica aumenta o risco de forma importante?",
+    "option_a": "Choiva lixeira.",
+    "option_b": "Humidade alta.",
+    "option_c": "Vento forte ou cambiante.",
+    "option_d": "Brétema espesa.",
+    "correct_answer": "c"
+  },
+  {
+    "id": "e8feb802-9ccf-495f-a343-23971e015ec7",
+    "question_text": "Que ocorre se se descansa preto do fronte de chamas?",
+    "option_a": "Favorece a vixilancia.",
+    "option_b": "Aumenta a capacidade de reacción.",
+    "option_c": "Redúcese a capacidade de reacción e aumenta o risco.",
+    "option_d": "É unha boa práctica de rotación.",
+    "correct_answer": "c"
+  },
+  {
+    "id": "f2da0c30-92d8-4fb3-8a61-28dd786c710e",
+    "question_text": "A falta de comunicación na cadea de mando pode:",
+    "option_a": "Aumentar a coordinación.",
+    "option_b": "Provocar situacións de risco.",
+    "option_c": "Ser substituída por sinais visuais sen problema.",
+    "option_d": "Ser útil para evitar o colapso da emisora.",
+    "correct_answer": "b"
+  },
+  {
+    "id": "672303a6-0346-49b9-b2af-d233ad458416",
+    "question_text": "O vento pode influír en:",
+    "option_a": "A altura das chamas.",
+    "option_b": "A orientación da brigada.",
+    "option_c": "A velocidade e dirección do lume.",
+    "option_d": "A cor da columna de fume.",
+    "correct_answer": "c"
+  },
+  {
+    "id": "6fab8b53-c5fa-4dc9-b707-7151c2700ccb",
+    "question_text": "Cando se realiza unha liña de defensa descendente con lume abaixo:",
+    "option_a": "É sempre a mellor opción.",
+    "option_b": "Só debe facerse con persoal cualificado.",
+    "option_c": "Debe comezar no medio do flanco.",
+    "option_d": "Pódese facer sen avaliar a pendente.",
+    "correct_answer": "b"
+  },
+  {
+    "id": "1ef20c14-f245-4f21-b2a0-7586f061a458",
+    "question_text": "Unha boa comunicación require:",
+    "option_a": "Usar o galego como idioma común.",
+    "option_b": "Mensaxes longos e detallados.",
+    "option_c": "Confirmación de recepción dos mensaxes.",
+    "option_d": "Falar todos á vez para rapidez.",
+    "correct_answer": "c"
+  },
+  {
+    "id": "cef7d617-8640-4cd1-8356-757631186cf0",
+    "question_text": "Unha mala elección do lugar de ancoraxe pode:",
+    "option_a": "Mellorar o rendemento da brigada.",
+    "option_b": "Previr riscos a longo prazo.",
+    "option_c": "Provocar accidentes graves.",
+    "option_d": "Facer o traballo máis doado.",
+    "correct_answer": "c"
+  },
+  {
+    "id": "4208098a-d9d3-4d4a-824f-98b63a85e879",
+    "question_text": "A seguridade. Riscos e prevención de accidentes. CLIF (Comité de Loita contra Incendios Forestais). En que consiste o protocolo OACEL?",
+    "option_a": "Observación, Alerta, Comunicación, Escape e Lugar seguro.",
+    "option_b": "Observación, Alerta, Comunicación, Ruta de escape e Lugar seguro.",
+    "option_c": "Observación, Alerta, Comunicación, Ruta de escape e Lugar de encontro.",
+    "option_d": "Ningunha das respostas anteriores é correcta.",
+    "correct_answer": "b"
+  },
+  {
+    "id": "2bb69a83-ed8f-440f-ad7c-72695d92a856",
+    "question_text": "En relación co protocolo OACEL difundido polo CLIF (Comité de Loita contra Incendios Forestais), sinala cal das seguintes é correcta:",
+    "option_a": "Debe aplicarse en orde secuencial O-A-C-E-L, se non se cumpre algún dos puntos, hai que seguir polo menos coas demais premisas do protocolo para que resulte efectivo.",
+    "option_b": "É un sistema proactivo, a iniciativa debe tomala o Director Técnico de Extinción, sendo responsable de coñecer en todo momento o seu estado respecto á seguridade, co obxecto de modificalo por se mesmo cando sexa necesario.",
+    "option_c": "A aplicación do OACEL implica unha continua reavaliación de cada un dosseus cinco puntos, establecéndose outros novos cando fixese falta.",
+    "option_d": "As zonas queimadas sen potencial de retorno, cumprindo con O, A e C non servirían como zonas seguras",
+    "correct_answer": "c"
+  },
+  {
+    "id": "44b0380d-9708-4bfa-af91-74a0e1c58611",
+    "question_text": "Segundo o protocolo OACEL, a ruta de escape sempre debe levar a un lugar ou zona segura, en relación con isto sinale a CORRECTA:",
+    "option_a": "Aquelas nas que o combatinte soporta o paso do lume sen levar o equipo de protección individual.",
+    "option_b": "Aquelas sen ningún tipo de combustible, construídas para este fin.",
+    "option_c": "Nunca poden utilizarse como zonas seguras as zonas queimadas nas que non queda combustible.",
+    "option_d": "Ter un escape a zona segura non é unha medida de seguridade suficiente se non se cumpre con O, A e C.",
+    "correct_answer": "d"
+  },
+  {
+    "id": "a464063f-fa33-4f76-b690-288b4f6bceba",
+    "question_text": "Que funcións teñen os observadores no protocolo OACEL?:",
+    "option_a": "Detectar posibles cambios no comportamento do lume, meteoroloxía.",
+    "option_b": "Prestar especial atención aos focos secundarios.",
+    "option_c": "Prestar especial atención aos cambios de vento, en canto a súa dirección e intensidade.",
+    "option_d": "Todas son corrrectas.",
+    "correct_answer": "d"
+  },
+  {
+    "id": "86e60826-afbf-445e-959b-c372a3789e1f",
+    "question_text": "Que implica a Atención no protocolo OACEL?:",
+    "option_a": "Non chega con observar. Hai que poñelo en relación co resto de factores e as súas consecuencias.",
+    "option_b": "Ser conscientes dos acontecementos que están sucedendo ao noso redor.",
+    "option_c": "A e B son correctas.",
+    "option_d": "Ningunha das anteriores é correcta.",
+    "correct_answer": "c"
+  },
+  {
+    "id": "948c9d20-6db2-40db-8176-bab0e9d554c9",
+    "question_text": "Que se debe establecer e manter en todo momento no protocolo OACEL?:",
+    "option_a": "Canles de comunicación entre o observador, estrutura de mando e compoñentes do equipo de extinción.",
+    "option_b": "A distancia de seguridade entre os operarios.",
+    "option_c": "A persoa de referencia para a ruta de escape.",
+    "option_d": "Ningunha das anteriores é correcta.",
+    "correct_answer": "a"
+  },
+  {
+    "id": "5cbf7e14-5a61-4178-a162-304a83f3daaf",
+    "question_text": "Que é a Ruta de Escape no protocolo OACEL?:",
+    "option_a": "A distancia mínima entre o lugar de traballo e o lugar seguro.",
+    "option_b": "A ruta pola que abandonar de forma segura o lugar onde se traballa no caso de que sexa necesario.",
+    "option_c": "Camiño sinalizado de mínimo dous metros de ancho destinado ás evacuacións.",
+    "option_d": "Todas as anteriores son incorrectas.",
+    "correct_answer": "b"
+  },
+  {
+    "id": "7aa30d38-53c1-4578-a650-7a36c3595762",
+    "question_text": "Características básicas na Ruta de Escape no protocolo OACEL?:",
+    "option_a": "Deben conducir a lugar seguro.",
+    "option_b": "Deben ser continuamente avaliadas.",
+    "option_c": "Limpa de combustibles e obstáculos.",
+    "option_d": "Todas as anteriores son correctas.",
+    "correct_answer": "d"
+  },
+  {
+    "id": "52800dea-8177-4d13-8630-9d76c522b551",
+    "question_text": "Que velocidade do persoal é a media nunha zona sen pendente a considerar nas rutas de escape?:",
+    "option_a": "80 m/min.",
+    "option_b": "60 m/min.",
+    "option_c": "35 m/min.",
+    "option_d": "Ningunha das anteriores é correcta.",
+    "correct_answer": "b"
+  },
+  {
+    "id": "872e0c0a-1495-4339-8316-a1c8de903214",
+    "question_text": "Como se define o Lugar Seguro no protocolo OACEL?:",
+    "option_a": "Punto de encontro na evacuación dun incendio forestal.",
+    "option_b": "Área desprovista de combustible, ou con niveis de carga e continuidade tan baixos que impidan a propagación do lume.",
+    "option_c": "Área decapada ata solo mineral que separa zonas de combustibles.",
+    "option_d": "Ningunha das anteriores é correcta.",
+    "correct_answer": "b"
+  },
+  {
+    "id": "081e7e56-ce64-4a7f-9514-1041f500f961",
+    "question_text": "Características básicas das zonas de seguridade no protocolo OACEL?:",
+    "option_a": "Deben ser zonas que permitan a un combatente soportar o paso do lume sen máis medidas de protección cas do seu propio EPI.",
+    "option_b": "No seu establecemento e dimensionamento debe terse en conta o peor comportamento posible do incendio.",
+    "option_c": "A zona segura por excelencia é a zona queimada (zonas negras e frías) on de no queda combustible dispoñible e cando o fume e a radiación residual o permiten.",
+    "option_d": "Todas as anteriores son correctas.",
+    "correct_answer": "d"
+  },
+  {
+    "id": "0c794289-9465-42cd-ba66-1477fb54bf6b",
+    "question_text": "Que distancia de separación segura deberemos ter nunha zona sen pendente, con vento de 20 km/h e propagación moderada do frrente de chama?:",
+    "option_a": "4 veces a altura de vexetación.",
+    "option_b": "8 veces a altura de vexetación.",
+    "option_c": "16 veces a altura de vexetación.",
+    "option_d": "Ningunha das anteriores é correcta",
+    "correct_answer": "a"
+  },
+  {
+    "id": "c888e152-7a5d-4f5b-8918-99a66df77f7a",
+    "question_text": "Segundo o manual de prevención de riscos laborais na defensa contra incendios forestais da Xunta de Galicia, indique cal das seguintes medidas NON é de aplicación para evitar caídas de persoas a distinto nivel durante as actividades de arrefriamento, sufocación e tarefas de vixilancia:",
+    "option_a": "Poñer atención nos ocos formados da combustión de tocos e raíces.",
+    "option_b": "Pasar con coidado entre rochas e pedras.",
+    "option_c": "Pisar sobre chan seguro e non correr ladeira abaixo.",
+    "option_d": "Non traballe por riba da altura do ombro.",
+    "correct_answer": "d"
+  },
+  {
+    "id": "5550f33b-141e-4d71-8c94-b88c32a61674",
+    "question_text": "Que precaucións non se deberán tomar ao chegar a un incendio forestal?:",
+    "option_a": "En primeiro lugar facer un recoñecemento deste.",
+    "option_b": "Establecer unha ruta de escape.",
+    "option_c": "Comezar a traballar o antes posible.",
+    "option_d": "Ningunha das respostas anteriores é correcta.",
+    "correct_answer": "c"
+  },
+  {
+    "id": "5f7300d0-4a84-4dcf-a9e6-e861912ac3a8",
+    "question_text": "Que precaucións deberán tomar durante a extinción dun incendio forestal?:",
+    "option_a": "Non se traballará illado e sen contacto cos demais.",
+    "option_b": "Hai que vixiar constantemente os factores que rodean ao incendio.",
+    "option_c": "Ao traballar con ferramentas debese deixar unha separación mínima de tres metros entre cada dous operarios.",
+    "option_d": "Todas as respostas anteriores son correctas.",
+    "correct_answer": "d"
+  },
+  {
+    "id": "7b34686c-576d-4324-a679-ce2cdf435b6f",
+    "question_text": "Que precaucións se deberán tomar durante a extinción dun incendio forestal?:",
+    "option_a": "As liñas de defensa non se deben facer cara abaixo, cara un lume que sobe axiña pola ladeira.",
+    "option_b": "Non se dirixirán chorros de auga cara liñas eléctricas se estas non están desconectadas.",
+    "option_c": "Traballar en contra dun incendio ascendente.",
+    "option_d": "Todas as respostas anteriores son correctas.",
+    "correct_answer": "a"
+  },
+  {
+    "id": "4a33f3b8-00ab-4a7e-a0ce-39bc20aaef87",
+    "question_text": "Que precaucións se deberán tomar durante a detección dun incendio forestal?:",
+    "option_a": "Ascender e descender polas escaleiras agarrándose aos barrotes ou ao pasamáns.",
+    "option_b": "Se hai que gabear polas rochas, extremar as precaucións.",
+    "option_c": "Durante as tormentas con aparello eléctrico deberase desconectar o equipo de radio da fonte de alimentación.",
+    "option_d": "Todas as respostas anteriores son correctas.",
+    "correct_answer": "d"
+  },
+  {
+    "id": "da7d146c-2911-490b-a4e5-8d805a8fe825",
+    "question_text": "Que precaucións se deberán tomar ao camiñar polo monte:",
+    "option_a": "Non correr ladeira abaixo.",
+    "option_b": "Se camiñamos con ferramentas, facelo cunha separación duns metros entre cada persoa.",
+    "option_c": "Ao pasar xunto a unha árbore queimada, facelo pola parte de arriba.",
+    "option_d": "Todas as respostas anteriores son correctas.",
+    "correct_answer": "a"
+  },
+  {
+    "id": "ee82369e-6596-40ea-b93a-9d51f1b443b1",
+    "question_text": "Camiñamos por unha ladeira transportando a nosa ferramenta manual, en que man a levaremos?:",
+    "option_a": "Na man que quede ladeira arriba.",
+    "option_b": "Na man que quede ladeira abaixo.",
+    "option_c": "Na man que normalmente a levemos.",
+    "option_d": "Ningunha das respostas anteriores é correcta.",
+    "correct_answer": "a"
+  },
+  {
+    "id": "92a4c619-67cc-496a-b82a-98a910e3bd43",
+    "question_text": "Estamos a facer labores de liquidación nun incendio, ¿Que medidas preventivas debemos de tomar?:",
+    "option_a": "Non perder de vista o combustible sen queimar entre o persoal e o incendio.",
+    "option_b": "Non pisar sobre toróns queimados.",
+    "option_c": "Debemos seguir as dúas precaucións anteriores.",
+    "option_d": "Ningunha das anteriores é correcta.",
+    "correct_answer": "c"
+  },
+  {
+    "id": "5352a015-2cf7-4c6b-86ad-234acb7e894b",
+    "question_text": "¿Como levaremos as ferramentas cando vaiamos a embarcar no helicóptero?:",
+    "option_a": "En posición horizontal baixo o nivel da cintura.",
+    "option_b": "En posición vertical.",
+    "option_c": "Sobre o ombro.",
+    "option_d": "Ningunha das anteriores é correcta.",
+    "correct_answer": "a"
+  },
+  {
+    "id": "993c72cc-2e84-4823-af94-072d5b7e46af",
+    "question_text": "Se non temos alternativa para eludir o lume. ¿Que normas deberemos seguir para tentar escapar do incendio?:",
+    "option_a": "Tentar evitar o pánico.",
+    "option_b": "Se o escape é claro, procurar afastarse polos flancos do lume, correndo ladeira abaixo.",
+    "option_c": "As dúas respostas anteriores son correctas.",
+    "option_d": "Ningunha das respostas anteriores é correcta.",
+    "correct_answer": "c"
+  },
+  {
+    "id": "850b7007-fd9b-4297-aa3d-6e5c9134f65b",
+    "question_text": "Camiñamos por unha ladeira transportando a nosa ferramenta manual, ¿Que precaucións debemos de tomar?:",
+    "option_a": "Manter unha distancia razoable entre dous homes (3m)",
+    "option_b": "Transportaremos a ferramenta na man que quede ladeira arriba",
+    "option_c": "As dúas precaucións anteriores débense tomar.",
+    "option_d": "Ningunha das respostas anteriores é correcta.",
+    "correct_answer": "c"
+  },
+  {
+    "id": "166e8e07-3766-46b3-9534-c7ebbe15d028",
+    "question_text": "O helicóptero toma terra nunha ladeira. ¿Porque parte da ladeira desembarcaremos?:",
+    "option_a": "Nos afastaremos do helicóptero pola parte máis alta da ladeira.",
+    "option_b": "Nos afastaremos do helicóptero pola parte máis baixa da ladeira.",
+    "option_c": "Ningunha das respostas anteriores é correcta.",
+    "option_d": "A e B son correctas.",
+    "correct_answer": "b"
+  },
+  {
+    "id": "49e0a037-7e49-4231-ab6b-33c000c37d89",
+    "question_text": "Estamos a traballar nun lume con medios aéreos, e non temos tempo de retirarnos no momento da descarga. ¿Que debemos facer?:",
+    "option_a": "Protexernos detrás dalgunha defensa sólida.",
+    "option_b": "Correr ladeira abaixo.",
+    "option_c": "Resgardarnos debaixo de árbores secos, ou moi copados e ramosos.",
+    "option_d": "Ningunha das respostas anteriores é correcta.",
+    "correct_answer": "a"
+  },
+  {
+    "id": "f0182406-a2b5-41bf-b589-ba5c2ee05857",
+    "question_text": "Estamos a facer labores de liquidación nunha ladeira, onde hai troncos que poderían caer cara a nós ¿Que medidas preventivas debemos de tomar?:",
+    "option_a": "Colocaremos estes troncos paralelos á pendente.",
+    "option_b": "Colocaremos estes troncos perpendiculares á pendente.",
+    "option_c": "Non cómpre tomar ningunha medida preventiva ao respecto.",
+    "option_d": "Ningunha das respostas anteriores é correcta.",
+    "correct_answer": "b"
+  },
+  {
+    "id": "ee1192e0-319b-480b-b783-9f191563113d",
+    "question_text": "Cal destas normas de seguridade non é correcta no traballo coa motorrozadora?:",
+    "option_a": "Controlar que non se acerque ninguén a menos de 15m.",
+    "option_b": "Utilizar unicamente as follas correspondentes á motorrozadora que se está a utilizar.",
+    "option_c": "Arrancar a motorrozadora preto do lugar de repostaxe.",
+    "option_d": "Ningunha das respostas anteriores é correcta.",
+    "correct_answer": "c"
+  },
+  {
+    "id": "accc1e26-900a-420a-b04f-d08c0921893e",
+    "question_text": "Que precaucións xerais se deberán tomar no uso da ferramenta manual?:",
+    "option_a": "As ferramentas deben manterse en bo estado de conservación.",
+    "option_b": "Cada ferramenta debe empregarse unicamente na aplicación específica.",
+    "option_c": "Cando non está e uso a ferramenta debe gardarse no seu sitio.",
+    "option_d": "Todas as respostas anteriores son correctas.",
+    "correct_answer": "d"
+  },
+  {
+    "id": "908ffa8e-94d7-4650-b00d-10504e829066",
+    "question_text": "Que precaucións non se deberá tomar no uso da machada?:",
+    "option_a": "Deberase levar sobre o ombreiro.",
+    "option_b": "Traballarase con ela en posición natural sen cruzar os brazos.",
+    "option_c": "Deberase despexar o lugar de matogueiras e pólas.",
+    "option_d": "Todas as respostas anteriores son correctas.",
+    "correct_answer": "a"
+  },
+  {
+    "id": "7c0f10e1-9011-4bce-8352-29ba0fa29db8",
+    "question_text": "Nos diriximos a pé ao lume, ¿que conduta temos que seguir?:",
+    "option_a": "Tentaremos chegar o máis rápido posible, mesmo monte a través.",
+    "option_b": "Seguiremos camiños e pistas coñecidas.",
+    "option_c": "Treparemos por rochas, aínda que non esteamos adestrados para isto.",
+    "option_d": "Ningunha das respostas anteriores é correcta.",
+    "correct_answer": "b"
+  },
+  {
+    "id": "b821cb75-37f9-4b7b-b738-69a91249a7ce",
+    "question_text": "Cales son os principais elementos de seguridade dunha motoserra?:",
+    "option_a": "Freo da cadea, bloqueo do motor, protector para a man, amortecemento da vibración e funda da espada para o transporte.",
+    "option_b": "Freo da cadea, bloqueo do acelerador, protector para a man, amortecemento do ruido e funda da espada para o transporte.",
+    "option_c": "Freo da cadea, bloqueo do acelerador, protector para a man, amortecemento da vibración e funda da espada para o transporte.",
+    "option_d": "Ningunha das respostas anteriores é correcta.",
+    "correct_answer": "c"
+  },
+  {
+    "id": "6e172ebf-09f4-4291-8ceb-5c76076c372b",
+    "question_text": "Que precaucións xerais hai que ter cunha motoserra?:",
+    "option_a": "Cando se transporta, o motor debe estar apagado e a espada colocada cara a atrás.",
+    "option_b": "Ao empregarse debe haber unha separación de seguridade con respecto ao resto de persoas que estean no monte.",
+    "option_c": "O acendido da motoserra non debe facerse no mesmo sitio onde se enche o depósito de combustible e aceite.",
+    "option_d": "Todas as respostas anteriores son correctas.",
+    "correct_answer": "d"
+  },
+  {
+    "id": "4737f551-738f-46f1-ba1c-3d4a28524f19",
+    "question_text": "Cales son os principais elementos de seguridade dunha motorrozadora?:",
+    "option_a": "Amortecemento do motor, silenciador e protector do cabezal.",
+    "option_b": "Amortecemento da vibración, silenciador e protector do cabezal.",
+    "option_c": "Amortecemento da vibración, silenciador e protector do motor.",
+    "option_d": "Ningunha das respostas anteriores é correcta.",
+    "correct_answer": "b"
+  },
+  {
+    "id": "3cc034d5-73be-4aa7-a1cb-de1a3288ffc3",
+    "question_text": "Que precaucións xerais hai que ter cunha motorrozadora?:",
+    "option_a": "Non cortar excesivamente rentes do chan.",
+    "option_b": "Evitar golpear pedras ou outros obxectos moi duros coa coitela.",
+    "option_c": "Empregar sempre a ferramenta de corte axeitada a cada tipo de vexetación.",
+    "option_d": "Todas as respostas anteriores son correctas.",
+    "correct_answer": "d"
+  },
+  {
+    "id": "2f35a9b7-dbf6-414a-8f49-0197bb376f57",
+    "question_text": "Que precaucións xerais hai que ter no emprego de vehículos motobomba?:",
+    "option_a": "O vehículo debe situarse afastado da dirección de avance do lume.",
+    "option_b": "O vehículo debe estar sempre estacionado de cara para a saída.",
+    "option_c": "Non é preciso cumprir o código de circulación.",
+    "option_d": "As respostar A e B son correctas.",
+    "correct_answer": "d"
+  },
+  {
+    "id": "cf9cc958-ad8f-4628-b081-78d8ec9d855f",
+    "question_text": "Que precaucións xerais hai que ter no emprego de maquinaria pesada?:",
+    "option_a": "Non se deitar ou sentar de baixo da maquina.",
+    "option_b": "Non se colocar xustamente diante ou detrás dunha máquina mentres está a traballar.",
+    "option_c": "Sobre a máquina só debe ir o condutor.",
+    "option_d": "Todas as respostas anteriores son correctas.",
+    "correct_answer": "d"
+  },
+  {
+    "id": "ec1473ce-94bd-4079-b949-eedd02f33fe4",
+    "question_text": "Que precaucións xerais hai que ter no emprego de maquinaria pesada en terreo pendente?:",
+    "option_a": "O persoal deberase colocar xustamente polo lado de arriba da máquina.",
+    "option_b": "O persoal deberase colocar xustamente polo lado de abaixo da máquina.",
+    "option_c": "O persoal non se debe colocar xustamente polo lado de arriba ou de abaixo da máquina.",
+    "option_d": "Ningunha das respostas anteriores é correcta.",
+    "correct_answer": "c"
+  },
+  {
+    "id": "9da0755e-dedd-435e-bc87-d6a67ed2dc8f",
+    "question_text": "Que precaucións xerais hai que ter no emprego de avións?:",
+    "option_a": "Debe evitarse que a descarga do avión caia directamente sobre o persoal.",
+    "option_b": "Se é imposible retirarse dunha descarga, hai que botarse ao chan boca abaixo co casco posto e agarrado. A ferramenta débense poñer a un lado.",
+    "option_c": "Non se debe correr a non ser que dea tempo a escapar e, de facelo, afastarase da traxectoria do avión.",
+    "option_d": "Todas as respostas anteriores son correctas.",
+    "correct_answer": "d"
+  },
+  {
+    "id": "8f3b1a35-cfbd-4423-9527-13ba0f92cc11",
+    "question_text": "Que precaucións xerais hai que ter no emprego de helicópteros?:",
+    "option_a": "Hai que achegarse e afastarse sempre por diante do helicóptero, á vista do piloto.",
+    "option_b": "Levar as ferramentas en posición horizontal ao achegarse ou afastarse do helicóptero.",
+    "option_c": "Ao subir ou baixar, levar o casco posto e amarrado co barboqueixo, se non tivese, agarrándoo coa man.",
+    "option_d": "Todas as respostas anteriores son correctas.",
+    "correct_answer": "d"
+  },
+  {
+    "id": "b53b52f6-3c7b-4052-af26-ab8239c0c187",
+    "question_text": "En que radio ao redor do helicóptero non se pode fumar?:",
+    "option_a": "10 metros.",
+    "option_b": "20 metros.",
+    "option_c": "30 metros.",
+    "option_d": "Ningunha das respostas anteriores é correcta.",
+    "correct_answer": "c"
+  },
+  {
+    "id": "d8c25f7d-4e31-4eba-96e6-953e844b209c",
+    "question_text": "Que precaucións xerais hai que ter no transporte en vehículo?:",
+    "option_a": "Respectar as normas do Código de Circulación.",
+    "option_b": "Os condutores non deben traballar máis de 12 horas seguidas.",
+    "option_c": "Hai que levar separado persoal e material.",
+    "option_d": "Todas as respostas anteriores son correctas.",
+    "correct_answer": "d"
+  },
+  {
+    "id": "f9ce59f9-1aa5-49f8-9039-05568b730e39",
+    "question_text": "Que precaucións xerais hai que ter no emprego de retardantes?:",
+    "option_a": "Ao facer as mesturas, ter posto os EPI's.",
+    "option_b": "Debe evitarse que caian estes produtos en depósito ou traídas de auga.",
+    "option_c": "Se a mestura salpica os ollos, lavar inmediatamente con auga abundante.",
+    "option_d": "Todas as respostas anteriores son correctas.",
+    "correct_answer": "d"
+  },
+  {
+    "id": "eb1ef4dd-387c-4754-a24c-2c86af8277ef",
+    "question_text": "Que precaucións xerais hai que ter nos contralumes?:",
+    "option_a": "Se se empregan fachos de goteo, debe pecharse ben o depósito.",
+    "option_b": "Antes de comezar o contralume, hai que asegurarse de que non hai ninguén entre a beira do incendio e a liña onde se vai dar o contralume.",
+    "option_c": "Calquera pode iniciar ou ordenar un contralume.",
+    "option_d": "As respostas A e B son correctas.",
+    "correct_answer": "d"
+  },
+  {
+    "id": "d13f3996-ce66-4756-88bb-0daf8ccf426c",
+    "question_text": "Que peso máximo en Kg pode manexar un home en frecuencia ocasional?:",
+    "option_a": "25 Kg.",
+    "option_b": "20 Kg.",
+    "option_c": "40 Kg.",
+    "option_d": "Ningunha das respostas anteriores é correcta.",
+    "correct_answer": "a"
+  },
+  {
+    "id": "bc8cde0a-c33a-4b4f-ac47-ef948d048e78",
+    "question_text": "Que peso máximo en Kg pode manexar unha muller en frecuencia habitual?:",
+    "option_a": "25 Kg.",
+    "option_b": "15 Kg.",
+    "option_c": "20 Kg.",
+    "option_d": "Ningunha das respostas anteriores é correcta.",
+    "correct_answer": "b"
+  },
+  {
+    "id": "243c71a7-b2de-417a-9c23-bd38c6f6016e",
+    "question_text": "Cales son os principios de seguridade na manipulación de cargas?:",
+    "option_a": "Aproximarse á carga, asegurar a presa de mans, buscar o equilibrio, fixar a columna vertebral e utilizar a forza das pernas.",
+    "option_b": "Aproximarse á carga, buscar o equilibrio, asegurar estabilidade, fixar a columna vertebral e utilizar a forza das pernas.",
+    "option_c": "Aproximarse á carga, buscar o equilibrio, asegurar a presa de mans, fixar a columna vertebral e utilizar a forza das pernas.",
+    "option_d": "Ningunha das respostas anteriores é correcta.",
+    "correct_answer": "a"
+  },
+  {
+    "id": "ec67f231-065c-42bf-bd39-93a67a91f70c",
+    "question_text": "Que medida debe tomarse ao traballar preto dunha liña eléctrica?",
+    "option_a": "Dirixir chorros de auga cara a ela",
+    "option_b": "Manterse en silencio",
+    "option_c": "Solicitar o corte do subministro e agardar confirmación",
+    "option_d": "Cortar a liña coas ferramentas dispoñibles",
+    "correct_answer": "c"
+  },
+  {
+    "id": "861e1442-d484-411b-bfd2-cd7263eed332",
+    "question_text": "Segundo o libro laranxa do manual de prevención e defensa contra incendios forestais, omo se debe transportar unha machada?",
+    "option_a": "Sobre o ombreiro",
+    "option_b": "Polo mango, brazo estirado e paralelo ao corpo",
+    "option_c": "Na man levantada",
+    "option_d": "Na mochila con outras ferramentas",
+    "correct_answer": "b"
+  },
+  {
+    "id": "8b0cd464-f82b-4d3f-8d02-97880e7ae41f",
+    "question_text": "Cal é unha medida preventiva fronte ao calor?",
+    "option_a": "Beber café abundantemente",
+    "option_b": "Levar roupa escura",
+    "option_c": "Usar crema solar e beber auga",
+    "option_d": "Camiñar sen camiseta",
+    "correct_answer": "c"
+  },
+  {
+    "id": "ea57ab5e-3d4e-4a1a-bf6a-7f29c962a78d",
+    "question_text": "Que facer se se sente con síntomas de esgotamento durante a extinción?",
+    "option_a": "Seguir traballando",
+    "option_b": "Tomar café",
+    "option_c": "Avisar ao superior",
+    "option_d": "Deitarse no chan sen máis",
+    "correct_answer": "c"
+  },
+  {
+    "id": "451b4ee8-6657-4ffb-897d-c9ac905251d7",
+    "question_text": "Que debe facerse antes de comezar un contralume?",
+    "option_a": "Esperar ao aviso do compañeiro",
+    "option_b": "Avisar os veciños",
+    "option_c": "Contar o persoal e asegurar a zona",
+    "option_d": "Revisar as ferramentas",
+    "correct_answer": "c"
+  },
+  {
+    "id": "d4494cb8-6249-4d8b-8576-38f97e2417e9",
+    "question_text": "Cando se emprega o batelume, cara onde debe ir dirixido o golpe?",
+    "option_a": "Cara o combustible verde",
+    "option_b": "Cara as lapas directamente",
+    "option_c": "Cara os compañeiros",
+    "option_d": "Cara a zona queimada",
+    "correct_answer": "a"
+  },
+  {
+    "id": "c8cfc8c9-3425-47c5-a3fd-c12406feae1f",
+    "question_text": "No transporte nocturno, quen debe acompañar ao condutor?",
+    "option_a": "O xefe de brigada",
+    "option_b": "Un copiloto para detectar obstáculos",
+    "option_c": "Ninguén",
+    "option_d": "Só se é camión",
+    "correct_answer": "b"
+  },
+  {
+    "id": "44cc870c-d59f-40f2-862c-9f0bc5a86313",
+    "question_text": "Que precaucións debemos tomar cando está realizando unha descarga un hidroavión?",
+    "option_a": "Agocharse debaixo dunha árbore.",
+    "option_b": "Botarse ao chan boca abaixo co casco posto mirando cara onde ven o hidroavión.",
+    "option_c": "Botarse ao chan boca abaixo co casco posto mirando cara onde se dirixe o hidroavión.",
+    "option_d": "Agocharse debaixo dunha rocha.",
+    "correct_answer": "b"
+  },
+  {
+    "id": "8e7d1c7e-d804-4d51-9179-50b71ee4208e",
+    "question_text": "Que é o máis importante á hora de combater un incendio?",
+    "option_a": "Extinguir o lume rapidamente",
+    "option_b": "Chegar antes que os demais",
+    "option_c": "Actuar sen ordes para gañar tempo",
+    "option_d": "Manter a seguridade como primeira condición",
+    "correct_answer": "d"
+  },
+  {
+    "id": "50740644-6d9e-47fc-b280-4768f5075c26",
+    "question_text": "Que é un EPI?:",
+    "option_a": "Calquera equipo destinado a ser levado ou suxeitado polo traballador para que o protexa dun único risco que poida ameazar a súa seguridade ou a súa saúde.",
+    "option_b": "Calquera equipo destinado a ser levado ou suxeitado polo traballador para que o protexa dun ou varios riscos que poidan ameazar a súa seguridade ou a súa saúde.",
+    "option_c": "Calquera equipo destinado a ser levado ou suxeitado por un ou varios traballadores para que o protexa dun ou varios riscos que poidan ameazar a súa seguridade ou a súa saúde.",
+    "option_d": "Ningunha das anteriores é correcta.",
+    "correct_answer": "b"
+  },
+  {
+    "id": "5e24a225-5f67-4d35-b477-4c7b5334985c",
+    "question_text": "Cal destes elementos non é un EPI?:",
+    "option_a": "O casco.",
+    "option_b": "As luvas.",
+    "option_c": "A camiseta de algodón.",
+    "option_d": "Ningunha das anteriores é correcta.",
+    "correct_answer": "c"
+  },
+  {
+    "id": "6613151d-9317-4b58-9adf-efd0e5109073",
+    "question_text": "Cal é a obriga dos traballadores con respecto aos EPI's?:",
+    "option_a": "Utilizar e coidar correctamente os EPI's",
+    "option_b": "Informar de calquera defecto, dano ou anomalía apreciada no EPI.",
+    "option_c": "Colocar o EPI despois da súa utilización no lugar indicado para isto.",
+    "option_d": "Todas as anteriores son correctas.",
+    "correct_answer": "d"
+  },
+  {
+    "id": "1fe09def-089f-4f0b-9168-affca9818cd3",
+    "question_text": "Que condicións deberán cumprir os EPI's?:",
+    "option_a": "Ter o marcado CE de conformidade.",
+    "option_b": "Serán sempre de uso colectivo.",
+    "option_c": "Proporcionar unha protección ineficaz.",
+    "option_d": "Todas as anteriores son correctas.",
+    "correct_answer": "a"
+  },
+  {
+    "id": "19a20409-9409-425a-b65e-df655429d858",
+    "question_text": "Un EPI de categoría II require:",
+    "option_a": "A marca \"CE\" e a Declaración de Conformidade.",
+    "option_b": "A marca \"CE\", a Declaración de Conformidade e exame \"CE de tipo\".",
+    "option_c": "A marca \"CE\", a Declaración de Conformidade, exame \"CE de tipo\" e sistema de Garantía de calidade CE.",
+    "option_d": "Ningunha das anteriores é correcta.",
+    "correct_answer": "b"
+  },
+  {
+    "id": "a3423eb0-8029-40da-95b1-349c890a9785",
+    "question_text": "A utilización, almacenamento e mantemento dos EPI's debe efectuarse:",
+    "option_a": "O que eu considere máis oportuno en cada momento.",
+    "option_b": "Seguindo o criterio de cada lugar.",
+    "option_c": "De acordo coas instrucións do fabricante.",
+    "option_d": "Ningunha das anteriores é correcta.",
+    "correct_answer": "c"
+  },
+  {
+    "id": "d2f198c7-b5f0-4077-a421-796111ae3779",
+    "question_text": "Cales son as partes que se poden desmontar e cambiar dun casco de protección?:",
+    "option_a": "Casquete, cintas e barboqueixo.",
+    "option_b": "Casquete, arnés e barboqueixo.",
+    "option_c": "Cintas laterais, cinta frontal e sobrequeixo.",
+    "option_d": "Ningunha das anteriores é correcta.",
+    "correct_answer": "b"
+  },
+  {
+    "id": "a20cdd8a-2c2a-4359-a1a7-a2e599d1f1fa",
+    "question_text": "De que riscos nos protexe un casco na extinción de incendios?:",
+    "option_a": "Protexe contra pequenos golpes na cabeza.",
+    "option_b": "Protexe contra rozaduras e outras feridas.",
+    "option_c": "Protexe a cabeza en caso de caída.",
+    "option_d": "Todas as anteriores son correctas.",
+    "correct_answer": "d"
+  },
+  {
+    "id": "82c1eeee-2312-4db0-83e1-35de2706fc88",
+    "question_text": "Que mantemento require un casco de protección?:",
+    "option_a": "Comprobar periodicamente que non ten fisuras.",
+    "option_b": "Lavar por dentro e por fóra.",
+    "option_c": "Revisar o arnés e a zona frontal acolchada e o barboqueixo.",
+    "option_d": "Todas as anteriores son correctas.",
+    "correct_answer": "d"
+  },
+  {
+    "id": "dd8332c5-0d84-4680-89a0-7851909f2a2f",
+    "question_text": "Que normas mínimas require un casco de protección segundo o PLADIGA 2025?:",
+    "option_a": "EN 12492:2012 Cascos para montañeiros.",
+    "option_b": "EN 16473:2014 Cascos para rescate técnico.",
+    "option_c": "EN 16471:2014 Cascos para bombeiros",
+    "option_d": "Todas as anteriores son correctas.",
+    "correct_answer": "c"
+  },
+  {
+    "id": "b5f87d80-041b-4819-95fe-76f6c3855878",
+    "question_text": "Cales son as partes das lentes de protección?:",
+    "option_a": "Ocular, estrutura e banda de fixación elástica.",
+    "option_b": "Montura, cristais e banda de fixación.",
+    "option_c": "Ocular, montura e banda de fixación elástica.",
+    "option_d": "Ningunha das anteriores é correcta.",
+    "correct_answer": "c"
+  },
+  {
+    "id": "efd3e8d0-b690-4778-b79e-46ee60071412",
+    "question_text": "De que riscos nos protexe as lentes de protección na extinción de incendios?:",
+    "option_a": "Protexe os ollos contra o pó, o impacto de partículas pequenas e contra a irritación producida polo fume.",
+    "option_b": "Protéxenos a vista.",
+    "option_c": "Protexe contra o fume nun incendio forestal.",
+    "option_d": "Ningunha das anteriores é correcta.",
+    "correct_answer": "a"
+  },
+  {
+    "id": "8a6f46e5-6630-4426-83fe-dee0d1d09c25",
+    "question_text": "Que mantemento requiren as lentes de protección?:",
+    "option_a": "Limpar cun pano húmido.",
+    "option_b": "Comprobar que a cinta cinga ben ás lentes e a montura se axuste ben ao contorno da cara.",
+    "option_c": "Comprobar que a montura ou o ocular non estean deformados polo calor.",
+    "option_d": "Todas as anteriores son correctas.",
+    "correct_answer": "d"
+  },
+  {
+    "id": "7d367405-8af2-4e83-b99e-c30b9127e6ff",
+    "question_text": "Que normas mínimas requiren as lentes de protección, segundo o PLADIGA 2025?:",
+    "option_a": "EN-166",
+    "option_b": "EN-170",
+    "option_c": "Ningunha das anteriores",
+    "option_d": "A e B son correctas",
+    "correct_answer": "a"
+  },
+  {
+    "id": "6b7d5319-2d46-4ab8-98ff-e1aae7e69ef1",
+    "question_text": "De que elementos consta a máscara?:",
+    "option_a": "Corpo da máscara, banda de fixación elástica, válvulas e filtro(s).",
+    "option_b": "Estrutura plástica, bandas de fixación e autofiltros.",
+    "option_c": "Corpo da máscara, bandas de fixación e autofiltros.",
+    "option_d": "Ningunha das anteriores é correcta.",
+    "correct_answer": "a"
+  },
+  {
+    "id": "11965e07-f63e-4793-a2b7-32f91b2dbfa4",
+    "question_text": "De que risco nos protexe as máscaras na extinción de incendios?:",
+    "option_a": "Protexe da contaminación atmosférica.",
+    "option_b": "Protéxenos do exceso de fume.",
+    "option_c": "Protéxenos do monóxido de carbono.",
+    "option_d": "Ningunha das anteriores é correcta.",
+    "correct_answer": "a"
+  },
+  {
+    "id": "3fadc4fc-e51d-4e5f-b34a-354a0a069711",
+    "question_text": "Que mantemento requiren a máscara de protección?:",
+    "option_a": "Limpar, revisar estado carcasa e filtros.",
+    "option_b": "Manter limpa a carcasa, revisar as lamas que pechan as válvulas, axustar perfectamente a máscara e cambiar os filtros cando cumpran o tempo de vida útil",
+    "option_c": "Comprobar paso de aire e lavar os filtros cada semana.",
+    "option_d": "Ningunha das anteriores é correcta",
+    "correct_answer": "b"
+  },
+  {
+    "id": "a157de7e-fdfa-4e97-81e9-83ed02c20ff7",
+    "question_text": "Que normas mínimas requiren as máscaras de protección en incendios forestais, segundo PLADIGA 2025?:",
+    "option_a": "EPI de categoría III",
+    "option_b": "UNE EN-140 (2000)",
+    "option_c": "EN-143(2021).",
+    "option_d": "Todas as anteriores son correctas.",
+    "correct_answer": "d"
+  },
+  {
+    "id": "aecd20fc-b253-4a25-8bd8-8a5559283c8d",
+    "question_text": "Que características principais presenta o traxe ignífugo?:",
+    "option_a": "De cor amarelo, sinxelo e confeccionado en tecido con tratamento ignífugo e cubrir a pel do corpo.",
+    "option_b": "De cor vistosa, dunha soa peza e confeccionado en tecido con tratamento ignífugo e cubrir a pel do corpo.",
+    "option_c": "De cor vistosa, sinxelo, confeccionado en tecido con tratamento ignífugo e cubrir a pel do corpo.",
+    "option_d": "Ningunha das anteriores é correcta.",
+    "correct_answer": "c"
+  },
+  {
+    "id": "2acd975f-5fe8-482b-82d5-04a8cf5036b3",
+    "question_text": "De que risco nos protexe o traxe ignífugo na extinción de incendios?:",
+    "option_a": "Protexe a pel do exceso de calor e da caída de muxicas.",
+    "option_b": "Protéxenos durante media hora das chamas externas.",
+    "option_c": "De arder no caso de estar atrapados polas chamas.",
+    "option_d": "Ningunha das anteriores é correcta.",
+    "correct_answer": "a"
+  },
+  {
+    "id": "59fdbd83-c5a5-4086-a1b5-c3cdce790dea",
+    "question_text": "Que mantemento require o traxe ignífugo?:",
+    "option_a": "Revisar que non teña roturas.",
+    "option_b": "Lavar seguindo as instrucións marcadas polo fabricante, prescindindo de usar lexivia e deterxentes que conteñan branqueadores ou axentes oxidantes.",
+    "option_c": "Débese manter limpo, sobre todo de resina.",
+    "option_d": "Todas as anteriores son correctas.",
+    "correct_answer": "d"
+  },
+  {
+    "id": "2dc4b07d-ca7e-454d-96db-9b763bd8d140",
+    "question_text": "Que normas mínimas require o traxe ignífugo en incendios forestais, segundo o PLADIGA 2025?:",
+    "option_a": "Deberá conter marcado CE, exame \"CE de tipo\" e a Declaración de conformidade.",
+    "option_b": "UNE-EN 15384:2020",
+    "option_c": "UNE-EN 11612:2018",
+    "option_d": "Todas as anteriores son correctas.",
+    "correct_answer": "d"
+  },
+  {
+    "id": "29efc270-077f-457f-873c-6f2cea25782b",
+    "question_text": "¿Que equipo de protección individual utilizaremos para protexer a pel das queimaduras, erosións e insolación directa?",
+    "option_a": "O traxe ignífugo.",
+    "option_b": "A máscara de protección.",
+    "option_c": "O casco de protección.",
+    "option_d": "Ningunha das anteriores.",
+    "correct_answer": "a"
+  },
+  {
+    "id": "e3962ca2-64bd-44f8-a7b3-eae174f9f26a",
+    "question_text": "Que características principais presentan as luvas en prevención e extinción de incendios?:",
+    "option_a": "Deben estar confeccionadas en coiro resistente e que cubran un terzo do antebrazo, ser suaves ao tacto e de gran flexibilidade.",
+    "option_b": "Deben presentar dedos cubertos individualmente con reforzo sobre os cotobelos. Nunca manoplas.",
+    "option_c": "Serán de cor amarela e terán un mosquetón para o seu transporte.",
+    "option_d": "Todas as anteriores son correctas.",
+    "correct_answer": "a"
+  },
+  {
+    "id": "ab40d2f3-49a4-411e-83ff-a8c256082498",
+    "question_text": "De que risco nos protexe as luvas na extinción e prevención de incendios?:",
+    "option_a": "Contra os golpes de maquinaria e desprendemento de pedras.",
+    "option_b": "Contra a calor, rozaduras e pinzamentos.",
+    "option_c": "Contra rozaduras, cortes, pinzamentos e contra a calor.",
+    "option_d": "Ningunha das anteriores é correcta.",
+    "correct_answer": "c"
+  },
+  {
+    "id": "2a467898-97b5-47b7-8727-c9aa66737498",
+    "question_text": "Que mantemento requiren as luvas de protección (sinala a incorrecta)?:",
+    "option_a": "Comprobar o seu estado, costuras, mosquetón, etc.",
+    "option_b": "No caso dun descosido, non se poderá reparar.",
+    "option_c": "Cando se mollen e se embarren deberase quitarlle o barro e limpalas e secalos ao sol.",
+    "option_d": "Todas as anteriores son correctas.",
+    "correct_answer": "b"
+  },
+  {
+    "id": "8176153f-e250-4e51-8db2-7b32e6db74cc",
+    "question_text": "Que normas mínimas requiren as luvas na prevención e extinción de incendios, segundo PLADIGA 2025?:",
+    "option_a": "EPI de categoría II.",
+    "option_b": "Norma de protección EN-407 (riscos térmicos).",
+    "option_c": "Norma de protección EN-388 (riscos mecánicos).",
+    "option_d": "Todas as respostas anteriores son correctas.",
+    "correct_answer": "d"
+  },
+  {
+    "id": "cdfbfe1e-f0a5-4cd3-a482-6fc3e0e50f9a",
+    "question_text": "Que características principais presentan as botas en prevención e extinción de incendios?:",
+    "option_a": "Deben ser de media caña.",
+    "option_b": "Punteira resistente.",
+    "option_c": "Levarán carteira alta na vez de lingüeta.",
+    "option_d": "Todas as anteriores son correctas.",
+    "correct_answer": "a"
+  },
+  {
+    "id": "0901d90c-7e7c-4ddc-9729-6db596b188c4",
+    "question_text": "De que risco nos protexen as botas na extinción e prevención de incendios?:",
+    "option_a": "Contra caídas e contra o corte de motoserra.",
+    "option_b": "Contra caídas ao mesmo ou a distinto nivel, contra pequenos golpes e cortes e contra a calor irradiada polo chan.",
+    "option_c": "Contra enchoupamento e abrasión.",
+    "option_d": "Ningunha das anteriores é correcta.",
+    "correct_answer": "b"
+  },
+  {
+    "id": "3a95e5be-f22f-4c06-97be-98884039ab97",
+    "question_text": "Segundo o PLADIGA 2025, as botas utilizadas para a extinción de lumes deben contar con punteira de protección?:",
+    "option_a": "Si, deben ter punteira metálica de protección.",
+    "option_b": "Non, a punteira metálica de protección está totalmente desaconsellada.",
+    "option_c": "Case sempre ten punteira metálica, anque as veces pódese prescindir desta.",
+    "option_d": "A punteira debe ser resistente a choque equivalente a 200 Xulios.",
+    "correct_answer": "d"
+  },
+  {
+    "id": "7edf9f85-9182-4ee6-b67a-b7edbb204a79",
+    "question_text": "Que mantemento requiren as botas de protección?:",
+    "option_a": "Ventilalas e limpalas despois de empregalas.",
+    "option_b": "Darlle betune periodicamente.",
+    "option_c": "Secalas á sombra cando se mollen.",
+    "option_d": "Todas as anteriores son correctas.",
+    "correct_answer": "d"
+  },
+  {
+    "id": "665a52be-0f8e-4366-bfcb-42636f3ea5de",
+    "question_text": "Que normas mínimas requiren as botas de protección na prevención e extinción de incendios?:",
+    "option_a": "EPI de categoría 2.",
+    "option_b": "Norma de protección UNE-EN 1590:2012, calzado para bombeiros",
+    "option_c": "Norma de protección EN ISO 20345:2012.",
+    "option_d": "Todas as respostas anteriores son correctas.",
+    "correct_answer": "d"
+  },
+  {
+    "id": "1e0237d7-7a6d-4008-ac37-0dbf9984d4f2",
+    "question_text": "Que son os equipos complementarios?:",
+    "option_a": "Teñen que estar certificados pola UE.",
+    "option_b": "Non forman parte do EPI, pois non protexen ao persoal de ningún risco.",
+    "option_c": "Son obrigatorios.",
+    "option_d": "Ningunha das respostas anteriores é correcta.",
+    "correct_answer": "d"
+  },
+  {
+    "id": "e9158ffc-7aa6-4e7a-9745-b3593c2e7907",
+    "question_text": "Os equipos complementarios na extinción de incendios, segundo o PLADIGA 2025, son:",
+    "option_a": "Cinto, roupa interior, lanterna e cantimplora.",
+    "option_b": "Caixa de primeiros auxilios e equipo autónomo de osíxeno.",
+    "option_c": "Camiseta ignífuga, cinto, botiquín individual e cantimplora.",
+    "option_d": "Todas as respostas anteriores son correctas.",
+    "correct_answer": "c"
+  },
+  {
+    "id": "4791cd97-4065-45ce-9484-1ea93970bdce",
+    "question_text": "Os EPI's e complementos en traballos de prevención, segundo o PLADIGA 2025, son:",
+    "option_a": "Anorak, forro polar, cubrepantalón, polo de manga curta, cinto e lanterna.",
+    "option_b": "Xersei polar, pantalón de motoserrista, botas endurecidas, polos variados.",
+    "option_c": "Anorak, forro polar, cubrepantalón, chaqueta e pantalón, botas, botas de auga e traxe de augas.",
+    "option_d": "Todas as respostas anteriores son correctas.",
+    "correct_answer": "c"
+  },
+  {
+    "id": "8954b76e-3d2c-438e-8139-42e7e28b2c0b",
+    "question_text": "Cales son os EPI's a empregar cunha motoserra?:",
+    "option_a": "Roupa de seguridade, botas de seguridade, luvas e casco con orelleiras de protección auditiva e pantalla facial.",
+    "option_b": "Pantalón, botas de seguridade, luvas e casco con orelleiras de protección auditiva e pantalla facial.",
+    "option_c": "Roupa de seguridade, botas de seguridade, luvas e casco con orelleiras de protección auditiva.",
+    "option_d": "Ningunha das respostas anteriores é correcta.",
+    "correct_answer": "b"
+  },
+  {
+    "id": "9f7e094b-b0be-4051-a5ef-ce82fffbf906",
+    "question_text": "Cales son os EPI's a empregar cunha motorrozadora?:",
+    "option_a": "Roupa de seguridade, botas de seguridade, luvas e casco con orelleiras de protección auditiva e pantalla facial.",
+    "option_b": "Pantalón, botas de seguridade, luvas e casco con orelleiras de protección auditiva e pantalla facial.",
+    "option_c": "Roupa de seguridade, botas de seguridade, luvas e casco con orelleiras de protección auditiva.",
+    "option_d": "Ningunha das respostas anteriores é correcta.",
+    "correct_answer": "a"
+  },
+  {
+    "id": "3c3d29f3-58b7-4fd3-b12c-abb67ca64021",
+    "question_text": "No tratamento de primeiros auxilios de queimaduras, ¿Cal destas medidas debemos de tomar?",
+    "option_a": "Cubrir a queimadura con gasas ou tea limpa (lixeiramente húmida).",
+    "option_b": "Pinchar as ampolas que poidan aparecer.",
+    "option_c": "Colocar esparadrapo sobre a queimadura.",
+    "option_d": "Ningunha das respostas anteriores é correcta.",
+    "correct_answer": "a"
+  },
+  {
+    "id": "4f08ab5a-3342-41e0-9ff1-ff5a8f80c477",
+    "question_text": "¿Que signos nos indican que unha persoa se está asfixiando?",
+    "option_a": "Sequedade da boca e pel tersa.",
+    "option_b": "A pel, e fundamentalmente a cara, cambia a unha cor escura ou azulada-morada.",
+    "option_c": "Os beizos hínchanse e cambian de cor.",
+    "option_d": "As respostas B e C son correctas.",
+    "correct_answer": "d"
+  },
+  {
+    "id": "dab3a8dc-9498-437b-97f4-9bde0e1c4814",
+    "question_text": "No tratamento de primeiros auxilios de queimaduras, ¿Cal destas medidas debemos de tomar?:",
+    "option_a": "Enfriar a queimadura con auga abundante",
+    "option_b": "Aplicar aceite sobre a queimadura",
+    "option_c": "Aplicar xeo sobre a queimadura",
+    "option_d": "Ningunha das respostas anteriores é correcta.",
+    "correct_answer": "a"
+  },
+  {
+    "id": "535c62d8-d429-4edc-bf64-ff2a2d47302b",
+    "question_text": "Se temos que tratar unha pequena ferida, utilizaremos para a súa limpeza:",
+    "option_a": "Pomadas ou pos antibióticos.",
+    "option_b": "Auga osixenada.",
+    "option_c": "Algodón.",
+    "option_d": "Ningunha das anteriores é correcta.",
+    "correct_answer": "b"
+  },
+  {
+    "id": "8351f69f-b95d-432e-91ba-4765432d74f3",
+    "question_text": "Se temos que tratar unha pequena ferida utilizaremos para a súa limpeza:",
+    "option_a": "Gasas.",
+    "option_b": "Auga.",
+    "option_c": "Servilletas de papel.",
+    "option_d": "Ningunha das anteriores é correcta.",
+    "correct_answer": "b"
+  },
+  {
+    "id": "bada6d51-c5a3-4c26-bd4e-14c623810da7",
+    "question_text": "Que se considera unha ferida?:",
+    "option_a": "A unha afección da pel do noso corpo.",
+    "option_b": "A unha lesión do corpo humano que perdura no tempo.",
+    "option_c": "A unha sección ou ruptura da pel producida por un traumatismo.",
+    "option_d": "Ningunha das anteriores é correcta.",
+    "correct_answer": "c"
+  },
+  {
+    "id": "7d0e3179-9caf-4839-b12d-6edae448faaa",
+    "question_text": "Que facer cunha persoa envolta en lapas?:",
+    "option_a": "Revisar a consciencia e respiración.",
+    "option_b": "Afrouxar as roupas e botar auga fria e limpa.",
+    "option_c": "Quitar todas as cousas de metal e non dar nada por vía oral.",
+    "option_d": "Todas as respostas anteriores son correctas.",
+    "correct_answer": "b"
+  },
+  {
+    "id": "c8927c57-20db-4ad0-a7e7-19b2d074aa50",
+    "question_text": "En cado de picada dunha carracha, como se debe actuar?:",
+    "option_a": "Usara alcohol, aceite ou similar para que se desprenda a carracha.",
+    "option_b": "Usar pinzar de punta estreita para sacar completamente a carracha.",
+    "option_c": "Queimala ou esmagala o máis axiña posible.",
+    "option_d": "Todas son correctas.",
+    "correct_answer": "b"
+  },
+  {
+    "id": "f47311c3-911a-4a7d-a6b2-92674f0754cc",
+    "question_text": "Contusión:",
+    "option_a": "É a lesión dos ligamentos que rodean unha articulación provocado por un movemento forzado, producíndose unha separación momentánea das superficies articulares.",
+    "option_b": "É un dano producido pola acción dun obxecto romo, sen arestas ou ángulo cortantes, que golpea violentamente unha parte do corpo provocando diversas alteracións sen rotura da pel.",
+    "option_c": "É a separación das superficies articulares de forma interrompida, ao producirse o abandono dun óso da súa cavidade articular.",
+    "option_d": "É a unión das superficies articulares de forma interrompida, ao producirse o abandono dun óso da súa cavidade articular.",
+    "correct_answer": "b"
+  },
+  {
+    "id": "d63b3288-d7d2-4594-b87d-053d9e2e78be",
+    "question_text": "Cales son as medidas PAS:",
+    "option_a": "Protexer, Auxiliar e Soforcar.",
+    "option_b": "Protexer, Avisar e Socorrer.",
+    "option_c": "Pensar, Actuar e Socorrer.",
+    "option_d": "Ningunha é correcta.",
+    "correct_answer": "b"
+  },
+  {
+    "id": "e781292c-af63-4bb8-9830-7b16da08df92",
+    "question_text": "Segundo o manual de prevención de riscos laborais na defensa contra incendios forestais da Xunta de Galicia, para evitar a exposición a axentes químicos o equipo de protección individual componse de:",
+    "option_a": "Máscara, luvas e lentes.",
+    "option_b": "Pantalla, luvas e lentes.",
+    "option_c": "Pantalla, luvas e casco.",
+    "option_d": "Máscara, luvas e casco.",
+    "correct_answer": "a"
+  },
+  {
+    "id": "6e0203fb-4c35-4b63-95fe-0f76331fe46f",
+    "question_text": "Segundo o manual de prevención de riscos laborais na defensa contra incendios forestais da Xunta de Galicia, as máscaras son un equipo de protección individual:",
+    "option_a": "De categoría I.",
+    "option_b": "De categoría II.",
+    "option_c": "De categoría III.",
+    "option_d": "De categoría IV.",
+    "correct_answer": "c"
+  },
+  {
+    "id": "6f7d50b6-00dc-4c4d-aa5c-fc838d082f51",
+    "question_text": "Segundo o manual de prevención de riscos laborais na defensa contra incendios forestais da Xunta de Galicia, a pantalla:",
+    "option_a": "Forma parte do equipo de protección individual en varias actividades de defensa contra os incendios forestais.",
+    "option_b": "Non forma parte do equipo de protección individual nas actividades de defensa contra os incendios forestais.",
+    "option_c": "Forma parte do equipo de protección individual soamente en actividades de prevención de incendios forestais.",
+    "option_d": "Soamente debe empregarse cando non haxa gafas dispoñibles.",
+    "correct_answer": "a"
+  },
+  {
+    "id": "063f0893-48fd-4632-96f8-7fcf79382f38",
+    "question_text": "Segundo o manual de prevención de riscos laborais na defensa contra incendios forestais da Xunta de Galicia, o traxe ignífugo:",
+    "option_a": "É un equipo de protección individual de categoría I.",
+    "option_b": "É un equipo de protección individual de categoría II.",
+    "option_c": "É un equipo de protección individual de categoría III.",
+    "option_d": "É un equipo de protección individual de categoría IV.",
+    "correct_answer": "c"
+  },
+  {
+    "id": "f972163a-82c7-46b2-9c5a-a04d20e29da3",
+    "question_text": "Ο ΕΡΙ:",
+    "option_a": "Emprégase para protexer á persoa que o leva",
+    "option_b": "É para protección colectiva",
+    "option_c": "Non se usa en incendios",
+    "option_d": "Todas son correctas",
+    "correct_answer": "a"
+  },
+  {
+    "id": "7720cd51-f29d-495d-a18d-d5bd7128a276",
+    "question_text": "EPI significa:",
+    "option_a": "Equipo de protección indivisible.",
+    "option_b": "Equipo polivalente intermedio.",
+    "option_c": "Equipo de protección individual.",
+    "option_d": "Equipo de protección colectivo.",
+    "correct_answer": "c"
+  },
+  {
+    "id": "96aa4f85-cda8-4afe-a834-9fa3bed5ad69",
+    "question_text": "Seguridade. Riscos e prevención de accidentes. Catálogos de equipos de protección individual. Segundo o CLIF (Comité de Lucha Contra Incendios Forestales), o casco de protección e intervención forestal ten as seguintes características básicas (indique a correcta):",
+    "option_a": "Construído en materiais no inflamables, no metálicos ni condutores da electricidade, sen deformacións permanentes a temperaturas próximas aos 150 grados centígrados.",
+    "option_b": "Construído en materiais no in lamables, no metálicos ni condutores da electricidade, sen deformacións permanentes a temperaturas próximas aos 300 grados centígrados.",
+    "option_c": "Construído en materiais no in lamables, no metálicos ni condutores da electricidade, sen deformacións permanentes a temperaturas próximas aos 50 grados centígrados.",
+    "option_d": "Construído en materiais no in lamables, no metálicos ni condutores da electricidade, sen deformacións permanentes a temperaturas próximas aos 60 grados centígrados.",
+    "correct_answer": "a"
+  },
+  {
+    "id": "ef9bd7ea-d7ef-42e3-ac9d-3300f9c58364",
+    "question_text": "Segundo o manual de prevención de riscos laborais na defensa contra incendios forestais da Xunta de Galicia, as luvas:",
+    "option_a": "Son un EPI de categoría I.",
+    "option_b": "Son un EPI de categoría II.",
+    "option_c": "Son un EPI de categoría III.",
+    "option_d": "Son un EPIS de categoría IV.",
+    "correct_answer": "b"
+  },
+  {
+    "id": "dd995b06-ef8d-4e3f-9d43-6e6a0fff0fb4",
+    "question_text": "Segundo o PLADIGA de 2025, no traballo de extinción de incendios, as lentes do equipo de protección individual deberán ser:",
+    "option_a": "De categoría I",
+    "option_b": "De categoría II",
+    "option_c": "De categoría III",
+    "option_d": "De categoría IV",
+    "correct_answer": "b"
+  },
+  {
+    "id": "d6618ae1-98c9-42e8-9988-5f514622bd5a",
+    "question_text": "Segundo o PLADIGA de 2023, cal dos seguintes é un complemento do equipo de protección individual no traballo de extinción de incendios?",
+    "option_a": "O anorak.",
+    "option_b": "O traxe de protección ignífugo.",
+    "option_c": "O botiquín individual.",
+    "option_d": "O casco.",
+    "correct_answer": "c"
+  },
+  {
+    "id": "efba494a-c378-4854-bbce-8f6816c669ee",
+    "question_text": "Cal dos seguintes elementos do equipo de protección individual dun bombeiro forestal o protexe da exposición a vibracións producidas pola maquinaria empregada en labores de prevención ou extinción?",
+    "option_a": "Os protectores auditivos.",
+    "option_b": "As luvas.",
+    "option_c": "Os tempos de descanso.",
+    "option_d": "Ningunha é correcta.",
+    "correct_answer": "b"
+  },
+  {
+    "id": "bfbb1a3f-2207-4be4-9f39-330ee0553662",
+    "question_text": "Un traballador queimouse nun incendio nunha perna, a queimadura destruíu toda a pel nunha zona ampla pero non lle doe, que hai que facer?:",
+    "option_a": "Botarlle unha pomada do botiquín.",
+    "option_b": "Pinchar as ampolas e despois arrefriar con auga.",
+    "option_c": "Arrefriar con auga e levalo a un Centro Asistencial.",
+    "option_d": "Arrefriar con auga e aplicarlle unha pomada.",
+    "correct_answer": "c"
+  },
+  {
+    "id": "9e47b85d-a13f-4e9f-bbed-3300caeea51b",
+    "question_text": "En relación co establecido no anexo VI do PLADIGA sobre o contido do EPI e complementos, sinale a resposta correcta:",
+    "option_a": "O mono de protección ignífugo debe de estar provisto dunha área de solapamento interface de polo menos 20 cm entre a chaqueta e o pantalón.",
+    "option_b": "O PLADIGA establece especificacións dos EPI.",
+    "option_c": "Entre os complementos establecidos para o EPI están as camisetas ignífugas, o cinto e as botas.",
+    "option_d": "Ningunha é correcta.",
+    "correct_answer": "a"
+  },
+  {
+    "id": "c5e75759-5f92-42ef-9b6f-e48d4afb459c",
+    "question_text": "Segundo o PLADIGA, cal dos seguintes é un complemento do equipo de protección individual no traballo de extinción de incendios?",
+    "option_a": "O anorak.",
+    "option_b": "O traxe de protección ignífugo.",
+    "option_c": "As camisetas ignífugas.",
+    "option_d": "O casco.",
+    "correct_answer": "c"
+  },
+  {
+    "id": "81c3683f-e4b0-4235-9fb9-f559ec73ae3b",
+    "question_text": "Segundo o manual de prevención de riscos laborais na defensa contra incendios forestais da Xunta de Galicia, as lentes:",
+    "option_a": "Son un equipo de protección individual de categoría I.",
+    "option_b": "Son un equipo de protección individual de categoría II.",
+    "option_c": "Son un equipo de protección individual de categoría III.",
+    "option_d": "Non teñen a consideración de equipo de protección individual.",
+    "correct_answer": "b"
+  },
+  {
+    "id": "909fe244-8198-4413-bc90-3ca6a0a572ea",
+    "question_text": "A seguridade. Riscos e prevención de accidentes. Indique cal das seguintes enfermidades é transmitida pola picadura da garrapata:",
+    "option_a": "Leptospirosis.",
+    "option_b": "Tifus",
+    "option_c": "Enfermidade de Lyme.",
+    "option_d": "Pediculosis.",
+    "correct_answer": "c"
+  },
+  {
+    "id": "0ee3846c-c952-4c7c-b644-f8162a6129b3",
+    "question_text": "Tal e como se recolle no PLADIGA, o botiquín individual:",
+    "option_a": "É un equipo de protección individual de categoría I.",
+    "option_b": "É un equipo de protección individual de categoría II.",
+    "option_c": "É un equipo de protección individual de categoría III.",
+    "option_d": "Non está considerado como un equipo de protección individual, senón un complemento.",
+    "correct_answer": "d"
+  },
+  {
+    "id": "b00bd702-c282-432b-b1c8-e56aa4e3488c",
+    "question_text": "Segundo recolle o manual de prevención e defensa contra os incendios forestais de Galicia, indique cal das seguintes NON é unha das partes do casco de protección:",
+    "option_a": "Banda de fixación elástica.",
+    "option_b": "Arnés.",
+    "option_c": "Casquete.",
+    "option_d": "Barboqueixo.",
+    "correct_answer": "a"
+  },
+  {
+    "id": "396bb1f8-0cc3-4785-bfae-46b71354ca81",
+    "question_text": "En relación co establecido no anexo VI do PLADIGA sobre o contido do EPI e complementos, sinale a resposta correcta:",
+    "option_a": "O traxe de protección ignífugo debe de estar provisto dunha área de solapamento interface de polo menos 20 cm entre a chaqueta e o pantalón.",
+    "option_b": "O PLADIGA non establece especificacións dos EPI.",
+    "option_c": "cEntre os complementos establecidos para o EPI están as camisetas ignífugas, o cinto e o protector do colo.",
+    "option_d": "Ningunha é correcta.",
+    "correct_answer": "a"
+  },
+  {
+    "id": "756cff4b-d500-4bb0-bcd8-3c02bdbc957f",
+    "question_text": "Segundo o manual de prevención de riscos laborais na defensa contra incendios forestais da Xunta de Galicia, as mascaras son un equipo de protección individual . . .",
+    "option_a": "De categoría I",
+    "option_b": "De categoría II",
+    "option_c": "De categoría III",
+    "option_d": "De categoría IV",
+    "correct_answer": "c"
+  },
+  {
+    "id": "2c78479d-1f5a-495a-96aa-9743fe48b012",
+    "question_text": "Segundo o manual de prevención de riscos laborais na defensa contra incendios forestais da Xunta de Galicia, para evitar a exposición a axentes químicos o equipo de protección individual componse de:",
+    "option_a": "Mascara, luvas e gafas.",
+    "option_b": "Pantalla, luvas e gafas.",
+    "option_c": "Pantalla, luvas e casco.",
+    "option_d": "Mascara, luvas e casco.",
+    "correct_answer": "a"
+  },
+  {
+    "id": "8a3bf6ca-0686-4d48-8758-2035f087111f",
+    "question_text": "Segundo o manual de prevención de riscos laborais na defensa contra incendios forestais da Xunta de Galicia, as botas de seguridade:",
+    "option_a": "Non forman parte do equipo de protección individual da especialidade bombeiro forestal-conducor de motobomba, pois molestan para conducir.",
+    "option_b": "Forman parte do equipo de protección individual da especialidade bombeiro forestal-condutor de motobomba, pero son de uso opcional.",
+    "option_c": "Forman parte do equipo de protección individual da especialidade bombeiro forestal-condutor de motobomba.",
+    "option_d": "Non forman parte do equipo de protección individual da especialidade bombeiro forestal-condutor de motobomba, excepto en grandes incendios.",
+    "correct_answer": "c"
+  },
+  {
+    "id": "d6ed49a4-9160-402e-81f2-117a07b30adf",
+    "question_text": "Segundo o manual de prevención de riscos laborais na defensa contra incendios forestais da Xunta de Galicia, a pantalla:",
+    "option_a": "Forma parte do equipo de protección individual en varias actividades de defensa contra los incendios forestais.",
+    "option_b": "Non forma parte do equipo de protección individual nas actividades de defensa contra los incendios forestais.",
+    "option_c": "Forma parte do equipo de protección individual soamente en actividades de prevención de incendios forestais.",
+    "option_d": "Soamente se debe empregar cando non haxa gafas dispoñibles.",
+    "correct_answer": "a"
+  },
+  {
+    "id": "e833e2af-7506-48c7-a685-d54f1eb496cc",
+    "question_text": "Segundo o manual de prevención de riscos laborais na defensa contra incendios forestais da Xunta de Galicia, o traxe ignífugo:",
+    "option_a": "É un equipo de protección individual de categoría I.",
+    "option_b": "É un equipo de protección individual de categoría II.",
+    "option_c": "É un equipo de protección individual de categoría III.",
+    "option_d": "É un equipo de protección individual de categoría IV.",
+    "correct_answer": "c"
+  },
+  {
+    "id": "2e80a6a8-564c-401f-9b25-3b7dbd30f251",
+    "question_text": "As queimaduras calificanse de primeiro, segundo e terceiro grao, en función de:",
+    "option_a": "A superficie da pel afectada.",
+    "option_b": "A profundidade da ferida cutánea.",
+    "option_c": "A superficie da pel afectada e a profundidade da ferida cutánea.",
+    "option_d": "O estado xeral da persoa accidentada.",
+    "correct_answer": "b"
+  },
+  {
+    "id": "28663346-0fc8-441c-a9ba-4d736ac74619",
+    "question_text": "No caso de picaduras de avespas nun traballo de campo, indique a resposta CORRECTA:",
+    "option_a": "Cando o insecto deixa o aguillón, hai que premer o saco.",
+    "option_b": "Cando o insecto deixa o aguillón, hai que despegalo coa uña desde dentro cara a fóra.",
+    "option_c": "En todo caso hai que administrar inmediatamente adrenalina.",
+    "option_d": "Todas son correctas.",
+    "correct_answer": "b"
+  },
+  {
+    "id": "740facbc-0a34-4e4f-914e-90ddadf34fb3",
+    "question_text": "Se nos atopamos a unha persoa no chan, inconsciente, que respira e ten pulso, como actuaremos?",
+    "option_a": "Incorporarémola e chamaremos ao servizo de emerxencias.",
+    "option_b": "Chamaremos ao servizo de emerxencias e comenzaremos con RCP.",
+    "option_c": "Porémola en posición lateral de seguridade e chamaremos ao servizo de urxencias.",
+    "option_d": "Chamaremos ao servizo de urxencias.",
+    "correct_answer": "c"
+  },
+  {
+    "id": "b1e8e9ec-e2fe-4589-a6dc-433c48237620",
+    "question_text": "Segundo a circular 2/21 de condución de vehículos en servizo de urxencia (vehículos prioritarios) en servizo urxente poderase circular por encima dos límites de velocidade:",
+    "option_a": "Nunca.",
+    "option_b": "Sempre.",
+    "option_c": "Depende do estado da vía.",
+    "option_d": "Ningunha é correcta.",
+    "correct_answer": "c"
+  },
+  {
+    "id": "b87b7f4d-739a-480b-b7fe-cca022506dc7",
+    "question_text": "Segundo a circular 2/21 de condución de vehículos en servizo de urxencia (vehículos prioritarios) faremos uso do aparello emisor de sinais acústicos especiais cando:",
+    "option_a": "A circulación estea colapsada.",
+    "option_b": "En curvas ou rasantes con mala ou nula visibilidade.",
+    "option_c": "Cando se realicen manobras, distintas ao réxime ordinario.",
+    "option_d": "Todas son correctas.",
+    "correct_answer": "d"
+  },
+  {
+    "id": "f8fd7415-f6cb-4e62-8dbd-af439327f899",
+    "question_text": "En relación co protocolo OACEL difundido polo CLIF (Comité de Loita contra Incendios Forestais), sinala cal das seguintes é correcta:",
+    "option_a": "Debe aplicarse en orde secuencial O-A-C-E-L, se non se cumpre algún dos puntos, hai que seguir polo menos coas demais premisas do protocolo para que resulte efectivo.",
+    "option_b": "É un sistema proactivo, a iniciativa debe tomala o Director Técnico de Extinción, sendo responsable de coñecer en todo momento o seu estado respecto á seguridade, co obxecto de modificalo por se mesmo cando sexa necesario.",
+    "option_c": "A aplicación do OACEL implica unha continua reavaliación de cada un dosseus cinco puntos, establecéndose outros novos cando fixese falta.",
+    "option_d": "As zonas queimadas sen potencial de retorno, cumprindo con O, A e C non servirían como zonas seguras",
+    "correct_answer": "c"
+  },
+  {
+    "id": "7454196f-577b-4a57-9eca-f58d22f5bce8",
+    "question_text": "Segundo o protocolo OACEL, a ruta de escape sempre debe levar a un lugar ou zona segura, en relación con isto sinale a CORRECTA:",
+    "option_a": "Aquelas nas que o combatinte soporta o paso do lume sen levar o equipo de protección individual.",
+    "option_b": "Aquelas sen ningún tipo de combustible, construídas para este fin.",
+    "option_c": "Nunca poden utilizarse como zonas seguras as zonas queimadas nas que non queda combustible.",
+    "option_d": "Ter un escape a zona segura non é unha medida de seguridade suficiente se non se cumpre con O, A e C.",
+    "correct_answer": "d"
+  },
+  {
+    "id": "fc67e3eb-9340-40eb-bfd6-91d6fff2e51c",
+    "question_text": "Cal das seguintes a irmacións sobre o protocolo OACEL é FALSA?",
+    "option_a": "È un protocolo básico para a seguridade do persoal na extinción.",
+    "option_b": "Débese aplicar en orde secuencial O-A-C-E-L.",
+    "option_c": "É un sistema proactivo e pode ser modi icado cando sexa preciso.",
+    "option_d": "As siglas significan: Observación, Atención, Comportamento do lume, Escape e Lugar seguro.",
+    "correct_answer": "d"
+  },
+  {
+    "id": "bd028fde-6592-4dfa-914e-8796c94e8424",
+    "question_text": "Segundo o manual de prevención de riscos laborais na defensa contra incendios forestais da Xunta de Galicia, para evitar accidentes por exposición a temperaturas extremas no manexo do camión motobomba nas actividades de arrefriamento e sufocación, deberá terse en conta a seguinte medida:",
+    "option_a": "Ao mesturar os retardantes que se presentan en forma de po seco, débense usar máscaras.",
+    "option_b": "O camión debe situarse apartado da dirección do avance do lume, para limitar a acción da calor radiante sobre o equipamento.",
+    "option_c": "Na extinción do incendio deberase ter posta a máscara e cambiaráselle o filtro cando se empece a notar o cheiro ao fume ou impida a respiración.",
+    "option_d": "Se o camión está situado nunha pista cara á cual sobe o lume e este progresa moi rapidamente, é recomendable tentar atallar a fronte do lume directamente co camión.",
+    "correct_answer": "b"
+  },
+  {
+    "id": "fff202d6-f1f0-4b4d-9833-47cc37489f39",
+    "question_text": "Durante un atrapamento, o primeiro que se debe facer é:",
+    "option_a": "Intentar fuxir inmediatamente pola ladeira de maior pendente",
+    "option_b": "Comunicarse co xefe de brigada e informar da situación",
+    "option_c": "Abandonar o equipo para poder correr máis rápido",
+    "option_d": "Esperar a recibir ordes sen moverse",
+    "correct_answer": "b"
+  },
+  {
+    "id": "cc73047f-2808-4be1-8ea1-d3bb8b6e5d85",
+    "question_text": "Un dos sinais previos máis perigosos que anuncian posible atrapamento é:",
+    "option_a": "Aumento do vento e do ruído",
+    "option_b": "Fume branco e disperso",
+    "option_c": "Diminución da temperatura",
+    "option_d": "Chamas baixas e separadas",
+    "correct_answer": "a"
+  },
+  {
+    "id": "1c86137a-7b32-402b-ac18-b66f38a08c31",
+    "question_text": "Unha das accións incorrectas durante a seguridade coas motobombas é:",
+    "option_a": "Traballar sempre con comunicación visual ou por radio",
+    "option_b": "Revisar presións e mangueiras antes de bombear",
+    "option_c": "Fumar preto do depósito de combustible",
+    "option_d": "Asegurar que o vehículo está freado e estabilizado",
+    "correct_answer": "c"
+  },
+  {
+    "id": "8511cd47-575d-4f30-ae9a-5e8bb180c4b4",
+    "question_text": "Un erro frecuente nas operacións con motobomba é:",
+    "option_a": "Circular con mangueiras enroladas",
+    "option_b": "Parar o vehículo en pendente sen freo de man",
+    "option_c": "Revisar o nivel de auga antes da actuación",
+    "option_d": "Usar calzado antiesvarante",
+    "correct_answer": "b"
+  },
+  {
+    "id": "5a8e22f4-f291-4529-91c7-6555a2e40398",
+    "question_text": "Nas manobras de autoprotección coa motobomba, débese situar o vehículo:",
+    "option_a": "No fondo dun val ou depresión",
+    "option_b": "En liña co avance do lume",
+    "option_c": "En zona limpa, con vías de escape e o motor acceso",
+    "option_d": "Preto da carga de combustible para recargar rápido",
+    "correct_answer": "c"
+  }
+]
