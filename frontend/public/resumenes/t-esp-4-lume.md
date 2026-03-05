@@ -79,7 +79,7 @@ Clasificación normalizada de 13 modelos distribuídos en 4 grupos:
 
 ### 3.2 O Vento e a Capacidade de Extinción
 > [!IMPORTANT]
-> **VELOCIDADE CRÍTICA:** Establécese en **60 metros por minuto**. A partir deste valor, o incendio supera a capacidade de extinción dos medios terrestres e considérase incontrolable.
+> **VELOCIDADE CRÍTICA:** Establécese en **50 metros por minuto** (segundo o Test FORGA 18/11/2025). A partir deste valor, o incendio supera a capacidade de extinción dos medios terrestres e considérase incontrolable.
 
 ```mermaid
 pie title "Capacidade de Extinción vs Velocidade"
@@ -134,7 +134,7 @@ A pendente inflúe **directamente** na velocidade de propagación. O lume preque
 | :--- | :--- |
 | **Tempo de Retardo** | ⏲️ Rapidez en acadar o equilibrio de humidade coa atmosfera. |
 | **Humidade de Extinción** | 💧 > 25-40% (Mortos) / > 120-160% (Vivos). |
-| **Velocidade Crítica** | ⏱️ **60 metros por minuto**. |
+| **Velocidade Crítica** | ⏱️ **50 metros por minuto** (Test FORGA). |
 | **Límite Combustible Morto** | 🥀 **30% de humidade**. |
 | **Prazos PLADIGA** | 🟢 <= 1ha (Conato) / 🟠 > 1ha (Incendio). |
 | **Cinto Térmico** | 🌡️ Situado a **2/3 da altura** do val nunha inversión. |

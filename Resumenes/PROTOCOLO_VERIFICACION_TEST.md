@@ -1,6 +1,6 @@
 # PROTOCOLO: Verificación e Corrección de Preguntas de Test
 
-**Data:** 2026-03-05 | **Estado:** T1/T2/T3/T4/T5/T6 correxidos — T7-T11 pendentes
+**Data:** 2026-03-05 | **Estado:** T1-T6 + T7 correxidos — T8-T11 pendentes
 
 ---
 
@@ -16,7 +16,8 @@ O banco de preguntas de opos forestais (Supabase) tiña **respostas correctas ma
 | T1 (`t-esp-1-defensa`) | 139 | 30 | 22% | 30 | 0 |
 | T2 (`t-esp-2-pladiga`) | 45 | 2 | 4% | 2 | 0 |
 | T5 (`t-esp-5-extincion`) | 101 | 3 | 3% | 0 | 3 |
-| T6 (`t-esp-6-prevencion`) | 124 | 2 | 2% | 2 | 0 |
+| T6 (`t-esp-6-prevencion`) | 124 | 0 | 0% | 0 | 0 |
+| T7 (`t-esp-7-equipamento`) | 38 | 2 | 5% | 1 | 1 |
 
 **Tamén correxido:** O resumo `t-esp-4-lume.md` tiña a velocidade crítica en 60 m/min (erro). Correxido a **50 m/min** segundo o PDF FORGA 18/11/2025.
 
@@ -97,7 +98,7 @@ python -X utf8 scripts\verify_topic.py t-esp-1-defensa "TEST LEY INCENDIOS 1 202
 
 ### Temas sen revisar
 Slugs dispoñibles en Supabase:
-- `t-esp-7-equipamento`, `t-esp-8-conduccion`, `t-esp-9-seguridade`, `t-esp-10-accidentes`, `t-esp-11-comunicacions`
+- `t-esp-8-conduccion`, `t-esp-9-seguridade`, `t-esp-10-accidentes`, `t-esp-11-comunicacions`
 
 PDFs de tests dispoñibles en `docs/PARA CURADOR/especificos/<tema>/` e `docs/forga_especifico/`
 
@@ -142,8 +143,9 @@ Cada informe JSON (`scripts/<slug>_report.json`) contén **todas as correccións
 - **T3:** `scripts/verify_t3_report.json` — 5 preguntas, roles do DTE vs CCC vs XOA
 - **T1:** `scripts/t-esp-1-defensa_report.json` — 30 preguntas, distancias de biomasa e épocas de perigo (Lei 3/2007)
 - **T2:** `scripts/t-esp-2-pladiga_report.json` — 2 preguntas, avaliación do incendio e IGP (DTE vs CCC)
-- **T5:** `scripts/t-esp-5-extincion_report.json` — 3 preguntas eliminadas (P7, P33, P39): nivel C vs B, puntos de inflexión, fase de avaliación
-- **T6:** `scripts/t-esp-6-prevencion_report.json` — 2 correx. (P68, P71): faixas primarias Art.20bis e anchura 5m (clave PDF marcada)
+- **T5:** `scripts/t-esp-5-extincion_report.json` — 3 eliminadas verificadas correctas (P7, P33, P39): nivel C vs B, puntos de inflexión, fase de avaliación.
+- **T6:** `scripts/t-esp-6-prevencion_report.json` — *REVERTIDAS*. Gemini confundiu 2 preguntas no test, foron revertidas en Supabase.
+- **T7:** `scripts/t-esp-7-equipamento_report.json` — 1 eliminada (P21) por opcións duplicadas idénticas, 1 corrixida (P38) por porcentaxe curva de nivel.
 
 ---
 
