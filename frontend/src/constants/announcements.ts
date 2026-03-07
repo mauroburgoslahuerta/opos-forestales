@@ -8,10 +8,10 @@ export interface Announcement {
 
 export const ANNOUNCEMENTS: Announcement[] = [
     {
-        id: '20260225-especificos',
-        title: 'Resumes dispoñibles',
-        content: 'Xa están dispoñibles todos os resumos dos temas específicos. Os temas comúns estarán dispoñibles proximamente.',
-        type: 'new_content',
-        date: '25 FEB'
+        id: '20260307-todos-resumos',
+        title: '¡Completo! Tódolos resumos dispoñibles',
+        content: 'Xa están dispoñibles todos os resumos "GOLD", tanto dos temas comúns (T1-T8) como dos específicos (T1-T11).',
+        type: 'success',
+        date: '07 MAR'
     }
 ];
