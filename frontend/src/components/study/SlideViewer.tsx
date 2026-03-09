@@ -346,7 +346,54 @@ export const SlideViewer: React.FC<SlideViewerProps> = ({ topic, initialDocIndex
                                                     );
                                                 }
 
+                                                if (text.includes('[!CAUTION]')) {
+                                                    return (
+                                                        <div className="my-6 p-4 border-l-4 border-orange-500 bg-orange-50 dark:bg-orange-900/20 rounded-r-xl">
+                                                            <div className="flex items-center gap-2 text-orange-700 dark:text-orange-400 font-bold mb-2">
+                                                                <AlertTriangle size={20} />
+                                                                <span>PRECAUCIÓN</span>
+                                                            </div>
+                                                            <div className="text-orange-800 dark:text-orange-200">
+                                                                {React.Children.map(children, (child: any) => {
+                                                                    if (child?.props?.children) {
+                                                                        return React.cloneElement(child, {
+                                                                            children: React.Children.map(child.props.children, (c: any) =>
+                                                                                typeof c === 'string' ? c.replace('[!CAUTION]', '') : c
+                                                                            )
+                                                                        });
+                                                                    }
+                                                                    return child;
+                                                                })}
+                                                            </div>
+                                                        </div>
+                                                    );
+                                                }
+
                                                 return <blockquote className="border-l-4 border-forest-200 pl-4 italic text-gray-500">{children}</blockquote>;
+                                            },
+                                            table({ children }) {
+                                                return (
+                                                    <div className="overflow-x-auto w-full my-8 rounded-xl border border-gray-200 dark:border-gray-800 shadow-sm">
+                                                        <table className="min-w-full divide-y divide-gray-200 dark:divide-gray-800 text-left text-sm md:text-base">
+                                                            {children}
+                                                        </table>
+                                                    </div>
+                                                );
+                                            },
+                                            thead({ children }) {
+                                                return <thead className="bg-forest-50 dark:bg-forest-900/30">{children}</thead>;
+                                            },
+                                            tbody({ children }) {
+                                                return <tbody className="divide-y divide-gray-200 dark:divide-gray-800 bg-white dark:bg-gray-900/50">{children}</tbody>;
+                                            },
+                                            tr({ children }) {
+                                                return <tr className="hover:bg-gray-50 dark:hover:bg-gray-800/50 transition-colors">{children}</tr>;
+                                            },
+                                            th({ children }) {
+                                                return <th className="px-6 py-4 font-bold text-forest-800 dark:text-forest-200 tracking-wider whitespace-nowrap">{children}</th>;
+                                            },
+                                            td({ children }) {
+                                                return <td className="px-6 py-4 text-gray-700 dark:text-gray-300 align-top">{children}</td>;
                                             }
                                         }}
                                     >
