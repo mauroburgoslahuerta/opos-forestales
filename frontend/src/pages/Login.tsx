@@ -2,14 +2,33 @@ import React, { useState } from 'react';
 // import { useAuth } from '../context/AuthContext';
 import { supabase } from '../lib/supabase';
 import { useNavigate } from 'react-router-dom';
-import { Trees, User, GraduationCap, Lock, ArrowRight, Loader } from 'lucide-react';
+import { Trees, User, GraduationCap, Lock, ArrowRight, Loader, Eye } from 'lucide-react';
 
 export default function Login() {
-    const [selectedUser, setSelectedUser] = useState<'mauro' | 'dario' | 'hugo' | null>(null);
+    const [selectedUser, setSelectedUser] = useState<'mauro' | 'dario' | 'hugo' | 'invitado' | null>(null);
     const [password, setPassword] = useState('');
     const [loading, setLoading] = useState(false);
     const [error, setError] = useState<string | null>(null);
     const navigate = useNavigate();
+
+    const handleUserSelect = async (key: 'mauro' | 'dario' | 'hugo' | 'invitado') => {
+        if (key === 'invitado') {
+            setLoading(true);
+            const { error } = await supabase.auth.signInWithPassword({
+                email: 'invitado@oposforestales.gal',
+                password: 'guest_password'
+            });
+            if (error) {
+                setError('Erro iniciando sesión de invitado.');
+                setSelectedUser(key);
+                setLoading(false);
+            } else {
+                navigate('/dashboard');
+            }
+        } else {
+            setSelectedUser(key);
+        }
+    };
 
     const handleLogin = async (e: React.FormEvent) => {
         e.preventDefault();
@@ -22,7 +41,9 @@ export default function Login() {
             ? 'mauro@oposforestales.gal'
             : selectedUser === 'dario'
                 ? 'dario@oposforestales.gal'
-                : 'hugo@oposforestales.gal';
+                : selectedUser === 'hugo'
+                    ? 'hugo@oposforestales.gal'
+                    : 'invitado@oposforestales.gal';
 
         const { error } = await supabase.auth.signInWithPassword({
             email,
@@ -62,6 +83,13 @@ export default function Login() {
             icon: GraduationCap,
             color: 'bg-orange-600',
             description: 'Acceso a tests, temario e simulacros.'
+        },
+        invitado: {
+            name: 'Invitado',
+            role: 'Visita',
+            icon: Eye,
+            color: 'bg-blue-500',
+            description: 'Acceso de lectura para revisión externa.'
         }
     };
 
@@ -80,14 +108,19 @@ export default function Login() {
                     <>
                         <h2 className="text-center text-xl font-semibold text-gray-800 mb-6">Quen es ti?</h2>
                         <div className="grid gap-4">
-                            {(['mauro', 'dario', 'hugo'] as const).map((key) => {
+                            {(['mauro', 'dario', 'hugo', 'invitado'] as const).map((key) => {
                                 const u = userConfig[key];
                                 return (
                                     <button
                                         key={key}
-                                        onClick={() => setSelectedUser(key)}
-                                        className="flex items-center p-4 border-2 border-transparent hover:border-forest-200 bg-gray-50 hover:bg-forest-50 rounded-xl transition-all duration-200 group text-left"
+                                        onClick={() => handleUserSelect(key)}
+                                        className="flex items-center p-4 border-2 border-transparent hover:border-forest-200 bg-gray-50 hover:bg-forest-50 rounded-xl transition-all duration-200 group text-left relative"
                                     >
+                                        {key === 'invitado' && loading && (
+                                            <div className="absolute inset-0 bg-white/50 flex items-center justify-center rounded-xl z-10">
+                                                <Loader className="w-6 h-6 animate-spin text-forest-600" />
+                                            </div>
+                                        )}
                                         <div className={`${u.color} p-3 rounded-full mr-4 shadow-sm group-hover:scale-105 transition-transform`}>
                                             <u.icon className="w-6 h-6 text-white" />
                                         </div>

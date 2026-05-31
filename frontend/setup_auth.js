@@ -8,7 +8,9 @@ const supabase = createClient(SUPABASE_URL, SUPABASE_SERVICE_ROLE_KEY);
 
 const users = [
     { email: 'mauro@oposforestales.gal', password: 'Unlucky', full_name: 'Mauro', role: 'admin' },
-    { email: 'dario@oposforestales.gal', password: 'Wilfred', full_name: 'Dario', role: 'student' }
+    { email: 'dario@oposforestales.gal', password: 'Wilfred', full_name: 'Dario', role: 'student' },
+    { email: 'hugo@oposforestales.gal', password: 'Wilfred', full_name: 'Hugo', role: 'student' },
+    { email: 'invitado@oposforestales.gal', password: 'guest_password', full_name: 'Invitado', role: 'student' }
 ];
 
 async function seedUsers() {
