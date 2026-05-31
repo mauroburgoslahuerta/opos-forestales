@@ -1,8 +1,9 @@
 import React from 'react';
 import { NavLink } from 'react-router-dom';
-import { LayoutDashboard, BookOpen, PenTool, BarChart3, Settings, Menu, X, Briefcase, FileText } from 'lucide-react';
+import { LayoutDashboard, BookOpen, PenTool, BarChart3, Settings, Menu, X, Briefcase, FileText, LogOut } from 'lucide-react';
 import { useState } from 'react';
 import { ThemeToggle } from '../ui/ThemeToggle';
+import { useAuth } from '../../context/AuthContext';
 
 const SidebarItem = ({ to, icon: Icon, label }: { to: string; icon: any; label: string }) => (
     <NavLink
@@ -21,6 +22,7 @@ const SidebarItem = ({ to, icon: Icon, label }: { to: string; icon: any; label: 
 
 export const Layout = ({ children }: { children: React.ReactNode }) => {
     const [isSidebarOpen, setIsSidebarOpen] = useState(true);
+    const { signOut } = useAuth();
 
     return (
         <div className="min-h-screen bg-gray-50 dark:bg-gray-900 flex text-gray-900 dark:text-gray-100 font-sans">
@@ -45,6 +47,13 @@ export const Layout = ({ children }: { children: React.ReactNode }) => {
                     <div className="pt-8 border-t border-gray-100 dark:border-gray-800 space-y-2">
                         <ThemeToggle />
                         <SidebarItem to="/settings" icon={Settings} label="Configuración" />
+                        <button
+                            onClick={signOut}
+                            className="w-full flex items-center space-x-3 px-4 py-3 rounded-lg transition-colors text-red-600 hover:bg-red-50 dark:text-red-400 dark:hover:bg-red-900/20"
+                        >
+                            <LogOut size={20} />
+                            <span className="font-medium text-left">Pechar sesión</span>
+                        </button>
                     </div>
                 </nav>
             </aside>
