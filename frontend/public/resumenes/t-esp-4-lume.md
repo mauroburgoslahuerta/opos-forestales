@@ -1,6 +1,6 @@
-# Tema 4 Específico: Comportamento do Lume e Tipos de Incendios 🔥
+# Resumo: Comportamento do Lume
 
-*Versión V10 GOLD PREMIUM. Manual técnico sobre os principios do lume, factores de comportamento e clasificación de incendios. Contido certificado 100% Inexpugnable con estética Premium.*
+Análise técnica da topografía, meteoroloxía e combustibles no desenvolvemento e tipoloxía dos incendios forestais.
 
 ---
 

@@ -1,6 +1,6 @@
-# T6 Específico: Accións de Prevención (Fuente de Verdad 2025) 🛡️
+# Resumo: Accións de Prevención
 
-*Versión V10 GOLD PREMIUM. Manual de PRECISION QUIRÚRGICA. Este documento mantén o modo narrativa ("letra") íntegro sen simplificacións, con reforzo visual Premium.*
+Medidas sobre o territorio para a redución da carga de combustible e a mitigación do risco de inicio e propagación.
 
 ---
 

@@ -1,6 +1,8 @@
----
+# Resumo: Procedemento Administrativo Común
 
-# **MANUAL DE COMBATE: Lei 39/2015 (LPACAP) - V11**
+Análise da Lei 39/2015, destacando os conceptos de acto administrativo, prazos, recursos e os dereitos da cidadanía.
+
+---
 
 ## **CAPÍTULO 1: O TABOLEIRO DE XOGO (Títulos Preliminar e I)**
 

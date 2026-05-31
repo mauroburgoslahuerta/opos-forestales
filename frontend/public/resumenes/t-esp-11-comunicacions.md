@@ -1,4 +1,6 @@
-# TEMA 11: COMUNICACIÓNS E CARTOGRAFÍA (V12 MASTER)
+# Resumo: Comunicacións e Cartografía
+
+Uso da rede de comunicacións TETRA e fundamentos de orientación, mapas e sistemas de coordenadas xeográficas.
 
 ---
 

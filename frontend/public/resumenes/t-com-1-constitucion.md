@@ -1,9 +1,8 @@
-# MANUAL DE COMBATE: A CONSTITUCIÓN ESPAÑOLA (CE/78)
-**Intelixencia Documental para Oposicións Técnicas (Grupo C2 - Bombeiro Forestal)**
+# Resumo: A Constitución Española
 
-> [!NOTE]
-> **Marco Mental Operativo:** Este manual de combate extrae a médula técnica dos títulos esixidos para o subgrupo C2: **Preliminar, I, II, III, VIII e IX**. Omitiuse o contido non relevante para o exame para maximizar a densidade. A fonte de verdade é o documento `1- Constitución bombeiro forestal C2.pdf`, integrando a auditoría externa de SUSA 2025.
+Documento resumo cos puntos clave da Constitución Española de 1978, estruturado para a preparación das probas selectivas.
 
+---
 
 ## CAPÍTULO 1: TÍTULO PRELIMINAR E FUNDAMENTOS (ART. 1-14)
 

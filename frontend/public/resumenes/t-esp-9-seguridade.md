@@ -1,7 +1,6 @@
-# Tema 9: Seguridade e Saúde (Manual de Combate SPIF) 🛡️🩺💎
+# Resumo: Seguridade e Saúde Operativa
 
-> [!NOTE]
-> Este documento constitúe a **"Fonte de Verdade"** definitiva para o Tema 9, centrada na seguridade e saúde laboral dentro do **Servizo de Prevención de Incendios Forestais (SPIF)** de Galicia. Integra a lexislación vixente, os protocolos de combate do Manual de Extinción e os requisitos físicos para o acceso ás categorías do Grupo C2.
+Riscos específicos na extinción, protocolos de seguridade no traballo e directrices de actuación ante emerxencias.
 
 ---
 

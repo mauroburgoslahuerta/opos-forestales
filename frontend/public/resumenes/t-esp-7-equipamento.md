@@ -1,7 +1,6 @@
-# TEMA 7: MAQUINARIA, MOTOBOMBAS E FERRAMENTAS (SPIF GALICIA) 🚜🔥🚒
+# Resumo: Maquinaria, Motobombas e Ferramentas
 
-> [!NOTE]
-> Este documento integra a **"Fonte Única"** de coñecemento para o Tema 7, cubrindo os tres piares técnicos: Maquinaria Pesada (Bulldozers), Vehículos Autobomba/Motobombas e Ferramentas (Manuais e Mecánicas). Baséase nos manuais oficiais do **Servizo de Prevención de Incendios Forestais (SPIF)** de Galicia e nos contratos de retén 2025.
+Especificacións técnicas e operativas da maquinaria pesada, vehículos autobomba e equipamento manual do operativo.
 
 ---
 

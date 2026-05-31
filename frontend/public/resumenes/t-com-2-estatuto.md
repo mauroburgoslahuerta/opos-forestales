@@ -1,4 +1,8 @@
-# MANUAL DE COMBATE V3: ESTATUTO DE AUTONOMÍA DE GALICIA (LO 1/1981)
+# Resumo: O Estatuto de Autonomía de Galicia
+
+Síntese dos artigos fundamentais do Estatuto de Autonomía, abarcando a organización territorial e as competencias autonómicas.
+
+---
 
 ## TÍTULO PRELIMINAR (Arts. 1-8)
 

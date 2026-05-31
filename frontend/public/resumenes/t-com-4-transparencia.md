@@ -1,4 +1,8 @@
-# **MANUAL DE COMBATE: Lei 1/2016 de Transparencia e Bo Goberno - V10**
+# Resumo: Lei de Transparencia e Bo Goberno
+
+Esquema normativo da Lei 1/2016 de Galicia, focado nas obrigas de publicidade activa e no dereito de acceso á información.
+
+---
 
 ## TÍTULO PRELIMINAR E TÍTULO I: TRANSPARENCIA NA ACTIVIDADE PÚBLICA
 

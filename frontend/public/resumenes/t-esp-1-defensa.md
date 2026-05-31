@@ -1,6 +1,6 @@
-# Tema 1 Específico: Prevención e Defensa Contra os Incendios Forestais de Galicia (V8 ACADÉMICA) 🛡️
+# Resumo: Prevención e Defensa Contra os Incendios
 
-*Manual de Combate definitivo recuperado e refinado para o estándar 2025. Galego técnico 100%.*
+Marco normativo básico da Lei 3/2007 de Galicia e a organización xeral da defensa contra o lume forestal.
 
 ---
 

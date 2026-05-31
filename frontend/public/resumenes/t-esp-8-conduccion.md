@@ -1,9 +1,8 @@
-# Analista de Inteligencia Documental (GENERADOR) - Estilo Premium V2
+# Resumo: Condución Todoterreo e Estiba
 
-## TEMA: CONDUCCIÓN TODOTERREO, ESTIBA DE FERRAMENTAS, APROXIMACIÓN E ESTACIONAMENTO (SPIF)
+Normas e procedementos de condución de vehículos todoterreo, así como o posicionamento e estiba segura da carga.
 
-> [!NOTE]
-> Este tema abarca dende as normas e condutas básicas para a condución todoterreo ata a estiba de ferramentas e os protocolos de aproximación e estacionamento en incendios forestais. O coñecemento detallado destas áreas é crucial para o desenvolvemento seguro e eficaz das operacións do **Servizo de Prevención de Incendios Forestais (SPIF)**.
+---
 
 ### 1. POSICIÓN DE CONDUCCIÓN
 

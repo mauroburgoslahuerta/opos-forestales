@@ -1,6 +1,8 @@
-Aquí tes o teu **Manual de Combate** sobre a Lei 7/2023, procesado segundo os protocolos de Analista de Intelixencia Documental.
+# Resumo: Lei de Igualdade Efectiva
 
-# MANUAL DE COMBATE: Lei 7/2023 de Igualdade Efectiva (Galicia)
+Sintetización da Lei 7/2023 de Galicia, abordando os conceptos clave para a prevención da discriminación e a promoción da igualdade.
+
+---
 
 ## CAPÍTULO 1: CONCEPTOS FUNDAMENTAIS E MARCO XURÍDICO
 

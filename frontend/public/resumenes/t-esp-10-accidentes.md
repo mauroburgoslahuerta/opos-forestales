@@ -1,4 +1,6 @@
-# Tema 10: Seguridade e Primeiros Auxilios (Manual SPIF) 🚑🩺💎
+# Resumo: Seguridade e Primeiros Auxilios
+
+Actuación inicial ante accidentes no medio forestal e protocolos básicos de soporte vital e primeiros auxilios.
 
 ---
 

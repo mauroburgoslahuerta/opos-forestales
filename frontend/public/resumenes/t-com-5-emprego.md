@@ -1,5 +1,8 @@
+# Resumo: Lei de Emprego Público de Galicia
 
-# Manual de Combate: Lei 2/2015 do Emprego Público de Galicia
+Resumo dos aspectos fundamentais da Lei 2/2015 sobre o réxime do persoal ao servizo das administracións públicas galegas.
+
+---
 
 ## CAPÍTULO 1: DISPOSICIÓNS XERAIS E ÁMBITO DE APLICACIÓN (TÍTULO I)
 

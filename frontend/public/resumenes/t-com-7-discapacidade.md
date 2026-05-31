@@ -1,7 +1,6 @@
-# MANUAL DE COMBATE: RDL 1/2013 (Discapacidade)
+# Resumo: Dereitos das Persoas con Discapacidade
 
-> [!NOTE]
-> **ALCANCE DA MISIÓN (Actualizado segundo Auditoría Mauro):** Este manual de combate extrae a médula técnica do RDL 1/2013, ampliando o temario oficial para incluír todos os artigos que foron obxecto de pregunta en exames reais (`test - respostas - discapacidade.pdf`), así como as lagoas críticas detectadas na auditoría de seguridade. O obxectivo é blindar ao opositor contra o 100% das preguntas coñecidas e predicibles, asegurando a máxima precisión e cobertura.
+Puntos centrais do RDL 1/2013, cos principios e normativas para garantir a igualdade de oportunidades e accesibilidade.
 
 ---
 

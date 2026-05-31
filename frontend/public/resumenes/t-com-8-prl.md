@@ -1,30 +1,8 @@
-# TEMA 8: PREVENCIÓN DE RISCOS LABORAIS (LPRL) - [CERTIFICACIÓN DE OURO - TOTALMENTE INEXPUGNABLE]
+# Resumo: Prevención de Riscos Laborais
 
-> [!NOTE]
-> Este manual de combate sintetiza o marco legal da **Lei 31/1995 (LPRL)** e os protocolos operativos de seguridade do **CLIF** (Comité de Loita contra Incendios Forestais). A seguridade non é unha opción, é a primeira condición do combate. O obxectivo é a "Armadura Completa": blindaxe legal ante preguntas trampa e blindaxe operativa ante situacións de risco. 
-> 
-> **Siglas Clave:** 
-> - **LPRL:** Lei 31/1995 de Prevención de Riscos Laborais.
-- **ET:** Estatuto dos Traballadores (Real Decreto Lexislativo 2/2015).
-- **PLADIGA:** Plan de Defensa contra os Incendios Forestais de Galicia.
-- **AL:** Autoridade Laboral.
-- **ETT:** Empresa de Traballo Temporal.
-- **SPA:** Servizo de Prevención Alleo.
-- **ITSS:** Inspección de Traballo e Seguridade Social.
-- **INSST:** Instituto Nacional de Seguridade e Saúde no Traballo.
-- **CNSST:** Comisión Nacional de Seguridade e Saúde no Traballo.
-- **CLIF:** Comité de Loita contra Incendios Forestais.
+Principios da Lei 31/1995 de PRL e os protocolos de seguridade específicos aplicables ao ámbito laboral forestal.
 
-- **Metodoloxía Xunta (Fases):** 1. Identificación. 2. Avaliación. 3. Plan de acción.
-
-| Probabilidade \ Severidade | Lixeiramente Daniño (LD) | Daniño (D) | Extremadamente Daniño (ED) |
-| :--- | :--- | :--- | :--- |
-| **Baixa (B)** | **Trivial (TR)** | **Tolerable (TO)** | **Moderado (M)** |
-| **Media (M)** | **Tolerable (TO)** | **Moderado (M)** | **Importante (I)** |
-| **Alta (A)** | **Moderado (M)** | **Importante (I)** | **Intolerable (IN)** |
-
-- **Prazo Accións:** Moderado (prazo determinado), Importante (recursos considerables).
-- **Dato Test:** Entre 1991 e 2015 morreron **147 persoas** na extinción.
+---
 
 ## CAPÍTULO 1: MARCO LEGAL E CONCEPTOS FUNDAMENTAIS
 

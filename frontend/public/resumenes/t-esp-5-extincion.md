@@ -1,6 +1,6 @@
-# Tema 5 Específico: Técnicas de Extinción, Organización e Seguridade 🚒
+# Resumo: Técnicas de Extinción
 
-*Versión V8 ACADÉMICA GOLD. Manual técnico integral sobre operativa técnica, xestión do mando e protocolos administrativos do Servizo de Prevención e Defensa contra os Incendios Forestais (SPDCIF). Contido certificado 100% Inexpugnable.*
+Procedementos, ferramentas e tácticas directas e indirectas no ataque e liquidación do lume forestal.
 
 ---
 

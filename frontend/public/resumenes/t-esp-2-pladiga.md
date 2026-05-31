@@ -1,6 +1,6 @@
-# Tema 2 Específico: O PLADIGA 2025 (Manual de Combate V8 ACADÉMICA) 🛡️
+# Resumo: O PLADIGA 2025
 
-*Versión consolidada "Fonte Única". Integra o Plan de Prevención e Defensa contra os Incendios Forestais de Galicia (PLADIGA) para o exercicio 2025. Estilo redactado para facilitar a comprensión técnica.*
+Estrutura e obxectivos operativos do Plan de Prevención e Defensa contra os Incendios Forestais de Galicia para a campaña vixente.
 
 ---
 

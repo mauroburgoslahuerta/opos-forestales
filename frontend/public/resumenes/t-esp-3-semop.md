@@ -1,6 +1,6 @@
-# Tema 3 Específico: Sistema Estrutural de Mando Operativo (SEMOP) 🛡️
+# Resumo: Sistema Estrutural de Mando Operativo (SEMOP)
 
-*Versión V8 ACADÉMICA. Manual técnico baseado no Incident Command System (ICS), optimizado para os protocolos de seguridade e o Plan de Extinción 2025.*
+Organización do mando, sectorización e protocolos de comunicación na dirección e extinción de incendios forestais.
 
 ---
 
