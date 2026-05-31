@@ -25,6 +25,8 @@ O banco de preguntas de opos forestais (Supabase) tiña **respostas correctas ma
 **Validación Retroactiva (Sesión 12):** Tras detectar os falsos positivos en T6, executouse un script ad-hoc de comprobación retroactiva para cruzar os identificadores (UUIDs) e os textos (A,B,C,D) das 53 preguntas modificadas historicamente en T1, T2, T3 e T4 na base de datos.
 - Constatouse que **todas as correccións foron certeras**: a inmensa maioría derivaban de erros severos nas prantillas de solucións orixinais de FORGA/Xunta (ej: preguntas da Lei 3/2007 desactualizadas ou triángulos de comportamento errados no pdf). As asuncións foron correctas e T1-T4 quedan blindados.
 
+⚠️ **ALERTA DE SEGURIDADE DA ACADEMIA (Exemplo T2 / SEMOP):** O Curador Auditor detectou que as plantillas orixinais de test ás veces presentan **fallos graves de base orgánica**. No Tema 2, a plantilla orixinal desposuía ao Director Técnico de Extinción (DTE) das súas funcións legais básicas (avaliación permanente e proposta de gravidade do lume), atribuíndollas incorrectamente ao CCD ou ao Director Xeral. Estudar e memorizar estas prantillas orixinais (sen filtrar pola Regla 2026/Nivel 1) induce a un **error crítico eliminatorio** no exame da Xunta.
+
 ### T8: Conducción Todoterreo (05/03/2026)
 - **Total preguntas:** 41
 - **Verificación:** Executado script Dry-Run + Revisión Manual.
@@ -57,7 +59,7 @@ A resposta correcta a memorizar SEMPRE é a máis moderna e apoiada na maior aut
 - **Escenario B (Tribunal vago con prantilla obsoleta):** Preguntan e a máquina suspende a túa resposta porque usan o Nivel 3. Ao día seguinte tes o punto asegurado mediante impugnación vinculando o documento de Nivel 1 (inexpugnable).
 - **O Risco Mortal:** Se estudas a resposta obsoleta por medo á prantilla vella, e o tribunal actualizou a súa resposta ao Nivel 1, suspendes a pregunta e non tes base legal para impugnar. A lei actual está da súa parte.
 
-*Acción para a App:* Ante preguntas dudosas, apartalas, pasalas por este filtro e parchear a base de datos SEMPRE coa resposta defendida polo Nivel 1. A app debe ser un escudo antibalas legal.
+*Acción para a App:* Ante preguntas dudosas ou correccións masivas propostas por IAs en primeira instancia (dry-run), apartalas e pasalas obrigatoriamente polo **Curador (Auditor Humano)**. Este experto funcionará como Filtro de Bloqueo Absoluto: el ditará a sentencia final aplicando a Regla 2026. Só se parcheará a base de datos en base á súa Contra-Auditoría, asegurando que a app sexa un escudo antibalas legal baseado en Nivel 1.
 
 ---
 

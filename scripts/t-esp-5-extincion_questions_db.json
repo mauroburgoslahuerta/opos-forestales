@@ -540,15 +540,6 @@
     "correct_answer": "c"
   },
   {
-    "id": "6c8d2470-c65c-4e0d-bc8e-d869255a70ca",
-    "question_text": "7.- Cal dos seguintes elementos non garda relación cun ataque ampliado?:",
-    "option_a": "Establecemento dun posto de mando.",
-    "option_b": "Axudante de loxística.",
-    "option_c": "Sectorización do incendio.",
-    "option_d": "Todos os elementos anteriores gardan relación cun ataque ampliado.",
-    "correct_answer": "d"
-  },
-  {
     "id": "efb4e912-c89a-4c9b-a8f1-bd7ec48ea979",
     "question_text": "8.- Sinala a resposta incorrecta:",
     "option_a": "Cando a topografía é abrupta ou a vexetación é moi densa, débese empregar o ataque indirecto.",
@@ -747,15 +738,6 @@
     "correct_answer": "b"
   },
   {
-    "id": "3e519ca4-09d3-4c66-8d28-81874bfd1fed",
-    "question_text": "33.- Segundo Campbell os puntos de inflexión son",
-    "option_a": "Sempre puntos críticos",
-    "option_b": "Sempre oportunidades que debemos aproveitar para extinguir o incendio",
-    "option_c": "Cambios no comportamento do incendio onde se producen variacións na aliñación de forzas",
-    "option_d": "Partes do incendio onde a propagación pasa de lume de superficie a lume de copas",
-    "correct_answer": "d"
-  },
-  {
     "id": "26f41015-8645-42a0-8066-2a4d822d003d",
     "question_text": "34.- Segundo Campbell sos carreiras potenciais",
     "option_a": "Partes do incendio onde a aliñación de forzas é máxima",
@@ -799,15 +781,6 @@
     "option_c": "E un proceso simultáneo a fase do recoñecemento",
     "option_d": "As respostas B e C son correctas",
     "correct_answer": "d"
-  },
-  {
-    "id": "74dd7028-6214-4f5a-80cd-50846b5ee957",
-    "question_text": "39.-¿En que fase se propón o índice de gravidade potencial do IF por parte do DTE?",
-    "option_a": "Fase de recoñecemento",
-    "option_b": "Fase de avaliación da situación",
-    "option_c": "Fase de planificación",
-    "option_d": "Fase de análise previo",
-    "correct_answer": "c"
   },
   {
     "id": "7455d6be-3810-416e-b88d-d1e02fb61690",

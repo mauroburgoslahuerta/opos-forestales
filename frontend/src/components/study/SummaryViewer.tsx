@@ -184,7 +184,7 @@ export const SummaryViewer: React.FC<SummaryViewerProps> = ({ topic, onClose }) 
                                 {currentSlide.title}
                             </h1>
                             <div className="w-20 h-1.5 bg-forest-500 mx-auto rounded-full" />
-                            <p className="text-forest-600 font-bold tracking-[0.3em] uppercase text-xs">Resumo de Excelencia</p>
+                            <p className="text-forest-600 font-bold tracking-[0.3em] uppercase text-xs">Temario Resumido</p>
                         </div>
                     )}
 

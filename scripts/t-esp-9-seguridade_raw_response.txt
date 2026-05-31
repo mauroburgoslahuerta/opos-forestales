@@ -9,7 +9,7 @@
       "ok": true,
       "conf": "media",
       "fonte": "coñecemento",
-      "exp": "Para feridas leves, é correcto evitar a contaminación, desinfectar e vendar para previr infeccións."
+      "exp": "Ambas pautas, desinfectar e vendar, son correctas para o tratamento de feridas leves."
     },
     {
       "id": "506c0737-2224-4589-8afc-0bf1d5c65dc2",
@@ -19,7 +19,7 @@
       "ok": true,
       "conf": "alta",
       "fonte": "temario",
-      "exp": "Todas as opcións reflicten normas de combate esenciais: información (Norma 1), seguridade (Norma 10) e actitude (Norma 6)."
+      "exp": "As opcións A, B e C recollen aspectos das 10 Normas de Seguridade para a extinción. (Manual Prev. Riscos, páx. 35)"
     },
     {
       "id": "d18bd2a1-deb6-4a98-903e-2ddd0e424b74",
@@ -29,17 +29,17 @@
       "ok": true,
       "conf": "media",
       "fonte": "coñecemento",
-      "exp": "A gravidade dunha queimadura valórase pola súa profundidade, extensión e localización no corpo."
+      "exp": "A gravidade dunha queimadura valórase pola súa profundidade, extensión e localización."
     },
     {
       "id": "4edcefb9-dcd0-46ef-9c62-8e43b4efdf8f",
       "n": 4,
       "actual": "d",
-      "correcta": "d",
+      "correcta": "a",
       "ok": false,
       "conf": "alta",
       "fonte": "temario",
-      "exp": "Pregunta mal formulada. As opcións A, B e C son todas normas básicas de seguridade. Debería ser 'Todas son correctas'."
+      "exp": "A pregunta é ambigua. As opcións A, B e C son todas normas básicas de seguridade. A opción D é incorrecta porque exclúe a C."
     },
     {
       "id": "4232dea0-ae4a-434b-bdfd-56bc091c0f0a",
@@ -49,7 +49,7 @@
       "ok": true,
       "conf": "media",
       "fonte": "coñecemento",
-      "exp": "En feridas graves, é vital controlar os signos vitais, cubrir a ferida con material estéril e evacuar."
+      "exp": "Para feridas graves, é crucial controlar signos vitais, cubrir a ferida e evacuar. Ambas A e B son correctas."
     },
     {
       "id": "bae0d412-7e75-4b44-9e32-0386dfac70ca",
@@ -59,1111 +59,1041 @@
       "ok": true,
       "conf": "alta",
       "fonte": "coñecemento",
-      "exp": "O protocolo estándar de RCP para adultos establece unha relación de 30 compresións por cada 2 insuflacións."
-    },
-    {
-      "id": "a0a65d78-8e94-4a31-a7b1-df8c855efd40",
-      "n": 7,
-      "actual": "a",
-      "correcta": "a",
-      "ok": false,
-      "conf": "alta",
-      "fonte": "temario",
-      "exp": "Pregunta mal formulada. Tanto a opción A como a C son situacións de perigo listadas no manual de prevención (páx. 33)."
-    },
-    {
-      "id": "7ec2409c-6013-470e-8216-fada6cab4182",
-      "n": 8,
-      "actual": "a",
-      "correcta": "c",
-      "ok": false,
-      "conf": "alta",
-      "fonte": "temario",
-      "exp": "O temario (Protocolo OACEL, páx. 5) define a observación e despois explica 'Que implica? Implica situar a un ou varios observadores'."
+      "exp": "O protocolo estándar de RCP para adultos establece unha relación de 30 compresións torácicas por cada 2 insuflacións."
     },
     {
       "id": "5c99d202-089d-4b1f-8ee2-f2769c25dc01",
-      "n": 9,
+      "n": 7,
       "actual": "d",
       "correcta": "d",
       "ok": true,
       "conf": "alta",
       "fonte": "temario",
-      "exp": "A afirmación 'd' é falsa. A 'C' en OACEL significa Comunicación, non Comportamento do lume (Protocolo OACEL, páx. 3)."
+      "exp": "A 'C' en OACEL significa Comunicación, non Comportamento do lume. (AGASP OACEL, páx. 3)"
     },
     {
       "id": "13376ac8-e5b9-4e97-a285-62a6eae98495",
-      "n": 10,
+      "n": 8,
       "actual": "b",
       "correcta": "b",
       "ok": true,
-      "conf": "media",
-      "fonte": "coñecemento",
-      "exp": "Os EPI de categoría II están deseñados para protexer contra riscos de gravidade intermedia (riscos graves)."
-    },
-    {
-      "id": "d1eda63c-1084-4555-b0d3-8f484d6554b5",
-      "n": 11,
-      "actual": "b",
-      "correcta": "b",
-      "ok": false,
       "conf": "alta",
-      "fonte": "temario",
-      "exp": "Pregunta mal formulada. O protocolo é OACEL (Atención), non OALEL (Alerta). A opción B é a máis próxima á correcta."
+      "fonte": "coñecemento",
+      "exp": "A Categoría II de EPI corresponde a riscos de nivel intermedio ou grave, non mínimos nin mortais."
     },
     {
       "id": "746a9f2a-f008-4ee6-9605-36c4ef0f9d7b",
-      "n": 12,
+      "n": 9,
       "actual": "c",
       "correcta": "c",
       "ok": true,
       "conf": "baixa",
       "fonte": "coñecemento",
-      "exp": "Non se pode verificar sen o documento PLADIGA. A resposta baséase na clave proporcionada."
+      "exp": "A resposta depende da estrutura específica do PLADIGA 2025, non dispoñible para verificación directa."
     },
     {
       "id": "f08ab327-690f-432d-baa3-73e42c308518",
-      "n": 13,
+      "n": 10,
       "actual": "a",
       "correcta": "a",
       "ok": true,
       "conf": "alta",
       "fonte": "temario",
-      "exp": "O obxectivo principal do OACEL é dotar de elementos de seguridade para minimizar o risco de atrapamento (Protocolo OACEL, páx. 2)."
+      "exp": "O obxectivo principal do OACEL é minimizar o risco de atrapamento. (AGASP OACEL, páx. 2)"
     },
     {
       "id": "89e2232f-5576-40f7-b68d-53807360a73e",
+      "n": 11,
+      "actual": "d",
+      "correcta": "d",
+      "ok": true,
+      "conf": "media",
+      "fonte": "coñecemento",
+      "exp": "A valoración dunha ferida require considerar a súa extensión, profundidade, localización e nivel de contaminación."
+    },
+    {
+      "id": "ba71a985-40bc-41c4-a813-86ebddd23abe",
+      "n": 12,
+      "actual": "d",
+      "correcta": "d",
+      "ok": true,
+      "conf": "media",
+      "fonte": "coñecemento",
+      "exp": "A seguridade baséase no coñecemento (lume, normas), equipamento (EPI) e procedementos (10/18)."
+    },
+    {
+      "id": "0c0abfc8-8f39-4aaf-9c47-dea05b0d3e51",
+      "n": 13,
+      "actual": "c",
+      "correcta": "c",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "temario",
+      "exp": "Unha das 18 situacións de atención é non coñecer o comportamento do lume. É prioritario obter esa información."
+    },
+    {
+      "id": "60ed2a17-9d48-471f-94a6-efcbf92a08b8",
       "n": 14,
       "actual": "d",
       "correcta": "d",
       "ok": true,
-      "conf": "media",
-      "fonte": "coñecemento",
-      "exp": "Para valorar unha ferida, considéranse a súa extensión, profundidade, localización e o grao de contaminación."
-    },
-    {
-      "id": "ba71a985-40bc-41c4-a813-86ebddd23abe",
-      "n": 15,
-      "actual": "d",
-      "correcta": "d",
-      "ok": true,
-      "conf": "media",
-      "fonte": "coñecemento",
-      "exp": "A seguridade baséase en normas (a), coñecemento técnico (b) e equipamento axeitado (c). Todas son correctas."
-    },
-    {
-      "id": "654282ef-9df0-4192-a907-1d246ccd5266",
-      "n": 16,
-      "actual": "a",
-      "correcta": "d",
-      "ok": false,
       "conf": "alta",
       "fonte": "temario",
-      "exp": "O temario (Protocolo OACEL, páx. 3) indica que o OACEL contempla as 18 situacións e dá lugar ás 10 normas."
-    },
-    {
-      "id": "0c0abfc8-8f39-4aaf-9c47-dea05b0d3e51",
-      "n": 17,
-      "actual": "c",
-      "correcta": "c",
-      "ok": true,
-      "conf": "media",
-      "fonte": "coñecemento",
-      "exp": "A seguridade é prioritaria. Non se debe actuar sen coñecer o comportamento esperado do lume."
-    },
-    {
-      "id": "60ed2a17-9d48-471f-94a6-efcbf92a08b8",
-      "n": 18,
-      "actual": "d",
-      "correcta": "d",
-      "ok": true,
-      "conf": "alta",
-      "fonte": "temario",
-      "exp": "Todas as situacións descritas (a, b, c) están listadas como perigosas no manual de prevención (páx. 33)."
+      "exp": "Todas as situacións descritas (liña costa abaixo, cambio de vento, combustible intermedio) son situacións de perigo."
     },
     {
       "id": "2a034476-28ee-4aec-973b-a826ecb6185d",
-      "n": 19,
+      "n": 15,
       "actual": "a",
       "correcta": "a",
       "ok": true,
       "conf": "media",
       "fonte": "coñecemento",
-      "exp": "Un incendio en terreo chairo e sen vento presenta un risco significativamente menor que as outras situacións."
+      "exp": "Un incendio en terreo chairo e sen vento presenta un risco significativamente menor que as outras opcións."
     },
     {
       "id": "a0f4c615-0930-4d1c-aa3a-a83c15d8e94d",
-      "n": 20,
+      "n": 16,
       "actual": "d",
       "correcta": "d",
       "ok": true,
-      "conf": "media",
-      "fonte": "coñecemento",
-      "exp": "Actuar sen explorar e dimensionar un incendio compromete gravemente a seguridade do persoal."
+      "conf": "alta",
+      "fonte": "temario",
+      "exp": "Actuar sen explorar e dimensionar o incendio é unha situación de atención que compromete gravemente a seguridade."
     },
     {
       "id": "98515c9b-d5d5-4181-959d-c39dffec180c",
-      "n": 21,
+      "n": 17,
       "actual": "b",
       "correcta": "b",
       "ok": true,
-      "conf": "media",
+      "conf": "alta",
       "fonte": "coñecemento",
-      "exp": "Un punto de ancoraxe debe ser seguro. Unha zona negra aínda quente non é segura por risco de reactivacións ou colapsos."
+      "exp": "Un punto de ancoraxe debe ser seguro. Unha zona negra quente é perigosa por calor residual e posibles reactivacións."
     },
     {
       "id": "4c233cbe-410d-4404-8dfc-f69b5e3bc758",
-      "n": 22,
+      "n": 18,
       "actual": "c",
       "correcta": "c",
       "ok": true,
-      "conf": "media",
+      "conf": "alta",
       "fonte": "coñecemento",
-      "exp": "A cabeza do incendio é a zona de maior intensidade e velocidade de avance, o que aumenta o risco de atrapamento."
+      "exp": "A cabeza do lume é a parte de maior intensidade e velocidade de avance, o que eleva o risco de atrapamento."
     },
     {
       "id": "236cc1da-feab-4bf2-8e81-dd2190b365f9",
-      "n": 23,
+      "n": 19,
       "actual": "c",
       "correcta": "c",
       "ok": true,
       "conf": "alta",
       "fonte": "temario",
-      "exp": "A falta de visión e comunicación sobre a posición do lume principal é unha situación de risco grave (Manual, páx. 33)."
+      "exp": "A falta de visión e comunicación sobre o comportamento do lume é unha das 18 situacións de atención de alto risco."
     },
     {
       "id": "47ed4202-3970-46a3-9be5-b544e94b7db0",
+      "n": 20,
+      "actual": "c",
+      "correcta": "c",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "coñecemento",
+      "exp": "O material rodante incandescente pode cruzar as liñas de control e xerar focos secundarios ladeira abaixo."
+    },
+    {
+      "id": "bf1dcab3-3820-4243-b644-182297327586",
+      "n": 21,
+      "actual": "c",
+      "correcta": "c",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "coñecemento",
+      "exp": "O vento forte ou cambiante é un dos factores meteorolóxicos que máis aumenta o perigo e a imprevisibilidade do lume."
+    },
+    {
+      "id": "e8feb802-9ccf-495f-a343-23971e015ec7",
+      "n": 22,
+      "actual": "c",
+      "correcta": "c",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "coñecemento",
+      "exp": "Descansar preto da fronte activa expón ao persoal a riscos e diminúe a súa capacidade de reacción ante imprevistos."
+    },
+    {
+      "id": "f2da0c30-92d8-4fb3-8a61-28dd786c710e",
+      "n": 23,
+      "actual": "b",
+      "correcta": "b",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "temario",
+      "exp": "A comunicación é un piar da seguridade (a 'C' de OACEL). A súa falta xera descontrol e aumenta o risco."
+    },
+    {
+      "id": "672303a6-0346-49b9-b2af-d233ad458416",
       "n": 24,
       "actual": "c",
       "correcta": "c",
       "ok": true,
       "conf": "alta",
-      "fonte": "temario",
-      "exp": "O material en ignición que roda por unha pendente pode iniciar focos secundarios por debaixo da liña de defensa."
+      "fonte": "coñecemento",
+      "exp": "O vento é o principal factor que determina a velocidade e a dirección de propagación dun incendio forestal."
     },
     {
-      "id": "bf1dcab3-3820-4243-b644-182297327586",
+      "id": "6fab8b53-c5fa-4dc9-b707-7151c2700ccb",
       "n": 25,
-      "actual": "c",
-      "correcta": "c",
+      "actual": "b",
+      "correcta": "b",
       "ok": true,
       "conf": "alta",
       "fonte": "temario",
-      "exp": "O vento forte ou cambiante é un dos factores meteorolóxicos que máis aumenta o perigo nun incendio (Manual, páx. 33)."
+      "exp": "A construción de liñas ladeira abaixo é unha das manobras máis perigosas e só debe ser realizada por persoal experto."
     },
     {
-      "id": "e8feb802-9ccf-495f-a343-23971e015ec7",
+      "id": "1ef20c14-f245-4f21-b2a0-7586f061a458",
       "n": 26,
       "actual": "c",
       "correcta": "c",
       "ok": true,
       "conf": "alta",
-      "fonte": "temario",
-      "exp": "Descansar preto da fronte de chamas é perigoso, reduce a capacidade de reacción e aumenta o risco (Manual, páx. 32)."
-    },
-    {
-      "id": "f2da0c30-92d8-4fb3-8a61-28dd786c710e",
-      "n": 27,
-      "actual": "b",
-      "correcta": "b",
-      "ok": true,
-      "conf": "alta",
-      "fonte": "temario",
-      "exp": "A falta de comunicación xera situacións de perigo ao impedir a coordinación e o aviso de riscos (Protocolo OACEL, páx. 8)."
-    },
-    {
-      "id": "672303a6-0346-49b9-b2af-d233ad458416",
-      "n": 28,
-      "actual": "c",
-      "correcta": "c",
-      "ok": true,
-      "conf": "media",
       "fonte": "coñecemento",
-      "exp": "O vento é un factor clave que determina a velocidade e a dirección de propagación do lume."
-    },
-    {
-      "id": "6fab8b53-c5fa-4dc9-b707-7151c2700ccb",
-      "n": 29,
-      "actual": "b",
-      "correcta": "b",
-      "ok": true,
-      "conf": "media",
-      "fonte": "coñecemento",
-      "exp": "Construír unha liña descendente é unha táctica de alto risco que só debe ser executada por persoal cualificado."
-    },
-    {
-      "id": "1ef20c14-f245-4f21-b2a0-7586f061a458",
-      "n": 30,
-      "actual": "c",
-      "correcta": "c",
-      "ok": true,
-      "conf": "alta",
-      "fonte": "temario",
-      "exp": "Unha comunicación efectiva e segura require confirmación da recepción da mensaxe para garantir o enlace (Protocolo OACEL, páx. 8)."
+      "exp": "En comunicacións críticas, é fundamental confirmar a recepción para asegurar que a mensaxe foi entendida."
     },
     {
       "id": "cef7d617-8640-4cd1-8356-757631186cf0",
-      "n": 31,
+      "n": 27,
       "actual": "c",
       "correcta": "c",
       "ok": true,
-      "conf": "media",
+      "conf": "alta",
       "fonte": "coñecemento",
-      "exp": "Unha mala elección do punto de ancoraxe pode comprometer a liña de defensa e provocar accidentes graves."
+      "exp": "O punto de ancoraxe é a base da seguridade da liña de defensa. Unha mala elección pode comprometer a toda a brigada."
     },
     {
       "id": "4208098a-d9d3-4d4a-824f-98b63a85e879",
-      "n": 32,
+      "n": 28,
       "actual": "b",
-      "correcta": "b",
+      "correcta": "d",
       "ok": false,
       "conf": "alta",
       "fonte": "temario",
-      "exp": "Pregunta mal formulada. O protocolo é OACEL (Atención), non OALEL (Alerta). A opción B é a máis próxima á correcta."
+      "exp": "A 'A' en OACEL significa Atención, non Alerta. Polo tanto, ningunha das opcións é correcta. (AGASP OACEL, páx. 3)"
     },
     {
       "id": "2bb69a83-ed8f-440f-ad7c-72695d92a856",
-      "n": 33,
+      "n": 29,
       "actual": "c",
       "correcta": "c",
       "ok": true,
       "conf": "alta",
       "fonte": "temario",
-      "exp": "A aplicación do OACEL implica unha avaliación continua dos seus cinco puntos para adaptarse aos cambios (Protocolo OACEL, páx. 4)."
+      "exp": "OACEL é un proceso dinámico que require a reavaliación continua dos seus cinco compoñentes. (AGASP OACEL, páx. 4)"
     },
     {
       "id": "44b0380d-9708-4bfa-af91-74a0e1c58611",
-      "n": 34,
+      "n": 30,
       "actual": "d",
       "correcta": "d",
       "ok": true,
-      "conf": "media",
-      "fonte": "coñecemento",
-      "exp": "A ruta de escape é un compoñente do OACEL, pero non é suficiente por si soa; debe cumprirse o protocolo completo."
+      "conf": "alta",
+      "fonte": "temario",
+      "exp": "OACEL é un sistema integral; os seus cinco compoñentes deben funcionar conxuntamente para garantir a seguridade."
     },
     {
       "id": "a464063f-fa33-4f76-b690-288b4f6bceba",
+      "n": 31,
+      "actual": "d",
+      "correcta": "d",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "temario",
+      "exp": "As funcións do observador inclúen detectar cambios no lume, meteoroloxía, focos secundarios e vento. (AGASP OACEL, páx. 6)"
+    },
+    {
+      "id": "86e60826-afbf-445e-959b-c372a3789e1f",
+      "n": 32,
+      "actual": "c",
+      "correcta": "c",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "temario",
+      "exp": "A Atención implica ser consciente do entorno e poñer en relación o observado cos demais factores. (AGASP OACEL, páx. 7)"
+    },
+    {
+      "id": "948c9d20-6db2-40db-8176-bab0e9d554c9",
+      "n": 33,
+      "actual": "a",
+      "correcta": "a",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "temario",
+      "exp": "É fundamental establecer e manter canles de comunicación entre observador, mando e equipos. (AGASP OACEL, páx. 8)"
+    },
+    {
+      "id": "5cbf7e14-5a61-4178-a162-304a83f3daaf",
+      "n": 34,
+      "actual": "b",
+      "correcta": "b",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "temario",
+      "exp": "A Ruta de Escape é o camiño para abandonar de forma segura o lugar de traballo se é necesario. (AGASP OACEL, páx. 9)"
+    },
+    {
+      "id": "7aa30d38-53c1-4578-a650-7a36c3595762",
       "n": 35,
       "actual": "d",
       "correcta": "d",
       "ok": true,
       "conf": "alta",
       "fonte": "temario",
-      "exp": "As funcións do observador inclúen detectar cambios no lume, meteoroloxía, focos secundarios e cambios no vento (OACEL, páx. 6)."
+      "exp": "As rutas de escape deben conducir a un lugar seguro, ser avaliadas e estar limpas de obstáculos. (AGASP OACEL, páx. 9)"
     },
     {
-      "id": "86e60826-afbf-445e-959b-c372a3789e1f",
+      "id": "872e0c0a-1495-4339-8316-a1c8de903214",
       "n": 36,
-      "actual": "c",
-      "correcta": "c",
-      "ok": true,
-      "conf": "alta",
-      "fonte": "temario",
-      "exp": "A Atención implica ser consciente do entorno e poñer en relación o observado cos demais factores (Protocolo OACEL, páx. 7)."
-    },
-    {
-      "id": "948c9d20-6db2-40db-8176-bab0e9d554c9",
-      "n": 37,
-      "actual": "a",
-      "correcta": "a",
-      "ok": true,
-      "conf": "alta",
-      "fonte": "temario",
-      "exp": "No protocolo OACEL débense establecer e manter en todo momento canles de comunicación (Protocolo OACEL, páx. 8)."
-    },
-    {
-      "id": "5cbf7e14-5a61-4178-a162-304a83f3daaf",
-      "n": 38,
       "actual": "b",
       "correcta": "b",
       "ok": true,
       "conf": "alta",
       "fonte": "temario",
-      "exp": "A Ruta de Escape é a vía para abandonar de forma segura o lugar de traballo se é necesario (Protocolo OACEL, páx. 9)."
+      "exp": "Un Lugar Seguro é unha área desprovista de combustible que impida a propagación do lume. (AGASP OACEL, páx. 11)"
     },
     {
-      "id": "7aa30d38-53c1-4578-a650-7a36c3595762",
+      "id": "081e7e56-ce64-4a7f-9514-1041f500f961",
+      "n": 37,
+      "actual": "d",
+      "correcta": "d",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "temario",
+      "exp": "As zonas de seguridade deben permitir soportar o paso do lume, considerar o peor escenario e a zona queimada é ideal."
+    },
+    {
+      "id": "0c794289-9465-42cd-ba66-1477fb54bf6b",
+      "n": 38,
+      "actual": "a",
+      "correcta": "b",
+      "ok": false,
+      "conf": "alta",
+      "fonte": "temario",
+      "exp": "A fórmula é DSS=8*Δ*Hveg. Para 20km/h (aprox 16) e pendente 0, Δ=1. DSS=8*1*Hveg. A pregunta está mal formulada."
+    },
+    {
+      "id": "c888e152-7a5d-4f5b-8918-99a66df77f7a",
       "n": 39,
       "actual": "d",
       "correcta": "d",
       "ok": true,
       "conf": "alta",
       "fonte": "temario",
-      "exp": "As rutas de escape deben conducir a un lugar seguro, ser avaliadas e estar limpas de obstáculos (Protocolo OACEL, páx. 9)."
-    },
-    {
-      "id": "52800dea-8177-4d13-8630-9d76c522b551",
-      "n": 40,
-      "actual": "b",
-      "correcta": "a",
-      "ok": false,
-      "conf": "alta",
-      "fonte": "temario",
-      "exp": "A velocidade do persoal en terreo con pendente 0% é de 80 m/min (Protocolo OACEL, páx. 10)."
-    },
-    {
-      "id": "872e0c0a-1495-4339-8316-a1c8de903214",
-      "n": 41,
-      "actual": "b",
-      "correcta": "b",
-      "ok": true,
-      "conf": "alta",
-      "fonte": "temario",
-      "exp": "Un Lugar Seguro defínese como unha área desprovista de combustible ou con niveis moi baixos (Protocolo OACEL, páx. 11)."
-    },
-    {
-      "id": "081e7e56-ce64-4a7f-9514-1041f500f961",
-      "n": 42,
-      "actual": "d",
-      "correcta": "d",
-      "ok": true,
-      "conf": "alta",
-      "fonte": "temario",
-      "exp": "As zonas de seguridade deben permitir soportar o paso do lume, considerar o peor escenario e a zona queimada é ideal (OACEL, páx. 11)."
-    },
-    {
-      "id": "0c794289-9465-42cd-ba66-1477fb54bf6b",
-      "n": 43,
-      "actual": "a",
-      "correcta": "a",
-      "ok": false,
-      "conf": "alta",
-      "fonte": "temario",
-      "exp": "A fórmula é DSS=8*Δ*Hveg. Para 16km/h (próximo a 20) e pendente 0, Δ=1. DSS=8*1*Hveg. A pregunta está mal formulada."
-    },
-    {
-      "id": "c888e152-7a5d-4f5b-8918-99a66df77f7a",
-      "n": 44,
-      "actual": "d",
-      "correcta": "d",
-      "ok": true,
-      "conf": "alta",
-      "fonte": "temario",
-      "exp": "Non traballar por riba da altura do ombro é unha medida para evitar sobreesforzos, non caídas a distinto nivel (Manual, páx. 17)."
+      "exp": "Non traballar por riba da altura do ombro é unha medida para evitar sobreesforzos, non caídas. (Manual Prev., páx. 17)"
     },
     {
       "id": "5550f33b-141e-4d71-8c94-b88c32a61674",
-      "n": 45,
+      "n": 40,
       "actual": "c",
       "correcta": "c",
       "ok": true,
       "conf": "alta",
       "fonte": "temario",
-      "exp": "A primeira precaución é recoñecer o terreo e establecer unha ruta de escape antes de comezar a traballar (Manual, páx. 32)."
+      "exp": "A primeira precaución é recoñecer o terreo e establecer unha ruta de escape, non comezar a traballar de inmediato."
     },
     {
       "id": "5f7300d0-4a84-4dcf-a9e6-e861912ac3a8",
-      "n": 46,
+      "n": 41,
       "actual": "d",
-      "correcta": "d",
-      "ok": true,
+      "correcta": "a",
+      "ok": false,
       "conf": "alta",
       "fonte": "temario",
-      "exp": "Non traballar illado (Manual, páx. 33), vixiar o entorno (Norma 2) e manter distancia con ferramentas (Manual, páx. 8) son precaucións."
+      "exp": "A separación mínima con ferramentas manuais é de 3 metros, non con ferramentas en xeral. A opción D é incorrecta."
     },
     {
       "id": "7b34686c-576d-4324-a679-ce2cdf435b6f",
-      "n": 47,
+      "n": 42,
       "actual": "a",
       "correcta": "d",
       "ok": false,
       "conf": "alta",
       "fonte": "temario",
-      "exp": "As opcións a, b e c son precaucións correctas. A liña cara abaixo é perigosa (a), non mollar liñas eléctricas (b)."
+      "exp": "As opcións A e B son correctas. A C é incorrecta (non se traballa contra un incendio ascendente). D é a mellor opción."
     },
     {
       "id": "4a33f3b8-00ab-4a7e-a0ce-39bc20aaef87",
-      "n": 48,
+      "n": 43,
       "actual": "d",
       "correcta": "d",
       "ok": true,
       "conf": "alta",
       "fonte": "temario",
-      "exp": "Todas as precaucións son correctas para tarefas de vixilancia en torres ou postos elevados (Manual, páx. 5, 20, 28)."
+      "exp": "Todas as precaucións listadas son correctas para as tarefas de vixilancia e detección."
     },
     {
       "id": "da7d146c-2911-490b-a4e5-8d805a8fe825",
-      "n": 49,
+      "n": 44,
       "actual": "a",
       "correcta": "d",
       "ok": false,
       "conf": "alta",
       "fonte": "temario",
-      "exp": "Todas as opcións son precaucións correctas ao camiñar polo monte durante a extinción (Manual, páx. 5, 6, 7)."
-    },
-    {
-      "id": "ee82369e-6596-40ea-b93a-9d51f1b443b1",
-      "n": 50,
-      "actual": "a",
-      "correcta": "b",
-      "ok": false,
-      "conf": "alta",
-      "fonte": "temario",
-      "exp": "Nunha ladeira, as ferramentas deben levarse polo lado descendente para evitar que caian sobre un (Manual, páx. 6)."
+      "exp": "Todas as opcións (A, B, C) son precaucións correctas ao camiñar polo monte. (Manual Prev. Riscos)"
     },
     {
       "id": "92a4c619-67cc-496a-b82a-98a910e3bd43",
-      "n": 51,
+      "n": 45,
       "actual": "c",
       "correcta": "c",
       "ok": true,
       "conf": "media",
       "fonte": "coñecemento",
-      "exp": "En liquidación, é crucial vixiar o combustible sen queimar (rebrotes) e ter coidado con toróns ou tocos acesos."
+      "exp": "En labores de liquidación é crucial vixiar o combustible sen queimar e ter coidado con toróns ou tocos acesos."
     },
     {
       "id": "5352a015-2cf7-4c6b-86ad-234acb7e894b",
-      "n": 52,
+      "n": 46,
       "actual": "a",
       "correcta": "a",
       "ok": true,
       "conf": "alta",
       "fonte": "temario",
-      "exp": "As ferramentas deben transportarse en posición horizontal para evitar golpear as pas do rotor (Manual, páx. 27)."
+      "exp": "As ferramentas deben transportarse en posición horizontal para evitar golpes coas pas do rotor. (Manual Prev., páx. 27)"
     },
     {
       "id": "993c72cc-2e84-4823-af94-072d5b7e46af",
-      "n": 53,
+      "n": 47,
       "actual": "c",
       "correcta": "c",
       "ok": true,
       "conf": "alta",
       "fonte": "temario",
-      "exp": "Para escapar, débese evitar o pánico e, se a ruta é clara, afastarse cara os flancos costa abaixo (Manual, páx. 34)."
+      "exp": "Débese evitar o pánico e afastarse cara os flancos, ladeira abaixo se o escape é claro. (AGASP OACEL, páx. 14)"
     },
     {
       "id": "850b7007-fd9b-4297-aa3d-6e5c9134f65b",
-      "n": 54,
+      "n": 48,
       "actual": "c",
       "correcta": "c",
       "ok": true,
       "conf": "alta",
       "fonte": "temario",
-      "exp": "Débese manter distancia (2m, non 3m) e levar a ferramenta polo lado descendente, non o de arriba (Manual, páx. 6)."
+      "exp": "Débese manter separación e levar a ferramenta polo lado descendente. (Manual Prev. Riscos, páx. 6)"
     },
     {
       "id": "166e8e07-3766-46b3-9534-c7ebbe15d028",
+      "n": 49,
+      "actual": "b",
+      "correcta": "b",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "temario",
+      "exp": "Ao desembarcar nunha ladeira, hai que facelo pola parte baixa para maximizar a distancia co rotor. (Manual Prev., páx. 27)"
+    },
+    {
+      "id": "49e0a037-7e49-4231-ab6b-33c000c37d89",
+      "n": 50,
+      "actual": "a",
+      "correcta": "a",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "temario",
+      "exp": "Se non é posible retirarse, hai que protexerse detrás dunha rocha ou tronco. (Manual Prev. Riscos, páx. 7)"
+    },
+    {
+      "id": "f0182406-a2b5-41bf-b589-ba5c2ee05857",
+      "n": 51,
+      "actual": "b",
+      "correcta": "b",
+      "ok": true,
+      "conf": "media",
+      "fonte": "coñecemento",
+      "exp": "Para evitar que roden, os troncos deben asegurarse de forma perpendicular á liña de máxima pendente."
+    },
+    {
+      "id": "ee1192e0-319b-480b-b783-9f191563113d",
+      "n": 52,
+      "actual": "c",
+      "correcta": "c",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "temario",
+      "exp": "É unha norma de seguridade básica afastar a máquina da zona de repostaxe antes de arrincala. (Manual Prev., páx. 23)"
+    },
+    {
+      "id": "accc1e26-900a-420a-b04f-d08c0921893e",
+      "n": 53,
+      "actual": "d",
+      "correcta": "d",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "temario",
+      "exp": "Todas as opcións son precaucións correctas para o manexo de ferramentas manuais. (Manual Prev. Riscos, páx. 8)"
+    },
+    {
+      "id": "908ffa8e-94d7-4650-b00d-10504e829066",
+      "n": 54,
+      "actual": "a",
+      "correcta": "a",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "temario",
+      "exp": "Ao desprazarse, a ferramenta (machada) ponse sobre o ombro coa parte metálica cara atrás. (Manual Prev. Riscos, páx. 8)"
+    },
+    {
+      "id": "7c0f10e1-9011-4bce-8352-29ba0fa29db8",
       "n": 55,
       "actual": "b",
       "correcta": "b",
       "ok": true,
       "conf": "alta",
       "fonte": "temario",
-      "exp": "Ao desembarcar en ladeira, hai que afastarse pola parte máis baixa para maximizar a distancia co rotor (Manual, páx. 27)."
+      "exp": "Débese transitar por zonas despexadas e seguras, evitando riscos innecesarios. (Manual Prev. Riscos, páx. 6)"
     },
     {
-      "id": "49e0a037-7e49-4231-ab6b-33c000c37d89",
+      "id": "b821cb75-37f9-4b7b-b738-69a91249a7ce",
       "n": 56,
-      "actual": "a",
-      "correcta": "a",
+      "actual": "c",
+      "correcta": "c",
       "ok": true,
-      "conf": "alta",
-      "fonte": "temario",
-      "exp": "Se non é posible retirarse, hai que deitarse e protexerse detrás dunha rocha, tronco ou outra protección (Manual, páx. 7)."
+      "conf": "media",
+      "fonte": "coñecemento",
+      "exp": "Os elementos de seguridade clave son o freo de cadea, bloqueo do acelerador, protector, antivibración e funda."
     },
     {
-      "id": "f0182406-a2b5-41bf-b589-ba5c2ee05857",
+      "id": "6e172ebf-09f4-4291-8ceb-5c76076c372b",
       "n": 57,
+      "actual": "d",
+      "correcta": "d",
+      "ok": true,
+      "conf": "media",
+      "fonte": "coñecemento",
+      "exp": "Todas as opcións son normas de seguridade esenciais no manexo dunha motoserra."
+    },
+    {
+      "id": "4737f551-738f-46f1-ba1c-3d4a28524f19",
+      "n": 58,
       "actual": "b",
       "correcta": "b",
       "ok": true,
       "conf": "media",
       "fonte": "coñecemento",
-      "exp": "Para evitar que os troncos roden, deben asegurarse de forma perpendicular á liña de máxima pendente."
+      "exp": "Os elementos de seguridade clave nunha motorrozadora son o sistema antivibración, o silenciador e o protector do cabezal."
     },
     {
-      "id": "ee1192e0-319b-480b-b783-9f191563113d",
-      "n": 58,
-      "actual": "c",
-      "correcta": "c",
-      "ok": true,
-      "conf": "alta",
-      "fonte": "temario",
-      "exp": "Non se debe arrancar unha máquina no mesmo lugar onde se repostou por risco de incendio (Manual, páx. 23)."
-    },
-    {
-      "id": "accc1e26-900a-420a-b04f-d08c0921893e",
+      "id": "3cc034d5-73be-4aa7-a1cb-de1a3288ffc3",
       "n": 59,
+      "actual": "d",
+      "correcta": "d",
+      "ok": true,
+      "conf": "media",
+      "fonte": "coñecemento",
+      "exp": "Todas as opcións son precaucións correctas para o uso seguro da motorrozadora."
+    },
+    {
+      "id": "2f35a9b7-dbf6-414a-8f49-0197bb376f57",
+      "n": 60,
       "actual": "d",
       "correcta": "d",
       "ok": true,
       "conf": "alta",
       "fonte": "temario",
-      "exp": "Todas as opcións son precaucións correctas para o manexo de ferramentas manuais (Manual, páx. 8-9)."
+      "exp": "O vehículo debe situarse apartado do avance do lume e orientado cara á saída. (Manual Prev. Riscos, páx. 26)"
     },
     {
-      "id": "908ffa8e-94d7-4650-b00d-10504e829066",
-      "n": 60,
-      "actual": "a",
-      "correcta": "a",
-      "ok": true,
-      "conf": "alta",
-      "fonte": "temario",
-      "exp": "Ao desprazarse, a ferramenta lévase sobre o ombro coa parte metálica cara atrás (Manual, páx. 8). A opción 'a' é incorrecta."
-    },
-    {
-      "id": "7c0f10e1-9011-4bce-8352-29ba0fa29db8",
+      "id": "cf9cc958-ad8f-4628-b081-78d8ec9d855f",
       "n": 61,
-      "actual": "b",
-      "correcta": "b",
+      "actual": "d",
+      "correcta": "d",
       "ok": true,
       "conf": "alta",
       "fonte": "temario",
-      "exp": "Débese transitar por zonas despexadas, como camiños e pistas coñecidas, para evitar caídas e outros riscos (Manual, páx. 6)."
+      "exp": "Todas as opcións son normas de seguridade esenciais ao traballar con maquinaria pesada. (Manual Prev. Riscos, páx. 15)"
     },
     {
-      "id": "b821cb75-37f9-4b7b-b738-69a91249a7ce",
+      "id": "ec1473ce-94bd-4079-b949-eedd02f33fe4",
       "n": 62,
       "actual": "c",
       "correcta": "c",
       "ok": true,
-      "conf": "media",
-      "fonte": "coñecemento",
-      "exp": "Os elementos de seguridade clave son: freo de cadea, bloqueo do acelerador, protector de man, sistema antivibración e funda."
+      "conf": "alta",
+      "fonte": "temario",
+      "exp": "O persoal non debe situarse xusto enriba ou debaixo do tractor en terreo pendente. (Manual Prev. Riscos, páx. 25)"
     },
     {
-      "id": "6e172ebf-09f4-4291-8ceb-5c76076c372b",
+      "id": "9da0755e-dedd-435e-bc87-d6a67ed2dc8f",
       "n": 63,
       "actual": "d",
       "correcta": "d",
       "ok": true,
       "conf": "alta",
       "fonte": "temario",
-      "exp": "Todas as precaucións son correctas: transporte apagada, distancia de seguridade e non arrancar onde se repostou (Manual, páx. 23)."
+      "exp": "Todas as precaucións listadas son correctas para a seguridade durante descargas de avións. (Manual Prev. Riscos, páx. 7)"
     },
     {
-      "id": "4737f551-738f-46f1-ba1c-3d4a28524f19",
+      "id": "8f3b1a35-cfbd-4423-9527-13ba0f92cc11",
       "n": 64,
-      "actual": "b",
-      "correcta": "b",
-      "ok": true,
-      "conf": "media",
-      "fonte": "coñecemento",
-      "exp": "Os elementos de seguridade clave da rozadora son o sistema antivibración, o silenciador e o protector do cabezal de corte."
-    },
-    {
-      "id": "3cc034d5-73be-4aa7-a1cb-de1a3288ffc3",
-      "n": 65,
       "actual": "d",
       "correcta": "d",
       "ok": true,
       "conf": "alta",
       "fonte": "temario",
-      "exp": "Todas as opcións son precaucións correctas para o uso seguro da motorrozadora (Manual, páx. 12, 14)."
+      "exp": "Todas as precaucións listadas son correctas para a seguridade en operacións con helicópteros. (Manual Prev., páx. 27)"
     },
     {
-      "id": "2f35a9b7-dbf6-414a-8f49-0197bb376f57",
+      "id": "b53b52f6-3c7b-4052-af26-ab8239c0c187",
+      "n": 65,
+      "actual": "c",
+      "correcta": "c",
+      "ok": true,
+      "conf": "baixa",
+      "fonte": "coñecemento",
+      "exp": "Aínda que non se especifica no temario, 30m é unha distancia de seguridade estándar para fumar preto de aeronaves."
+    },
+    {
+      "id": "d8c25f7d-4e31-4eba-96e6-953e844b209c",
       "n": 66,
       "actual": "d",
       "correcta": "d",
       "ok": true,
       "conf": "alta",
       "fonte": "temario",
-      "exp": "O vehículo debe situarse apartado do avance do lume (a) e orientado cara a saída (b) (Manual, páx. 19, 26)."
+      "exp": "Todas as precaucións listadas son correctas para o transporte seguro en vehículos. (Manual Prev. Riscos, páx. 26)"
     },
     {
-      "id": "cf9cc958-ad8f-4628-b081-78d8ec9d855f",
+      "id": "f9ce59f9-1aa5-49f8-9039-05568b730e39",
       "n": 67,
       "actual": "d",
       "correcta": "d",
       "ok": true,
       "conf": "alta",
       "fonte": "temario",
-      "exp": "Todas as opcións son normas de seguridade esenciais no emprego de maquinaria pesada (Manual, páx. 15)."
-    },
-    {
-      "id": "ec1473ce-94bd-4079-b949-eedd02f33fe4",
-      "n": 68,
-      "actual": "c",
-      "correcta": "c",
-      "ok": true,
-      "conf": "alta",
-      "fonte": "temario",
-      "exp": "En terreo pendente, o persoal non debe colocarse xusto encima ou debaixo do tractor (Manual, páx. 25)."
-    },
-    {
-      "id": "9da0755e-dedd-435e-bc87-d6a67ed2dc8f",
-      "n": 69,
-      "actual": "d",
-      "correcta": "d",
-      "ok": true,
-      "conf": "alta",
-      "fonte": "temario",
-      "exp": "Todas as precaucións son correctas para evitar accidentes con descargas de avións (Manual, páx. 7)."
-    },
-    {
-      "id": "8f3b1a35-cfbd-4423-9527-13ba0f92cc11",
-      "n": 70,
-      "actual": "d",
-      "correcta": "d",
-      "ok": true,
-      "conf": "alta",
-      "fonte": "temario",
-      "exp": "Todas as precaucións son correctas para a seguridade en operacións con helicópteros (Manual, páx. 27)."
-    },
-    {
-      "id": "b53b52f6-3c7b-4052-af26-ab8239c0c187",
-      "n": 71,
-      "actual": "c",
-      "correcta": "c",
-      "ok": false,
-      "conf": "baixa",
-      "fonte": "coñecemento",
-      "exp": "A distancia de seguridade para fumar adoita ser de 15m (50 pés), pero 30m é unha resposta plausible. Non está no temario."
-    },
-    {
-      "id": "d8c25f7d-4e31-4eba-96e6-953e844b209c",
-      "n": 72,
-      "actual": "d",
-      "correcta": "d",
-      "ok": true,
-      "conf": "alta",
-      "fonte": "temario",
-      "exp": "Todas as precaucións son correctas para o transporte seguro en vehículo (Manual, páx. 26)."
-    },
-    {
-      "id": "f9ce59f9-1aa5-49f8-9039-05568b730e39",
-      "n": 73,
-      "actual": "d",
-      "correcta": "d",
-      "ok": true,
-      "conf": "alta",
-      "fonte": "temario",
-      "exp": "Todas as precaucións son correctas para o manexo seguro de retardantes (Manual, páx. 22)."
+      "exp": "Todas as precaucións listadas son correctas para o manexo seguro de retardantes. (Manual Prev. Riscos, páx. 22)"
     },
     {
       "id": "eb1ef4dd-387c-4754-a24c-2c86af8277ef",
-      "n": 74,
+      "n": 68,
       "actual": "d",
       "correcta": "d",
       "ok": true,
       "conf": "alta",
       "fonte": "temario",
-      "exp": "É correcto pechar o facho de goteo (a) e asegurarse de que non hai ninguén na zona (b) (Manual, páx. 23)."
+      "exp": "Ambas opcións A e B son precaucións correctas e esenciais ao realizar un contrafogo. (Manual Prev. Riscos, páx. 23)"
     },
     {
       "id": "d13f3996-ce66-4756-88bb-0daf8ccf426c",
-      "n": 75,
+      "n": 69,
       "actual": "a",
       "correcta": "a",
       "ok": true,
       "conf": "media",
       "fonte": "coñecemento",
-      "exp": "O peso máximo recomendado para manipulación manual de cargas en condicións ideais para un home é de 25 Kg."
+      "exp": "O límite xeral recomendado para a manipulación manual de cargas por un home é de 25 Kg."
     },
     {
       "id": "bc8cde0a-c33a-4b4f-ac47-ef948d048e78",
-      "n": 76,
+      "n": 70,
       "actual": "b",
       "correcta": "b",
       "ok": true,
       "conf": "media",
       "fonte": "coñecemento",
-      "exp": "O peso máximo recomendado para manipulación manual de cargas en condicións ideais para unha muller é de 15 Kg."
+      "exp": "O límite xeral recomendado para a manipulación manual de cargas por unha muller é de 15 Kg."
     },
     {
       "id": "243c71a7-b2de-417a-9c23-bd38c6f6016e",
-      "n": 77,
+      "n": 71,
       "actual": "a",
       "correcta": "c",
       "ok": false,
       "conf": "media",
       "fonte": "coñecemento",
-      "exp": "A opción 'c' é máis completa. A 'a' omite a estabilidade e a 'b' omite a presa de mans."
+      "exp": "A opción C é a máis completa. A opción A é case correcta pero omite a estabilidade, crucial antes de fixar a columna."
     },
     {
       "id": "ec67f231-065c-42bf-bd39-93a67a91f70c",
-      "n": 78,
+      "n": 72,
       "actual": "c",
       "correcta": "c",
       "ok": true,
       "conf": "alta",
       "fonte": "temario",
-      "exp": "Se hai liñas eléctricas, débese desconectar a corrente. Non se debe dirixir auga cara elas (Manual, páx. 32)."
-    },
-    {
-      "id": "861e1442-d484-411b-bfd2-cd7263eed332",
-      "n": 79,
-      "actual": "b",
-      "correcta": "a",
-      "ok": false,
-      "conf": "alta",
-      "fonte": "temario",
-      "exp": "O manual indica 'poñer a ferramenta sobre o ombro coa parte metálica cara atrás' (Manual, páx. 8)."
+      "exp": "Se hai liñas eléctricas, débese desconectar a corrente antes de actuar. (Manual Prev. Riscos, páx. 32)"
     },
     {
       "id": "8b0cd464-f82b-4d3f-8d02-97880e7ae41f",
-      "n": 80,
+      "n": 73,
       "actual": "c",
       "correcta": "c",
       "ok": true,
       "conf": "media",
       "fonte": "coñecemento",
-      "exp": "A hidratación e a protección solar son medidas preventivas esenciais contra a calor."
+      "exp": "A hidratación (beber auga) e a protección solar son medidas preventivas esenciais contra a calor."
     },
     {
       "id": "ea57ab5e-3d4e-4a1a-bf6a-7f29c962a78d",
+      "n": 74,
+      "actual": "c",
+      "correcta": "c",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "temario",
+      "exp": "Ante síntomas de esgotamento, débese parar e avisar ao superior para evitar un accidente."
+    },
+    {
+      "id": "451b4ee8-6657-4ffb-897d-c9ac905251d7",
+      "n": 75,
+      "actual": "c",
+      "correcta": "c",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "temario",
+      "exp": "Antes de dar un contrafogo, é imperativo asegurarse de que non hai ninguén na zona de perigo. (Manual Prev., páx. 23)"
+    },
+    {
+      "id": "d4494cb8-6249-4d8b-8576-38f97e2417e9",
+      "n": 76,
+      "actual": "a",
+      "correcta": "a",
+      "ok": true,
+      "conf": "media",
+      "fonte": "coñecemento",
+      "exp": "O golpe do batelume diríxese á base do combustible verde, preto do lume, para proxectar terra e apagar por sufocación."
+    },
+    {
+      "id": "c8cfc8c9-3425-47c5-a3fd-c12406feae1f",
+      "n": 77,
+      "actual": "b",
+      "correcta": "b",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "temario",
+      "exp": "Ao conducir de noite, o condutor debe ir acompañado para axudar a descubrir obstáculos. (Manual Prev. Riscos, páx. 26)"
+    },
+    {
+      "id": "44cc870c-d59f-40f2-862c-9f0bc5a86313",
+      "n": 78,
+      "actual": "b",
+      "correcta": "b",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "temario",
+      "exp": "Hai que deitarse de bruzos, co casco, dirixindo a cabeza cara ao avión. (Manual Prev. Riscos, páx. 7)"
+    },
+    {
+      "id": "8e7d1c7e-d804-4d51-9179-50b71ee4208e",
+      "n": 79,
+      "actual": "d",
+      "correcta": "d",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "temario",
+      "exp": "A norma xeral de combate é actuar agresivamente pero mantendo sempre a seguridade como prioridade. (Manual Prev., páx. 35)"
+    },
+    {
+      "id": "50740644-6d9e-47fc-b280-4768f5075c26",
+      "n": 80,
+      "actual": "b",
+      "correcta": "b",
+      "ok": true,
+      "conf": "media",
+      "fonte": "coñecemento",
+      "exp": "A definición legal de EPI refírese á protección contra un ou varios riscos."
+    },
+    {
+      "id": "5e24a225-5f67-4d35-b477-4c7b5334985c",
       "n": 81,
       "actual": "c",
       "correcta": "c",
       "ok": true,
-      "conf": "alta",
-      "fonte": "temario",
-      "exp": "Ante o esgotamento, débese parar e avisar. Continuar traballando aumenta o risco de accidentes (Manual, páx. 33)."
+      "conf": "media",
+      "fonte": "coñecemento",
+      "exp": "A roupa de traballo común, como unha camiseta de algodón, non se considera un EPI."
     },
     {
-      "id": "451b4ee8-6657-4ffb-897d-c9ac905251d7",
+      "id": "6613151d-9317-4b58-9adf-efd0e5109073",
       "n": 82,
-      "actual": "c",
-      "correcta": "c",
+      "actual": "d",
+      "correcta": "d",
       "ok": true,
-      "conf": "alta",
-      "fonte": "temario",
-      "exp": "Antes de dar un contralume, hai que asegurarse de que ninguén quedou na zona e contar o persoal (Manual, páx. 23)."
+      "conf": "media",
+      "fonte": "coñecemento",
+      "exp": "Todas as opcións son obrigas dos traballadores respecto ao uso e coidado dos EPIs."
     },
     {
-      "id": "d4494cb8-6249-4d8b-8576-38f97e2417e9",
+      "id": "1fe09def-089f-4f0b-9168-affca9818cd3",
       "n": 83,
       "actual": "a",
       "correcta": "a",
       "ok": true,
       "conf": "media",
       "fonte": "coñecemento",
-      "exp": "O golpe do batelume diríxese á base do combustible verde, preto do lume, para proxectalo cara a zona queimada."
+      "exp": "Unha condición indispensable para calquera EPI comercializado na UE é ter o marcado CE de conformidade."
     },
     {
-      "id": "c8cfc8c9-3425-47c5-a3fd-c12406feae1f",
+      "id": "19a20409-9409-425a-b65e-df655429d858",
       "n": 84,
       "actual": "b",
       "correcta": "b",
       "ok": true,
-      "conf": "alta",
-      "fonte": "temario",
-      "exp": "Ao conducir de noite, o condutor debe ir acompañado por outra persoa desperta que o axude (Manual, páx. 26)."
-    },
-    {
-      "id": "44cc870c-d59f-40f2-862c-9f0bc5a86313",
-      "n": 85,
-      "actual": "b",
-      "correcta": "b",
-      "ok": true,
-      "conf": "alta",
-      "fonte": "temario",
-      "exp": "Débese deitarse de bruzos no chan, co casco posto, dirixindo a cabeza cara ao avión (Manual, páx. 7)."
-    },
-    {
-      "id": "8e7d1c7e-d804-4d51-9179-50b71ee4208e",
-      "n": 86,
-      "actual": "d",
-      "correcta": "d",
-      "ok": true,
-      "conf": "alta",
-      "fonte": "temario",
-      "exp": "A seguridade é prioritaria. 'Actúe agresivamente contra o incendio, pero non esquenza que a seguranza é prioritaria' (Manual, páx. 35)."
-    },
-    {
-      "id": "50740644-6d9e-47fc-b280-4768f5075c26",
-      "n": 87,
-      "actual": "b",
-      "correcta": "b",
-      "ok": true,
       "conf": "media",
       "fonte": "coñecemento",
-      "exp": "A definición legal de EPI refírese á protección contra un ou varios riscos que poidan ameazar a seguridade ou saúde."
-    },
-    {
-      "id": "5e24a225-5f67-4d35-b477-4c7b5334985c",
-      "n": 88,
-      "actual": "c",
-      "correcta": "c",
-      "ok": true,
-      "conf": "media",
-      "fonte": "coñecemento",
-      "exp": "A roupa de traballo ordinaria, como unha camiseta de algodón, non se considera un Equipo de Protección Individual (EPI)."
-    },
-    {
-      "id": "6613151d-9317-4b58-9adf-efd0e5109073",
-      "n": 89,
-      "actual": "d",
-      "correcta": "d",
-      "ok": true,
-      "conf": "media",
-      "fonte": "coñecemento",
-      "exp": "As obrigas do traballador inclúen usar, coidar, informar de defectos e gardar correctamente os EPI."
-    },
-    {
-      "id": "1fe09def-089f-4f0b-9168-affca9818cd3",
-      "n": 90,
-      "actual": "a",
-      "correcta": "a",
-      "ok": true,
-      "conf": "media",
-      "fonte": "coñecemento",
-      "exp": "Todo EPI comercializado na UE debe levar o marcado CE como garantía de que cumpre as normativas de seguridade."
-    },
-    {
-      "id": "19a20409-9409-425a-b65e-df655429d858",
-      "n": 91,
-      "actual": "b",
-      "correcta": "b",
-      "ok": true,
-      "conf": "media",
-      "fonte": "coñecemento",
-      "exp": "Un EPI de categoría II require a marca CE, a Declaración de Conformidade do fabricante e un exame 'CE de tipo' por un organismo notificado."
+      "exp": "Un EPI de categoría II require o marcado CE, a Declaración de Conformidade e un exame 'CE de tipo' por un organismo notificado."
     },
     {
       "id": "a3423eb0-8029-40da-95b1-349c890a9785",
-      "n": 92,
+      "n": 85,
       "actual": "c",
       "correcta": "c",
       "ok": true,
       "conf": "media",
       "fonte": "coñecemento",
-      "exp": "O uso, almacenamento e mantemento dos EPI debe seguir sempre as instrucións proporcionadas polo fabricante."
+      "exp": "O uso, almacenamento e mantemento dos EPIs debe seguir sempre as instrucións proporcionadas polo fabricante."
     },
     {
       "id": "d2f198c7-b5f0-4077-a421-796111ae3779",
-      "n": 93,
+      "n": 86,
       "actual": "b",
       "correcta": "b",
       "ok": true,
-      "conf": "alta",
-      "fonte": "temario",
-      "exp": "As partes dun casco son o casquete (carcasa exterior), o arnés (suspensión interior) e o barboqueixo (cinta de suxeición)."
+      "conf": "media",
+      "fonte": "coñecemento",
+      "exp": "As partes substituíbles dun casco de protección son o casquete (carcasa exterior), o arnés (suspensión) e o barboqueixo."
     },
     {
       "id": "a20cdd8a-2c2a-4359-a1a7-a2e599d1f1fa",
-      "n": 94,
+      "n": 87,
       "actual": "d",
       "correcta": "d",
       "ok": true,
       "conf": "alta",
       "fonte": "temario",
-      "exp": "O casco protexe contra impactos por caída de obxectos, golpes e en caso de caída do propio usuario (Manual, páx. 31)."
+      "exp": "O casco protexe contra impactos (caídas, golpes) e rozaduras. (Manual Prev. Riscos, páx. 31)"
     },
     {
       "id": "82c1eeee-2312-4db0-83e1-35de2706fc88",
-      "n": 95,
+      "n": 88,
       "actual": "d",
       "correcta": "d",
       "ok": true,
       "conf": "media",
       "fonte": "coñecemento",
-      "exp": "O mantemento do casco inclúe a inspección de fisuras, a limpeza e a revisión periódica do arnés e barboqueixo."
+      "exp": "O mantemento do casco inclúe a inspección de fisuras, a limpeza e a revisión de todos os seus compoñentes."
     },
     {
       "id": "dd8332c5-0d84-4680-89a0-7851909f2a2f",
-      "n": 96,
+      "n": 89,
       "actual": "c",
-      "correcta": "c",
+      "correcta": "d",
       "ok": false,
       "conf": "baixa",
       "fonte": "coñecemento",
-      "exp": "A normativa para cascos de bombeiros forestais é complexa. EN 16471 é para incendios forestais. As outras son para outros usos."
+      "exp": "O PLADIGA pode esixir varias normas. EN 16471 (bombeiros forestais) e EN 16473 (rescate técnico) son relevantes."
     },
     {
       "id": "b5f87d80-041b-4819-95fe-76f6c3855878",
-      "n": 97,
+      "n": 90,
       "actual": "c",
       "correcta": "c",
       "ok": true,
       "conf": "alta",
       "fonte": "temario",
-      "exp": "As lentes constan de ocular (a lente), montura e banda de fixación (Manual, páx. 31)."
+      "exp": "As lentes constan de ocular (a lente), montura e banda de fixación. (Manual Prev. Riscos, páx. 31)"
     },
     {
       "id": "efd3e8d0-b690-4778-b79e-46ee60071412",
-      "n": 98,
+      "n": 91,
       "actual": "a",
       "correcta": "a",
       "ok": true,
       "conf": "media",
       "fonte": "coñecemento",
-      "exp": "As lentes de protección protexen contra po, fume, e o impacto de pequenas partículas como cinzas ou terra."
+      "exp": "As lentes de protección en incendios protexen principalmente contra partículas, po, fume e impactos."
     },
     {
       "id": "8a6f46e5-6630-4426-83fe-dee0d1d09c25",
-      "n": 99,
+      "n": 92,
       "actual": "d",
       "correcta": "d",
       "ok": true,
       "conf": "media",
       "fonte": "coñecemento",
-      "exp": "O mantemento inclúe limpeza, revisión da suxeición e inspección de deformacións por calor."
+      "exp": "O mantemento das lentes inclúe limpeza, revisión de deformacións e asegurar o correcto axuste da cinta."
     },
     {
       "id": "7d367405-8af2-4e83-b99e-c30b9127e6ff",
-      "n": 100,
+      "n": 93,
       "actual": "a",
       "correcta": "a",
       "ok": true,
-      "conf": "media",
+      "conf": "baixa",
       "fonte": "coñecemento",
-      "exp": "A norma EN-166 é o requisito xeral para protectores oculares. A EN-170 é para filtros ultravioleta."
+      "exp": "A norma base para lentes de protección é a EN-166. A EN-170 é para filtros ultravioleta. A EN-166 é a fundamental."
     },
     {
       "id": "6b7d5319-2d46-4ab8-98ff-e1aae7e69ef1",
-      "n": 101,
+      "n": 94,
       "actual": "a",
       "correcta": "a",
       "ok": true,
       "conf": "alta",
       "fonte": "temario",
-      "exp": "A máscara consta do corpo, bandas de fixación, válvulas de exhalación/inhalación e o filtro (Manual, páx. 31)."
+      "exp": "A máscara componse do corpo, banda de fixación, válvulas de exhalación/inhalación e o filtro. (Manual Prev., páx. 31)"
     },
     {
       "id": "11965e07-f63e-4793-a2b7-32f91b2dbfa4",
+      "n": 95,
+      "actual": "a",
+      "correcta": "a",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "temario",
+      "exp": "A máscara con filtro P3 protexe contra partículas (po, fume) e aerosois, é dicir, contaminación atmosférica."
+    },
+    {
+      "id": "3fadc4fc-e51d-4e5f-b34a-354a0a069711",
+      "n": 96,
+      "actual": "b",
+      "correcta": "b",
+      "ok": true,
+      "conf": "media",
+      "fonte": "coñecemento",
+      "exp": "O mantemento inclúe limpeza, revisión de compoñentes (válvulas) e a substitución dos filtros segundo a súa vida útil."
+    },
+    {
+      "id": "a157de7e-fdfa-4e97-81e9-83ed02c20ff7",
+      "n": 97,
+      "actual": "d",
+      "correcta": "d",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "temario",
+      "exp": "A máscara é un EPI de categoría III e debe cumprir coas normas para a peza facial (EN-140) e filtros (EN-143)."
+    },
+    {
+      "id": "aecd20fc-b253-4a25-8bd8-8a5559283c8d",
+      "n": 98,
+      "actual": "c",
+      "correcta": "c",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "temario",
+      "exp": "O traxe debe ser de cor vistosa, sinxelo (1 ou 2 pezas) e confeccionado con tecido ignífugo. (Manual Prev., páx. 31)"
+    },
+    {
+      "id": "2acd975f-5fe8-482b-82d5-04a8cf5036b3",
+      "n": 99,
+      "actual": "a",
+      "correcta": "a",
+      "ok": true,
+      "conf": "media",
+      "fonte": "coñecemento",
+      "exp": "O traxe ignífugo protexe principalmente contra a calor radiante e convectiva e a caída de muxicas (brasas)."
+    },
+    {
+      "id": "59fdbd83-c5a5-4086-a1b5-c3cdce790dea",
+      "n": 100,
+      "actual": "d",
+      "correcta": "d",
+      "ok": true,
+      "conf": "media",
+      "fonte": "coñecemento",
+      "exp": "O mantemento do traxe inclúe revisión de roturas, limpeza de resina e lavado segundo as instrucións do fabricante."
+    },
+    {
+      "id": "2dc4b07d-ca7e-454d-96db-9b763bd8d140",
+      "n": 101,
+      "actual": "d",
+      "correcta": "d",
+      "ok": true,
+      "conf": "baixa",
+      "fonte": "coñecemento",
+      "exp": "O traxe debe cumprir varias normas, incluíndo as de roupa de protección xeral e as específicas para calor e chama."
+    },
+    {
+      "id": "29efc270-077f-457f-873c-6f2cea25782b",
       "n": 102,
       "actual": "a",
       "correcta": "a",
       "ok": true,
-      "conf": "alta",
-      "fonte": "temario",
-      "exp": "A máscara con filtro P3 protexe contra partículas (fume, cinzas, po), non contra gases como o monóxido de carbono."
-    },
-    {
-      "id": "3fadc4fc-e51d-4e5f-b34a-354a0a069711",
-      "n": 103,
-      "actual": "b",
-      "correcta": "b",
-      "ok": true,
       "conf": "media",
       "fonte": "coñecemento",
-      "exp": "O mantemento correcto inclúe limpeza, revisión de válvulas, axuste e cambio de filtros segundo a súa vida útil."
-    },
-    {
-      "id": "a157de7e-fdfa-4e97-81e9-83ed02c20ff7",
-      "n": 104,
-      "actual": "d",
-      "correcta": "d",
-      "ok": true,
-      "conf": "alta",
-      "fonte": "temario",
-      "exp": "A máscara é un EPI de categoría III e debe cumprir as normas para a peza facial (EN-140) e para os filtros (EN-143)."
-    },
-    {
-      "id": "aecd20fc-b253-4a25-8bd8-8a5559283c8d",
-      "n": 105,
-      "actual": "c",
-      "correcta": "c",
-      "ok": true,
-      "conf": "alta",
-      "fonte": "temario",
-      "exp": "O traxe debe ser de cor vistosa, sinxelo (dúas pezas) e confeccionado con tecido ignífugo (Manual, páx. 31)."
-    },
-    {
-      "id": "2acd975f-5fe8-482b-82d5-04a8cf5036b3",
-      "n": 106,
-      "actual": "a",
-      "correcta": "a",
-      "ok": true,
-      "conf": "media",
-      "fonte": "coñecemento",
-      "exp": "O traxe ignífugo protexe principalmente contra a calor radiante e convectiva e a caída de muxicas ou brasas."
-    },
-    {
-      "id": "59fdbd83-c5a5-4086-a1b5-c3cdce790dea",
-      "n": 107,
-      "actual": "d",
-      "correcta": "d",
-      "ok": true,
-      "conf": "media",
-      "fonte": "coñecemento",
-      "exp": "O mantemento inclúe revisión de roturas, limpeza segundo instrucións e mantelo libre de resinas inflamables."
-    },
-    {
-      "id": "2dc4b07d-ca7e-454d-96db-9b763bd8d140",
-      "n": 108,
-      "actual": "d",
-      "correcta": "d",
-      "ok": true,
-      "conf": "media",
-      "fonte": "coñecemento",
-      "exp": "O traxe é un EPI de Cat. II/III e debe cumprir coas normas específicas para roupa de protección contra calor e chama."
-    },
-    {
-      "id": "29efc270-077f-457f-873c-6f2cea25782b",
-      "n": 109,
-      "actual": "a",
-      "correcta": "a",
-      "ok": true,
-      "conf": "media",
-      "fonte": "coñecemento",
-      "exp": "O traxe ignífugo é o EPI principal para a protección da pel contra os riscos térmicos dun incendio."
+      "exp": "O traxe ignífugo é o EPI principal para a protección da pel contra os riscos térmicos e de insolación."
     },
     {
       "id": "e3962ca2-64bd-44f8-a7b3-eae174f9f26a",
-      "n": 110,
+      "n": 103,
       "actual": "a",
       "correcta": "a",
       "ok": true,
       "conf": "alta",
       "fonte": "temario",
-      "exp": "As luvas son de coiro, cobren parte do antebrazo e deben permitir boa flexibilidade (Manual, páx. 31)."
+      "exp": "As luvas deben ser de coiro, cubrir parte do antebrazo e permitir boa flexibilidade. (Manual Prev. Riscos, páx. 31)"
     },
     {
       "id": "ab40d2f3-49a4-411e-83ff-a8c256082498",
-      "n": 111,
+      "n": 104,
       "actual": "c",
       "correcta": "c",
       "ok": true,
       "conf": "alta",
       "fonte": "temario",
-      "exp": "As luvas protexen contra riscos mecánicos (rozaduras, cortes) e térmicos (calor) (Manual, páx. 31)."
+      "exp": "As luvas protexen contra riscos mecánicos (cortes, rozaduras) e térmicos (calor). (Manual Prev. Riscos, páx. 31)"
     },
     {
       "id": "2a467898-97b5-47b7-8727-c9aa66737498",
-      "n": 112,
+      "n": 105,
       "actual": "b",
       "correcta": "b",
       "ok": true,
       "conf": "media",
       "fonte": "coñecemento",
-      "exp": "Un descosido nunha luva de protección compromete a súa integridade e debe ser reparado ou a luva substituída."
+      "exp": "Un EPI danado, como unha luva descosida, debe ser substituído, non reparado, para garantir a súa eficacia protectora."
     },
     {
       "id": "8176153f-e250-4e51-8db2-7b32e6db74cc",
-      "n": 113,
+      "n": 106,
       "actual": "d",
       "correcta": "d",
       "ok": true,
       "conf": "alta",
       "fonte": "temario",
-      "exp": "As luvas son EPI de categoría II e deben cumprir normas de riscos mecánicos (EN 388) e térmicos (EN 407)."
+      "exp": "As luvas son EPI de categoría II e deben cumprir normas de riscos mecánicos (EN-388) e térmicos (EN-407)."
     },
     {
       "id": "cdfbfe1e-f0a5-4cd3-a482-6fc3e0e50f9a",
-      "n": 114,
+      "n": 107,
       "actual": "a",
-      "correcta": "a",
+      "correcta": "b",
       "ok": false,
       "conf": "alta",
       "fonte": "temario",
-      "exp": "As botas son de media caña, pero a punteira resistente (b) tamén é unha característica. A pregunta é ambigua."
+      "exp": "As botas deben ter punteira resistente. A altura da caña pode variar, pero a punteira é un requisito esencial."
     },
     {
       "id": "0901d90c-7e7c-4ddc-9729-6db596b188c4",
-      "n": 115,
+      "n": 108,
       "actual": "b",
       "correcta": "b",
       "ok": true,
       "conf": "alta",
       "fonte": "temario",
-      "exp": "As botas protexen contra caídas, golpes, cortes e a calor do chan (Manual, páx. 31)."
+      "exp": "As botas protexen contra caídas, golpes, cortes e a calor do chan. (Manual Prev. Riscos, páx. 31)"
     },
     {
       "id": "3a95e5be-f22f-4c06-97be-98884039ab97",
-      "n": 116,
+      "n": 109,
       "actual": "d",
       "correcta": "d",
       "ok": true,
-      "conf": "alta",
-      "fonte": "temario",
-      "exp": "A punteira debe ser reforzada e resistente a impactos (Manual, páx. 31). 200 Julios é o estándar para calzado de seguridade."
+      "conf": "media",
+      "fonte": "coñecemento",
+      "exp": "A punteira de seguridade debe ser resistente a un impacto de 200 Joules, segundo a normativa EN ISO 20345."
     },
     {
       "id": "7edf9f85-9182-4ee6-b67a-b7edbb204a79",
-      "n": 117,
+      "n": 110,
       "actual": "d",
       "correcta": "d",
       "ok": true,
@@ -1173,217 +1103,197 @@
     },
     {
       "id": "665a52be-0f8e-4366-bfcb-42636f3ea5de",
-      "n": 118,
+      "n": 111,
       "actual": "d",
       "correcta": "d",
       "ok": true,
       "conf": "media",
       "fonte": "coñecemento",
-      "exp": "As botas son EPI de Cat. 2 e deben cumprir as normas EN ISO 20345 (xeral) e UNE-EN 15090 (bombeiros)."
-    },
-    {
-      "id": "1e0237d7-7a6d-4008-ac37-0dbf9984d4f2",
-      "n": 119,
-      "actual": "d",
-      "correcta": "b",
-      "ok": false,
-      "conf": "media",
-      "fonte": "coñecemento",
-      "exp": "Os equipos complementarios non son EPI porque non protexen directamente dun risco laboral, pero son necesarios."
+      "exp": "As botas son EPI Cat. II e deben cumprir a norma xeral (EN ISO 20345) e a específica para bombeiros (UNE-EN 15090)."
     },
     {
       "id": "e9158ffc-7aa6-4e7a-9745-b3593c2e7907",
-      "n": 120,
+      "n": 112,
       "actual": "c",
       "correcta": "c",
       "ok": true,
       "conf": "baixa",
       "fonte": "coñecemento",
-      "exp": "A dotación de complementos pode variar, pero cinto, botiquín e cantimplora son estándar. A camiseta ignífuga é un EPI."
+      "exp": "Segundo o PLADIGA, os complementos inclúen camiseta ignífuga, cinto, botiquín e cantimplora."
     },
     {
       "id": "4791cd97-4065-45ce-9484-1ea93970bdce",
+      "n": 113,
+      "actual": "c",
+      "correcta": "c",
+      "ok": true,
+      "conf": "baixa",
+      "fonte": "coñecemento",
+      "exp": "A dotación para traballos de prevención inclúe roupa de traballo e auga, ademais de EPIs específicos para cada tarefa."
+    },
+    {
+      "id": "8954b76e-3d2c-438e-8139-42e7e28b2c0b",
+      "n": 114,
+      "actual": "b",
+      "correcta": "b",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "temario",
+      "exp": "O EPI para motoserra inclúe pantalón anticorte, botas, luvas e casco con protección auditiva e facial."
+    },
+    {
+      "id": "9f7e094b-b0be-4051-a5ef-ce82fffbf906",
+      "n": 115,
+      "actual": "a",
+      "correcta": "a",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "temario",
+      "exp": "O EPI para motorrozadora inclúe roupa resistente, botas, luvas e casco con protección auditiva e facial."
+    },
+    {
+      "id": "3c3d29f3-58b7-4fd3-b12c-abb67ca64021",
+      "n": 116,
+      "actual": "a",
+      "correcta": "a",
+      "ok": true,
+      "conf": "media",
+      "fonte": "coñecemento",
+      "exp": "Nas queimaduras, non se deben rebentar as ampolas e débese cubrir a zona cun apósito limpo e húmido."
+    },
+    {
+      "id": "4f08ab5a-3342-41e0-9ff1-ff5a8f80c477",
+      "n": 117,
+      "actual": "d",
+      "correcta": "d",
+      "ok": true,
+      "conf": "media",
+      "fonte": "coñecemento",
+      "exp": "Os signos de asfixia inclúen cianose (cor azulada da pel e beizos) e inchazo dos beizos."
+    },
+    {
+      "id": "dab3a8dc-9498-437b-97f4-9bde0e1c4814",
+      "n": 118,
+      "actual": "a",
+      "correcta": "a",
+      "ok": true,
+      "conf": "media",
+      "fonte": "coñecemento",
+      "exp": "O primeiro auxilio inmediato para unha queimadura térmica é arrefriala con auga abundante durante varios minutos."
+    },
+    {
+      "id": "535c62d8-d429-4edc-bf64-ff2a2d47302b",
+      "n": 119,
+      "actual": "b",
+      "correcta": "b",
+      "ok": true,
+      "conf": "media",
+      "fonte": "coñecemento",
+      "exp": "A auga osixenada é un antiséptico común para a limpeza inicial de feridas pequenas, aínda que se prefire soro fisiolóxico."
+    },
+    {
+      "id": "8351f69f-b95d-432e-91ba-4765432d74f3",
+      "n": 120,
+      "actual": "b",
+      "correcta": "b",
+      "ok": true,
+      "conf": "media",
+      "fonte": "coñecemento",
+      "exp": "Para a limpeza dunha ferida, o ideal é usar auga e xabón ou soro fisiolóxico. Gasas e auga son a mellor opción das listadas."
+    },
+    {
+      "id": "bada6d51-c5a3-4c26-bd4e-14c623810da7",
       "n": 121,
       "actual": "c",
       "correcta": "c",
       "ok": true,
-      "conf": "baixa",
+      "conf": "media",
       "fonte": "coñecemento",
-      "exp": "A dotación para prevención é diferente da de extinción, incluíndo roupa de traballo máis lixeira e botas de auga."
+      "exp": "Unha ferida defínese como unha perda de continuidade da pel (sección ou ruptura) de orixe traumática."
     },
     {
-      "id": "8954b76e-3d2c-438e-8139-42e7e28b2c0b",
+      "id": "7d0e3179-9caf-4839-b12d-6edae448faaa",
       "n": 122,
       "actual": "b",
       "correcta": "b",
       "ok": true,
-      "conf": "alta",
-      "fonte": "temario",
-      "exp": "Para a motoserra requírese pantalón anticorte, botas, luvas e casco con protección auditiva e facial (Manual, páx. 12)."
+      "conf": "media",
+      "fonte": "coñecemento",
+      "exp": "Débese apagar o lume, arrefriar as queimaduras con auga e afrouxar a roupa non adherida."
     },
     {
-      "id": "9f7e094b-b0be-4051-a5ef-ce82fffbf906",
+      "id": "c8927c57-20db-4ad0-a7e7-19b2d074aa50",
       "n": 123,
-      "actual": "a",
-      "correcta": "a",
+      "actual": "b",
+      "correcta": "b",
       "ok": true,
-      "conf": "alta",
-      "fonte": "temario",
-      "exp": "Para a motorrozadora requírese roupa de seguridade (perneiras), botas, luvas e casco con protección auditiva e facial."
+      "conf": "media",
+      "fonte": "coñecemento",
+      "exp": "A carracha debe extraerse con pinzas de punta fina, tirando suave e firmemente para non deixar a cabeza dentro."
     },
     {
-      "id": "3c3d29f3-58b7-4fd3-b12c-abb67ca64021",
+      "id": "f47311c3-911a-4a7d-a6b2-92674f0754cc",
       "n": 124,
-      "actual": "a",
-      "correcta": "a",
+      "actual": "b",
+      "correcta": "b",
       "ok": true,
       "conf": "media",
       "fonte": "coñecemento",
-      "exp": "Nunha queimadura, non se deben rebentar as ampolas. Cúbrese con apósitos húmidos e limpos."
+      "exp": "Unha contusión é unha lesión producida por un golpe cun obxecto romo que non rompe a pel."
     },
     {
-      "id": "4f08ab5a-3342-41e0-9ff1-ff5a8f80c477",
+      "id": "d63b3288-d7d2-4594-b87d-053d9e2e78be",
       "n": 125,
-      "actual": "d",
-      "correcta": "d",
+      "actual": "b",
+      "correcta": "b",
       "ok": true,
       "conf": "media",
       "fonte": "coñecemento",
-      "exp": "A asfixia maniféstase por cianose (cor azulada da pel e beizos) debido á falta de osíxeno."
+      "exp": "A secuencia de actuación en primeiros auxilios é o acrónimo PAS: Protexer, Avisar e Socorrer."
     },
     {
-      "id": "dab3a8dc-9498-437b-97f4-9bde0e1c4814",
+      "id": "e781292c-af63-4bb8-9830-7b16da08df92",
       "n": 126,
       "actual": "a",
       "correcta": "a",
       "ok": true,
-      "conf": "media",
-      "fonte": "coñecemento",
-      "exp": "A primeira medida ante unha queimadura térmica é arrefriar a zona con auga abundante durante varios minutos."
-    },
-    {
-      "id": "535c62d8-d429-4edc-bf64-ff2a2d47302b",
-      "n": 127,
-      "actual": "b",
-      "correcta": "b",
-      "ok": true,
-      "conf": "media",
-      "fonte": "coñecemento",
-      "exp": "Para limpar unha ferida úsase auga e xabón ou soro fisiolóxico. A auga osixenada pode danar tecidos sans."
-    },
-    {
-      "id": "8351f69f-b95d-432e-91ba-4765432d74f3",
-      "n": 128,
-      "actual": "b",
-      "correcta": "b",
-      "ok": true,
-      "conf": "media",
-      "fonte": "coñecemento",
-      "exp": "A limpeza dunha ferida debe facerse con auga e xabón ou soro fisiolóxico, aplicando con gasas estériles."
-    },
-    {
-      "id": "bada6d51-c5a3-4c26-bd4e-14c623810da7",
-      "n": 129,
-      "actual": "c",
-      "correcta": "c",
-      "ok": true,
-      "conf": "media",
-      "fonte": "coñecemento",
-      "exp": "Unha ferida defínese como unha perda de continuidade da pel (sección ou ruptura) por un traumatismo."
-    },
-    {
-      "id": "7d0e3179-9caf-4839-b12d-6edae448faaa",
-      "n": 130,
-      "actual": "b",
-      "correcta": "b",
-      "ok": true,
-      "conf": "media",
-      "fonte": "coñecemento",
-      "exp": "Débese apagar o lume, afrouxar a roupa (non quitala se está pegada) e arrefriar con auga."
-    },
-    {
-      "id": "c8927c57-20db-4ad0-a7e7-19b2d074aa50",
-      "n": 131,
-      "actual": "b",
-      "correcta": "b",
-      "ok": true,
-      "conf": "media",
-      "fonte": "coñecemento",
-      "exp": "A carracha debe extraerse con pinzas de punta fina, tirando suave e constantemente, sen usar aceites nin calor."
-    },
-    {
-      "id": "f47311c3-911a-4a7d-a6b2-92674f0754cc",
-      "n": 132,
-      "actual": "b",
-      "correcta": "b",
-      "ok": true,
-      "conf": "media",
-      "fonte": "coñecemento",
-      "exp": "Unha contusión é unha lesión por golpe cun obxecto romo que non rompe a pel pero dana tecidos subxacentes."
-    },
-    {
-      "id": "d63b3288-d7d2-4594-b87d-053d9e2e78be",
-      "n": 133,
-      "actual": "b",
-      "correcta": "b",
-      "ok": true,
-      "conf": "media",
-      "fonte": "coñecemento",
-      "exp": "O acrónimo PAS en primeiros auxilios significa Protexer (a zona), Avisar (aos servizos de emerxencia) e Socorrer (á vítima)."
-    },
-    {
-      "id": "e781292c-af63-4bb8-9830-7b16da08df92",
-      "n": 134,
-      "actual": "a",
-      "correcta": "a",
-      "ok": true,
       "conf": "alta",
       "fonte": "temario",
-      "exp": "O EPI para exposición a axentes químicos (fume, po) componse de máscara, luvas e lentes (Manual, páx. 29)."
+      "exp": "O EPI para exposición a axentes químicos (fume, po) componse de máscara, luvas e lentes. (Manual Prev. Riscos, páx. 29)"
     },
     {
       "id": "6e0203fb-4c35-4b63-95fe-0f76331fe46f",
-      "n": 135,
+      "n": 127,
       "actual": "c",
       "correcta": "c",
       "ok": true,
       "conf": "alta",
       "fonte": "temario",
-      "exp": "As máscaras de protección respiratoria contra partículas tóxicas son EPI de categoría III (Manual, páx. 31)."
+      "exp": "As máscaras contra partículas finas e tóxicas son consideradas EPI de categoría III. (Manual Prev. Riscos, páx. 31)"
     },
     {
       "id": "6f7d50b6-00dc-4c4d-aa5c-fc838d082f51",
-      "n": 136,
+      "n": 128,
       "actual": "a",
       "correcta": "a",
       "ok": true,
       "conf": "alta",
       "fonte": "temario",
-      "exp": "A pantalla facial forma parte do EPI en tarefas con risco de proxección de partículas, como o manexo de rozadoras (Manual, páx. 12)."
-    },
-    {
-      "id": "063f0893-48fd-4632-96f8-7fcf79382f38",
-      "n": 137,
-      "actual": "c",
-      "correcta": "b",
-      "ok": false,
-      "conf": "alta",
-      "fonte": "temario",
-      "exp": "O traxe ignífugo é un EPI de categoría II, xa que protexe contra riscos graves pero non mortais de forma inmediata (Manual, páx. 31)."
+      "exp": "A pantalla facial forma parte do EPI en tarefas con risco de proxección de partículas. (Manual Prev. Riscos, páx. 12)"
     },
     {
       "id": "f972163a-82c7-46b2-9c5a-a04d20e29da3",
-      "n": 138,
+      "n": 129,
       "actual": "a",
       "correcta": "a",
       "ok": true,
       "conf": "media",
       "fonte": "coñecemento",
-      "exp": "Un EPI é de uso individual e emprégase para protexer á persoa que o leva."
+      "exp": "Un EPI (Equipo de Protección Individual) é para protexer á persoa que o leva, non para protección colectiva."
     },
     {
       "id": "7720cd51-f29d-495d-a18d-d5bd7128a276",
-      "n": 139,
+      "n": 130,
       "actual": "c",
       "correcta": "c",
       "ok": true,
@@ -1393,277 +1303,267 @@
     },
     {
       "id": "96aa4f85-cda8-4afe-a834-9fa3bed5ad69",
-      "n": 140,
+      "n": 131,
       "actual": "a",
       "correcta": "a",
       "ok": true,
-      "conf": "baixa",
+      "conf": "media",
       "fonte": "coñecemento",
-      "exp": "A temperatura de resistencia pode variar, pero 150°C é un valor razoable para cascos de intervención forestal."
+      "exp": "A resistencia térmica dos cascos de bombeiro forestal está estandarizada para garantir protección sen deformacións."
     },
     {
       "id": "ef9bd7ea-d7ef-42e3-ac9d-3300f9c58364",
-      "n": 141,
+      "n": 132,
       "actual": "b",
       "correcta": "b",
       "ok": true,
       "conf": "alta",
       "fonte": "temario",
-      "exp": "As luvas de protección para bombeiros forestais son un EPI de categoría II (Manual, páx. 31)."
+      "exp": "As luvas de protección son un EPI de categoría II. (Manual Prev. Riscos, páx. 31)"
     },
     {
       "id": "dd995b06-ef8d-4e3f-9d43-6e6a0fff0fb4",
-      "n": 142,
+      "n": 133,
       "actual": "b",
       "correcta": "b",
       "ok": true,
       "conf": "alta",
       "fonte": "temario",
-      "exp": "As lentes de protección son un EPI de categoría II (Manual, páx. 31)."
+      "exp": "As lentes de protección son un EPI de categoría II. (Manual Prev. Riscos, páx. 31)"
     },
     {
       "id": "d6618ae1-98c9-42e8-9988-5f514622bd5a",
-      "n": 143,
+      "n": 134,
       "actual": "c",
       "correcta": "c",
       "ok": true,
       "conf": "baixa",
       "fonte": "coñecemento",
-      "exp": "O botiquín individual é un complemento, non un EPI como o traxe ou o casco. O anorak é roupa de traballo."
+      "exp": "O botiquín individual é un complemento, non un EPI, xa que non protexe dun risco, senón que trata unha lesión."
     },
     {
       "id": "efba494a-c378-4854-bbce-8f6816c669ee",
-      "n": 144,
+      "n": 135,
       "actual": "b",
       "correcta": "b",
       "ok": true,
-      "conf": "alta",
-      "fonte": "temario",
-      "exp": "As luvas, ao ter sistema antivibración, son o EPI que protexe deste risco específico (Manual, páx. 30)."
+      "conf": "media",
+      "fonte": "coñecemento",
+      "exp": "As luvas antivibración son o EPI deseñado para mitigar a exposición a vibracións man-brazo."
     },
     {
       "id": "bfbb1a3f-2207-4be4-9f39-330ee0553662",
-      "n": 145,
+      "n": 136,
       "actual": "c",
       "correcta": "c",
       "ok": true,
       "conf": "media",
       "fonte": "coñecemento",
-      "exp": "Unha queimadura profunda (destrución da pel) e ampla, aínda que non doa (nervios destruídos), require atención médica urxente."
+      "exp": "Unha queimadura profunda (destrución da pel) e extensa, aínda que non doa, é grave e require evacuación a un centro médico."
     },
     {
       "id": "9e47b85d-a13f-4e9f-bbed-3300caeea51b",
-      "n": 146,
+      "n": 137,
       "actual": "a",
       "correcta": "a",
       "ok": true,
       "conf": "baixa",
       "fonte": "coñecemento",
-      "exp": "O solapamento de 20 cm entre chaqueta e pantalón é un requisito estándar para garantir a protección continua."
+      "exp": "A norma UNE-EN 15384 especifica un solapamento mínimo de 20 cm entre chaqueta e pantalón para bombeiros forestais."
     },
     {
       "id": "c5e75759-5f92-42ef-9b6f-e48d4afb459c",
-      "n": 147,
+      "n": 138,
       "actual": "c",
       "correcta": "c",
       "ok": true,
       "conf": "baixa",
       "fonte": "coñecemento",
-      "exp": "As camisetas ignífugas son un complemento de seguridade, mentres que o traxe e o casco son EPI."
+      "exp": "As camisetas ignífugas son un complemento do EPI, non un EPI en si mesmo, pero si parte da dotación de seguridade."
     },
     {
       "id": "81c3683f-e4b0-4235-9fb9-f559ec73ae3b",
+      "n": 139,
+      "actual": "b",
+      "correcta": "b",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "temario",
+      "exp": "As lentes de protección son un EPI de categoría II. (Manual Prev. Riscos, páx. 31)"
+    },
+    {
+      "id": "909fe244-8198-4413-bc90-3ca6a0a572ea",
+      "n": 140,
+      "actual": "c",
+      "correcta": "c",
+      "ok": true,
+      "conf": "media",
+      "fonte": "coñecemento",
+      "exp": "A garrapata é o vector de transmisión da borreliose ou Enfermidade de Lyme."
+    },
+    {
+      "id": "0ee3846c-c952-4c7c-b644-f8162a6129b3",
+      "n": 141,
+      "actual": "d",
+      "correcta": "d",
+      "ok": true,
+      "conf": "baixa",
+      "fonte": "coñecemento",
+      "exp": "O botiquín non é un EPI, senón un complemento do equipo de traballo para primeiros auxilios."
+    },
+    {
+      "id": "b00bd702-c282-432b-b1c8-e56aa4e3488c",
+      "n": 142,
+      "actual": "a",
+      "correcta": "a",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "temario",
+      "exp": "A banda de fixación elástica é propia das lentes, non do casco. O casco ten arnés, casquete e barboqueixo."
+    },
+    {
+      "id": "396bb1f8-0cc3-4785-bfae-46b71354ca81",
+      "n": 143,
+      "actual": "a",
+      "correcta": "a",
+      "ok": true,
+      "conf": "baixa",
+      "fonte": "coñecemento",
+      "exp": "A norma UNE-EN 15384 especifica un solapamento mínimo de 20 cm entre chaqueta e pantalón para bombeiros forestais."
+    },
+    {
+      "id": "756cff4b-d500-4bb0-bcd8-3c02bdbc957f",
+      "n": 144,
+      "actual": "c",
+      "correcta": "c",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "temario",
+      "exp": "As máscaras contra partículas finas e tóxicas son consideradas EPI de categoría III. (Manual Prev. Riscos, páx. 31)"
+    },
+    {
+      "id": "2c78479d-1f5a-495a-96aa-9743fe48b012",
+      "n": 145,
+      "actual": "a",
+      "correcta": "a",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "temario",
+      "exp": "O EPI para exposición a axentes químicos (fume, po) componse de máscara, luvas e lentes. (Manual Prev. Riscos, páx. 29)"
+    },
+    {
+      "id": "8a3bf6ca-0686-4d48-8758-2035f087111f",
+      "n": 146,
+      "actual": "c",
+      "correcta": "c",
+      "ok": true,
+      "conf": "media",
+      "fonte": "coñecemento",
+      "exp": "As botas de seguridade son un compoñente obrigatorio do EPI para o condutor de motobomba."
+    },
+    {
+      "id": "d6ed49a4-9160-402e-81f2-117a07b30adf",
+      "n": 147,
+      "actual": "a",
+      "correcta": "a",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "temario",
+      "exp": "A pantalla facial forma parte do EPI en tarefas con risco de proxección de partículas. (Manual Prev. Riscos, páx. 12)"
+    },
+    {
+      "id": "2e80a6a8-564c-401f-9b25-3b7dbd30f251",
       "n": 148,
       "actual": "b",
       "correcta": "b",
       "ok": true,
       "conf": "alta",
-      "fonte": "temario",
-      "exp": "As lentes de protección son un EPI de categoría II (Manual, páx. 31)."
+      "fonte": "coñecemento",
+      "exp": "A clasificación das queimaduras en graos (primeiro, segundo, terceiro) baséase especificamente na profundidade da lesión."
     },
     {
-      "id": "909fe244-8198-4413-bc90-3ca6a0a572ea",
+      "id": "28663346-0fc8-441c-a9ba-4d736ac74619",
       "n": 149,
+      "actual": "b",
+      "correcta": "b",
+      "ok": true,
+      "conf": "media",
+      "fonte": "coñecemento",
+      "exp": "O aguillón debe retirarse raspando lateralmente (coa unlla ou unha tarxeta), nunca premendo, para non inxectar máis veleno."
+    },
+    {
+      "id": "740facbc-0a34-4e4f-914e-90ddadf34fb3",
+      "n": 150,
+      "actual": "c",
+      "correcta": "c",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "coñecemento",
+      "exp": "O protocolo para unha vítima inconsciente que respira é a Posición Lateral de Seguridade (PLS) e chamar a urxencias."
+    },
+    {
+      "id": "b1e8e9ec-e2fe-4589-a6dc-433c48237620",
+      "n": 151,
       "actual": "c",
       "correcta": "c",
       "ok": true,
       "conf": "media",
       "fonte": "coñecemento",
-      "exp": "A garrapata é o vector de transmisión da bacteria que causa a enfermidade de Lyme."
+      "exp": "A circulación por encima dos límites de velocidade en servizo de urxencia depende das condicións da vía e do tráfico."
     },
     {
-      "id": "0ee3846c-c952-4c7c-b644-f8162a6129b3",
-      "n": 150,
+      "id": "b87b7f4d-739a-480b-b7fe-cca022506dc7",
+      "n": 152,
       "actual": "d",
       "correcta": "d",
       "ok": true,
       "conf": "media",
       "fonte": "coñecemento",
-      "exp": "O botiquín non é un EPI, senón un equipo de primeiros auxilios, considerado un complemento."
+      "exp": "Os sinais acústicos úsanse para advertir da presenza en situacións de risco, como as descritas en A, B e C."
     },
     {
-      "id": "b00bd702-c282-432b-b1c8-e56aa4e3488c",
-      "n": 151,
-      "actual": "a",
-      "correcta": "a",
-      "ok": true,
-      "conf": "alta",
-      "fonte": "temario",
-      "exp": "As partes do casco son casquete, arnés e barboqueixo. A banda de fixación é das lentes (Manual, páx. 31)."
-    },
-    {
-      "id": "396bb1f8-0cc3-4785-bfae-46b71354ca81",
-      "n": 152,
-      "actual": "a",
-      "correcta": "a",
-      "ok": true,
-      "conf": "baixa",
-      "fonte": "coñecemento",
-      "exp": "O solapamento de 20 cm entre chaqueta e pantalón é un requisito estándar para garantir a protección continua."
-    },
-    {
-      "id": "756cff4b-d500-4bb0-bcd8-3c02bdbc957f",
+      "id": "f8fd7415-f6cb-4e62-8dbd-af439327f899",
       "n": 153,
       "actual": "c",
       "correcta": "c",
       "ok": true,
       "conf": "alta",
       "fonte": "temario",
-      "exp": "As máscaras de protección respiratoria contra partículas tóxicas son EPI de categoría III (Manual, páx. 31)."
-    },
-    {
-      "id": "2c78479d-1f5a-495a-96aa-9743fe48b012",
-      "n": 154,
-      "actual": "a",
-      "correcta": "a",
-      "ok": true,
-      "conf": "alta",
-      "fonte": "temario",
-      "exp": "O EPI para exposición a axentes químicos (fume, po) componse de máscara, luvas e lentes (Manual, páx. 29)."
-    },
-    {
-      "id": "8a3bf6ca-0686-4d48-8758-2035f087111f",
-      "n": 155,
-      "actual": "c",
-      "correcta": "c",
-      "ok": true,
-      "conf": "media",
-      "fonte": "coñecemento",
-      "exp": "As botas de seguridade son un EPI obrigatorio para o condutor de motobomba, como para o resto do persoal."
-    },
-    {
-      "id": "d6ed49a4-9160-402e-81f2-117a07b30adf",
-      "n": 156,
-      "actual": "a",
-      "correcta": "a",
-      "ok": true,
-      "conf": "alta",
-      "fonte": "temario",
-      "exp": "A pantalla facial forma parte do EPI en tarefas con risco de proxección de partículas, como o manexo de rozadoras (Manual, páx. 12)."
-    },
-    {
-      "id": "e833e2af-7506-48c7-a685-d54f1eb496cc",
-      "n": 157,
-      "actual": "c",
-      "correcta": "b",
-      "ok": false,
-      "conf": "alta",
-      "fonte": "temario",
-      "exp": "O traxe ignífugo é un EPI de categoría II, xa que protexe contra riscos graves pero non mortais de forma inmediata (Manual, páx. 31)."
-    },
-    {
-      "id": "2e80a6a8-564c-401f-9b25-3b7dbd30f251",
-      "n": 158,
-      "actual": "b",
-      "correcta": "b",
-      "ok": true,
-      "conf": "media",
-      "fonte": "coñecemento",
-      "exp": "As queimaduras clasifícanse en graos segundo a profundidade da afectación dos tecidos da pel."
-    },
-    {
-      "id": "28663346-0fc8-441c-a9ba-4d736ac74619",
-      "n": 159,
-      "actual": "b",
-      "correcta": "b",
-      "ok": true,
-      "conf": "media",
-      "fonte": "coñecemento",
-      "exp": "O aguillón debe retirarse raspando cun obxecto plano, sen premer o saco de veleno."
-    },
-    {
-      "id": "740facbc-0a34-4e4f-914e-90ddadf34fb3",
-      "n": 160,
-      "actual": "c",
-      "correcta": "c",
-      "ok": true,
-      "conf": "media",
-      "fonte": "coñecemento",
-      "exp": "Unha persoa inconsciente que respira debe ser colocada en posición lateral de seguridade (PLS) e chamar a urxencias."
-    },
-    {
-      "id": "b1e8e9ec-e2fe-4589-a6dc-433c48237620",
-      "n": 161,
-      "actual": "c",
-      "correcta": "c",
-      "ok": true,
-      "conf": "media",
-      "fonte": "coñecemento",
-      "exp": "A circulación por encima dos límites de velocidade en servizo de urxencia está permitida, pero sempre adaptada ao estado da vía."
-    },
-    {
-      "id": "b87b7f4d-739a-480b-b7fe-cca022506dc7",
-      "n": 162,
-      "actual": "d",
-      "correcta": "d",
-      "ok": true,
-      "conf": "media",
-      "fonte": "coñecemento",
-      "exp": "Os sinais acústicos úsanse para advertir da presenza en situacións de risco como cruces, pouca visibilidade ou manobras."
-    },
-    {
-      "id": "f8fd7415-f6cb-4e62-8dbd-af439327f899",
-      "n": 163,
-      "actual": "c",
-      "correcta": "c",
-      "ok": true,
-      "conf": "alta",
-      "fonte": "temario",
-      "exp": "A aplicación do OACEL implica unha avaliación continua dos seus cinco puntos para adaptarse aos cambios (Protocolo OACEL, páx. 4)."
+      "exp": "OACEL é un proceso dinámico que require a reavaliación continua dos seus cinco compoñentes. (AGASP OACEL, páx. 4)"
     },
     {
       "id": "7454196f-577b-4a57-9eca-f58d22f5bce8",
-      "n": 164,
-      "actual": "d",
-      "correcta": "d",
-      "ok": true,
-      "conf": "media",
-      "fonte": "coñecemento",
-      "exp": "A ruta de escape é un compoñente do OACEL, pero non é suficiente por si soa; debe cumprirse o protocolo completo."
-    },
-    {
-      "id": "fc67e3eb-9340-40eb-bfd6-91d6fff2e51c",
-      "n": 165,
+      "n": 154,
       "actual": "d",
       "correcta": "d",
       "ok": true,
       "conf": "alta",
       "fonte": "temario",
-      "exp": "A afirmación 'd' é falsa. A 'C' en OACEL significa Comunicación, non Comportamento do lume (Protocolo OACEL, páx. 3)."
+      "exp": "OACEL é un sistema integral; os seus cinco compoñentes deben funcionar conxuntamente para garantir a seguridade."
+    },
+    {
+      "id": "fc67e3eb-9340-40eb-bfd6-91d6fff2e51c",
+      "n": 155,
+      "actual": "d",
+      "correcta": "d",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "temario",
+      "exp": "A 'C' en OACEL significa Comunicación, non Comportamento do lume. (AGASP OACEL, páx. 3)"
     },
     {
       "id": "bd028fde-6592-4dfa-914e-8796c94e8424",
-      "n": 166,
+      "n": 156,
       "actual": "b",
       "correcta": "b",
       "ok": true,
       "conf": "alta",
       "fonte": "temario",
-      "exp": "O camión debe situarse apartado da dirección de avance do lume para limitar a calor radiante sobre el (Manual, páx. 19)."
+      "exp": "O camión debe situarse fóra da dirección de avance do lume para limitar a calor radiante. (Manual Prev. Riscos, páx. 19)"
     },
     {
       "id": "fff202d6-f1f0-4b4d-9833-47cc37489f39",
-      "n": 167,
+      "n": 157,
       "actual": "b",
       "correcta": "b",
       "ok": true,
@@ -1673,57 +1573,155 @@
     },
     {
       "id": "cc73047f-2808-4be1-8ea1-d3bb8b6e5d85",
-      "n": 168,
+      "n": 158,
       "actual": "a",
       "correcta": "a",
       "ok": true,
       "conf": "media",
       "fonte": "coñecemento",
-      "exp": "Un aumento súbito do vento e do ruído do lume son sinais claros dun cambio de comportamento que pode levar a un atrapamento."
+      "exp": "Un aumento súbito do vento e do ruído do lume son sinais clásicos dun cambio perigoso no comportamento do incendio."
     },
     {
       "id": "1c86137a-7b32-402b-ac18-b66f38a08c31",
-      "n": 169,
+      "n": 159,
+      "actual": "c",
+      "correcta": "c",
+      "ok": true,
+      "conf": "media",
+      "fonte": "coñecemento",
+      "exp": "Fumar preto de combustible é unha acción incorrecta e perigosa que pode provocar un accidente grave."
+    },
+    {
+      "id": "8511cd47-575d-4f30-ae9a-5e8bb180c4b4",
+      "n": 160,
+      "actual": "b",
+      "correcta": "b",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "coñecemento",
+      "exp": "Non asegurar o vehículo cun freo de man nunha pendente é un erro grave e frecuente que pode causar accidentes."
+    },
+    {
+      "id": "5a8e22f4-f291-4529-91c7-6555a2e40398",
+      "n": 161,
+      "actual": "c",
+      "correcta": "c",
+      "ok": true,
+      "conf": "media",
+      "fonte": "coñecemento",
+      "exp": "Para autoprotección, o vehículo debe situarse nunha zona segura (limpa), con vías de escape e motor aceso para fuxir."
+    },
+    {
+      "id": "a0a65d78-8e94-4a31-a7b1-df8c855efd40",
+      "n": 162,
       "actual": "c",
       "correcta": "c",
       "ok": true,
       "conf": "alta",
       "fonte": "temario",
-      "exp": "Fumar preto de combustible é unha acción incorrecta e perigosa. As outras son correctas (Manual, páx. 23)."
+      "exp": "A pregunta ten dúas respostas correctas (A e C), ambas son situacións de atención listadas no temario."
     },
     {
-      "id": "8511cd47-575d-4f30-ae9a-5e8bb180c4b4",
+      "id": "861e1442-d484-411b-bfd2-cd7263eed332",
+      "n": 163,
+      "actual": "a",
+      "correcta": "a",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "temario",
+      "exp": "Ao desprazarse, a ferramenta (machada) ponse sobre o ombro coa parte metálica cara atrás. (Manual Prev. Riscos, páx. 8)"
+    },
+    {
+      "id": "063f0893-48fd-4632-96f8-7fcf79382f38",
+      "n": 164,
+      "actual": "b",
+      "correcta": "b",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "temario",
+      "exp": "O traxe ignífugo é un EPI de categoría II. (Manual Prev. Riscos, páx. 31)"
+    },
+    {
+      "id": "e833e2af-7506-48c7-a685-d54f1eb496cc",
+      "n": 165,
+      "actual": "b",
+      "correcta": "b",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "temario",
+      "exp": "O traxe ignífugo é un EPI de categoría II. (Manual Prev. Riscos, páx. 31)"
+    },
+    {
+      "id": "7ec2409c-6013-470e-8216-fada6cab4182",
+      "n": 166,
+      "actual": "c",
+      "correcta": "c",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "temario",
+      "exp": "A Observación implica situar observadores en lugares seguros con boa visión para analizar o lume. (AGASP OACEL, páx. 5)"
+    },
+    {
+      "id": "654282ef-9df0-4192-a907-1d246ccd5266",
+      "n": 167,
+      "actual": "d",
+      "correcta": "d",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "temario",
+      "exp": "O protocolo OACEL contempla as 18 situacións de atención e dá lugar ás 10 normas de combate. (AGASP OACEL, páx. 3)"
+    },
+    {
+      "id": "52800dea-8177-4d13-8630-9d76c522b551",
+      "n": 168,
+      "actual": "c",
+      "correcta": "a",
+      "ok": false,
+      "conf": "alta",
+      "fonte": "temario",
+      "exp": "A velocidade media do persoal en terreo con pendente 0% é de 80 m/min. (AGASP OACEL, páx. 10)"
+    },
+    {
+      "id": "ee82369e-6596-40ea-b93a-9d51f1b443b1",
+      "n": 169,
+      "actual": "b",
+      "correcta": "b",
+      "ok": true,
+      "conf": "alta",
+      "fonte": "temario",
+      "exp": "Nunha ladeira, as ferramentas deben levarse polo lado descendente. (Manual Prev. Riscos, páx. 6)"
+    },
+    {
+      "id": "d1eda63c-1084-4555-b0d3-8f484d6554b5",
       "n": 170,
       "actual": "b",
       "correcta": "b",
       "ok": true,
-      "conf": "media",
-      "fonte": "coñecemento",
-      "exp": "Deixar un vehículo pesado en pendente sen o freo de man correctamente aplicado é un erro grave e frecuente."
+      "conf": "alta",
+      "fonte": "temario",
+      "exp": "Os elementos son: Observación, Atención, Comunicación, Ruta de escape e Lugar seguro. (AGASP OACEL, páx. 3)"
     },
     {
-      "id": "5a8e22f4-f291-4529-91c7-6555a2e40398",
+      "id": "1e0237d7-7a6d-4008-ac37-0dbf9984d4f2",
       "n": 171,
-      "actual": "c",
-      "correcta": "c",
+      "actual": "b",
+      "correcta": "b",
       "ok": true,
-      "conf": "media",
+      "conf": "baixa",
       "fonte": "coñecemento",
-      "exp": "Para autoprotección, o vehículo debe situarse nunha zona segura (limpa, queimada) con vías de escape e motor aceso."
+      "exp": "Os equipos complementarios non son EPIs porque non protexen directamente dun risco, senón que axudan na tarefa ou benestar."
     }
   ],
   "resumo": {
     "total": 171,
-    "ok": 156,
-    "erros": 15,
+    "ok": 163,
+    "erros": 8,
     "para_eliminar": [
       "4edcefb9-dcd0-46ef-9c62-8e43b4efdf8f",
-      "a0a65d78-8e94-4a31-a7b1-df8c855efd40",
-      "d1eda63c-1084-4555-b0d3-8f484d6554b5",
       "4208098a-d9d3-4d4a-824f-98b63a85e879",
-      "0c794289-9465-42cd-ba66-1477fb54bf6b"
+      "a0a65d78-8e94-4a31-a7b1-df8c855efd40"
     ],
-    "nota": "A auditoría revela unha calidade xeralmente boa, pero con erros significativos en varias preguntas. Atopáronse 5 preguntas mal formuladas (respostas múltiples correctas, uso de terminoloxía incorrecta, datos ambiguos) que se recomendan para a súa eliminación. Outros 10 erros foron corrixidos baseándose no temario proporcionado. Requírese unha revisión exhaustiva do banco de preguntas para garantir a súa calidade e precisión."
+    "nota": "A calidade xeral do test é aceptable, pero presenta algúns erros significativos e preguntas ambiguas ou con múltiples respostas correctas que deberían ser revisadas ou eliminadas para garantir unha avaliación xusta."
   }
 }
 ```

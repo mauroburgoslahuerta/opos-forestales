@@ -54,24 +54,6 @@
     "correct_answer": "b"
   },
   {
-    "id": "a0a65d78-8e94-4a31-a7b1-df8c855efd40",
-    "question_text": "O Comité de Loita contra Incendios Forestais (CLIF) ten publicadas as 18 situacións de atención en incendios forestais, que son aquelas nas que se non se toma unha acción correcta inmediatamente, os combatentes poden estar en perigo. Sinale cal das seguintes é unha situación de atención:",
-    "option_a": "Estar pola noite nun terreo que só se recoñeceu durante o día.",
-    "option_b": "Construír unha liña de defensa costa arriba cara ao incendio.",
-    "option_c": "Construír unha liña de defensa costa abaixo cara ao incendio.",
-    "option_d": "Construír unha liña cun punto de ancoraxe seguro.",
-    "correct_answer": "a"
-  },
-  {
-    "id": "7ec2409c-6013-470e-8216-fada6cab4182",
-    "question_text": "Que implica a Observación no protocolo OACEL?:",
-    "option_a": "Observar de forma continua o comportamento do incendio.",
-    "option_b": "Ver o estado meteorolóxico do clima.",
-    "option_c": "Situar a un ou varios observadores nun lugar seguro con boas visión.",
-    "option_d": "Ningunha das anteriores é correcta.",
-    "correct_answer": "a"
-  },
-  {
     "id": "5c99d202-089d-4b1f-8ee2-f2769c25dc01",
     "question_text": "Cal das seguintes afirmacións sobre o protocolo OACEL é FALSA?",
     "option_a": "É un protocolo básico para a seguridade do persoal na extinción.",
@@ -87,15 +69,6 @@
     "option_b": "Protexer contra riscos graves.",
     "option_c": "Protexer contra riscos moi graves ou mortais.",
     "option_d": "Ningunha das anteriores é correcta.",
-    "correct_answer": "b"
-  },
-  {
-    "id": "d1eda63c-1084-4555-b0d3-8f484d6554b5",
-    "question_text": "Que elementos básicos compoñen o protocolo OACEL?:",
-    "option_a": "Observación, Alerta, Comunicación, Escape e Lugar seguro.",
-    "option_b": "Observación, Alerta, Comunicación, Ruta de escape e Lugar seguro.",
-    "option_c": "Observación, Alerta, Comunicación, Ruta de escape e Lugar de encontro.",
-    "option_d": "Ningunha das respostas anteriores é correcta.",
     "correct_answer": "b"
   },
   {
@@ -133,15 +106,6 @@
     "option_c": "Uso do equipo de protección individual (EPI).",
     "option_d": "Todas as respostas anteriores son correctas.",
     "correct_answer": "d"
-  },
-  {
-    "id": "654282ef-9df0-4192-a907-1d246ccd5266",
-    "question_text": "Que contempla de forma xeral o protocolo OACEL?:",
-    "option_a": "A seguridade de todo o operativo na extinción de incendios.",
-    "option_b": "18 situacións de loita contra os incendios forestais.",
-    "option_c": "10 normas básicas de combate",
-    "option_d": "B e C son correctas.",
-    "correct_answer": "a"
   },
   {
     "id": "0c0abfc8-8f39-4aaf-9c47-dea05b0d3e51",
@@ -351,15 +315,6 @@
     "correct_answer": "d"
   },
   {
-    "id": "52800dea-8177-4d13-8630-9d76c522b551",
-    "question_text": "Que velocidade do persoal é a media nunha zona sen pendente a considerar nas rutas de escape?:",
-    "option_a": "80 m/min.",
-    "option_b": "60 m/min.",
-    "option_c": "35 m/min.",
-    "option_d": "Ningunha das anteriores é correcta.",
-    "correct_answer": "b"
-  },
-  {
     "id": "872e0c0a-1495-4339-8316-a1c8de903214",
     "question_text": "Como se define o Lugar Seguro no protocolo OACEL?:",
     "option_a": "Punto de encontro na evacuación dun incendio forestal.",
@@ -438,15 +393,6 @@
     "option_b": "Se camiñamos con ferramentas, facelo cunha separación duns metros entre cada persoa.",
     "option_c": "Ao pasar xunto a unha árbore queimada, facelo pola parte de arriba.",
     "option_d": "Todas as respostas anteriores son correctas.",
-    "correct_answer": "a"
-  },
-  {
-    "id": "ee82369e-6596-40ea-b93a-9d51f1b443b1",
-    "question_text": "Camiñamos por unha ladeira transportando a nosa ferramenta manual, en que man a levaremos?:",
-    "option_a": "Na man que quede ladeira arriba.",
-    "option_b": "Na man que quede ladeira abaixo.",
-    "option_c": "Na man que normalmente a levemos.",
-    "option_d": "Ningunha das respostas anteriores é correcta.",
     "correct_answer": "a"
   },
   {
@@ -700,15 +646,6 @@
     "option_c": "Solicitar o corte do subministro e agardar confirmación",
     "option_d": "Cortar a liña coas ferramentas dispoñibles",
     "correct_answer": "c"
-  },
-  {
-    "id": "861e1442-d484-411b-bfd2-cd7263eed332",
-    "question_text": "Segundo o libro laranxa do manual de prevención e defensa contra incendios forestais, omo se debe transportar unha machada?",
-    "option_a": "Sobre o ombreiro",
-    "option_b": "Polo mango, brazo estirado e paralelo ao corpo",
-    "option_c": "Na man levantada",
-    "option_d": "Na mochila con outras ferramentas",
-    "correct_answer": "b"
   },
   {
     "id": "8b0cd464-f82b-4d3f-8d02-97880e7ae41f",
@@ -1062,15 +999,6 @@
     "correct_answer": "d"
   },
   {
-    "id": "1e0237d7-7a6d-4008-ac37-0dbf9984d4f2",
-    "question_text": "Que son os equipos complementarios?:",
-    "option_a": "Teñen que estar certificados pola UE.",
-    "option_b": "Non forman parte do EPI, pois non protexen ao persoal de ningún risco.",
-    "option_c": "Son obrigatorios.",
-    "option_d": "Ningunha das respostas anteriores é correcta.",
-    "correct_answer": "d"
-  },
-  {
     "id": "e9158ffc-7aa6-4e7a-9745-b3593c2e7907",
     "question_text": "Os equipos complementarios na extinción de incendios, segundo o PLADIGA 2025, son:",
     "option_a": "Cinto, roupa interior, lanterna e cantimplora.",
@@ -1222,15 +1150,6 @@
     "option_c": "Forma parte do equipo de protección individual soamente en actividades de prevención de incendios forestais.",
     "option_d": "Soamente debe empregarse cando non haxa gafas dispoñibles.",
     "correct_answer": "a"
-  },
-  {
-    "id": "063f0893-48fd-4632-96f8-7fcf79382f38",
-    "question_text": "Segundo o manual de prevención de riscos laborais na defensa contra incendios forestais da Xunta de Galicia, o traxe ignífugo:",
-    "option_a": "É un equipo de protección individual de categoría I.",
-    "option_b": "É un equipo de protección individual de categoría II.",
-    "option_c": "É un equipo de protección individual de categoría III.",
-    "option_d": "É un equipo de protección individual de categoría IV.",
-    "correct_answer": "c"
   },
   {
     "id": "f972163a-82c7-46b2-9c5a-a04d20e29da3",
@@ -1404,15 +1323,6 @@
     "correct_answer": "a"
   },
   {
-    "id": "e833e2af-7506-48c7-a685-d54f1eb496cc",
-    "question_text": "Segundo o manual de prevención de riscos laborais na defensa contra incendios forestais da Xunta de Galicia, o traxe ignífugo:",
-    "option_a": "É un equipo de protección individual de categoría I.",
-    "option_b": "É un equipo de protección individual de categoría II.",
-    "option_c": "É un equipo de protección individual de categoría III.",
-    "option_d": "É un equipo de protección individual de categoría IV.",
-    "correct_answer": "c"
-  },
-  {
     "id": "2e80a6a8-564c-401f-9b25-3b7dbd30f251",
     "question_text": "As queimaduras calificanse de primeiro, segundo e terceiro grao, en función de:",
     "option_a": "A superficie da pel afectada.",
@@ -1537,5 +1447,95 @@
     "option_c": "En zona limpa, con vías de escape e o motor acceso",
     "option_d": "Preto da carga de combustible para recargar rápido",
     "correct_answer": "c"
+  },
+  {
+    "id": "a0a65d78-8e94-4a31-a7b1-df8c855efd40",
+    "question_text": "O Comité de Loita contra Incendios Forestais (CLIF) ten publicadas as 18 situacións de atención en incendios forestais, que son aquelas nas que se non se toma unha acción correcta inmediatamente, os combatentes poden estar en perigo. Sinale cal das seguintes é unha situación de atención:",
+    "option_a": "Estar pola noite nun terreo que só se recoñeceu durante o día.",
+    "option_b": "Construír unha liña de defensa costa arriba cara ao incendio.",
+    "option_c": "Construír unha liña de defensa costa abaixo cara ao incendio.",
+    "option_d": "Construír unha liña cun punto de ancoraxe seguro.",
+    "correct_answer": "c"
+  },
+  {
+    "id": "861e1442-d484-411b-bfd2-cd7263eed332",
+    "question_text": "Segundo o libro laranxa do manual de prevención e defensa contra incendios forestais, omo se debe transportar unha machada?",
+    "option_a": "Sobre o ombreiro",
+    "option_b": "Polo mango, brazo estirado e paralelo ao corpo",
+    "option_c": "Na man levantada",
+    "option_d": "Na mochila con outras ferramentas",
+    "correct_answer": "a"
+  },
+  {
+    "id": "063f0893-48fd-4632-96f8-7fcf79382f38",
+    "question_text": "Segundo o manual de prevención de riscos laborais na defensa contra incendios forestais da Xunta de Galicia, o traxe ignífugo:",
+    "option_a": "É un equipo de protección individual de categoría I.",
+    "option_b": "É un equipo de protección individual de categoría II.",
+    "option_c": "É un equipo de protección individual de categoría III.",
+    "option_d": "É un equipo de protección individual de categoría IV.",
+    "correct_answer": "b"
+  },
+  {
+    "id": "e833e2af-7506-48c7-a685-d54f1eb496cc",
+    "question_text": "Segundo o manual de prevención de riscos laborais na defensa contra incendios forestais da Xunta de Galicia, o traxe ignífugo:",
+    "option_a": "É un equipo de protección individual de categoría I.",
+    "option_b": "É un equipo de protección individual de categoría II.",
+    "option_c": "É un equipo de protección individual de categoría III.",
+    "option_d": "É un equipo de protección individual de categoría IV.",
+    "correct_answer": "b"
+  },
+  {
+    "id": "7ec2409c-6013-470e-8216-fada6cab4182",
+    "question_text": "Que implica a Observación no protocolo OACEL?:",
+    "option_a": "Observar de forma continua o comportamento do incendio.",
+    "option_b": "Ver o estado meteorolóxico do clima.",
+    "option_c": "Situar a un ou varios observadores nun lugar seguro con boas visión.",
+    "option_d": "Ningunha das anteriores é correcta.",
+    "correct_answer": "c"
+  },
+  {
+    "id": "654282ef-9df0-4192-a907-1d246ccd5266",
+    "question_text": "Que contempla de forma xeral o protocolo OACEL?:",
+    "option_a": "A seguridade de todo o operativo na extinción de incendios.",
+    "option_b": "18 situacións de loita contra os incendios forestais.",
+    "option_c": "10 normas básicas de combate",
+    "option_d": "B e C son correctas.",
+    "correct_answer": "d"
+  },
+  {
+    "id": "52800dea-8177-4d13-8630-9d76c522b551",
+    "question_text": "Que velocidade do persoal é a media nunha zona sen pendente a considerar nas rutas de escape?:",
+    "option_a": "80 m/min.",
+    "option_b": "60 m/min.",
+    "option_c": "35 m/min.",
+    "option_d": "Ningunha das anteriores é correcta.",
+    "correct_answer": "c"
+  },
+  {
+    "id": "ee82369e-6596-40ea-b93a-9d51f1b443b1",
+    "question_text": "Camiñamos por unha ladeira transportando a nosa ferramenta manual, en que man a levaremos?:",
+    "option_a": "Na man que quede ladeira arriba.",
+    "option_b": "Na man que quede ladeira abaixo.",
+    "option_c": "Na man que normalmente a levemos.",
+    "option_d": "Ningunha das respostas anteriores é correcta.",
+    "correct_answer": "b"
+  },
+  {
+    "id": "d1eda63c-1084-4555-b0d3-8f484d6554b5",
+    "question_text": "Que elementos básicos compoñen o protocolo OACEL?:",
+    "option_a": "Observación, Alerta, Comunicación, Escape e Lugar seguro.",
+    "option_b": "Observación, Atención, Comunicación, Ruta de escape e Lugar seguro.",
+    "option_c": "Observación, Alerta, Comunicación, Ruta de escape e Lugar de encontro.",
+    "option_d": "Ningunha das respostas anteriores é correcta.",
+    "correct_answer": "b"
+  },
+  {
+    "id": "1e0237d7-7a6d-4008-ac37-0dbf9984d4f2",
+    "question_text": "Que son os equipos complementarios?:",
+    "option_a": "Teñen que estar certificados pola UE.",
+    "option_b": "Non forman parte do EPI, pois non protexen ao persoal de ningún risco.",
+    "option_c": "Son obrigatorios.",
+    "option_d": "Ningunha das respostas anteriores é correcta.",
+    "correct_answer": "b"
   }
 ]

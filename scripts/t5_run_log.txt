@@ -4,45 +4,26 @@
 === INICIANDO VERIFICACIÓN MANUAL ===
 Slug: t-esp-5-extincion
 PDFs: ['tema6_tecnicas_extincion.pdf', 'tema6_test1.pdf']
-TMP_DIR: C:\Users\Mauro\AppData\Local\Temp\t5_pdfs_2ja860rb
-  -> 101 preguntas (topic: e5550000...)
+TMP_DIR: C:\Users\Mauro\AppData\Local\Temp\t5_pdfs_7eut1ufm
+  -> 98 preguntas (topic: e5550000...)
   Subindo: tema6_tecnicas_extincion.pdf (display: tema6_tecnicas_extincion.pdf)...
   Subindo: tema6_test1.pdf (display: tema6_test1.pdf)...
 
-[3] Enviando a Gemini 2.5 Pro (101 preguntas + 2 PDFs)...
-  -> Resposta recibida (32,794 chars)
+[3] Enviando a Gemini 2.5 Pro (98 preguntas + 2 PDFs)...
+  -> Resposta recibida (31,521 chars)
 
 [4] Parseando...
 
 ====================================================================
 INFORME VERIFICACIÓN: T-ESP-5-EXTINCION
 ====================================================================
-  Total:     101
+  Total:     98
   OK:        98
-  Erros:     3
+  Erros:     0
 
-  → A verificación foi maioritariamente exitosa. A maioría das respostas coinciden coa folla de solucións. Identificáronse 3 erros en preguntas non pertencentes ao test principal, baseándose no temario proporcionado. A confianza é alta para as preguntas do test e media para as externas.
+  → A verificación foi un éxito. Todas as respostas proporcionadas son correctas segundo a folla de respostas do PDF, o temario e o coñecemento técnico. A calidade do test é excelente.
 ====================================================================
 
-🔍 DISCREPANCIAS:
-
-  🗑 P7: [d]→[b] ELIMINAR (conf=media) (temario)
-     O axudante de loxística é propio do Nivel C (avanzado), non do B (ampliado). Polo tanto, non garda relación (Temario, pá
-
-  🗑 P33: [d]→[c] ELIMINAR (conf=media) (temario)
-     A resposta correcta é a C. Os puntos de inflexión son lugares onde cambia a aliñación das forzas (Temario, páx. 45).
-
-  🗑 P39: [c]→[b] ELIMINAR (conf=media) (temario)
-     O índice de gravidade determínase como consecuencia da fase de Avaliación (Temario, páx. 28).
-
-
-[5] Aplicando cambios en Supabase...
-  🗑 ELIMINADA P7: conf=media — O axudante de loxística é propio do Nivel C (avanzado), non do B (ampliado). Pol
-  🗑 ELIMINADA P33: conf=media — A resposta correcta é a C. Os puntos de inflexión son lugares onde cambia a aliñ
-  🗑 ELIMINADA P39: conf=media — O índice de gravidade determínase como consecuencia da fase de Avaliación (Temar
-
-  RESULTADO:
-    Correxidas: 0
-    Eliminadas: 3
+ Sen correccions necesarias.
 
 COMPLETADO - Informe: t-esp-5-extincion_report.json
